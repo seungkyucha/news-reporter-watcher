@@ -45,6 +45,10 @@ SEARCH_DISPLAY = 20          # 네이버 검색 1회당 결과 수
 REQUEST_TIMEOUT = 10         # 외부 API 타임아웃(초)
 TELEGRAM_RATE_LIMIT_SLEEP = 0.7  # 메시지 사이 대기(초)
 
+# cron 이 5분 간격(2-59/5)이므로, 기본적으로 최근 5분 이내 발행 기사만 처리한다.
+# GitHub Actions cron 지연을 흡수하고 싶으면 LOOKBACK_MINUTES 환경변수로 늘릴 수 있다.
+DEFAULT_LOOKBACK_MINUTES = 5
+
 KST = timezone(timedelta(hours=9))
 
 
@@ -240,17 +244,55 @@ def save_sent(sent_data: dict[str, Any]) -> None:
 # 텔레그램 전송
 # ---------------------------------------------------------------------------
 
-def format_published_at(pub_date_raw: str) -> str:
-    """RFC822 형식의 pubDate 를 KST 'YYYY-MM-DD HH:MM' 으로 변환."""
+def parse_pub_date(pub_date_raw: str) -> datetime | None:
+    """RFC822 형식의 pubDate 를 timezone-aware datetime 으로 파싱한다.
+
+    파싱 불가/빈 값이면 None 을 반환한다. tzinfo 가 없으면 UTC 로 간주한다.
+    """
     if not pub_date_raw:
-        return "(시간 정보 없음)"
+        return None
     try:
         dt = date_parser.parse(pub_date_raw)
-        if dt.tzinfo is None:
-            dt = dt.replace(tzinfo=timezone.utc)
-        return dt.astimezone(KST).strftime("%Y-%m-%d %H:%M")
-    except (ValueError, TypeError):
-        return pub_date_raw
+    except (ValueError, TypeError, OverflowError):
+        return None
+    if dt.tzinfo is None:
+        dt = dt.replace(tzinfo=timezone.utc)
+    return dt
+
+
+def format_published_at(pub_date_raw: str) -> str:
+    """RFC822 형식의 pubDate 를 KST 'YYYY-MM-DD HH:MM' 으로 변환."""
+    dt = parse_pub_date(pub_date_raw)
+    if dt is None:
+        return pub_date_raw or "(시간 정보 없음)"
+    return dt.astimezone(KST).strftime("%Y-%m-%d %H:%M")
+
+
+def is_recent(article: dict[str, Any], cutoff: datetime) -> bool:
+    """기사 발행 시각이 cutoff 이후(=최근 윈도우 이내)인지 판단한다.
+
+    발행 시각을 파싱할 수 없으면 윈도우 밖으로 간주하여 제외한다.
+    """
+    dt = parse_pub_date(article.get("pubDate", ""))
+    if dt is None:
+        return False
+    return dt >= cutoff
+
+
+def load_lookback_minutes() -> int:
+    """LOOKBACK_MINUTES 환경변수를 읽는다. 미설정/이상값이면 기본값 사용."""
+    raw = os.environ.get("LOOKBACK_MINUTES", "").strip()
+    if not raw:
+        return DEFAULT_LOOKBACK_MINUTES
+    try:
+        value = int(raw)
+    except ValueError:
+        print(f"[WARN] LOOKBACK_MINUTES 값이 정수가 아님('{raw}'). 기본 {DEFAULT_LOOKBACK_MINUTES}분 사용.", file=sys.stderr)
+        return DEFAULT_LOOKBACK_MINUTES
+    if value <= 0:
+        print(f"[WARN] LOOKBACK_MINUTES 가 0 이하({value}). 기본 {DEFAULT_LOOKBACK_MINUTES}분 사용.", file=sys.stderr)
+        return DEFAULT_LOOKBACK_MINUTES
+    return value
 
 
 def format_message(article: dict[str, Any], reporter: dict[str, Any]) -> str:
@@ -306,12 +348,17 @@ def main() -> int:
     reporters = load_reporters(reporters_raw)
     print(f"[INFO] {len(reporters)}명의 기자 감시 시작")
 
+    lookback_minutes = load_lookback_minutes()
+    cutoff = datetime.now(timezone.utc) - timedelta(minutes=lookback_minutes)
+    print(f"[INFO] 최근 {lookback_minutes}분 이내 발행 기사만 처리 (cutoff: {cutoff.astimezone(KST).strftime('%Y-%m-%d %H:%M')} KST)")
+
     sent_data = load_sent()
     seen_ids: set[str] = {entry.get("id", "") for entry in sent_data.get("sent", [])}
 
     total_sent = 0
     total_skipped = 0
     total_filtered = 0
+    total_old = 0
 
     for reporter in reporters:
         query = build_query(reporter)
@@ -325,6 +372,10 @@ def main() -> int:
         for article in articles:
             url = pick_url(article)
             if not url:
+                continue
+
+            if not is_recent(article, cutoff):
+                total_old += 1
                 continue
 
             aid = article_id(url)
@@ -359,6 +410,7 @@ def main() -> int:
     print(
         f"[INFO] === 완료 — 전송: {total_sent}건, "
         f"중복 스킵: {total_skipped}건, "
+        f"윈도우 밖(오래됨): {total_old}건, "
         f"필터 제외: {total_filtered}건 ==="
     )
     return 0
