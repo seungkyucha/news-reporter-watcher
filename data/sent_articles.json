@@ -1,3 +1,184 @@
 {
-  "sent": []
+  "sent": [
+    {
+      "id": "3b7960c2be7c3f498bab6f49a63f4b54bc24829b6802c1e4a531ab933e418899",
+      "reporter": "서정근",
+      "press": "MTN",
+      "title": "[이상민의 돈보임] 소니에게는 지금 펄어비스가 필요하다",
+      "url": "https://www.thisisgame.com/webzine/series/nboard/212/?n=190939",
+      "published_at": "Mon, 01 Jul 2024 14:12:00 +0900",
+      "sent_at": "2026-06-02T16:43:05.502366+09:00"
+    },
+    {
+      "id": "49173de2b39cdf379c12ccae937473bebc804e8a6956e92ed33f3853d9dc0a6b",
+      "reporter": "서정근",
+      "press": "MTN",
+      "title": "엔씨 3인 CBO 체제...윤송이·김택헌 국내보직 사임",
+      "url": "https://news.mtn.co.kr/news-detail/2024010816451110468",
+      "published_at": "Mon, 08 Jan 2024 17:50:00 +0900",
+      "sent_at": "2026-06-02T16:43:06.908331+09:00"
+    },
+    {
+      "id": "1fa4e6119efb71ada8b4148e42b218992790e9fc8b363704f6e3b77c16ad660a",
+      "reporter": "서정근",
+      "press": "MTN",
+      "title": "김범수 카카오 창업자, 그룹 컨트롤 타워 복귀",
+      "url": "https://news.mtn.co.kr/news-detail/2024010216452144716",
+      "published_at": "Tue, 02 Jan 2024 17:48:00 +0900",
+      "sent_at": "2026-06-02T16:43:08.307353+09:00"
+    },
+    {
+      "id": "6f5ae6725b79c097ba17581c3c3a01dee1497151fcccd4dfba93257e3c8d4a7e",
+      "reporter": "서정근",
+      "press": "MTN",
+      "title": "[단독]엔씨 신규제작 게임 심사委 가동...쇄신 '본격화'",
+      "url": "https://news.mtn.co.kr/news-detail/2023121916443150801",
+      "published_at": "Tue, 19 Dec 2023 17:56:00 +0900",
+      "sent_at": "2026-06-02T16:43:09.916563+09:00"
+    },
+    {
+      "id": "47529bfdfec5457d1f502a1c604a9483924b2a90c1c05bbb55f41a2754bb08ba",
+      "reporter": "서정근",
+      "press": "MTN",
+      "title": "카카오 새 대표에 정신아 내정...김범수 창업자 후속 카드는?",
+      "url": "https://news.mtn.co.kr/news-detail/2023121316461163855",
+      "published_at": "Wed, 13 Dec 2023 17:42:00 +0900",
+      "sent_at": "2026-06-02T16:43:11.602361+09:00"
+    },
+    {
+      "id": "41bd99ec5c513081421601fe6b7aec4d71fb6bd566ab8b68ec3b1a17176d3a3c",
+      "reporter": "서정근",
+      "press": "MTN",
+      "title": "엔씨, 김택진-박병무 공동대표 체제 전환",
+      "url": "https://news.mtn.co.kr/news-detail/2023121116434166790",
+      "published_at": "Mon, 11 Dec 2023 17:46:00 +0900",
+      "sent_at": "2026-06-02T16:43:13.134617+09:00"
+    },
+    {
+      "id": "84a9088130cc6ec035987067ef50c2c910fc0cea0b31cb8bb75c7badb07c8011",
+      "reporter": "서정근",
+      "press": "MTN",
+      "title": "'단독선두' 넥슨 추격하는 게임 빅3...4강구도 갖출까",
+      "url": "https://news.mtn.co.kr/news-detail/2023112716460145417",
+      "published_at": "Mon, 27 Nov 2023 17:50:00 +0900",
+      "sent_at": "2026-06-02T16:43:14.521054+09:00"
+    },
+    {
+      "id": "b74c7f744557b05434fecea728091526292ace7c46ac86d5cfb11184a23f4088",
+      "reporter": "서정근",
+      "press": "MTN",
+      "title": "[텔레그래프] 벼랑 끝 카카오, 살 내주고 뼈는 지킬까",
+      "url": "https://news.mtn.co.kr/news-detail/2023110916443178411",
+      "published_at": "Thu, 09 Nov 2023 17:44:00 +0900",
+      "sent_at": "2026-06-02T16:43:16.057065+09:00"
+    },
+    {
+      "id": "95a7548556dc472b754e89f759ba6e3f3504bca2c2db0370afb8142bab101337",
+      "reporter": "서정근",
+      "press": "MTN",
+      "title": "몸낮춘 김범수...전략거점 봉쇄된 '카카오'",
+      "url": "https://news.mtn.co.kr/news-detail/2023110116434176676",
+      "published_at": "Wed, 01 Nov 2023 18:02:00 +0900",
+      "sent_at": "2026-06-02T16:43:17.611432+09:00"
+    },
+    {
+      "id": "1dc343f4e74f4ec7e421a4ce59ee828603416d20735fce3c4e9193aaceceb4cf",
+      "reporter": "서정근",
+      "press": "MTN",
+      "title": "자충수 된 '빅딜'...네이버-카카오 후유증에 '홍역'",
+      "url": "https://news.mtn.co.kr/news-detail/2023102416441135517",
+      "published_at": "Tue, 24 Oct 2023 17:40:00 +0900",
+      "sent_at": "2026-06-02T16:43:19.151630+09:00"
+    },
+    {
+      "id": "3f42f8ae48032c9108133cf14082ee2ab0732e5fefbf042e8d96af7d55516d56",
+      "reporter": "서정근",
+      "press": "MTN",
+      "title": "카카오 내우외환...\"사법리스크 현실로\"",
+      "url": "https://news.mtn.co.kr/news-detail/2023101616440183876",
+      "published_at": "Mon, 16 Oct 2023 17:40:00 +0900",
+      "sent_at": "2026-06-02T16:43:20.678117+09:00"
+    },
+    {
+      "id": "e1c66e53c77da0bdcfe94d5682675aebeb6866fcd7d88c6a245c2f0e97d4b991",
+      "reporter": "서정근",
+      "press": "MTN",
+      "title": "카카오 위기대응 체제 강화...네이버도 '몸낮추기'",
+      "url": "https://news.mtn.co.kr/news-detail/2023092716500181815",
+      "published_at": "Wed, 27 Sep 2023 17:48:00 +0900",
+      "sent_at": "2026-06-02T16:43:22.233530+09:00"
+    },
+    {
+      "id": "3ac66d9ef5f3310349b6591420f5f2dcc0a29df9b6c8ff2038755c20328dfc3c",
+      "reporter": "서정근",
+      "press": "MTN",
+      "title": "빛바랜 게임 대장주 트로이카, 위기탈출 프로젝트 가동",
+      "url": "https://news.mtn.co.kr/news-detail/2023091316503121008",
+      "published_at": "Wed, 13 Sep 2023 17:44:00 +0900",
+      "sent_at": "2026-06-02T16:43:23.806206+09:00"
+    },
+    {
+      "id": "ade3a8da9bd26ce5337287e725299cace04b37776138688f177761954214d564",
+      "reporter": "서정근",
+      "press": "MTN",
+      "title": "엔씨-넥슨 저작권 소송 '초강수'...시장 판도 흔든다",
+      "url": "https://news.mtn.co.kr/news-detail/2023082116474114578",
+      "published_at": "Mon, 21 Aug 2023 17:52:00 +0900",
+      "sent_at": "2026-06-02T16:43:25.465943+09:00"
+    },
+    {
+      "id": "849dc6c9ce94d60854234a14b85c9de6cbcfbab0d89548c2f0eed083384e6e94",
+      "reporter": "서정근",
+      "press": "MTN",
+      "title": "판교 IT 밸리 연쇄 구조조정에 '한파'",
+      "url": "https://news.mtn.co.kr/news-detail/2023080816474161200",
+      "published_at": "Tue, 08 Aug 2023 17:40:00 +0900",
+      "sent_at": "2026-06-02T16:43:27.045884+09:00"
+    },
+    {
+      "id": "b66febb0199b4a5a6fe774ef559f8b027461f496eb786b2ad285fa73f4730516",
+      "reporter": "서정근",
+      "press": "MTN",
+      "title": "[텔레그래프] 카카오 '쪼개기' 후유증...냉각된 판교밸리",
+      "url": "https://news.mtn.co.kr/news-detail/2023073117070181267",
+      "published_at": "Mon, 31 Jul 2023 17:52:00 +0900",
+      "sent_at": "2026-06-02T16:43:28.595205+09:00"
+    },
+    {
+      "id": "d7990f3f185c30f1daaf60c65da306a34b8030e3c1f42043d67e9955df57fefd",
+      "reporter": "서정근",
+      "press": "MTN",
+      "title": "해외선 블록체인 사업 규제 푸는데...한국만 역주행?",
+      "url": "https://news.mtn.co.kr/news-detail/2023072516473218703",
+      "published_at": "Tue, 25 Jul 2023 17:48:00 +0900",
+      "sent_at": "2026-06-02T16:43:30.151440+09:00"
+    },
+    {
+      "id": "be735f6be97d6d8a90e40cfe576c6aec4077408e6ed0c28ecff17e0eab3b0315",
+      "reporter": "서정근",
+      "press": "MTN",
+      "title": "'긴축경영' 네이버·카카오, 전략거점에는 돈줄 푼다",
+      "url": "https://news.mtn.co.kr/news-detail/2023071816480155668",
+      "published_at": "Tue, 18 Jul 2023 17:48:00 +0900",
+      "sent_at": "2026-06-02T16:43:31.681971+09:00"
+    },
+    {
+      "id": "39729f155dce832705836a1036b34dd87ed151bafdab5678460d8bf5f6ff241c",
+      "reporter": "서정근",
+      "press": "MTN",
+      "title": "'국가대표' 로스트아크 中 출격...한한령 종지부 찍을까",
+      "url": "https://news.mtn.co.kr/news-detail/2023071216500243541",
+      "published_at": "Wed, 12 Jul 2023 17:54:00 +0900",
+      "sent_at": "2026-06-02T16:43:33.219922+09:00"
+    },
+    {
+      "id": "b1d8fd1a934e613aa21d0a436ca0f34c43a17e168705fcd58a91932e3aefede0",
+      "reporter": "서정근",
+      "press": "MTN",
+      "title": "소니, K-게임에 '러브콜'...한일 콘텐츠 협업 확대 나서",
+      "url": "https://news.mtn.co.kr/news-detail/2023063016474254441",
+      "published_at": "Fri, 30 Jun 2023 17:48:00 +0900",
+      "sent_at": "2026-06-02T16:43:34.795305+09:00"
+    }
+  ]
 }
