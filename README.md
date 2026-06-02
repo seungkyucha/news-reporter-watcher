@@ -145,28 +145,32 @@
     "exclude_keywords": []
   },
   {
-    "name": "이영희",
+    "name": "",
     "press": "",
-    "include_keywords": [],
+    "include_keywords": ["엔씨소프트", "신작"],
     "exclude_keywords": ["부고", "인사"]
   }
 ]
 ```
 
+> 마지막 항목처럼 `name` 을 비우면 **기자가 아니라 키워드만으로** 검색합니다. (예: "엔씨소프트 신작" 관련 기사 감시)
+
 ### 5.2 Secrets 입력용 한 줄 형식
 
 ```json
-[{"name":"홍길동","press":"한국경제","include_keywords":["AI","반도체"],"exclude_keywords":["부고","인사"]},{"name":"김철수","press":"매일경제","include_keywords":["스타트업","투자"],"exclude_keywords":[]}]
+[{"name":"홍길동","press":"한국경제","include_keywords":["AI","반도체"],"exclude_keywords":["부고","인사"]},{"name":"","press":"","include_keywords":["엔씨소프트","신작"],"exclude_keywords":[]}]
 ```
 
 ### 5.3 필드 설명
 
 | 필드 | 필수 | 설명 |
 |---|:---:|---|
-| `name` | ✅ | 기자 이름. 검색어에 자동으로 "기자" 키워드가 붙음 |
+| `name` | △ | 기자 이름. 검색어에 자동으로 "기자" 키워드가 붙음. **비우면 키워드만으로 검색** (이 경우 `include_keywords` 필수) |
 | `press` | ❌ | 언론사명. 빈 문자열이면 언론사 제한 없음 |
-| `include_keywords` | ❌ | **모든** 키워드가 제목/요약에 있어야 함 (AND) |
+| `include_keywords` | △ | **모든** 키워드가 제목/요약에 있어야 함 (AND). `name` 이 비어 있으면 검색어로도 사용되며 **하나 이상 필수** |
 | `exclude_keywords` | ❌ | **하나라도** 제목/요약에 있으면 제외 (NOT) |
+
+> `name` 과 `include_keywords` 가 **둘 다 비어 있으면** 검색어가 없어 오류로 처리됩니다. 최소한 하나는 채워야 합니다.
 
 ---
 

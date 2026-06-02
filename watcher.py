@@ -83,13 +83,26 @@ def load_reporters(raw: str) -> list[dict[str, Any]]:
         if not isinstance(item, dict):
             raise SystemExit(f"[ERROR] REPORTERS[{idx}] 항목이 객체가 아닙니다.")
         name = str(item.get("name", "")).strip()
-        if not name:
-            raise SystemExit(f"[ERROR] REPORTERS[{idx}].name 이 비어있습니다.")
+        press = str(item.get("press", "")).strip()
+        include_keywords = [str(k).strip() for k in item.get("include_keywords", []) if str(k).strip()]
+        exclude_keywords = [str(k).strip() for k in item.get("exclude_keywords", []) if str(k).strip()]
+
+        # name 이 없으면 키워드만으로 검색한다. 단, 검색어가 비지 않도록
+        # name 또는 include_keywords 중 하나는 반드시 있어야 한다.
+        if not name and not include_keywords:
+            raise SystemExit(
+                f"[ERROR] REPORTERS[{idx}] 는 name 또는 include_keywords 중 하나가 필요합니다."
+            )
+
+        # 로그/메시지 표시에 쓸 라벨. name 이 있으면 이름, 없으면 키워드를 사용.
+        label = name if name else " ".join(include_keywords)
+
         cleaned.append({
             "name": name,
-            "press": str(item.get("press", "")).strip(),
-            "include_keywords": [str(k).strip() for k in item.get("include_keywords", []) if str(k).strip()],
-            "exclude_keywords": [str(k).strip() for k in item.get("exclude_keywords", []) if str(k).strip()],
+            "label": label,
+            "press": press,
+            "include_keywords": include_keywords,
+            "exclude_keywords": exclude_keywords,
         })
     return cleaned
 
@@ -121,8 +134,13 @@ def strip_html(text: str) -> str:
 
 
 def build_query(reporter: dict[str, Any]) -> str:
-    """기자 검색용 네이버 쿼리 문자열을 만든다."""
-    parts: list[str] = [f'"{reporter["name"]} 기자"']
+    """검색용 네이버 쿼리 문자열을 만든다.
+
+    name 이 있으면 '"{name} 기자"' 를 기준으로, 없으면 키워드만으로 검색한다.
+    """
+    parts: list[str] = []
+    if reporter.get("name"):
+        parts.append(f'"{reporter["name"]} 기자"')
     if reporter.get("press"):
         parts.append(reporter["press"])
     parts.extend(reporter.get("include_keywords", []))
@@ -318,8 +336,11 @@ def format_message(article: dict[str, Any], reporter: dict[str, Any]) -> str:
     if len(summary) > 350:
         summary = summary[:347] + "..."
 
+    # name 이 있으면 '홍길동 기자', 없으면 키워드 라벨을 헤더로 쓴다.
+    header = f"{reporter['name']} 기자" if reporter.get("name") else reporter.get("label", "키워드 검색")
+
     return (
-        f"[새 기사] {reporter['name']} 기자\n\n"
+        f"[새 기사] {header}\n\n"
         f"{press_line}"
         f"제목: {article['title']}\n"
         f"시간: {format_published_at(article.get('pubDate', ''))}\n"
@@ -388,7 +409,7 @@ def main() -> int:
 
     for reporter in reporters:
         query = build_query(reporter)
-        print(f"[INFO] '{reporter['name']}' 검색 쿼리: {query}")
+        print(f"[INFO] '{reporter['label']}' 검색 쿼리: {query}")
 
         articles = search_naver_news(query, naver_id, naver_secret)
         if not articles:
@@ -421,7 +442,7 @@ def main() -> int:
             seen_ids.add(aid)
             sent_data["sent"].append({
                 "id": aid,
-                "reporter": reporter["name"],
+                "reporter": reporter["label"],
                 "press": reporter.get("press", ""),
                 "title": article["title"],
                 "url": url,
