@@ -40,7 +40,8 @@ TELEGRAM_API_BASE = "https://api.telegram.org"
 ROOT_DIR = Path(__file__).resolve().parent
 SENT_FILE = ROOT_DIR / "data" / "sent_articles.json"
 
-MAX_HISTORY = 5000           # sent_articles.json 최대 보관 건수
+MAX_HISTORY = 5000           # sent_articles.json 최대 보관 건수(시간 컷 이후의 안전장치)
+MAX_HISTORY_DAYS = 7         # sent_at 기준 이 일수 이전 이력은 정리
 SEARCH_DISPLAY = 20          # 네이버 검색 1회당 결과 수
 REQUEST_TIMEOUT = 10         # 외부 API 타임아웃(초)
 TELEGRAM_RATE_LIMIT_SLEEP = 0.7  # 메시지 사이 대기(초)
@@ -229,8 +230,21 @@ def load_sent() -> dict[str, Any]:
 
 
 def save_sent(sent_data: dict[str, Any]) -> None:
-    """최근 MAX_HISTORY 건만 남기고 저장한다."""
+    """sent_at 기준 최근 MAX_HISTORY_DAYS 일치만 남기고 저장한다.
+
+    시간 컷 이후에도 건수가 MAX_HISTORY 를 넘으면 최신 것부터 잘라낸다(안전장치).
+    sent_at 을 파싱할 수 없는 항목은 보수적으로 유지한다(dedup 정합성 우선).
+    """
     items = sent_data.get("sent", [])
+
+    retention_cutoff = datetime.now(timezone.utc) - timedelta(days=MAX_HISTORY_DAYS)
+    kept = []
+    for entry in items:
+        sent_at = parse_datetime(entry.get("sent_at", ""))
+        if sent_at is None or sent_at >= retention_cutoff:
+            kept.append(entry)
+    items = kept
+
     if len(items) > MAX_HISTORY:
         items = items[-MAX_HISTORY:]
     sent_data["sent"] = items
