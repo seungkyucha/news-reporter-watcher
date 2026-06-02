@@ -45,8 +45,9 @@ SEARCH_DISPLAY = 20          # 네이버 검색 1회당 결과 수
 REQUEST_TIMEOUT = 10         # 외부 API 타임아웃(초)
 TELEGRAM_RATE_LIMIT_SLEEP = 0.7  # 메시지 사이 대기(초)
 
-# cron 이 5분 간격(2-59/5)이므로, 기본적으로 최근 5분 이내 발행 기사만 처리한다.
-# GitHub Actions cron 지연을 흡수하고 싶으면 LOOKBACK_MINUTES 환경변수로 늘릴 수 있다.
+# 평소에는 "마지막 실행 시각(last_run_at)" 이후 발행분만 처리한다.
+# 저장된 실행 시각이 없는 첫 실행에서만, 과거 기사 폭주를 막기 위해
+# 최근 이 분(分)만큼만 거슬러 본다. LOOKBACK_MINUTES 환경변수로 조정 가능.
 DEFAULT_LOOKBACK_MINUTES = 5
 
 KST = timezone(timedelta(hours=9))
@@ -244,15 +245,15 @@ def save_sent(sent_data: dict[str, Any]) -> None:
 # 텔레그램 전송
 # ---------------------------------------------------------------------------
 
-def parse_pub_date(pub_date_raw: str) -> datetime | None:
-    """RFC822 형식의 pubDate 를 timezone-aware datetime 으로 파싱한다.
+def parse_datetime(raw: str) -> datetime | None:
+    """RFC822(pubDate) / ISO8601(last_run_at) 문자열을 aware datetime 으로 파싱.
 
     파싱 불가/빈 값이면 None 을 반환한다. tzinfo 가 없으면 UTC 로 간주한다.
     """
-    if not pub_date_raw:
+    if not raw:
         return None
     try:
-        dt = date_parser.parse(pub_date_raw)
+        dt = date_parser.parse(raw)
     except (ValueError, TypeError, OverflowError):
         return None
     if dt.tzinfo is None:
@@ -262,25 +263,25 @@ def parse_pub_date(pub_date_raw: str) -> datetime | None:
 
 def format_published_at(pub_date_raw: str) -> str:
     """RFC822 형식의 pubDate 를 KST 'YYYY-MM-DD HH:MM' 으로 변환."""
-    dt = parse_pub_date(pub_date_raw)
+    dt = parse_datetime(pub_date_raw)
     if dt is None:
         return pub_date_raw or "(시간 정보 없음)"
     return dt.astimezone(KST).strftime("%Y-%m-%d %H:%M")
 
 
-def is_recent(article: dict[str, Any], cutoff: datetime) -> bool:
-    """기사 발행 시각이 cutoff 이후(=최근 윈도우 이내)인지 판단한다.
+def is_after(article: dict[str, Any], cutoff: datetime) -> bool:
+    """기사 발행 시각이 cutoff 이후(=마지막 실행 이후 신규)인지 판단한다.
 
     발행 시각을 파싱할 수 없으면 윈도우 밖으로 간주하여 제외한다.
     """
-    dt = parse_pub_date(article.get("pubDate", ""))
+    dt = parse_datetime(article.get("pubDate", ""))
     if dt is None:
         return False
     return dt >= cutoff
 
 
 def load_lookback_minutes() -> int:
-    """LOOKBACK_MINUTES 환경변수를 읽는다. 미설정/이상값이면 기본값 사용."""
+    """LOOKBACK_MINUTES 환경변수를 읽는다(첫 실행 fallback 용). 미설정/이상값이면 기본값."""
     raw = os.environ.get("LOOKBACK_MINUTES", "").strip()
     if not raw:
         return DEFAULT_LOOKBACK_MINUTES
@@ -348,12 +349,23 @@ def main() -> int:
     reporters = load_reporters(reporters_raw)
     print(f"[INFO] {len(reporters)}명의 기자 감시 시작")
 
-    lookback_minutes = load_lookback_minutes()
-    cutoff = datetime.now(timezone.utc) - timedelta(minutes=lookback_minutes)
-    print(f"[INFO] 최근 {lookback_minutes}분 이내 발행 기사만 처리 (cutoff: {cutoff.astimezone(KST).strftime('%Y-%m-%d %H:%M')} KST)")
-
     sent_data = load_sent()
     seen_ids: set[str] = {entry.get("id", "") for entry in sent_data.get("sent", [])}
+
+    # 이번 실행 시작 시각. 다음 실행의 cutoff 로 저장한다.
+    # (fetch 도중 올라온 기사도 다음 실행에서 빠짐없이 포착하도록 '시작' 시각을 쓴다.)
+    run_started_at = datetime.now(timezone.utc)
+
+    last_run_at = parse_datetime(sent_data.get("last_run_at", ""))
+    if last_run_at is None:
+        # 첫 실행: 저장된 실행 시각이 없으므로 과거 기사 폭주를 막기 위해 fallback 윈도우 사용.
+        lookback_minutes = load_lookback_minutes()
+        cutoff = run_started_at - timedelta(minutes=lookback_minutes)
+        print(f"[INFO] 첫 실행 — 최근 {lookback_minutes}분 이내 발행분만 처리 "
+              f"(cutoff: {cutoff.astimezone(KST).strftime('%Y-%m-%d %H:%M')} KST)")
+    else:
+        cutoff = last_run_at
+        print(f"[INFO] 마지막 실행({cutoff.astimezone(KST).strftime('%Y-%m-%d %H:%M')} KST) 이후 발행분만 처리")
 
     total_sent = 0
     total_skipped = 0
@@ -374,7 +386,7 @@ def main() -> int:
             if not url:
                 continue
 
-            if not is_recent(article, cutoff):
+            if not is_after(article, cutoff):
                 total_old += 1
                 continue
 
@@ -405,12 +417,16 @@ def main() -> int:
             total_sent += 1
             time.sleep(TELEGRAM_RATE_LIMIT_SLEEP)
 
+    # 다음 실행이 이 시점 이후 기사만 보도록 실행 시작 시각을 저장한다.
+    # (검색 실패 등으로 기사를 못 받았더라도 watermark 는 전진시켜, 같은 구간을
+    #  반복 검색하지 않는다. 경계의 중복은 URL 해시 dedup 이 막아준다.)
+    sent_data["last_run_at"] = run_started_at.isoformat()
     save_sent(sent_data)
 
     print(
         f"[INFO] === 완료 — 전송: {total_sent}건, "
         f"중복 스킵: {total_skipped}건, "
-        f"윈도우 밖(오래됨): {total_old}건, "
+        f"마지막 실행 이전(오래됨): {total_old}건, "
         f"필터 제외: {total_filtered}건 ==="
     )
     return 0
