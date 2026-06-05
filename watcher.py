@@ -42,7 +42,7 @@ SENT_FILE = ROOT_DIR / "data" / "sent_articles.json"
 
 MAX_HISTORY = 5000           # sent_articles.json 최대 보관 건수(시간 컷 이후의 안전장치)
 MAX_HISTORY_DAYS = 7         # sent_at 기준 이 일수 이전 이력은 정리
-SEARCH_DISPLAY = 20          # 네이버 검색 1회당 결과 수
+SEARCH_DISPLAY = 50          # 네이버 검색 1회당 결과 수(이름 검색 + 도메인 필터라 넉넉히)
 REQUEST_TIMEOUT = 10         # 외부 API 타임아웃(초)
 TELEGRAM_RATE_LIMIT_SLEEP = 0.7  # 메시지 사이 대기(초)
 
@@ -50,6 +50,17 @@ TELEGRAM_RATE_LIMIT_SLEEP = 0.7  # 메시지 사이 대기(초)
 # 저장된 실행 시각이 없는 첫 실행에서만, 과거 기사 폭주를 막기 위해
 # 최근 이 분(分)만큼만 거슬러 본다. LOOKBACK_MINUTES 환경변수로 조정 가능.
 DEFAULT_LOOKBACK_MINUTES = 5
+
+# 언론사명 → 기사 출처 도메인 기본 매핑.
+# reporter 에 "domain" 을 직접 지정하지 않았을 때 press 로부터 도메인을 추론한다.
+# (검색은 이름으로 하고, 기사 originallink 의 도메인이 이 값과 일치할 때만 통과시킨다.)
+PRESS_DOMAINS: dict[str, list[str]] = {
+    "MTN": ["mtn.co.kr"],
+    "머니투데이방송": ["mtn.co.kr"],
+    "전자신문": ["etnews.com"],
+    "연합뉴스": ["yna.co.kr"],
+    "연합인포맥스": ["einfomax.co.kr"],
+}
 
 KST = timezone(timedelta(hours=9))
 
@@ -97,10 +108,23 @@ def load_reporters(raw: str) -> list[dict[str, Any]]:
         # 로그/메시지 표시에 쓸 라벨. name 이 있으면 이름, 없으면 키워드를 사용.
         label = name if name else " ".join(include_keywords)
 
+        # 출처 도메인 필터. "domain"(문자열 또는 배열)을 직접 지정하면 우선 적용하고,
+        # 없으면 press 로부터 PRESS_DOMAINS 매핑으로 추론한다. 둘 다 없으면 필터 없음.
+        domain_field = item.get("domain", [])
+        if isinstance(domain_field, str):
+            domains = [domain_field.strip().lower()] if domain_field.strip() else []
+        elif isinstance(domain_field, list):
+            domains = [str(d).strip().lower() for d in domain_field if str(d).strip()]
+        else:
+            domains = []
+        if not domains and press:
+            domains = [d.lower() for d in PRESS_DOMAINS.get(press, [])]
+
         cleaned.append({
             "name": name,
             "label": label,
             "press": press,
+            "domains": domains,
             "include_keywords": include_keywords,
             "exclude_keywords": exclude_keywords,
         })
@@ -136,13 +160,13 @@ def strip_html(text: str) -> str:
 def build_query(reporter: dict[str, Any]) -> str:
     """검색용 네이버 쿼리 문자열을 만든다.
 
-    name 이 있으면 '"{name} 기자"' 를 기준으로, 없으면 키워드만으로 검색한다.
+    이름(+포함 키워드)만으로 검색한다. 언론사는 검색어에 넣지 않고
+    기사 출처 도메인 필터(passes_domain)로 가린다. 바이라인 형식이
+    매체마다 달라 '"{name} 기자"' 정확구문은 최신 기사를 놓치기 때문이다.
     """
     parts: list[str] = []
     if reporter.get("name"):
-        parts.append(f'"{reporter["name"]} 기자"')
-    if reporter.get("press"):
-        parts.append(reporter["press"])
+        parts.append(reporter["name"])
     parts.extend(reporter.get("include_keywords", []))
     return " ".join(parts)
 
@@ -225,6 +249,35 @@ def article_id(url: str) -> str:
 def pick_url(article: dict[str, Any]) -> str:
     """originallink 우선, 없으면 link 사용."""
     return article.get("originallink") or article.get("link") or ""
+
+
+def article_host(article: dict[str, Any]) -> str:
+    """기사 출처 도메인(호스트)을 소문자로 반환한다.
+
+    네이버가 감싼 link(n.news.naver.com)가 아닌 originallink(원 매체 URL)를
+    우선 사용한다. originallink 가 없으면 link 로 대체한다.
+    """
+    url = article.get("originallink") or article.get("link") or ""
+    try:
+        host = urlsplit(url.strip()).netloc.lower()
+    except ValueError:
+        return ""
+    return host[4:] if host.startswith("www.") else host
+
+
+def passes_domain(article: dict[str, Any], reporter: dict[str, Any]) -> bool:
+    """기사 출처 도메인이 reporter 의 지정 도메인과 일치하는지 검사한다.
+
+    지정 도메인이 없으면(매핑 불가) 필터를 적용하지 않고 통과시킨다.
+    'mtn.co.kr' 지정 시 'news.mtn.co.kr' 같은 서브도메인도 일치로 본다.
+    """
+    domains = reporter.get("domains", [])
+    if not domains:
+        return True
+    host = article_host(article)
+    if not host:
+        return False
+    return any(host == d or host.endswith("." + d) for d in domains)
 
 
 # ---------------------------------------------------------------------------
@@ -406,6 +459,7 @@ def main() -> int:
     total_skipped = 0
     total_filtered = 0
     total_old = 0
+    total_offsite = 0
 
     for reporter in reporters:
         query = build_query(reporter)
@@ -423,6 +477,10 @@ def main() -> int:
 
             if not is_after(article, cutoff):
                 total_old += 1
+                continue
+
+            if not passes_domain(article, reporter):
+                total_offsite += 1
                 continue
 
             aid = article_id(url)
@@ -462,6 +520,7 @@ def main() -> int:
         f"[INFO] === 완료 — 전송: {total_sent}건, "
         f"중복 스킵: {total_skipped}건, "
         f"마지막 실행 이전(오래됨): {total_old}건, "
+        f"타사/도메인 불일치: {total_offsite}건, "
         f"필터 제외: {total_filtered}건 ==="
     )
     return 0
