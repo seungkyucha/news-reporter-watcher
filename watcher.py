@@ -16,6 +16,7 @@ GitHub Actions에서 5분 간격으로 실행되어,
 from __future__ import annotations
 
 import hashlib
+import html
 import json
 import os
 import re
@@ -36,6 +37,13 @@ from dateutil import parser as date_parser
 
 NAVER_NEWS_ENDPOINT = "https://openapi.naver.com/v1/search/news.json"
 TELEGRAM_API_BASE = "https://api.telegram.org"
+
+# 네이버 '기자 구독' 페이지(바이라인 정확 귀속). {oid}=언론사코드, {jid}=기자ID.
+NAVER_JOURNALIST_URL = "https://media.naver.com/journalist/{oid}/{jid}"
+BROWSER_UA = (
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+    "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+)
 
 ROOT_DIR = Path(__file__).resolve().parent
 SENT_FILE = ROOT_DIR / "data" / "sent_articles.json"
@@ -77,6 +85,21 @@ def env_required(name: str) -> str:
     return value
 
 
+def parse_journalist(raw: Any) -> dict[str, str] | None:
+    """naver_journalist 값에서 (oid, jid) 를 뽑는다.
+
+    허용 형식: "030/38807", "030_38807", 또는 기자페이지 URL
+    (예: https://media.naver.com/journalist/030/38807). 못 뽑으면 None.
+    """
+    if not raw:
+        return None
+    text = str(raw).strip()
+    m = re.search(r"(\d{2,4})[/_](\d{2,})", text)
+    if not m:
+        return None
+    return {"oid": m.group(1), "jid": m.group(2)}
+
+
 def load_reporters(raw: str) -> list[dict[str, Any]]:
     """REPORTERS Secret(JSON 배열) 을 파싱/검증한다."""
     try:
@@ -97,33 +120,42 @@ def load_reporters(raw: str) -> list[dict[str, Any]]:
         press = str(item.get("press", "")).strip()
         include_keywords = [str(k).strip() for k in item.get("include_keywords", []) if str(k).strip()]
         exclude_keywords = [str(k).strip() for k in item.get("exclude_keywords", []) if str(k).strip()]
+        journalist = parse_journalist(item.get("naver_journalist", ""))
 
-        # name 이 없으면 키워드만으로 검색한다. 단, 검색어가 비지 않도록
-        # name 또는 include_keywords 중 하나는 반드시 있어야 한다.
-        if not name and not include_keywords:
+        # 검색 모드라면(기자ID 없음) 검색어가 비지 않도록 name 또는 include_keywords 가
+        # 하나는 필요하다. 기자ID 모드는 ID 로 직접 가져오므로 이 제약이 없다.
+        if not journalist and not name and not include_keywords:
             raise SystemExit(
-                f"[ERROR] REPORTERS[{idx}] 는 name 또는 include_keywords 중 하나가 필요합니다."
+                f"[ERROR] REPORTERS[{idx}] 는 name/include_keywords/naver_journalist 중 하나가 필요합니다."
             )
 
-        # 로그/메시지 표시에 쓸 라벨. name 이 있으면 이름, 없으면 키워드를 사용.
-        label = name if name else " ".join(include_keywords)
-
-        # 출처 도메인 필터. "domain"(문자열 또는 배열)을 직접 지정하면 우선 적용하고,
-        # 없으면 press 로부터 PRESS_DOMAINS 매핑으로 추론한다. 둘 다 없으면 필터 없음.
-        domain_field = item.get("domain", [])
-        if isinstance(domain_field, str):
-            domains = [domain_field.strip().lower()] if domain_field.strip() else []
-        elif isinstance(domain_field, list):
-            domains = [str(d).strip().lower() for d in domain_field if str(d).strip()]
+        # 로그/메시지 표시 라벨: 이름 > 키워드 > press > 기자ID 순.
+        if name:
+            label = name
+        elif include_keywords:
+            label = " ".join(include_keywords)
+        elif press:
+            label = press
         else:
-            domains = []
-        if not domains and press:
-            domains = [d.lower() for d in PRESS_DOMAINS.get(press, [])]
+            label = f"기자 {journalist['oid']}/{journalist['jid']}"
+
+        # 출처 도메인 필터. 기자ID 모드는 이미 바이라인으로 정확 귀속되므로 필터 없음.
+        # 검색 모드에서는 "domain"(문자열/배열) 지정 우선, 없으면 press→PRESS_DOMAINS 추론.
+        domains: list[str] = []
+        if not journalist:
+            domain_field = item.get("domain", [])
+            if isinstance(domain_field, str):
+                domains = [domain_field.strip().lower()] if domain_field.strip() else []
+            elif isinstance(domain_field, list):
+                domains = [str(d).strip().lower() for d in domain_field if str(d).strip()]
+            if not domains and press:
+                domains = [d.lower() for d in PRESS_DOMAINS.get(press, [])]
 
         cleaned.append({
             "name": name,
             "label": label,
             "press": press,
+            "journalist": journalist,
             "domains": domains,
             "include_keywords": include_keywords,
             "exclude_keywords": exclude_keywords,
@@ -211,6 +243,60 @@ def search_naver_news(query: str, client_id: str, client_secret: str) -> list[di
             "pubDate": it.get("pubDate", ""),
         })
     return cleaned
+
+
+# 기자 페이지의 기사 항목 1개를 파싱하기 위한 패턴들.
+_JOURNALIST_LINK_RE = re.compile(r'href="(https://n\.news\.naver\.com/article/[^"]+)"')
+_JOURNALIST_TITLE_RE = re.compile(r'press_edit_news_title[^>]*>\s*([^<]+?)\s*<')
+_JOURNALIST_DATE_RE = re.compile(r'/(\d{4})/(\d{2})/(\d{2})/\d+\.(?:jpg|png|gif)', re.IGNORECASE)
+
+
+def fetch_journalist_articles(journalist: dict[str, str]) -> list[dict[str, Any]]:
+    """네이버 기자 페이지에서 해당 기자의 최신 기사 목록을 가져온다.
+
+    검색 API 와 동일한 형태(dict)로 반환한다. 발행 시각은 기사 썸네일 URL 의
+    /YYYY/MM/DD/ 에서 날짜를 뽑아 그날 23:59:59 KST 로 둔다(당일 신규 기사가
+    워터마크를 통과하도록). 정확 귀속이라 URL 중복 제거만으로 재전송이 막힌다.
+    실패 시 빈 리스트를 반환한다.
+    """
+    url = NAVER_JOURNALIST_URL.format(oid=journalist["oid"], jid=journalist["jid"])
+    try:
+        resp = requests.get(url, headers={"User-Agent": BROWSER_UA}, timeout=REQUEST_TIMEOUT)
+        if resp.status_code != 200:
+            print(f"[WARN] 기자 페이지 요청 실패 ({resp.status_code}): {url}", file=sys.stderr)
+            return []
+        page = resp.text
+    except requests.RequestException as e:
+        print(f"[WARN] 기자 페이지 요청 오류: {e}", file=sys.stderr)
+        return []
+
+    articles: list[dict[str, Any]] = []
+    # 기사 항목 단위로 쪼갠 뒤 각 조각에서 링크/제목/날짜를 뽑는다.
+    chunks = page.split('class="press_edit_news_item')
+    for chunk in chunks[1:]:
+        link_m = _JOURNALIST_LINK_RE.search(chunk)
+        title_m = _JOURNALIST_TITLE_RE.search(chunk)
+        if not link_m or not title_m:
+            continue
+        link = link_m.group(1)
+        title = html.unescape(title_m.group(1)).strip()
+
+        date_m = _JOURNALIST_DATE_RE.search(chunk)
+        if date_m:
+            y, mo, d = date_m.group(1), date_m.group(2), date_m.group(3)
+            pub_date = f"{y}-{mo}-{d}T23:59:59+09:00"
+        else:
+            # 날짜를 못 찾으면 오늘로 간주(과도한 누락 방지).
+            pub_date = datetime.now(KST).strftime("%Y-%m-%dT23:59:59+09:00")
+
+        articles.append({
+            "title": title,
+            "description": "",
+            "originallink": link,
+            "link": link,
+            "pubDate": pub_date,
+        })
+    return articles
 
 
 # ---------------------------------------------------------------------------
@@ -462,10 +548,15 @@ def main() -> int:
     total_offsite = 0
 
     for reporter in reporters:
-        query = build_query(reporter)
-        print(f"[INFO] '{reporter['label']}' 검색 쿼리: {query}")
+        journalist = reporter.get("journalist")
+        if journalist:
+            print(f"[INFO] '{reporter['label']}' 기자페이지: {journalist['oid']}/{journalist['jid']}")
+            articles = fetch_journalist_articles(journalist)
+        else:
+            query = build_query(reporter)
+            print(f"[INFO] '{reporter['label']}' 검색 쿼리: {query}")
+            articles = search_naver_news(query, naver_id, naver_secret)
 
-        articles = search_naver_news(query, naver_id, naver_secret)
         if not articles:
             print(f"[INFO]   결과 없음 또는 검색 실패. 다음 기자로 진행.")
             continue
