@@ -98,13 +98,17 @@
 2. **Settings → Secrets and variables → Actions** 메뉴 진입
 3. **`New repository secret`** 버튼으로 아래 5개를 차례로 등록
 
-| Name | Value |
-|---|---|
-| `NAVER_CLIENT_ID` | Step 2 에서 받은 Client ID |
-| `NAVER_CLIENT_SECRET` | Step 2 에서 받은 Client Secret |
-| `TELEGRAM_BOT_TOKEN` | Step 3 에서 받은 Bot Token |
-| `TELEGRAM_CHAT_ID` | Step 5 에서 확인한 chat_id |
-| `REPORTERS` | 감시할 기자 목록 JSON (아래 5장 참고) |
+| Name | 필수 | Value |
+|---|:---:|---|
+| `NAVER_CLIENT_ID` | ✅ | Step 2 에서 받은 Client ID |
+| `NAVER_CLIENT_SECRET` | ✅ | Step 2 에서 받은 Client Secret |
+| `REPORTERS` | ✅ | 감시할 기자 목록 JSON (아래 5장 참고) |
+| `TELEGRAM_BOT_TOKEN` | △ | Step 3 에서 받은 Bot Token |
+| `TELEGRAM_CHAT_ID` | △ | Step 5 에서 확인한 chat_id |
+| `LINE_CHANNEL_ACCESS_TOKEN` | △ | 라인으로 받을 때(아래 10장) |
+| `LINE_GROUP_ID` | △ | 라인 그룹 ID(아래 10장) |
+
+> **알림 채널은 텔레그램·라인 중 최소 하나**만 설정하면 됩니다(둘 다 설정하면 양쪽으로 전송). 텔레그램만 쓰면 LINE_* 는 생략, 라인만 쓰면 TELEGRAM_* 를 생략하세요.
 
 ### Step 7. Actions 활성화
 
@@ -225,6 +229,38 @@ python watcher.py
 
 ---
 
-## 9. 라이선스
+## 9. 라인(LINE) 그룹방으로 받기 (선택)
+
+> 과거의 **LINE Notify 는 2025-03-31 종료**됐습니다. 현재는 **LINE Messaging API**(공식계정/봇)로만 자동 전송이 가능합니다.
+
+### 9.1 설정 순서
+
+1. [LINE Developers 콘솔](https://developers.line.biz) 로그인 → **Provider** 생성
+2. **Messaging API 채널** 생성 (= LINE 공식계정 생성)
+3. 채널 설정에서 **Channel access token (long-lived)** 발급 → `LINE_CHANNEL_ACCESS_TOKEN` Secret 으로 등록
+4. **"Allow bot to join group chats"**(그룹 채팅 참여 허용) 를 **켜기**
+5. 알림 받을 **라인 그룹방에 공식계정(봇) 초대**
+
+### 9.2 `groupId` 확보 (한 번만)
+
+`groupId` 는 웹훅 이벤트로만 얻을 수 있는데, 이 봇은 상시 서버가 없으므로 **일회성 캡처**가 필요합니다.
+
+1. [webhook.site](https://webhook.site) 에 접속해 발급되는 고유 URL 복사
+2. LINE 채널 설정 → **Webhook URL** 에 그 URL 붙여넣고 **Use webhook** 켜기
+3. 봇이 들어와 있는 **그룹방에 아무 메시지나 한 번** 전송
+4. webhook.site 로 들어온 JSON 에서 `"source": { "type": "group", "groupId": "Cxxxxx..." }` 의 `groupId` 복사
+5. 그 값을 `LINE_GROUP_ID` Secret 으로 등록
+6. (선택) 캡처가 끝나면 Webhook URL 은 비워도 됩니다 — 이후 전송은 push 라 웹훅이 필요 없습니다.
+
+### 9.3 비용 한도 주의
+
+- 무료 플랜은 **월 약 500건**(지역/플랜별 상이), 초과분은 유료.
+- 메시지 수는 **받는 사람 수로 카운트** — 그룹 push 는 **그룹 인원수만큼 차감**될 수 있습니다(예: 30명 그룹 1회 = 30건). 큰 그룹은 한도 소진이 빠르니 유의하세요.
+
+> 텔레그램·라인 Secret 을 둘 다 등록하면 **양쪽 모두로** 전송됩니다. 한 채널이라도 전송에 성공하면 발송 처리되어 중복 전송되지 않습니다.
+
+---
+
+## 10. 라이선스
 
 이 템플릿은 자유롭게 복사/수정/사용 가능합니다.

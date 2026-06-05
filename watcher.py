@@ -37,6 +37,7 @@ from dateutil import parser as date_parser
 
 NAVER_NEWS_ENDPOINT = "https://openapi.naver.com/v1/search/news.json"
 TELEGRAM_API_BASE = "https://api.telegram.org"
+LINE_PUSH_ENDPOINT = "https://api.line.me/v2/bot/message/push"
 
 # 네이버 '기자 구독' 페이지(바이라인 정확 귀속). {oid}=언론사코드, {jid}=기자ID.
 NAVER_JOURNALIST_URL = "https://media.naver.com/journalist/{oid}/{jid}"
@@ -413,7 +414,7 @@ def save_sent(sent_data: dict[str, Any]) -> None:
 
 
 # ---------------------------------------------------------------------------
-# 텔레그램 전송
+# 알림 전송 (텔레그램 / 라인)
 # ---------------------------------------------------------------------------
 
 def parse_datetime(raw: str) -> datetime | None:
@@ -468,7 +469,7 @@ def load_lookback_minutes() -> int:
 
 
 def format_message(article: dict[str, Any], reporter: dict[str, Any]) -> str:
-    """텔레그램 본문을 만든다."""
+    """알림 본문을 만든다(텔레그램/라인 공통 평문)."""
     url = pick_url(article)
     press_line = f"언론사: {reporter['press']}\n" if reporter.get("press") else ""
     summary = article.get("description", "").strip()
@@ -507,6 +508,57 @@ def send_telegram(message: str, bot_token: str, chat_id: str) -> bool:
         return False
 
 
+def send_line(message: str, channel_access_token: str, target_id: str) -> bool:
+    """LINE Messaging API 로 push 메시지를 보낸다. 성공 여부 반환.
+
+    target_id 는 그룹(groupId)/다자대화(roomId)/사용자(userId) 중 하나.
+    봇(공식계정)이 해당 그룹에 초대돼 있어야 한다.
+    """
+    headers = {
+        "Authorization": f"Bearer {channel_access_token}",
+        "Content-Type": "application/json",
+    }
+    # LINE 텍스트 메시지는 최대 5000자.
+    text = message if len(message) <= 5000 else message[:4997] + "..."
+    payload = {"to": target_id, "messages": [{"type": "text", "text": text}]}
+    try:
+        resp = requests.post(LINE_PUSH_ENDPOINT, headers=headers, json=payload, timeout=REQUEST_TIMEOUT)
+        if resp.status_code != 200:
+            print(f"[WARN] 라인 전송 실패 ({resp.status_code}): {resp.text[:200]}", file=sys.stderr)
+            return False
+        return True
+    except requests.RequestException as e:
+        print(f"[WARN] 라인 요청 오류: {e}", file=sys.stderr)
+        return False
+
+
+def build_notifiers() -> list[tuple[str, Any]]:
+    """환경변수에 설정된 알림 채널을 (이름, 전송함수) 목록으로 만든다.
+
+    - 텔레그램: TELEGRAM_BOT_TOKEN + TELEGRAM_CHAT_ID 가 모두 있을 때
+    - 라인:     LINE_CHANNEL_ACCESS_TOKEN + LINE_GROUP_ID 가 모두 있을 때
+    하나도 없으면 오류로 종료한다. 각 전송함수는 message 를 받아 성공 여부를 반환.
+    """
+    notifiers: list[tuple[str, Any]] = []
+
+    tg_token = os.environ.get("TELEGRAM_BOT_TOKEN", "").strip()
+    tg_chat = os.environ.get("TELEGRAM_CHAT_ID", "").strip()
+    if tg_token and tg_chat:
+        notifiers.append(("Telegram", lambda m: send_telegram(m, tg_token, tg_chat)))
+
+    line_token = os.environ.get("LINE_CHANNEL_ACCESS_TOKEN", "").strip()
+    line_group = os.environ.get("LINE_GROUP_ID", "").strip()
+    if line_token and line_group:
+        notifiers.append(("LINE", lambda m: send_line(m, line_token, line_group)))
+
+    if not notifiers:
+        raise SystemExit(
+            "[ERROR] 알림 채널이 없습니다. (TELEGRAM_BOT_TOKEN+TELEGRAM_CHAT_ID) 또는 "
+            "(LINE_CHANNEL_ACCESS_TOKEN+LINE_GROUP_ID) 중 하나 이상을 설정하세요."
+        )
+    return notifiers
+
+
 # ---------------------------------------------------------------------------
 # 메인 흐름
 # ---------------------------------------------------------------------------
@@ -516,9 +568,10 @@ def main() -> int:
 
     naver_id = env_required("NAVER_CLIENT_ID")
     naver_secret = env_required("NAVER_CLIENT_SECRET")
-    bot_token = env_required("TELEGRAM_BOT_TOKEN")
-    chat_id = env_required("TELEGRAM_CHAT_ID")
     reporters_raw = env_required("REPORTERS")
+
+    notifiers = build_notifiers()
+    print(f"[INFO] 알림 채널: {', '.join(name for name, _ in notifiers)}")
 
     reporters = load_reporters(reporters_raw)
     print(f"[INFO] {len(reporters)}명의 기자 감시 시작")
@@ -584,8 +637,9 @@ def main() -> int:
                 continue
 
             message = format_message(article, reporter)
-            ok = send_telegram(message, bot_token, chat_id)
-            if not ok:
+            results = [(name, fn(message)) for name, fn in notifiers]
+            # 한 채널이라도 성공하면 발송 처리(중복 방지). 전부 실패하면 다음 실행에서 재시도.
+            if not any(ok for _, ok in results):
                 continue
 
             seen_ids.add(aid)
