@@ -54,6 +54,15 @@ jobs:
             echo "No changes to commit."
           else
             git commit -m "chore: update sent article history [skip ci]"
-            git pull --rebase --autostash
-            git push
+            # 상태(전송 이력)는 반드시 저장돼야 중복 발송을 막는다. 경합 시 재시도.
+            pushed=0
+            for i in 1 2 3 4 5; do
+              git pull --rebase --autostash && git push && { pushed=1; break; }
+              echo "push 재시도 $i ..."
+              sleep 3
+            done
+            if [ "$pushed" -ne 1 ]; then
+              echo "::error::전송 이력 push 실패 — 다음 실행에서 중복 발송 위험"
+              exit 1
+            fi
           fi

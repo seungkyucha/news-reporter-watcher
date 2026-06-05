@@ -60,6 +60,11 @@ TELEGRAM_RATE_LIMIT_SLEEP = 0.7  # 메시지 사이 대기(초)
 # 최근 이 분(分)만큼만 거슬러 본다. LOOKBACK_MINUTES 환경변수로 조정 가능.
 DEFAULT_LOOKBACK_MINUTES = 5
 
+# 네이버 색인 지연(기사가 발행 시각보다 늦게 목록에 노출)으로 누락되지 않도록,
+# cutoff 를 이 분(分)만큼 앞당겨 약간 겹쳐서 본다. 겹치는 구간의 재전송은
+# URL 중복 제거가 막아준다.
+OVERLAP_MINUTES = 30
+
 # 언론사명 → 기사 출처 도메인 기본 매핑.
 # reporter 에 "domain" 을 직접 지정하지 않았을 때 press 로부터 도메인을 추론한다.
 # (검색은 이름으로 하고, 기사 originallink 의 도메인이 이 값과 일치할 때만 통과시킨다.)
@@ -250,6 +255,27 @@ def search_naver_news(query: str, client_id: str, client_secret: str) -> list[di
 _JOURNALIST_LINK_RE = re.compile(r'href="(https://n\.news\.naver\.com/article/[^"]+)"')
 _JOURNALIST_TITLE_RE = re.compile(r'press_edit_news_title[^>]*>\s*([^<]+?)\s*<')
 _JOURNALIST_DATE_RE = re.compile(r'/(\d{4})/(\d{2})/(\d{2})/\d+\.(?:jpg|png|gif)', re.IGNORECASE)
+# 네이버 기사 페이지의 실제 발행 시각(KST). 첫 매치가 발행시각, 둘째가 수정시각.
+_ARTICLE_DATE_TIME_RE = re.compile(r'data-date-time="(\d{4})-(\d{2})-(\d{2}) (\d{2}):(\d{2}):(\d{2})"')
+
+
+def fetch_article_published_at(url: str) -> str:
+    """네이버 기사 페이지에서 실제 발행 시각(KST)을 ISO 문자열로 가져온다.
+
+    기자 페이지는 날짜(일)만 알려주므로, 정확한 시:분:초는 기사 페이지에서 읽는다.
+    실패 시 빈 문자열을 반환한다(호출부가 기존 값을 유지).
+    """
+    try:
+        resp = requests.get(url, headers={"User-Agent": BROWSER_UA}, timeout=REQUEST_TIMEOUT)
+        if resp.status_code != 200:
+            return ""
+        m = _ARTICLE_DATE_TIME_RE.search(resp.text)
+    except requests.RequestException:
+        return ""
+    if not m:
+        return ""
+    y, mo, d, hh, mm, ss = m.groups()
+    return f"{y}-{mo}-{d}T{hh}:{mm}:{ss}+09:00"
 
 
 def fetch_journalist_articles(journalist: dict[str, str]) -> list[dict[str, Any]]:
@@ -591,8 +617,10 @@ def main() -> int:
         print(f"[INFO] 첫 실행 — 최근 {lookback_minutes}분 이내 발행분만 처리 "
               f"(cutoff: {cutoff.astimezone(KST).strftime('%Y-%m-%d %H:%M')} KST)")
     else:
-        cutoff = last_run_at
-        print(f"[INFO] 마지막 실행({cutoff.astimezone(KST).strftime('%Y-%m-%d %H:%M')} KST) 이후 발행분만 처리")
+        # 색인 지연 대비로 OVERLAP_MINUTES 만큼 앞당겨 겹쳐 본다(중복은 dedup 이 차단).
+        cutoff = last_run_at - timedelta(minutes=OVERLAP_MINUTES)
+        print(f"[INFO] 마지막 실행({last_run_at.astimezone(KST).strftime('%Y-%m-%d %H:%M')} KST) 이후 발행분만 처리 "
+              f"(겹침 {OVERLAP_MINUTES}분 적용 cutoff: {cutoff.astimezone(KST).strftime('%Y-%m-%d %H:%M')} KST)")
 
     total_sent = 0
     total_skipped = 0
@@ -619,18 +647,29 @@ def main() -> int:
             if not url:
                 continue
 
-            if not is_after(article, cutoff):
-                total_old += 1
+            # 중복 제거를 가장 먼저(가장 싸고, 이미 보낸 기사는 시각 보강도 불필요).
+            aid = article_id(url)
+            if aid in seen_ids:
+                total_skipped += 1
                 continue
 
             if not passes_domain(article, reporter):
                 total_offsite += 1
                 continue
 
-            aid = article_id(url)
-            if aid in seen_ids:
-                total_skipped += 1
+            # 1차 시간 필터(기자 모드는 날짜 단위 coarse). 통과한 신규 기사만 다음 단계로.
+            if not is_after(article, cutoff):
+                total_old += 1
                 continue
+
+            # 기자 모드: 기사 페이지에서 실제 발행 시각을 보강한 뒤 정밀 재확인.
+            if reporter.get("journalist"):
+                real_time = fetch_article_published_at(article.get("link", url))
+                if real_time:
+                    article["pubDate"] = real_time
+                    if not is_after(article, cutoff):
+                        total_old += 1
+                        continue
 
             if not passes_filters(article, reporter):
                 total_filtered += 1
