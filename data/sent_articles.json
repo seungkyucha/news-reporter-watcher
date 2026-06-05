@@ -224,7 +224,16 @@
       "url": "https://n.news.naver.com/article/001/0016121426?type=journalists",
       "published_at": "2026-06-05T23:59:59+09:00",
       "sent_at": "2026-06-05T16:22:35.285238+09:00"
+    },
+    {
+      "id": "02e11d3ea05084867ab5e0e8a4f4b5feb510441f36d9551c8dc08f5f1c84bfeb",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "PC방 찾은 젠슨 황 \"한국, e스포츠 발상지…내게 각별한 나라\"(종합2보)",
+      "url": "https://n.news.naver.com/article/001/0016122399?type=journalists",
+      "published_at": "2026-06-05T23:59:59+09:00",
+      "sent_at": "2026-06-05T19:23:03.601356+09:00"
     }
   ],
-  "last_run_at": "2026-06-05T07:22:29.659381+00:00"
+  "last_run_at": "2026-06-05T10:23:00.365895+00:00"
 }
