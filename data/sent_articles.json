@@ -179,7 +179,16 @@
       "url": "https://news.mtn.co.kr/news-detail/2023063016474254441",
       "published_at": "Fri, 30 Jun 2023 17:48:00 +0900",
       "sent_at": "2026-06-02T16:43:34.795305+09:00"
+    },
+    {
+      "id": "43b7c3cc1c46b9092022bb6dac7e268a8fb8a270a6f1055dbfabad8c864a1b05",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "PC방 찾은 젠슨 황 \"한국, e스포츠 최적 시장\"…페이커에 선물도",
+      "url": "https://www.yna.co.kr/view/AKR20260605105400017?input=1195m",
+      "published_at": "Fri, 05 Jun 2026 15:25:00 +0900",
+      "sent_at": "2026-06-05T15:34:54.298804+09:00"
     }
   ],
-  "last_run_at": "2026-06-05T06:19:28.879283+00:00"
+  "last_run_at": "2026-06-05T06:34:50.461429+00:00"
 }
