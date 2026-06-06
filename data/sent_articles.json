@@ -269,7 +269,16 @@
       "url": "https://n.news.naver.com/article/001/0016122817?type=journalists",
       "published_at": "2026-06-06T08:41:12+09:00",
       "sent_at": "2026-06-06T11:11:53.144253+09:00"
+    },
+    {
+      "id": "9179cbcd4fa9dd0a3ae98ef1718b437dc13260b47a086a68aa4a1c7b4ea9d402",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "[게임위드인] 젠슨 황이 게임사 만나는 이유…피지컬 AI의 숨은 강자",
+      "url": "https://n.news.naver.com/article/001/0016122931?type=journalists",
+      "published_at": "2026-06-06T11:00:00+09:00",
+      "sent_at": "2026-06-06T15:01:59.304564+09:00"
     }
   ],
-  "last_run_at": "2026-06-06T02:11:44.106447+00:00"
+  "last_run_at": "2026-06-06T06:01:54.067769+00:00"
 }
