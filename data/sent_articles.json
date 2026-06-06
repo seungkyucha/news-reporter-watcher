@@ -233,7 +233,43 @@
       "url": "https://n.news.naver.com/article/001/0016122399?type=journalists",
       "published_at": "2026-06-05T23:59:59+09:00",
       "sent_at": "2026-06-05T19:23:03.601356+09:00"
+    },
+    {
+      "id": "7030be34a3894e5996079fc8d1a1ddfc508a7b74e755d4880a7c09e029306e67",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "시프트업, '스텔라 블레이드: 블러드레인' 발표…자체 퍼블리싱(종합)",
+      "url": "https://n.news.naver.com/article/001/0016122835?type=journalists",
+      "published_at": "2026-06-06T09:03:09+09:00",
+      "sent_at": "2026-06-06T11:11:48.188816+09:00"
+    },
+    {
+      "id": "93d75e7028ab58bb4cebda2443d2d7a271f8b174b4c646a98ec0d0f718c58d45",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "엔씨, '아이온2' 9월 글로벌 출시…SGF서 트레일러 공개",
+      "url": "https://n.news.naver.com/article/001/0016122829?type=journalists",
+      "published_at": "2026-06-06T09:00:02+09:00",
+      "sent_at": "2026-06-06T11:11:49.847863+09:00"
+    },
+    {
+      "id": "2763a261111b0c180e3345210f267432cd6e30e1b9143f3c3a550c0be0bf653c",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "대작 쏟아진 SGF…'스트레인저 댄 헤븐' 내년 1월 출시",
+      "url": "https://n.news.naver.com/article/001/0016122822?type=journalists",
+      "published_at": "2026-06-06T08:50:09+09:00",
+      "sent_at": "2026-06-06T11:11:51.437604+09:00"
+    },
+    {
+      "id": "8b66e87c8ee6ddc3ea12bd6a9f307bffe87da23bf591d761e6a603097a6e48a3",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "시프트업, 신작 '스텔라 블레이드 블러드레인' 발표",
+      "url": "https://n.news.naver.com/article/001/0016122817?type=journalists",
+      "published_at": "2026-06-06T08:41:12+09:00",
+      "sent_at": "2026-06-06T11:11:53.144253+09:00"
     }
   ],
-  "last_run_at": "2026-06-05T23:53:56.378851+00:00"
+  "last_run_at": "2026-06-06T02:11:44.106447+00:00"
 }
