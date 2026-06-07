@@ -278,7 +278,16 @@
       "url": "https://n.news.naver.com/article/001/0016122931?type=journalists",
       "published_at": "2026-06-06T11:00:00+09:00",
       "sent_at": "2026-06-06T15:01:59.304564+09:00"
+    },
+    {
+      "id": "86f169a165d0d4f591422d18e6314d555de9515718f8b3c8dbff6ca4e9b59ffc",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "젠슨 황, PC방서 엔씨 김택진·아이온2 이용자 만난다",
+      "url": "https://n.news.naver.com/article/001/0016123690?type=journalists",
+      "published_at": "2026-06-07T09:57:00+09:00",
+      "sent_at": "2026-06-07T10:38:39.319241+09:00"
     }
   ],
-  "last_run_at": "2026-06-06T23:31:10.682694+00:00"
+  "last_run_at": "2026-06-07T01:38:35.232476+00:00"
 }
