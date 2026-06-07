@@ -287,7 +287,43 @@
       "url": "https://n.news.naver.com/article/001/0016123690?type=journalists",
       "published_at": "2026-06-07T09:57:00+09:00",
       "sent_at": "2026-06-07T10:38:39.319241+09:00"
+    },
+    {
+      "id": "96d58410b132781c679763412f4cc69f91a70ce0309fc3d84ca6c38a70474b89",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "젠슨 황, 김택진·장병규 연쇄 회동…게임 넘어 AI 동맹",
+      "url": "https://n.news.naver.com/article/001/0016124005?type=journalists",
+      "published_at": "2026-06-07T14:13:41+09:00",
+      "sent_at": "2026-06-07T15:06:40.377204+09:00"
+    },
+    {
+      "id": "7477b4595cd188d532347b7820603ffafce5c2f098d418594e8de07f2fa91ba7",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "젠슨 황, 크래프톤 장병규 만났다…피지컬AI·게임 협력 논의",
+      "url": "https://n.news.naver.com/article/001/0016123932?type=journalists",
+      "published_at": "2026-06-07T13:35:28+09:00",
+      "sent_at": "2026-06-07T15:06:42.298819+09:00"
+    },
+    {
+      "id": "b7c2b004eeac8d8fcee9b7d9b8f5d8b11f59082f85798b2b9f7a4808604ced1c",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "[속보] 젠슨 황, 크래프톤 장병규 만났다…게임업계 회동 시작",
+      "url": "https://n.news.naver.com/article/001/0016123922?type=journalists",
+      "published_at": "2026-06-07T13:27:40+09:00",
+      "sent_at": "2026-06-07T15:06:43.999854+09:00"
+    },
+    {
+      "id": "e714b1d3fcf4906b786a11d44d8de39887a584d94ea84bcd355f4ce39c967729",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "젠슨 황, 강남 PC방서 크래프톤·엔씨와 연쇄 회동한다(종합)",
+      "url": "https://n.news.naver.com/article/001/0016123701?type=journalists",
+      "published_at": "2026-06-07T10:15:50+09:00",
+      "sent_at": "2026-06-07T15:06:45.719055+09:00"
     }
   ],
-  "last_run_at": "2026-06-07T01:38:35.232476+00:00"
+  "last_run_at": "2026-06-07T06:06:36.399466+00:00"
 }
