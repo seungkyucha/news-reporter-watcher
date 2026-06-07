@@ -323,7 +323,70 @@
       "url": "https://n.news.naver.com/article/001/0016123701?type=journalists",
       "published_at": "2026-06-07T10:15:50+09:00",
       "sent_at": "2026-06-07T15:06:45.719055+09:00"
+    },
+    {
+      "id": "5ba280098a84fb1af77630904a4101b0bd327399c4309b9d962ef85597cc4cdc",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "“아이 러브 아이온2” 외친 젠슨 황... 김택진과 엔씨 이용자들 깜짝 만남",
+      "url": "https://n.news.naver.com/article/030/0003435054?type=journalists",
+      "published_at": "2026-06-07T15:41:14+09:00",
+      "sent_at": "2026-06-07T18:32:30.428982+09:00"
+    },
+    {
+      "id": "7b8284304f5c300a5f75febe05f2f85c68e2ced9789750757b22ceba636653b7",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "젠슨 황, 현대차·엔씨·크래프톤·두산·SK 등 연쇄 회동…韓 협력 광폭 행보",
+      "url": "https://n.news.naver.com/article/030/0003435052?type=journalists",
+      "published_at": "2026-06-07T15:38:19+09:00",
+      "sent_at": "2026-06-07T18:32:32.009128+09:00"
+    },
+    {
+      "id": "4d0ecd2213ba7657493bb9c7029b0a72a9fe722dae7b5d23b0204034e0ee5374",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "젠슨 황, '배틀그라운드' 게이머 찾았다... 장병규 의장과 강남 PC방 회동",
+      "url": "https://n.news.naver.com/article/030/0003435048?type=journalists",
+      "published_at": "2026-06-07T15:16:17+09:00",
+      "sent_at": "2026-06-07T18:32:33.718531+09:00"
+    },
+    {
+      "id": "4bd74bd9a1c5dd8bb8b9ea2cdbc087007653305138de224ffb6e1ee5f1b114b8",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "[AI픽] PC방에 뜬 젠슨 황…K게임과 AI 협력 속도낸다",
+      "url": "https://n.news.naver.com/article/001/0016124265?type=journalists",
+      "published_at": "2026-06-07T17:24:52+09:00",
+      "sent_at": "2026-06-07T18:32:35.943797+09:00"
+    },
+    {
+      "id": "59741a3b6242ffe5f9287d4e33bea21e15187f9109ece210e7b5ebef235a621b",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "젠슨 황이 직접 서명한 RTX 5090 GPU",
+      "url": "https://n.news.naver.com/article/001/0016124170?type=journalists",
+      "published_at": "2026-06-07T15:16:23+09:00",
+      "sent_at": "2026-06-07T18:32:37.587658+09:00"
+    },
+    {
+      "id": "403cb2971bc0751c112ee4c7c6671864b750199b36fc7aad79c0d6a36ddabe4f",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "젠슨 황의 한국 사랑…\"e스포츠는 한국이 만들었다\"(종합)",
+      "url": "https://n.news.naver.com/article/001/0016124145?type=journalists",
+      "published_at": "2026-06-07T15:08:47+09:00",
+      "sent_at": "2026-06-07T18:32:39.213955+09:00"
+    },
+    {
+      "id": "9267525c483170e62cb44274b805493a835b1176d959a9e28d78cc7996077812",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "젠슨 황 \"아이온2 최고\"…김택진과 PC방 깜짝 라이브(종합)",
+      "url": "https://n.news.naver.com/article/001/0016124139?type=journalists",
+      "published_at": "2026-06-07T15:01:35+09:00",
+      "sent_at": "2026-06-07T18:32:40.830298+09:00"
     }
   ],
-  "last_run_at": "2026-06-07T06:06:36.399466+00:00"
+  "last_run_at": "2026-06-07T09:32:26.396108+00:00"
 }
