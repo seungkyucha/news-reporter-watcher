@@ -476,7 +476,16 @@
       "url": "https://n.news.naver.com/article/030/0003435449?type=journalists",
       "published_at": "2026-06-08T14:28:16+09:00",
       "sent_at": "2026-06-08T14:58:28.260689+09:00"
+    },
+    {
+      "id": "a56cbf8152b1ff9f8425dead1d73f0954ce7140b322394500d255e91cdea60aa",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "'크로스파이어'부터 '길드워3'까지... K-게임 신작 美 SGF 주도",
+      "url": "https://n.news.naver.com/article/030/0003435458?type=journalists",
+      "published_at": "2026-06-08T14:40:15+09:00",
+      "sent_at": "2026-06-08T15:03:34.767230+09:00"
     }
   ],
-  "last_run_at": "2026-06-08T05:58:24.824820+00:00"
+  "last_run_at": "2026-06-08T06:03:31.375690+00:00"
 }
