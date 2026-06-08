@@ -467,7 +467,16 @@
       "url": "https://n.news.naver.com/article/030/0003435423?type=journalists",
       "published_at": "2026-06-08T14:08:17+09:00",
       "sent_at": "2026-06-08T14:43:13.005737+09:00"
+    },
+    {
+      "id": "515e7cb4005a661c1225ad8d2e4ffabec375d98ee9ae219439971e1e87a718eb",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "크래프톤 정글, 2026년 하반기 교육생 모집 시작",
+      "url": "https://n.news.naver.com/article/030/0003435449?type=journalists",
+      "published_at": "2026-06-08T14:28:16+09:00",
+      "sent_at": "2026-06-08T14:58:28.260689+09:00"
     }
   ],
-  "last_run_at": "2026-06-08T05:53:19.947715+00:00"
+  "last_run_at": "2026-06-08T05:58:24.824820+00:00"
 }
