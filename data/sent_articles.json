@@ -503,7 +503,16 @@
       "url": "https://n.news.naver.com/article/001/0016126232?type=journalists",
       "published_at": "2026-06-08T15:01:47+09:00",
       "sent_at": "2026-06-08T15:23:57.879457+09:00"
+    },
+    {
+      "id": "69d166fff9357f19731f08a3460b2809a4ed7bd431edf1aad02946bbf8c19718",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "미국 투자운용사, 엔씨 주식 장내매수…지분 5.1% 보유",
+      "url": "https://n.news.naver.com/article/001/0016126253?type=journalists",
+      "published_at": "2026-06-08T15:07:36+09:00",
+      "sent_at": "2026-06-08T15:34:09.366529+09:00"
     }
   ],
-  "last_run_at": "2026-06-08T06:29:00.158995+00:00"
+  "last_run_at": "2026-06-08T06:34:05.303304+00:00"
 }
