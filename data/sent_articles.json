@@ -485,7 +485,16 @@
       "url": "https://n.news.naver.com/article/030/0003435458?type=journalists",
       "published_at": "2026-06-08T14:40:15+09:00",
       "sent_at": "2026-06-08T15:03:34.767230+09:00"
+    },
+    {
+      "id": "ac3c72a0af88791320f2a5030ca4e3f8ae6b29cc76d4a4b88b8cccfde7535aae",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "카카오게임즈, 슈퍼캣 MMORPG '도깨비의세계' 인게임 이미지 최초 공개",
+      "url": "https://n.news.naver.com/article/030/0003435467?type=journalists",
+      "published_at": "2026-06-08T14:47:17+09:00",
+      "sent_at": "2026-06-08T15:18:50.020192+09:00"
     }
   ],
-  "last_run_at": "2026-06-08T06:13:41.795482+00:00"
+  "last_run_at": "2026-06-08T06:18:46.698022+00:00"
 }
