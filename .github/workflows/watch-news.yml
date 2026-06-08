@@ -2,7 +2,8 @@ name: Watch reporter news
 
 on:
   schedule:
-    # 매시 2,7,12,...,57분에 실행 (정각 부하 회피)
+    # GitHub schedule 은 지연·누락이 잦으므로 "재시작 트리거" 용도로만 둔다.
+    # 실제 5분 cadence 는 아래 job 내부 self-loop 가 책임진다.
     - cron: "2-59/5 * * * *"
   workflow_dispatch:
 
@@ -10,12 +11,15 @@ permissions:
   contents: write
 
 concurrency:
+  # 한 번에 하나만 실행. 새 트리거는 pending 으로 대기하다가 현재 루프가 끝나면
+  # 곧바로 이어받아(cancel-in-progress: false) 끊김 없이 다음 루프를 시작한다.
   group: news-reporter-watcher
   cancel-in-progress: false
 
 jobs:
   watch:
     runs-on: ubuntu-latest
+    timeout-minutes: 360   # GitHub job 최대치(6시간)
 
     steps:
       - name: Checkout repository
@@ -34,7 +38,7 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Run watcher
+      - name: Watch loop (5-min cadence)
         env:
           NAVER_CLIENT_ID:           ${{ secrets.NAVER_CLIENT_ID }}
           NAVER_CLIENT_SECRET:       ${{ secrets.NAVER_CLIENT_SECRET }}
@@ -43,26 +47,35 @@ jobs:
           LINE_CHANNEL_ACCESS_TOKEN: ${{ secrets.LINE_CHANNEL_ACCESS_TOKEN }}
           LINE_GROUP_ID:             ${{ secrets.LINE_GROUP_ID }}
           REPORTERS:                 ${{ secrets.REPORTERS }}
-        run: python watcher.py
-
-      - name: Commit sent article history
         run: |
+          set +e
           git config user.name  "news-watcher-bot"
           git config user.email "actions@github.com"
-          git add data/sent_articles.json
-          if git diff --cached --quiet; then
-            echo "No changes to commit."
-          else
-            git commit -m "chore: update sent article history [skip ci]"
-            # 상태(전송 이력)는 반드시 저장돼야 중복 발송을 막는다. 경합 시 재시도.
-            pushed=0
-            for i in 1 2 3 4 5; do
-              git pull --rebase --autostash && git push && { pushed=1; break; }
-              echo "push 재시도 $i ..."
-              sleep 3
-            done
-            if [ "$pushed" -ne 1 ]; then
-              echo "::error::전송 이력 push 실패 — 다음 실행에서 중복 발송 위험"
-              exit 1
+
+          INTERVAL=300          # 5분
+          END=$(( SECONDS + 21000 ))   # 약 5시간 50분 동안 반복 후 종료(다음 트리거가 이어받음)
+          iter=0
+
+          while [ "$SECONDS" -lt "$END" ]; do
+            iter=$(( iter + 1 ))
+            echo "::group::iteration $iter (elapsed ${SECONDS}s)"
+            python watcher.py
+            echo "::endgroup::"
+
+            # 전송 이력 저장(중복 발송 방지의 핵심). 변경 있으면 재시도하며 push.
+            git add data/sent_articles.json
+            if ! git diff --cached --quiet; then
+              git commit -m "chore: update sent article history [skip ci]"
+              for i in 1 2 3 4 5; do
+                git pull --rebase --autostash && git push && break
+                echo "push 재시도 $i ..."
+                sleep 3
+              done
             fi
-          fi
+
+            # 마지막 회차면 굳이 더 자지 않고 종료(다음 트리거가 이어받음).
+            [ "$SECONDS" -ge "$END" ] && break
+            sleep "$INTERVAL"
+          done
+
+          echo "loop finished after $iter iterations (elapsed ${SECONDS}s)"
