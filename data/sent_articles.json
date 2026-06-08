@@ -494,7 +494,16 @@
       "url": "https://n.news.naver.com/article/030/0003435467?type=journalists",
       "published_at": "2026-06-08T14:47:17+09:00",
       "sent_at": "2026-06-08T15:18:50.020192+09:00"
+    },
+    {
+      "id": "6529619f0ccded57ce1090117543fe00ee190a692677f7644ed12ce8933b04ed",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "GTA 6 피하자…게임업계 대작 출시 10월로 몰린다",
+      "url": "https://n.news.naver.com/article/001/0016126232?type=journalists",
+      "published_at": "2026-06-08T15:01:47+09:00",
+      "sent_at": "2026-06-08T15:23:57.879457+09:00"
     }
   ],
-  "last_run_at": "2026-06-08T06:18:46.698022+00:00"
+  "last_run_at": "2026-06-08T06:23:53.346548+00:00"
 }
