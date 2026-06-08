@@ -431,7 +431,16 @@
       "url": "https://n.news.naver.com/article/001/0016125337?type=journalists",
       "published_at": "2026-06-08T10:41:00+09:00",
       "sent_at": "2026-06-08T11:00:20.028743+09:00"
+    },
+    {
+      "id": "032f8e0721ea4f5b6927bb5bb375ee6758aa220e2eef1c758fce9cde5656bdd2",
+      "reporter": "서정근",
+      "press": "MTN",
+      "title": "[단독]위메이드, 자회사 펄스나인 설립...박관호 의장 직접 진두지휘",
+      "url": "https://news.mtn.co.kr/news-detail/2026060810453159784",
+      "published_at": "Mon, 08 Jun 2026 11:34:00 +0900",
+      "sent_at": "2026-06-08T11:35:45.632035+09:00"
     }
   ],
-  "last_run_at": "2026-06-08T02:30:40.285199+00:00"
+  "last_run_at": "2026-06-08T02:35:44.025532+00:00"
 }
