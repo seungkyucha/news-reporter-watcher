@@ -566,7 +566,16 @@
       "url": "https://n.news.naver.com/article/030/0003435911?type=journalists",
       "published_at": "2026-06-09T14:26:17+09:00",
       "sent_at": "2026-06-09T14:45:32.052231+09:00"
+    },
+    {
+      "id": "c0490bcc707171b09a3ec6cf941326e29807d5f151313bb0290b6d176d833f80",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "글로벌 향하는 K인디 게임... 콘진원, 일본·북유럽·중동해외 진출 지원 확대",
+      "url": "https://n.news.naver.com/article/030/0003435932?type=journalists",
+      "published_at": "2026-06-09T14:50:10+09:00",
+      "sent_at": "2026-06-09T15:05:52.798778+09:00"
     }
   ],
-  "last_run_at": "2026-06-09T06:00:44.685020+00:00"
+  "last_run_at": "2026-06-09T06:05:49.116311+00:00"
 }
