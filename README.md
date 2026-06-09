@@ -261,6 +261,25 @@ python watcher.py
 
 ---
 
-## 10. 라이선스
+## 10. 끊김 없는 5분 실행 (`DISPATCH_PAT`, 강력 권장)
+
+self-loop 는 한 번에 약 5시간 50분만 돕니다. 다음 루프는 `schedule`(또는 수동 실행)이 이어줘야 하는데, GitHub `schedule` 은 지연이 심해 **루프 종료 후 최대 수 시간 공백**이 생길 수 있습니다(그 사이 발행 기사는 크게 지연).
+
+이를 없애려면 루프가 끝날 때 **자기 자신을 곧바로 다시 트리거**하면 됩니다. 그런데 기본 `GITHUB_TOKEN` 은 보안상 새 워크플로우를 트리거하지 못하므로, **Actions 쓰기 권한이 있는 PAT** 가 필요합니다.
+
+### 설정 순서
+
+1. [Fine-grained PAT 생성](https://github.com/settings/personal-access-tokens/new)
+   - **Resource owner**: 본인 계정, **Repository access**: `news-reporter-watcher` 만 선택
+   - **Permissions → Repository permissions → Actions: Read and write**
+   - (Contents 권한은 불필요) 생성 후 토큰 복사
+2. 저장소 **Settings → Secrets → Actions** 에 `DISPATCH_PAT` 로 등록
+3. 끝. 이후 루프가 끝날 때마다 즉시 다음 루프를 띄워(동시성 그룹이 이어받음) **공백 없이 24시간 5분 cadence** 가 유지됩니다.
+
+> `DISPATCH_PAT` 가 없으면 `schedule` 에 의존하며 공백이 생길 수 있습니다(동작은 하되 실시간성이 떨어짐).
+
+---
+
+## 11. 라이선스
 
 이 템플릿은 자유롭게 복사/수정/사용 가능합니다.

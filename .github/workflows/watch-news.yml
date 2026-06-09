@@ -47,6 +47,7 @@ jobs:
           LINE_CHANNEL_ACCESS_TOKEN: ${{ secrets.LINE_CHANNEL_ACCESS_TOKEN }}
           LINE_GROUP_ID:             ${{ secrets.LINE_GROUP_ID }}
           REPORTERS:                 ${{ secrets.REPORTERS }}
+          DISPATCH_PAT:              ${{ secrets.DISPATCH_PAT }}
         run: |
           set +e
           git config user.name  "news-watcher-bot"
@@ -79,3 +80,17 @@ jobs:
           done
 
           echo "loop finished after $iter iterations (elapsed ${SECONDS}s)"
+
+          # 다음 루프를 즉시 이어서 시작(공백 제거). GITHUB_TOKEN 은 새 워크플로우를
+          # 트리거하지 못하므로, Actions write 권한의 PAT(DISPATCH_PAT)로 self-dispatch.
+          # 동시성 그룹이 pending 으로 받아 이 실행 종료 직후 곧바로 다음 루프를 시작한다.
+          if [ -n "$DISPATCH_PAT" ]; then
+            code=$(curl -s -o /dev/null -w "%{http_code}" -X POST \
+              -H "Authorization: Bearer $DISPATCH_PAT" \
+              -H "Accept: application/vnd.github+json" \
+              "https://api.github.com/repos/${GITHUB_REPOSITORY}/actions/workflows/watch-news.yml/dispatches" \
+              -d '{"ref":"main"}')
+            echo "self-dispatch HTTP $code (204 면 성공)"
+          else
+            echo "DISPATCH_PAT 미설정 — schedule 에 의존(최대 수시간 공백 가능). README 11장 참고."
+          fi

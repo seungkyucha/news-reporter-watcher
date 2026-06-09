@@ -286,9 +286,13 @@ def fetch_journalist_articles(journalist: dict[str, str]) -> list[dict[str, Any]
     워터마크를 통과하도록). 정확 귀속이라 URL 중복 제거만으로 재전송이 막힌다.
     실패 시 빈 리스트를 반환한다.
     """
-    url = NAVER_JOURNALIST_URL.format(oid=journalist["oid"], jid=journalist["jid"])
+    # 기자 페이지는 CDN 에 ~15분 캐시되어(Age 헤더) 신규 기사 노출이 늦다.
+    # 매 요청마다 바뀌는 cache-buster 쿼리 + no-cache 헤더로 원본 최신본을 받는다.
+    base = NAVER_JOURNALIST_URL.format(oid=journalist["oid"], jid=journalist["jid"])
+    url = f"{base}?cb={int(time.time())}"
+    headers = {"User-Agent": BROWSER_UA, "Cache-Control": "no-cache", "Pragma": "no-cache"}
     try:
-        resp = requests.get(url, headers={"User-Agent": BROWSER_UA}, timeout=REQUEST_TIMEOUT)
+        resp = requests.get(url, headers=headers, timeout=REQUEST_TIMEOUT)
         if resp.status_code != 200:
             print(f"[WARN] 기자 페이지 요청 실패 ({resp.status_code}): {url}", file=sys.stderr)
             return []
