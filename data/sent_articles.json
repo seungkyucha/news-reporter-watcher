@@ -575,7 +575,16 @@
       "url": "https://n.news.naver.com/article/030/0003435932?type=journalists",
       "published_at": "2026-06-09T14:50:10+09:00",
       "sent_at": "2026-06-09T15:05:52.798778+09:00"
+    },
+    {
+      "id": "516b32d14802a2cbf76e80e35a58a5aa7192691938cad47b28bb090c98a19ee7",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "넷마블 엠엔비, '콘텐츠 도쿄 2026' 참가…'쿵야' 파트너십 모색",
+      "url": "https://n.news.naver.com/article/001/0016128578?type=journalists",
+      "published_at": "2026-06-09T14:57:07+09:00",
+      "sent_at": "2026-06-09T15:16:03.938873+09:00"
     }
   ],
-  "last_run_at": "2026-06-09T06:10:55.732260+00:00"
+  "last_run_at": "2026-06-09T06:15:59.914250+00:00"
 }
