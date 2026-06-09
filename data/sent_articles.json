@@ -512,7 +512,16 @@
       "url": "https://n.news.naver.com/article/001/0016126253?type=journalists",
       "published_at": "2026-06-08T15:07:36+09:00",
       "sent_at": "2026-06-08T15:34:09.366529+09:00"
+    },
+    {
+      "id": "f0b2f459f5c0d7ca5ecdcf548d9ce5ee5d495e13dc4c63704f1b69286cffe2d6",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "유니티, 개발자 콘퍼런스 '유나이트 서울' 내달 21일 개최",
+      "url": "https://n.news.naver.com/article/001/0016127456?type=journalists",
+      "published_at": "2026-06-09T09:24:09+09:00",
+      "sent_at": "2026-06-09T10:22:57.914093+09:00"
     }
   ],
-  "last_run_at": "2026-06-08T19:26:49.427342+00:00"
+  "last_run_at": "2026-06-09T01:22:53.264792+00:00"
 }
