@@ -521,7 +521,34 @@
       "url": "https://n.news.naver.com/article/001/0016127456?type=journalists",
       "published_at": "2026-06-09T09:24:09+09:00",
       "sent_at": "2026-06-09T10:22:57.914093+09:00"
+    },
+    {
+      "id": "d0165137658145158fe9be81f373e4688371c28dc0fe5edca5d6afddc85d1353",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "게임음악 경연대회'GXG 사운드트랙', 16개 게임 라인업 확정... 참가자 모집",
+      "url": "https://n.news.naver.com/article/030/0003435908?type=journalists",
+      "published_at": "2026-06-09T14:24:20+09:00",
+      "sent_at": "2026-06-09T14:35:16.097823+09:00"
+    },
+    {
+      "id": "3bb7be1a972f7a4dde757b8dc7c786deb2a1dfd80ff8ef0e513c0d0407516af9",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "유니티, '유나이트 서울 2026' 세션 공개…AI·게임·산업 분야 총망라",
+      "url": "https://n.news.naver.com/article/030/0003435906?type=journalists",
+      "published_at": "2026-06-09T14:22:20+09:00",
+      "sent_at": "2026-06-09T14:35:17.787936+09:00"
+    },
+    {
+      "id": "d5bddf5f9796859fe20cafdff6dacc41e31774db0ac90c8b1765917b31733057",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "넷이즈게임즈, '블러드 메시지' 신규 트레일러 공개... 첫 AAA 싱글플레이어 도전",
+      "url": "https://n.news.naver.com/article/030/0003435903?type=journalists",
+      "published_at": "2026-06-09T14:21:14+09:00",
+      "sent_at": "2026-06-09T14:35:19.520208+09:00"
     }
   ],
-  "last_run_at": "2026-06-09T05:30:08.547126+00:00"
+  "last_run_at": "2026-06-09T05:35:12.927424+00:00"
 }
