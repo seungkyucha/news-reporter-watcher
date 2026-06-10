@@ -413,7 +413,61 @@
       "url": "https://n.news.naver.com/article/001/0016128903?type=journalists",
       "published_at": "2026-06-09T16:16:12+09:00",
       "sent_at": "2026-06-09T16:32:16.552959+09:00"
+    },
+    {
+      "id": "947db9051f97fa6cf7161267727225c2dccd727f7b99985a19582900530df085",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "게임제너레이션, 제5회 게임비평공모전 개최…“새로운 게임 담론 발굴”",
+      "url": "https://n.news.naver.com/article/030/0003436214?type=journalists",
+      "published_at": "2026-06-10T11:09:11+09:00",
+      "sent_at": "2026-06-10T12:03:16.837580+09:00"
+    },
+    {
+      "id": "90e94dee172cc72a6049a9008e8f3c6e6516f05ef78cbbebd9f699c439ff8db4",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "라인게임즈, '엠버 앤 블레이드' PS5 버전 발매",
+      "url": "https://n.news.naver.com/article/001/0016130305?type=journalists",
+      "published_at": "2026-06-10T11:37:39+09:00",
+      "sent_at": "2026-06-10T12:03:19+09:00"
+    },
+    {
+      "id": "d76cda07d88949ddd3a3095305495e0e9c5572438371114014b5f0fa0b10d127",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "T1, SK텔레콤과 성수동서 '암행천문' 팝업 개최",
+      "url": "https://n.news.naver.com/article/001/0016129953?type=journalists",
+      "published_at": "2026-06-10T10:23:08+09:00",
+      "sent_at": "2026-06-10T12:03:20.555478+09:00"
+    },
+    {
+      "id": "0949835ce37e182846e832673f3cf1e90bef0ceadae0fb43e4121a71196ed0ed",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "젠지, 율촌과 손잡고 e스포츠 선수 보호 나선다",
+      "url": "https://n.news.naver.com/article/001/0016129941?type=journalists",
+      "published_at": "2026-06-10T10:20:55+09:00",
+      "sent_at": "2026-06-10T12:03:22.137788+09:00"
+    },
+    {
+      "id": "99931101ad307611a5ac260b1e4a9dc22dd036278ecc476d1111fec7ed132ad7",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "[AI픽] NHN클라우드, AI 운영 실무인재 키운다",
+      "url": "https://n.news.naver.com/article/001/0016129867?type=journalists",
+      "published_at": "2026-06-10T10:03:58+09:00",
+      "sent_at": "2026-06-10T12:03:23.725448+09:00"
+    },
+    {
+      "id": "04ddc09a1bf5654b7da38b1ed5381f054559448b205a4d9c8c00c36b62b8f6d5",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "걸작의 귀환…닌텐도, '젤다의 전설 시간의 오카리나' 전격 공개",
+      "url": "https://n.news.naver.com/article/001/0016129465?type=journalists",
+      "published_at": "2026-06-10T07:41:51+09:00",
+      "sent_at": "2026-06-10T12:03:25.302237+09:00"
     }
   ],
-  "last_run_at": "2026-06-09T21:06:46.521191+00:00"
+  "last_run_at": "2026-06-10T03:03:11.033646+00:00"
 }
