@@ -566,7 +566,16 @@
       "url": "https://n.news.naver.com/article/001/0016131032?type=journalists",
       "published_at": "2026-06-10T15:30:14+09:00",
       "sent_at": "2026-06-10T15:41:59.371737+09:00"
+    },
+    {
+      "id": "4b63fabbe0b8431efe5ac3a8bebe28ebf0b077fa2104877af73a50b80b43bf56",
+      "reporter": "서정근",
+      "press": "MTN",
+      "title": "[단독]엔씨 떠나는 개발 원훈들...심마로·심민규 퇴진",
+      "url": "https://news.mtn.co.kr/news-detail/2026061015374576159",
+      "published_at": "Wed, 10 Jun 2026 16:28:00 +0900",
+      "sent_at": "2026-06-10T16:32:45.086954+09:00"
     }
   ],
-  "last_run_at": "2026-06-10T07:27:38.698375+00:00"
+  "last_run_at": "2026-06-10T07:32:43.047423+00:00"
 }
