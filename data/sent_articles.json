@@ -467,7 +467,52 @@
       "url": "https://n.news.naver.com/article/001/0016129465?type=journalists",
       "published_at": "2026-06-10T07:41:51+09:00",
       "sent_at": "2026-06-10T12:03:25.302237+09:00"
+    },
+    {
+      "id": "5545589b7c0506ade31260c04c21fb16224cd985b5418164a302d106b1203f6f",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "컴투스, '서머너즈 워' 글로벌 e스포츠 대회 참가자 모집",
+      "url": "https://n.news.naver.com/article/030/0003436256?type=journalists",
+      "published_at": "2026-06-10T12:05:09+09:00",
+      "sent_at": "2026-06-10T12:13:36.579854+09:00"
+    },
+    {
+      "id": "9d5c55c51492c5599f20c22bb7ce4509b3722512ca8b611d89d5231f826e046e",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "스마일게이트 '이클립스: 더 어웨이크닝', 티저 페이지 개편",
+      "url": "https://n.news.naver.com/article/030/0003436255?type=journalists",
+      "published_at": "2026-06-10T12:03:09+09:00",
+      "sent_at": "2026-06-10T12:13:38.274635+09:00"
+    },
+    {
+      "id": "0e89318f8ed3b94f3c98528f948dc83b3bcc8402033ea68f65de9c823406751d",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "라인게임즈, '엠버 앤 블레이드' 플레이스테이션5 발매 확정",
+      "url": "https://n.news.naver.com/article/030/0003436246?type=journalists",
+      "published_at": "2026-06-10T11:59:09+09:00",
+      "sent_at": "2026-06-10T12:13:39.774477+09:00"
+    },
+    {
+      "id": "da47e56672f57f7c34c7ece265f0ca11cc945a9476597bfd54e9b0035333a07d",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "스마일게이트 희망스튜디오, 지역아동센터 창작 멘토 '호프 크리에이터' 7기 모집",
+      "url": "https://n.news.naver.com/article/030/0003436245?type=journalists",
+      "published_at": "2026-06-10T11:58:16+09:00",
+      "sent_at": "2026-06-10T12:13:41.493287+09:00"
+    },
+    {
+      "id": "e5375eef8053c488fff0747e850a9faf1441fe5b2e4db5838f82479466800ecc",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "넵튠, 멀티버스 신무협 RPG '검신제로' 퍼블리싱 계약",
+      "url": "https://n.news.naver.com/article/030/0003436244?type=journalists",
+      "published_at": "2026-06-10T11:56:10+09:00",
+      "sent_at": "2026-06-10T12:13:43.286453+09:00"
     }
   ],
-  "last_run_at": "2026-06-10T03:08:27.102317+00:00"
+  "last_run_at": "2026-06-10T03:13:32.277673+00:00"
 }
