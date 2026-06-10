@@ -548,7 +548,16 @@
       "url": "https://n.news.naver.com/article/001/0016130732?type=journalists",
       "published_at": "2026-06-10T14:29:54+09:00",
       "sent_at": "2026-06-10T14:40:58.762196+09:00"
+    },
+    {
+      "id": "0f6b2207c83c33c6539f602c6c37c7f1254b5f503b69acfbea88fa6fcda0fe01",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "LoL, 신규 챔피언 '로크' 공개... 24일 소환사의 협곡 합류",
+      "url": "https://n.news.naver.com/article/030/0003436363?type=journalists",
+      "published_at": "2026-06-10T14:32:18+09:00",
+      "sent_at": "2026-06-10T14:46:05.574241+09:00"
     }
   ],
-  "last_run_at": "2026-06-10T05:40:53.663363+00:00"
+  "last_run_at": "2026-06-10T05:46:00.539201+00:00"
 }
