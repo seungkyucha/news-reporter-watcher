@@ -557,7 +557,16 @@
       "url": "https://n.news.naver.com/article/030/0003436363?type=journalists",
       "published_at": "2026-06-10T14:32:18+09:00",
       "sent_at": "2026-06-10T14:46:05.574241+09:00"
+    },
+    {
+      "id": "b1aa4eacf3d51fd90ebc5695a81d15ecde0db97a0ff02a082b2d3248c6dc993d",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "넥슨, '아크 레이더스' 다큐멘터리 극장판 예매 시작",
+      "url": "https://n.news.naver.com/article/001/0016131032?type=journalists",
+      "published_at": "2026-06-10T15:30:14+09:00",
+      "sent_at": "2026-06-10T15:41:59.371737+09:00"
     }
   ],
-  "last_run_at": "2026-06-10T06:36:49.849538+00:00"
+  "last_run_at": "2026-06-10T06:41:53.971484+00:00"
 }
