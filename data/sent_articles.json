@@ -593,7 +593,16 @@
       "url": "https://n.news.naver.com/article/001/0016132427?type=journalists",
       "published_at": "2026-06-11T09:51:34+09:00",
       "sent_at": "2026-06-11T11:29:41.035524+09:00"
+    },
+    {
+      "id": "4165956207baa5ecf92c3430f3c66988de9232f8380ccb625fbd421b437c9f67",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "펄어비스 '붉은사막', 글로벌 누적 600만장 판매 달성",
+      "url": "https://n.news.naver.com/article/030/0003436726?type=journalists",
+      "published_at": "2026-06-11T12:15:16+09:00",
+      "sent_at": "2026-06-11T12:25:27.108563+09:00"
     }
   ],
-  "last_run_at": "2026-06-11T03:20:19.375784+00:00"
+  "last_run_at": "2026-06-11T03:25:23.507162+00:00"
 }
