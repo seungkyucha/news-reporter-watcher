@@ -656,7 +656,16 @@
       "url": "https://n.news.naver.com/article/030/0003436736?type=journalists",
       "published_at": "2026-06-11T12:27:09+09:00",
       "sent_at": "2026-06-11T12:45:53.824093+09:00"
+    },
+    {
+      "id": "e0b740fafd62ef1a25193df94dba2ba8fa0e2aa774284b1019aa6b1115fe9b8a",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "펄어비스 '붉은사막' 누적 판매량 600만장…미국서 연간 2위",
+      "url": "https://n.news.naver.com/article/001/0016133209?type=journalists",
+      "published_at": "2026-06-11T13:44:05+09:00",
+      "sent_at": "2026-06-11T13:56:51.692781+09:00"
     }
   ],
-  "last_run_at": "2026-06-11T04:51:43.614858+00:00"
+  "last_run_at": "2026-06-11T04:56:47.280904+00:00"
 }
