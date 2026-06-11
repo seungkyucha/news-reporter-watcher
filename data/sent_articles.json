@@ -692,7 +692,34 @@
       "url": "https://n.news.naver.com/article/001/0016133605?type=journalists",
       "published_at": "2026-06-11T15:33:01+09:00",
       "sent_at": "2026-06-11T15:43:24.056773+09:00"
+    },
+    {
+      "id": "94171330b28925c43edf61d980f518f2bfdbcb5ac1eef33dee52c30cd7b8cef5",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "게임테일즈 신임 대표에 정준호 선임... 경영 정상화 속도",
+      "url": "https://n.news.naver.com/article/030/0003436951?type=journalists",
+      "published_at": "2026-06-11T18:27:13+09:00",
+      "sent_at": "2026-06-11T23:12:30.601320+09:00"
+    },
+    {
+      "id": "e20b021f67118d5b659b32b494746c4ebcba53fa7d41320f926477374b6a287f",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "넥슨, '크레이지 아케이드' 8월 서비스 종료... 한 시대 풍미한 캐주얼 게임 퇴장",
+      "url": "https://n.news.naver.com/article/030/0003436950?type=journalists",
+      "published_at": "2026-06-11T18:23:13+09:00",
+      "sent_at": "2026-06-11T23:12:32.048948+09:00"
+    },
+    {
+      "id": "f3bf973edb1224777d7199826f0269e16f714e877aac8ba15be69d9f2b1816ff",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "넥슨, 장수 게임 '크레이지 아케이드' 25년만에 서비스 종료",
+      "url": "https://n.news.naver.com/article/001/0016133939?type=journalists",
+      "published_at": "2026-06-11T17:08:07+09:00",
+      "sent_at": "2026-06-11T23:12:33.983684+09:00"
     }
   ],
-  "last_run_at": "2026-06-11T08:14:37.144453+00:00"
+  "last_run_at": "2026-06-11T14:12:25.831808+00:00"
 }
