@@ -602,7 +602,43 @@
       "url": "https://n.news.naver.com/article/030/0003436726?type=journalists",
       "published_at": "2026-06-11T12:15:16+09:00",
       "sent_at": "2026-06-11T12:25:27.108563+09:00"
+    },
+    {
+      "id": "2fc5ff91e0dab28091151c34d65ab6f7491843708a35436675fc80dc0468c190",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "NHN, 양철웅 CTO 선임... AI 네이티브 전환·AX 전략 가속",
+      "url": "https://n.news.naver.com/article/030/0003436733?type=journalists",
+      "published_at": "2026-06-11T12:23:14+09:00",
+      "sent_at": "2026-06-11T12:35:37.164689+09:00"
+    },
+    {
+      "id": "88455fa79609b330701dbad5caaee9ccb50f8b8f9c9c080a84ac57db8bad2fd8",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "카카오게임즈, '도깨비의세계'로 전통문화 입힌다…한복 코스튬·굿즈 개발",
+      "url": "https://n.news.naver.com/article/030/0003436732?type=journalists",
+      "published_at": "2026-06-11T12:21:16+09:00",
+      "sent_at": "2026-06-11T12:35:38.844134+09:00"
+    },
+    {
+      "id": "67bb5dbd762c64772a7c0528fbc76cd9361b25d46f297450aecf9faee7e4b72d",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "FIFA 월드컵이 로블록스로... 48개국 대표팀·6개 게임 참여 초대형 이벤트",
+      "url": "https://n.news.naver.com/article/030/0003436730?type=journalists",
+      "published_at": "2026-06-11T12:20:13+09:00",
+      "sent_at": "2026-06-11T12:35:40.552699+09:00"
+    },
+    {
+      "id": "1040e421b662637477a136b72145c35c0cfbf44a1bd5831d939ec47da7cfa50e",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "넥스쳐 '마루는 강쥐 카페 게임', 여름 테마 '리틀 산토리니' 업데이트",
+      "url": "https://n.news.naver.com/article/030/0003436728?type=journalists",
+      "published_at": "2026-06-11T12:18:17+09:00",
+      "sent_at": "2026-06-11T12:35:42.269604+09:00"
     }
   ],
-  "last_run_at": "2026-06-11T03:30:29.699123+00:00"
+  "last_run_at": "2026-06-11T03:35:33.728754+00:00"
 }
