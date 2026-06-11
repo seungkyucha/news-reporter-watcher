@@ -638,7 +638,25 @@
       "url": "https://n.news.naver.com/article/030/0003436728?type=journalists",
       "published_at": "2026-06-11T12:18:17+09:00",
       "sent_at": "2026-06-11T12:35:42.269604+09:00"
+    },
+    {
+      "id": "58d44df1fae8ecb069b8e469779cce23361b4a01724e45249ec015971b6dc362",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "컴투스 '제우스: 오만의 신', 시네마틱 트레일러 공개... 신들의 전쟁 서막 연다",
+      "url": "https://n.news.naver.com/article/030/0003436737?type=journalists",
+      "published_at": "2026-06-11T12:28:08+09:00",
+      "sent_at": "2026-06-11T12:45:52.160103+09:00"
+    },
+    {
+      "id": "c82652fdfb2f4a3bd7930fa14029bc59373883362004af2a578ec4d6e7f4ef1e",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "'승리의 여신: 니케', 신규 SSR '아크레인저 블랙' 출격…풀 보이스 이벤트 공개",
+      "url": "https://n.news.naver.com/article/030/0003436736?type=journalists",
+      "published_at": "2026-06-11T12:27:09+09:00",
+      "sent_at": "2026-06-11T12:45:53.824093+09:00"
     }
   ],
-  "last_run_at": "2026-06-11T03:40:44.612430+00:00"
+  "last_run_at": "2026-06-11T03:45:48.615874+00:00"
 }
