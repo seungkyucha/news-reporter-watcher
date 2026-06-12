@@ -737,7 +737,16 @@
       "url": "https://n.news.naver.com/article/030/0003437097?type=journalists",
       "published_at": "2026-06-12T11:50:15+09:00",
       "sent_at": "2026-06-12T12:06:57.187473+09:00"
+    },
+    {
+      "id": "3657a4ef8ddc8bf532ceef0374d4c366067bdcc89606ac44d86ceff382d3808b",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "위메이드 \"MSCI ESG 평가서 'AA'로 3단계 상향\"",
+      "url": "https://n.news.naver.com/article/001/0016135330?type=journalists",
+      "published_at": "2026-06-12T12:01:57+09:00",
+      "sent_at": "2026-06-12T12:17:09.149456+09:00"
     }
   ],
-  "last_run_at": "2026-06-12T03:11:59.848516+00:00"
+  "last_run_at": "2026-06-12T03:17:04.186538+00:00"
 }
