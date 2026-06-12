@@ -1,0 +1,28 @@
+name: Notify self-test
+
+# 수동 실행 전용. 설정된 알림 채널(텔레그램/라인)로 테스트 메시지를 한 번 보내고
+# 채널별 성공 여부를 로그로 남긴다(연동 진단용). 짧게 끝나 로그를 바로 확인 가능.
+on:
+  workflow_dispatch:
+
+jobs:
+  selftest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+      - run: pip install -r requirements.txt
+      - name: Run self-test
+        env:
+          SELFTEST: "1"
+          NAVER_CLIENT_ID:           ${{ secrets.NAVER_CLIENT_ID }}
+          NAVER_CLIENT_SECRET:       ${{ secrets.NAVER_CLIENT_SECRET }}
+          TELEGRAM_BOT_TOKEN:        ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID:          ${{ secrets.TELEGRAM_CHAT_ID }}
+          LINE_CHANNEL_ACCESS_TOKEN: ${{ secrets.LINE_CHANNEL_ACCESS_TOKEN }}
+          LINE_GROUP_ID:             ${{ secrets.LINE_GROUP_ID }}
+          REPORTERS:                 ${{ secrets.REPORTERS }}
+        run: python watcher.py

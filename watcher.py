@@ -593,8 +593,24 @@ def build_notifiers() -> list[tuple[str, Any]]:
 # 메인 흐름
 # ---------------------------------------------------------------------------
 
+def selftest() -> int:
+    """SELFTEST 환경변수가 있으면, 설정된 모든 알림 채널로 테스트 메시지를 보내고
+    채널별 성공 여부를 출력한 뒤 종료한다(LINE/텔레그램 연동 진단용)."""
+    print(f"[SELFTEST] === 알림 채널 자가진단: {datetime.now(KST).isoformat()} ===")
+    notifiers = build_notifiers()
+    print(f"[SELFTEST] 감지된 채널: {', '.join(name for name, _ in notifiers)}")
+    msg = f"[자가진단] 워치맨 알림 테스트 — {datetime.now(KST).strftime('%Y-%m-%d %H:%M')} KST. 이 메시지가 보이면 해당 채널 연동 정상."
+    for name, fn in notifiers:
+        ok = fn(msg)
+        print(f"[SELFTEST] {name}: {'성공' if ok else '실패'}")
+    return 0
+
+
 def main() -> int:
     print(f"[INFO] === Watcher 시작: {datetime.now(KST).isoformat()} ===")
+
+    if os.environ.get("SELFTEST", "").strip():
+        return selftest()
 
     naver_id = env_required("NAVER_CLIENT_ID")
     naver_secret = env_required("NAVER_CLIENT_SECRET")
