@@ -746,7 +746,34 @@
       "url": "https://n.news.naver.com/article/001/0016135330?type=journalists",
       "published_at": "2026-06-12T12:01:57+09:00",
       "sent_at": "2026-06-12T12:17:09.149456+09:00"
+    },
+    {
+      "id": "d260f536690d81c674275539c371f913cab6ac2461cdf71627c9358705399adb",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "컴투스홀딩스 수집형 RPG 신작 '스타 세일러', 6월 30일 글로벌 출시",
+      "url": "https://n.news.naver.com/article/030/0003437120?type=journalists",
+      "published_at": "2026-06-12T12:12:19+09:00",
+      "sent_at": "2026-06-12T12:27:19.279791+09:00"
+    },
+    {
+      "id": "764974015c744f5e7973f4e1d6b6bb6d43eaff9dd2268e762e2ad4b1c9a8a4e6",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "최휘영 장관, '붉은사막' 600만장 축하... “제2·제3의 붉은사막 나오도록 지원”",
+      "url": "https://n.news.naver.com/article/030/0003437119?type=journalists",
+      "published_at": "2026-06-12T12:09:13+09:00",
+      "sent_at": "2026-06-12T12:27:20.944578+09:00"
+    },
+    {
+      "id": "a9305148eb345d62aed33ac95b6fdf3f82ffe4764914c6be956c7da14207ce8f",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "정부, 베트남과 국제 공조 결실... 해외 불법 웹툰 사이트 3곳 폐쇄·운영자 검거",
+      "url": "https://n.news.naver.com/article/030/0003437117?type=journalists",
+      "published_at": "2026-06-12T12:06:17+09:00",
+      "sent_at": "2026-06-12T12:27:22.625630+09:00"
     }
   ],
-  "last_run_at": "2026-06-12T03:22:11.057500+00:00"
+  "last_run_at": "2026-06-12T03:27:15.638374+00:00"
 }
