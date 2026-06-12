@@ -719,7 +719,16 @@
       "url": "https://n.news.naver.com/article/001/0016133939?type=journalists",
       "published_at": "2026-06-11T17:08:07+09:00",
       "sent_at": "2026-06-11T23:12:33.983684+09:00"
+    },
+    {
+      "id": "d058cf98904f83a3368e26e1269610ed57b18ac38858bea617cb7cda018e40bd",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "크래프톤 '프로젝트 제타' 첫 커뮤니티 테스트 진행",
+      "url": "https://n.news.naver.com/article/001/0016134750?type=journalists",
+      "published_at": "2026-06-12T09:36:59+09:00",
+      "sent_at": "2026-06-12T10:55:59.096160+09:00"
     }
   ],
-  "last_run_at": "2026-06-11T20:02:17.979233+00:00"
+  "last_run_at": "2026-06-12T01:55:54.454764+00:00"
 }
