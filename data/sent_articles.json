@@ -728,7 +728,16 @@
       "url": "https://n.news.naver.com/article/001/0016134750?type=journalists",
       "published_at": "2026-06-12T09:36:59+09:00",
       "sent_at": "2026-06-12T10:55:59.096160+09:00"
+    },
+    {
+      "id": "7a9f3a2538dfe19bea9981036daef6f739e2282ca2b0f551e8dab788a10296a4",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "문체부, 한국콘텐츠진흥원장에 김윤지 씨 임명",
+      "url": "https://n.news.naver.com/article/030/0003437097?type=journalists",
+      "published_at": "2026-06-12T11:50:15+09:00",
+      "sent_at": "2026-06-12T12:06:57.187473+09:00"
     }
   ],
-  "last_run_at": "2026-06-12T03:01:49.252341+00:00"
+  "last_run_at": "2026-06-12T03:06:52.928195+00:00"
 }
