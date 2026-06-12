@@ -782,7 +782,16 @@
       "url": "https://n.news.naver.com/article/030/0003437124?type=journalists",
       "published_at": "2026-06-12T12:16:18+09:00",
       "sent_at": "2026-06-12T12:37:32.161755+09:00"
+    },
+    {
+      "id": "447ecae7249ef61606b0bee9111025ccea8551ab237c352ea2141bacdb61be86",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "네이버·크래프톤 전략 동맹…배틀그라운드 시청경험 혁신",
+      "url": "https://n.news.naver.com/article/001/0016135527?type=journalists",
+      "published_at": "2026-06-12T13:00:01+09:00",
+      "sent_at": "2026-06-12T13:13:04.118482+09:00"
     }
   ],
-  "last_run_at": "2026-06-12T04:07:56.043196+00:00"
+  "last_run_at": "2026-06-12T04:12:59.862356+00:00"
 }
