@@ -1,33 +1,6 @@
 {
   "sent": [
     {
-      "id": "5be85eaae8c54c778dd346aadee46121203d0a2506d8378fcc9570527192458a",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "PC방 찾은 젠슨 황 \"한국, e스포츠 발상지\"…페이커에 GPU 선물(종합)",
-      "url": "https://n.news.naver.com/article/001/0016122122?type=journalists",
-      "published_at": "2026-06-05T23:59:59+09:00",
-      "sent_at": "2026-06-05T16:22:32.742472+09:00"
-    },
-    {
-      "id": "848a728b0f6688c827f9b97abc4587fa1de87c14b0c305770c7ba2c1f93ee40a",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "PC방 찾은 젠슨 황 \"한국, e스포츠 최적 시장\"…페이커에 선물도",
-      "url": "https://n.news.naver.com/article/001/0016121992?type=journalists",
-      "published_at": "2026-06-05T23:59:59+09:00",
-      "sent_at": "2026-06-05T16:22:33.929189+09:00"
-    },
-    {
-      "id": "da7186f685aa365a761ee84c0d6eb55e175857000300832a804418da98067206",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "조이시티, '프리스타일 풋볼 2' 스팀 넥스트 페스트 출품",
-      "url": "https://n.news.naver.com/article/001/0016121426?type=journalists",
-      "published_at": "2026-06-05T23:59:59+09:00",
-      "sent_at": "2026-06-05T16:22:35.285238+09:00"
-    },
-    {
       "id": "02e11d3ea05084867ab5e0e8a4f4b5feb510441f36d9551c8dc08f5f1c84bfeb",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -775,5 +748,5 @@
       "sent_at": "2026-06-12T13:13:04.118482+09:00"
     }
   ],
-  "last_run_at": "2026-06-12T07:20:33.051581+00:00"
+  "last_run_at": "2026-06-12T07:25:36.892341+00:00"
 }
