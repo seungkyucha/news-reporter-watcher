@@ -746,7 +746,16 @@
       "url": "https://n.news.naver.com/article/001/0016135527?type=journalists",
       "published_at": "2026-06-12T13:00:01+09:00",
       "sent_at": "2026-06-12T13:13:04.118482+09:00"
+    },
+    {
+      "id": "22e8ec72e99fa3fc2a7fce6ad1e0fa8803931e823d2893d3fb6d73f7b87afc14",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "메이플 쇼케이스 정보로 캐릭터명 선점…법원 \"5천만원 배상\"",
+      "url": "https://n.news.naver.com/article/001/0016136307?type=journalists",
+      "published_at": "2026-06-12T16:20:24+09:00",
+      "sent_at": "2026-06-12T16:35:48.748033+09:00"
     }
   ],
-  "last_run_at": "2026-06-12T07:30:41.145655+00:00"
+  "last_run_at": "2026-06-12T07:35:44.796057+00:00"
 }
