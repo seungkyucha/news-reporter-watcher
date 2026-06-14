@@ -701,7 +701,16 @@
       "url": "https://n.news.naver.com/article/001/0016136946?type=journalists",
       "published_at": "2026-06-13T11:00:00+09:00",
       "sent_at": "2026-06-13T11:08:46.899469+09:00"
+    },
+    {
+      "id": "61b2f7a8f187b9dc473c6a525f47a4b69f8dbcdf25cf0bb7d08186959f0340ba",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "불법 웹툰 사이트 글로벌 공조…'원점 타격' 전략으로",
+      "url": "https://n.news.naver.com/article/030/0003437313?type=journalists",
+      "published_at": "2026-06-14T10:31:11+09:00",
+      "sent_at": "2026-06-14T10:47:01.645896+09:00"
     }
   ],
-  "last_run_at": "2026-06-14T01:41:53.627885+00:00"
+  "last_run_at": "2026-06-14T01:46:57.595968+00:00"
 }
