@@ -1,15 +1,6 @@
 {
   "sent": [
     {
-      "id": "36c554840402547b55d51d7a213aabcbfca6d16ac58175132c7685c44871ff00",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "넥슨, 네이버 치지직과 'FC 온라인' 연계 콘텐츠 공개",
-      "url": "https://n.news.naver.com/article/001/0016125337?type=journalists",
-      "published_at": "2026-06-08T10:41:00+09:00",
-      "sent_at": "2026-06-08T11:00:20.028743+09:00"
-    },
-    {
       "id": "032f8e0721ea4f5b6927bb5bb375ee6758aa220e2eef1c758fce9cde5656bdd2",
       "reporter": "서정근",
       "press": "MTN",
@@ -604,5 +595,5 @@
       "sent_at": "2026-06-15T10:15:09.591690+09:00"
     }
   ],
-  "last_run_at": "2026-06-15T01:55:39.180052+00:00"
+  "last_run_at": "2026-06-15T02:00:43.055449+00:00"
 }
