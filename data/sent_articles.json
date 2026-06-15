@@ -611,7 +611,16 @@
       "url": "https://n.news.naver.com/article/030/0003437667?type=journalists",
       "published_at": "2026-06-15T13:59:10+09:00",
       "sent_at": "2026-06-15T14:11:14.948326+09:00"
+    },
+    {
+      "id": "2d5217b925d44930d773e9320189702bcaf09bebe6a9f92d8698f9acf8475eca",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "북중미 월드컵 열기에 게임업계도 '축구 마케팅' 총력전",
+      "url": "https://n.news.naver.com/article/030/0003437684?type=journalists",
+      "published_at": "2026-06-15T14:07:12+09:00",
+      "sent_at": "2026-06-15T14:26:30.213967+09:00"
     }
   ],
-  "last_run_at": "2026-06-15T05:21:21.871102+00:00"
+  "last_run_at": "2026-06-15T05:26:25.889233+00:00"
 }
