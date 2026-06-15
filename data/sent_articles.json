@@ -602,7 +602,16 @@
       "url": "https://n.news.naver.com/article/001/0016139313?type=journalists",
       "published_at": "2026-06-15T13:47:10+09:00",
       "sent_at": "2026-06-15T14:04:24.417700+09:00"
+    },
+    {
+      "id": "ed61beeb600a73edf960b7fb64377db5b9f10a5989a4abc303806f8f3695276c",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "펄어비스 붉은사막, 게임플레이 영상 콘테스트 '비욘드 디 어비스' 진행",
+      "url": "https://n.news.naver.com/article/030/0003437667?type=journalists",
+      "published_at": "2026-06-15T13:59:10+09:00",
+      "sent_at": "2026-06-15T14:11:14.948326+09:00"
     }
   ],
-  "last_run_at": "2026-06-15T05:09:26.731811+00:00"
+  "last_run_at": "2026-06-15T05:11:10.572920+00:00"
 }
