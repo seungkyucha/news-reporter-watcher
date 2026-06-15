@@ -611,7 +611,16 @@
       "url": "https://n.news.naver.com/article/030/0003437783?type=journalists",
       "published_at": "2026-06-15T15:46:15+09:00",
       "sent_at": "2026-06-15T16:08:08.931012+09:00"
+    },
+    {
+      "id": "51b01a579c61a91110b8279ad1a4aa1ca95781e3b722b45af6899510f00c43c3",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "엔씨 '아이온2', 멤버십 가격 인하 계획 발표... 오프라인 쇼케이스 성료",
+      "url": "https://n.news.naver.com/article/030/0003437818?type=journalists",
+      "published_at": "2026-06-15T16:15:13+09:00",
+      "sent_at": "2026-06-15T16:23:27.394442+09:00"
     }
   ],
-  "last_run_at": "2026-06-15T07:18:19.889457+00:00"
+  "last_run_at": "2026-06-15T07:23:23.352235+00:00"
 }
