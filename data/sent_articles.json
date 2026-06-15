@@ -593,7 +593,16 @@
       "url": "https://n.news.naver.com/article/001/0016139234?type=journalists",
       "published_at": "2026-06-15T12:46:50+09:00",
       "sent_at": "2026-06-15T13:44:07.244658+09:00"
+    },
+    {
+      "id": "5e25af00f77403980cced38594a9119e67ca26ae913f0f2b03f59886ad49a388",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "대전서 열리는 LoL 국제대회 MSI…한화생명·T1 진출 확정",
+      "url": "https://n.news.naver.com/article/001/0016139313?type=journalists",
+      "published_at": "2026-06-15T13:47:10+09:00",
+      "sent_at": "2026-06-15T14:04:24.417700+09:00"
     }
   ],
-  "last_run_at": "2026-06-15T04:59:16.803924+00:00"
+  "last_run_at": "2026-06-15T05:04:20.512489+00:00"
 }
