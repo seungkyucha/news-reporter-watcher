@@ -1,15 +1,6 @@
 {
   "sent": [
     {
-      "id": "6529619f0ccded57ce1090117543fe00ee190a692677f7644ed12ce8933b04ed",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "GTA 6 피하자…게임업계 대작 출시 10월로 몰린다",
-      "url": "https://n.news.naver.com/article/001/0016126232?type=journalists",
-      "published_at": "2026-06-08T15:01:47+09:00",
-      "sent_at": "2026-06-08T15:23:57.879457+09:00"
-    },
-    {
       "id": "69d166fff9357f19731f08a3460b2809a4ed7bd431edf1aad02946bbf8c19718",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -584,7 +575,25 @@
       "url": "https://n.news.naver.com/article/030/0003437744?type=journalists",
       "published_at": "2026-06-15T15:05:14+09:00",
       "sent_at": "2026-06-15T15:17:15.819055+09:00"
+    },
+    {
+      "id": "b94e5ff67d67c7c2e1919f0afb852094a5d134bae4c2987e80294203babbe018",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "넥슨, '메이플스토리' 극장판 애니메이션 '디어 마이 히어로' 개봉",
+      "url": "https://n.news.naver.com/article/030/0003437747?type=journalists",
+      "published_at": "2026-06-15T15:08:15+09:00",
+      "sent_at": "2026-06-15T15:27:27.161233+09:00"
+    },
+    {
+      "id": "26e1573a99a4cb52db401d3c9e996eb1651ad954b74744090f2a898c3fe3037a",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "위메이드, 액토즈소프트 상대 로열티 소송 취하",
+      "url": "https://n.news.naver.com/article/030/0003437746?type=journalists",
+      "published_at": "2026-06-15T15:07:12+09:00",
+      "sent_at": "2026-06-15T15:27:28.881227+09:00"
     }
   ],
-  "last_run_at": "2026-06-15T06:22:18.468419+00:00"
+  "last_run_at": "2026-06-15T06:27:23.172437+00:00"
 }
