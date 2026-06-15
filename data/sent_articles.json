@@ -593,7 +593,25 @@
       "url": "https://n.news.naver.com/article/030/0003437777?type=journalists",
       "published_at": "2026-06-15T15:39:12+09:00",
       "sent_at": "2026-06-15T15:52:51.768435+09:00"
+    },
+    {
+      "id": "76d68b13e97690bd5a762978959ed3edf06f0eadfb6e972d5d3a8df8e18fb245",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "경콘진, 판교서 체험형 전시 개최... 웰메이드 인디게임 한자리에",
+      "url": "https://n.news.naver.com/article/030/0003437790?type=journalists",
+      "published_at": "2026-06-15T15:51:15+09:00",
+      "sent_at": "2026-06-15T16:08:07.187917+09:00"
+    },
+    {
+      "id": "66d0826e5577f5aba44d6d57ffe9b7abb2924107799655a54db9ee49fd64c279",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "매드엔진, 서브컬처 개발 조직 '모노 스튜디오' 출범... '프로젝트 MO' 개발 본격화",
+      "url": "https://n.news.naver.com/article/030/0003437783?type=journalists",
+      "published_at": "2026-06-15T15:46:15+09:00",
+      "sent_at": "2026-06-15T16:08:08.931012+09:00"
     }
   ],
-  "last_run_at": "2026-06-15T07:02:59.031085+00:00"
+  "last_run_at": "2026-06-15T07:08:02.932791+00:00"
 }
