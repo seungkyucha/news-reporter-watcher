@@ -575,7 +575,25 @@
       "url": "https://n.news.naver.com/article/001/0016138615?type=journalists",
       "published_at": "2026-06-15T09:59:30+09:00",
       "sent_at": "2026-06-15T10:15:09.591690+09:00"
+    },
+    {
+      "id": "ce94a4c309bf190996a86bcd590d23ed87c1f95c69d5e4d00e4045ec1b0e1c9a",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "NC문화재단·주한스위스대사관, 청소년 우주 워크숍 개최",
+      "url": "https://n.news.naver.com/article/001/0016139253?type=journalists",
+      "published_at": "2026-06-15T13:22:18+09:00",
+      "sent_at": "2026-06-15T13:44:05.136610+09:00"
+    },
+    {
+      "id": "8d40668ff5c3a9559075acaa14e6be3244b74d3165c65b7ff38e08ecc25b3420",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "'넥슨 자료 유출 의혹' 아이언메이스, 첫 공판기일서 혐의 부인",
+      "url": "https://n.news.naver.com/article/001/0016139234?type=journalists",
+      "published_at": "2026-06-15T12:46:50+09:00",
+      "sent_at": "2026-06-15T13:44:07.244658+09:00"
     }
   ],
-  "last_run_at": "2026-06-15T03:32:00.356680+00:00"
+  "last_run_at": "2026-06-15T04:44:00.874521+00:00"
 }
