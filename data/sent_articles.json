@@ -1,42 +1,6 @@
 {
   "sent": [
     {
-      "id": "0addde60c560c75fc679b3c66aa2a00b97ad8b055968469c0226dcb7d7b02188",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "'P의 거짓' 흥행 주역, 네오위즈 이끈다…박성준 신임 대표 내정",
-      "url": "https://n.news.naver.com/article/001/0016125227?type=journalists",
-      "published_at": "2026-06-08T10:15:11+09:00",
-      "sent_at": "2026-06-08T10:55:07.551756+09:00"
-    },
-    {
-      "id": "251c26aeaa9c0b0d986bda8a3c868218c1a649b933395adce1fc9813f33c89c4",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "엔씨 길드워3, 한국어 지원…시리즈 최초 콘솔 버전 출시",
-      "url": "https://n.news.naver.com/article/001/0016124916?type=journalists",
-      "published_at": "2026-06-08T09:15:43+09:00",
-      "sent_at": "2026-06-08T10:55:09.366112+09:00"
-    },
-    {
-      "id": "af1eb24bcabc5d232427d8f0b8ae85b8f09ccf11d93f07326a7f130c1ba86089",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "'매각설' 원스토어 노조 \"헐값 매각 반대\"",
-      "url": "https://n.news.naver.com/article/001/0016124821?type=journalists",
-      "published_at": "2026-06-08T08:47:55+09:00",
-      "sent_at": "2026-06-08T10:55:11.198629+09:00"
-    },
-    {
-      "id": "8ea594a4c5f02b602a7c9a379013342faf07665344a893a0cb502f1438a10a44",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "북한 도시 배경 '콜 오브 듀티' DMZ 모드 공개",
-      "url": "https://n.news.naver.com/article/001/0016124771?type=journalists",
-      "published_at": "2026-06-08T08:15:20+09:00",
-      "sent_at": "2026-06-08T10:55:13.158244+09:00"
-    },
-    {
       "id": "36c554840402547b55d51d7a213aabcbfca6d16ac58175132c7685c44871ff00",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -640,5 +604,5 @@
       "sent_at": "2026-06-15T10:15:09.591690+09:00"
     }
   ],
-  "last_run_at": "2026-06-15T01:50:34.903508+00:00"
+  "last_run_at": "2026-06-15T01:55:39.180052+00:00"
 }
