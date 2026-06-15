@@ -1,24 +1,6 @@
 {
   "sent": [
     {
-      "id": "c288ad21a95622cc5356fa4ee35e769cb333c283c69d5e1adfc972ffc9090548",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "title": "네오위즈, 박성준 신작개발그룹장 신임 대표로 내정... 창사 최초 개발자 출신",
-      "url": "https://n.news.naver.com/article/030/0003435440?type=journalists",
-      "published_at": "2026-06-08T14:19:11+09:00",
-      "sent_at": "2026-06-08T14:43:11.006864+09:00"
-    },
-    {
-      "id": "fed8147028ce9995ffa917b1008c47c7f89a5a43a73850ead40a346706a58e1c",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "title": "연운, 엑스박스 게임패스 입점... 신규 확장팩 '불견산' 공개",
-      "url": "https://n.news.naver.com/article/030/0003435423?type=journalists",
-      "published_at": "2026-06-08T14:08:17+09:00",
-      "sent_at": "2026-06-08T14:43:13.005737+09:00"
-    },
-    {
       "id": "515e7cb4005a661c1225ad8d2e4ffabec375d98ee9ae219439971e1e87a718eb",
       "reporter": "박정은",
       "press": "전자신문",
@@ -622,5 +604,5 @@
       "sent_at": "2026-06-15T14:26:30.213967+09:00"
     }
   ],
-  "last_run_at": "2026-06-15T05:41:42.193357+00:00"
+  "last_run_at": "2026-06-15T05:46:46.993510+00:00"
 }
