@@ -584,7 +584,16 @@
       "url": "https://n.news.naver.com/article/030/0003437746?type=journalists",
       "published_at": "2026-06-15T15:07:12+09:00",
       "sent_at": "2026-06-15T15:27:28.881227+09:00"
+    },
+    {
+      "id": "099dd3d3fca234d1a8c7730a7feed6dd672057ca4aac9a4bc9e63b1130158a59",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "NC문화재단-주한 스위스 대사관, 청소년 우주 워크숍 성료",
+      "url": "https://n.news.naver.com/article/030/0003437777?type=journalists",
+      "published_at": "2026-06-15T15:39:12+09:00",
+      "sent_at": "2026-06-15T15:52:51.768435+09:00"
     }
   ],
-  "last_run_at": "2026-06-15T06:47:43.136332+00:00"
+  "last_run_at": "2026-06-15T06:52:46.969174+00:00"
 }
