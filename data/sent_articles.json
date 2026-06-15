@@ -620,7 +620,16 @@
       "url": "https://n.news.naver.com/article/030/0003437337?type=journalists",
       "published_at": "2026-06-14T11:30:11+09:00",
       "sent_at": "2026-06-14T11:42:49.722649+09:00"
+    },
+    {
+      "id": "50d5114841d15d4b23b11e04c9f113de91d2d4585feb1ec993bdc535a54fb1b6",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "[AI픽] 넥써쓰, AI 메타버스 플랫폼 '스테이지' 창작자 모집",
+      "url": "https://n.news.naver.com/article/001/0016138582?type=journalists",
+      "published_at": "2026-06-15T09:51:46+09:00",
+      "sent_at": "2026-06-15T10:04:58.617868+09:00"
     }
   ],
-  "last_run_at": "2026-06-15T00:59:48.494461+00:00"
+  "last_run_at": "2026-06-15T01:04:52.612935+00:00"
 }
