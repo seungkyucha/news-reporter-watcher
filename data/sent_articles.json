@@ -584,7 +584,16 @@
       "url": "https://n.news.naver.com/article/030/0003437684?type=journalists",
       "published_at": "2026-06-15T14:07:12+09:00",
       "sent_at": "2026-06-15T14:26:30.213967+09:00"
+    },
+    {
+      "id": "026851ac6ba53f88f159f192ef4a4dcdfce38eeac168282cdccc265661314730",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "'다크 앤 다커' 형사재판 첫 공판... 아이언메이스 측 “공소사실 부인”",
+      "url": "https://n.news.naver.com/article/030/0003437744?type=journalists",
+      "published_at": "2026-06-15T15:05:14+09:00",
+      "sent_at": "2026-06-15T15:17:15.819055+09:00"
     }
   ],
-  "last_run_at": "2026-06-15T06:12:08.151999+00:00"
+  "last_run_at": "2026-06-15T06:17:11.992058+00:00"
 }
