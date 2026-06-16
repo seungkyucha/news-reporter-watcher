@@ -629,7 +629,16 @@
       "url": "https://n.news.naver.com/article/030/0003438129?type=journalists",
       "published_at": "2026-06-16T14:31:10+09:00",
       "sent_at": "2026-06-16T14:39:48.165593+09:00"
+    },
+    {
+      "id": "0660f08a895a61846d6b190a18ba90d6e4c01cc7fadcf9f67c883d2b0ac98cd0",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "박용현 넥슨게임즈 대표 “시행착오도 자산... 멀티 스튜디오의 힘은 경험 공유”",
+      "url": "https://n.news.naver.com/article/030/0003438164?type=journalists",
+      "published_at": "2026-06-16T15:20:11+09:00",
+      "sent_at": "2026-06-16T15:35:34.295856+09:00"
     }
   ],
-  "last_run_at": "2026-06-16T06:30:27.247910+00:00"
+  "last_run_at": "2026-06-16T06:35:30.943609+00:00"
 }
