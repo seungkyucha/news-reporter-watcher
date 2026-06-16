@@ -1,33 +1,6 @@
 {
   "sent": [
     {
-      "id": "d0165137658145158fe9be81f373e4688371c28dc0fe5edca5d6afddc85d1353",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "title": "게임음악 경연대회'GXG 사운드트랙', 16개 게임 라인업 확정... 참가자 모집",
-      "url": "https://n.news.naver.com/article/030/0003435908?type=journalists",
-      "published_at": "2026-06-09T14:24:20+09:00",
-      "sent_at": "2026-06-09T14:35:16.097823+09:00"
-    },
-    {
-      "id": "3bb7be1a972f7a4dde757b8dc7c786deb2a1dfd80ff8ef0e513c0d0407516af9",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "title": "유니티, '유나이트 서울 2026' 세션 공개…AI·게임·산업 분야 총망라",
-      "url": "https://n.news.naver.com/article/030/0003435906?type=journalists",
-      "published_at": "2026-06-09T14:22:20+09:00",
-      "sent_at": "2026-06-09T14:35:17.787936+09:00"
-    },
-    {
-      "id": "d5bddf5f9796859fe20cafdff6dacc41e31774db0ac90c8b1765917b31733057",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "title": "넷이즈게임즈, '블러드 메시지' 신규 트레일러 공개... 첫 AAA 싱글플레이어 도전",
-      "url": "https://n.news.naver.com/article/030/0003435903?type=journalists",
-      "published_at": "2026-06-09T14:21:14+09:00",
-      "sent_at": "2026-06-09T14:35:19.520208+09:00"
-    },
-    {
       "id": "c9250f614bf02aed74ea7a4d4e28885fa0b320717f9787e94720197719df9860",
       "reporter": "박정은",
       "press": "전자신문",
@@ -683,7 +656,16 @@
       "url": "https://n.news.naver.com/article/001/0016140538?type=journalists",
       "published_at": "2026-06-16T09:04:47+09:00",
       "sent_at": "2026-06-16T13:38:59.612373+09:00"
+    },
+    {
+      "id": "c1f3a5fdea7a977862c02f3639392ce619eb7984ecf511e63b33d5920c4df6d1",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "강대현 넥슨코리아 대표 “AI 시대 게임 경쟁력은 '맥락의 깊이'”...NDC 26서 화두 제시",
+      "url": "https://n.news.naver.com/article/030/0003438129?type=journalists",
+      "published_at": "2026-06-16T14:31:10+09:00",
+      "sent_at": "2026-06-16T14:39:48.165593+09:00"
     }
   ],
-  "last_run_at": "2026-06-16T05:34:40.479133+00:00"
+  "last_run_at": "2026-06-16T05:39:44.215807+00:00"
 }
