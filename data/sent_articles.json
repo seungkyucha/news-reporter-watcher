@@ -701,7 +701,16 @@
       "url": "https://n.news.naver.com/article/001/0016142085?type=journalists",
       "published_at": "2026-06-16T16:40:00+09:00",
       "sent_at": "2026-06-16T16:56:52.316499+09:00"
+    },
+    {
+      "id": "8713dd8ab61f3538e43755c7f95844d02e37da1ccafd849647bc823ee57428e9",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "원스토어 노조 \"헐값 매각 반대·고용 안정\" 사옥 앞서 집회",
+      "url": "https://n.news.naver.com/article/001/0016142292?type=journalists",
+      "published_at": "2026-06-16T18:27:37+09:00",
+      "sent_at": "2026-06-16T18:43:28.885007+09:00"
     }
   ],
-  "last_run_at": "2026-06-16T09:38:09.488655+00:00"
+  "last_run_at": "2026-06-16T09:43:15.160150+00:00"
 }
