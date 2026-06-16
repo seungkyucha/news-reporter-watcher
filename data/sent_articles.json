@@ -656,7 +656,16 @@
       "url": "https://n.news.naver.com/article/001/0016141963?type=journalists",
       "published_at": "2026-06-16T15:56:46+09:00",
       "sent_at": "2026-06-16T16:16:12.622544+09:00"
+    },
+    {
+      "id": "add6a0d06ae334d8e1f1df0a0c4254e97a6414411eb628858b5b716a47d120e1",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "[AI픽] AI 동료와 함께 뛴다…크래프톤, 'PUBG 앨라이' 베타",
+      "url": "https://n.news.naver.com/article/001/0016142060?type=journalists",
+      "published_at": "2026-06-16T16:26:51+09:00",
+      "sent_at": "2026-06-16T16:46:37.690654+09:00"
     }
   ],
-  "last_run_at": "2026-06-16T07:41:29.227693+00:00"
+  "last_run_at": "2026-06-16T07:46:32.922177+00:00"
 }
