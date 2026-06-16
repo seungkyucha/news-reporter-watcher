@@ -656,7 +656,16 @@
       "url": "https://n.news.naver.com/article/030/0003438169?type=journalists",
       "published_at": "2026-06-16T15:31:11+09:00",
       "sent_at": "2026-06-16T15:45:45.483069+09:00"
+    },
+    {
+      "id": "23d61fada751e0f9ad8005d478981ebb874e27b4fbbc8af104f4b762d1d2a9f5",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "스타 게임 PD들의 성공 비결은…\"내가 하고픈 게임 만들었다\"",
+      "url": "https://n.news.naver.com/article/001/0016141963?type=journalists",
+      "published_at": "2026-06-16T15:56:46+09:00",
+      "sent_at": "2026-06-16T16:16:12.622544+09:00"
     }
   ],
-  "last_run_at": "2026-06-16T07:11:04.707771+00:00"
+  "last_run_at": "2026-06-16T07:16:08.430054+00:00"
 }
