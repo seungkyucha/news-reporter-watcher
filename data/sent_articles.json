@@ -665,7 +665,43 @@
       "url": "https://n.news.naver.com/article/001/0016142060?type=journalists",
       "published_at": "2026-06-16T16:26:51+09:00",
       "sent_at": "2026-06-16T16:46:37.690654+09:00"
+    },
+    {
+      "id": "6d0a187afdd88c89957ad743e4296ba025c139d5b55779fb3934bc3bf75ab4ab",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "두 스타 게임 PD의 만남",
+      "url": "https://n.news.naver.com/article/001/0016142088?type=journalists",
+      "published_at": "2026-06-16T16:40:24+09:00",
+      "sent_at": "2026-06-16T16:56:47.687505+09:00"
+    },
+    {
+      "id": "94acaae6fa08a9ec5549ea2c5c314f18cf2788fef23321b360b888e3d87349e0",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "게임 개발 과정 소개하는 김지훈 프로젝트문 대표",
+      "url": "https://n.news.naver.com/article/001/0016142087?type=journalists",
+      "published_at": "2026-06-16T16:40:16+09:00",
+      "sent_at": "2026-06-16T16:56:49.234167+09:00"
+    },
+    {
+      "id": "5b7ac84608b703d0a49e40ca8901e39ba3ca11f46bd600ef0cbda10fb2c52968",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "게임 개발 철학 소개하는 김용하 넥슨게임즈 본부장",
+      "url": "https://n.news.naver.com/article/001/0016142086?type=journalists",
+      "published_at": "2026-06-16T16:40:09+09:00",
+      "sent_at": "2026-06-16T16:56:50.833811+09:00"
+    },
+    {
+      "id": "05412843b79f08711331d368e8912d42a06b746dc9c8a145b1f3030fb8cfc1a7",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "대담하는 김용하 넥슨게임즈 본부장·김지훈 프로젝트문 대표",
+      "url": "https://n.news.naver.com/article/001/0016142085?type=journalists",
+      "published_at": "2026-06-16T16:40:00+09:00",
+      "sent_at": "2026-06-16T16:56:52.316499+09:00"
     }
   ],
-  "last_run_at": "2026-06-16T07:51:39.692162+00:00"
+  "last_run_at": "2026-06-16T07:56:43.293798+00:00"
 }
