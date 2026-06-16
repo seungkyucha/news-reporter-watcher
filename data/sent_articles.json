@@ -1,15 +1,6 @@
 {
   "sent": [
     {
-      "id": "f0b2f459f5c0d7ca5ecdcf548d9ce5ee5d495e13dc4c63704f1b69286cffe2d6",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "유니티, 개발자 콘퍼런스 '유나이트 서울' 내달 21일 개최",
-      "url": "https://n.news.naver.com/article/001/0016127456?type=journalists",
-      "published_at": "2026-06-09T09:24:09+09:00",
-      "sent_at": "2026-06-09T10:22:57.914093+09:00"
-    },
-    {
       "id": "d0165137658145158fe9be81f373e4688371c28dc0fe5edca5d6afddc85d1353",
       "reporter": "박정은",
       "press": "전자신문",
@@ -620,7 +611,79 @@
       "url": "https://n.news.naver.com/article/030/0003437818?type=journalists",
       "published_at": "2026-06-15T16:15:13+09:00",
       "sent_at": "2026-06-15T16:23:27.394442+09:00"
+    },
+    {
+      "id": "00f1aea5cc574092b465171f83c67d99992c08327a539faafdc34d0ae49a8c09",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "크래프톤 렐루게임즈 '미메시스', 첫 대규모 업데이트 진행",
+      "url": "https://n.news.naver.com/article/030/0003437973?type=journalists",
+      "published_at": "2026-06-16T10:17:17+09:00",
+      "sent_at": "2026-06-16T13:38:47.746571+09:00"
+    },
+    {
+      "id": "349953155dd27e621290a8030ed9574724ba57e61aa2185643b47ffdfab5e841",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "넷마블, 신작 '솔: 인챈트' 18일 출시 앞서 PC·모바일 사전 다운로드",
+      "url": "https://n.news.naver.com/article/030/0003437964?type=journalists",
+      "published_at": "2026-06-16T10:13:09+09:00",
+      "sent_at": "2026-06-16T13:38:49.547104+09:00"
+    },
+    {
+      "id": "a15ed5999956b1370ece7f51f182067fa3c2dbf16f51ad5dd2862c6ceebfa4b4",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "환영사 하는 이정헌 넥슨 일본법인 대표",
+      "url": "https://n.news.naver.com/article/001/0016141088?type=journalists",
+      "published_at": "2026-06-16T11:27:56+09:00",
+      "sent_at": "2026-06-16T13:38:51.597131+09:00"
+    },
+    {
+      "id": "f2a9acfa8aec57d0158f9670715ac5d931e40cc8d439dd50fb54cecdb51f7564",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "넥슨의 AI 전략 설명하는 강대현 넥슨코리아 공동대표",
+      "url": "https://n.news.naver.com/article/001/0016141087?type=journalists",
+      "published_at": "2026-06-16T11:27:43+09:00",
+      "sent_at": "2026-06-16T13:38:53.139965+09:00"
+    },
+    {
+      "id": "6786a041972c8da0c741437172cfd35ddf76c77aead64946c1abdae2c0f4b063",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "넥슨의 AI 전략 설명하는 강대현 넥슨코리아 공동대표",
+      "url": "https://n.news.naver.com/article/001/0016141086?type=journalists",
+      "published_at": "2026-06-16T11:27:30+09:00",
+      "sent_at": "2026-06-16T13:38:54.751298+09:00"
+    },
+    {
+      "id": "5a8fe20f50b21331d9677551eed0ff74f1009d2112f2a074e116b648ebf6308b",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "넥슨 강대현 \"크레이지 아케이드, 다른 방식으로 이어나갈 것'",
+      "url": "https://n.news.naver.com/article/001/0016141061?type=journalists",
+      "published_at": "2026-06-16T11:21:55+09:00",
+      "sent_at": "2026-06-16T13:38:56.412975+09:00"
+    },
+    {
+      "id": "630c41182e0b3c0234c957efdebc047adaa73b2179bc50c5c775d4ede08b22e2",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "[AI픽] 넥슨 \"AI 시대 승부처는 맥락\"…'축적지능' 전략 공개",
+      "url": "https://n.news.naver.com/article/001/0016141010?type=journalists",
+      "published_at": "2026-06-16T11:04:02+09:00",
+      "sent_at": "2026-06-16T13:38:58.045833+09:00"
+    },
+    {
+      "id": "94c5447c7b3a1c63f7c78068e2f724ba8e4aa36d348c5d730ebc7e63be9f81f5",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "[AI픽] NC AI, MBC와 AI 기반 콘텐츠 제작 플랫폼 만든다",
+      "url": "https://n.news.naver.com/article/001/0016140538?type=journalists",
+      "published_at": "2026-06-16T09:04:47+09:00",
+      "sent_at": "2026-06-16T13:38:59.612373+09:00"
     }
   ],
-  "last_run_at": "2026-06-15T22:41:54.660531+00:00"
+  "last_run_at": "2026-06-16T04:38:43.727731+00:00"
 }
