@@ -1,24 +1,6 @@
 {
   "sent": [
     {
-      "id": "c9250f614bf02aed74ea7a4d4e28885fa0b320717f9787e94720197719df9860",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "title": "NDC 2026, AI·게임아트 전시까지 지식 공유의 장 열린다",
-      "url": "https://n.news.naver.com/article/030/0003435913?type=journalists",
-      "published_at": "2026-06-09T14:28:16+09:00",
-      "sent_at": "2026-06-09T14:45:30.285422+09:00"
-    },
-    {
-      "id": "a2c658459960ae4c2498e56e54ceba9747c6fea147fd7d166c49fe67f8f781de",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "title": "디아블로 이모탈, 신규 직업 '악마술사' 17일 출격",
-      "url": "https://n.news.naver.com/article/030/0003435911?type=journalists",
-      "published_at": "2026-06-09T14:26:17+09:00",
-      "sent_at": "2026-06-09T14:45:32.052231+09:00"
-    },
-    {
       "id": "c0490bcc707171b09a3ec6cf941326e29807d5f151313bb0290b6d176d833f80",
       "reporter": "박정은",
       "press": "전자신문",
@@ -667,5 +649,5 @@
       "sent_at": "2026-06-16T14:39:48.165593+09:00"
     }
   ],
-  "last_run_at": "2026-06-16T05:44:50.499354+00:00"
+  "last_run_at": "2026-06-16T05:49:54.720440+00:00"
 }
