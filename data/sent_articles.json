@@ -1,33 +1,6 @@
 {
   "sent": [
     {
-      "id": "cde52d0ea4927da1e63e579b29002b9e3437c0dd37e5634a89f9bab010217d38",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "title": "위메이드, '이미르컵 월드 챔피언십 시즌2' 레전드 매치 한국 대표 선수 250명 발표",
-      "url": "https://n.news.naver.com/article/030/0003436323?type=journalists",
-      "published_at": "2026-06-10T13:55:14+09:00",
-      "sent_at": "2026-06-10T14:05:22.435090+09:00"
-    },
-    {
-      "id": "e1f797751ee38c4e66e3626aa1d25064d21a748963f1d8c0fab5945d4de56f23",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "title": "드림에이지 '알케론', PC 게이밍쇼 참가... 이용자와 함께 만드는 PvPvE 신작 공개",
-      "url": "https://n.news.naver.com/article/030/0003436320?type=journalists",
-      "published_at": "2026-06-10T13:54:10+09:00",
-      "sent_at": "2026-06-10T14:05:24.069107+09:00"
-    },
-    {
-      "id": "d755142c04e47a0e2500457131d6f6005aacc4581362ef89ba928cd9a105143b",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "title": "넷마블 '스톤에이지 키우기', 정식 출시 100일 기념 대축제 이벤트 개최",
-      "url": "https://n.news.naver.com/article/030/0003436319?type=journalists",
-      "published_at": "2026-06-10T13:53:12+09:00",
-      "sent_at": "2026-06-10T14:05:25.704686+09:00"
-    },
-    {
       "id": "b6fcb2a6651d93af42721347688434e672b10153dffd187e92392855bd7fc4a4",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -631,5 +604,5 @@
       "sent_at": "2026-06-17T13:14:23.836426+09:00"
     }
   ],
-  "last_run_at": "2026-06-17T05:05:00.005408+00:00"
+  "last_run_at": "2026-06-17T05:10:04.240695+00:00"
 }
