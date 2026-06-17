@@ -602,7 +602,16 @@
       "url": "https://n.news.naver.com/article/030/0003438486?type=journalists",
       "published_at": "2026-06-17T13:02:13+09:00",
       "sent_at": "2026-06-17T13:14:23.836426+09:00"
+    },
+    {
+      "id": "1318f0a62c58a4be65c4e71b3d151d353ad30def139bb54048c6276a098338c5",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "스팀 넥스트 페스트 개막... 국산 신작·인디게임 글로벌 이용자 검증 나서",
+      "url": "https://n.news.naver.com/article/030/0003438532?type=journalists",
+      "published_at": "2026-06-17T14:11:13+09:00",
+      "sent_at": "2026-06-17T14:25:19.608914+09:00"
     }
   ],
-  "last_run_at": "2026-06-17T05:20:12.063928+00:00"
+  "last_run_at": "2026-06-17T05:25:15.866695+00:00"
 }
