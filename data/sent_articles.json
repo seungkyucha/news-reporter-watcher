@@ -620,7 +620,16 @@
       "url": "https://n.news.naver.com/article/030/0003438456?type=journalists",
       "published_at": "2026-06-17T11:22:19+09:00",
       "sent_at": "2026-06-17T13:04:13.021223+09:00"
+    },
+    {
+      "id": "f9034560f1035fe3c83303345127ec9927fb338d72ce5ea168b3858bfd239072",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "카카오게임즈, 신작 '도깨비의세계' 원작 웹소설 '멸귀수도전' 기반 세계관 공개",
+      "url": "https://n.news.naver.com/article/030/0003438486?type=journalists",
+      "published_at": "2026-06-17T13:02:13+09:00",
+      "sent_at": "2026-06-17T13:14:23.836426+09:00"
     }
   ],
-  "last_run_at": "2026-06-17T04:09:15.870445+00:00"
+  "last_run_at": "2026-06-17T04:14:19.843238+00:00"
 }
