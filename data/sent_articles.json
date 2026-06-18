@@ -584,7 +584,16 @@
       "url": "https://n.news.naver.com/article/001/0016145033?type=journalists",
       "published_at": "2026-06-18T09:07:17+09:00",
       "sent_at": "2026-06-18T12:41:19.711602+09:00"
+    },
+    {
+      "id": "122413cd6077d112e01da9e77964de7b05592387ca8855232d8cb94001c79702",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "[AI픽] AI로 강해진 언리얼 엔진 6…에픽게임즈 \"내년말 출시\"",
+      "url": "https://n.news.naver.com/article/001/0016145998?type=journalists",
+      "published_at": "2026-06-18T13:38:41+09:00",
+      "sent_at": "2026-06-18T13:52:24.777582+09:00"
     }
   ],
-  "last_run_at": "2026-06-18T04:47:15.617907+00:00"
+  "last_run_at": "2026-06-18T04:52:19.540950+00:00"
 }
