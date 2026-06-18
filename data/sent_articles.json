@@ -593,7 +593,16 @@
       "url": "https://n.news.naver.com/article/030/0003438933?type=journalists",
       "published_at": "2026-06-18T13:47:15+09:00",
       "sent_at": "2026-06-18T14:02:37.450649+09:00"
+    },
+    {
+      "id": "437cdbb32483fa5c29599c5ed596dcc4ecb51ccac5895187da70a7aab13d632e",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "원스 휴먼, 콘솔 버전 파이널 오픈 베타 시작... 7월 9일까지",
+      "url": "https://n.news.naver.com/article/030/0003438945?type=journalists",
+      "published_at": "2026-06-18T13:58:17+09:00",
+      "sent_at": "2026-06-18T14:12:48.072692+09:00"
     }
   ],
-  "last_run_at": "2026-06-18T05:07:39.736861+00:00"
+  "last_run_at": "2026-06-18T05:12:43.751272+00:00"
 }
