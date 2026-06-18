@@ -1,69 +1,6 @@
 {
   "sent": [
     {
-      "id": "58698ea97b9caf894b7a8b14661dc56432129e4cd4b77cf164c3aec462af97fe",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "카카오게임즈, '도깨비의세계' 기반 전통문화상품 개발 추진",
-      "url": "https://n.news.naver.com/article/001/0016132501?type=journalists",
-      "published_at": "2026-06-11T09:57:52+09:00",
-      "sent_at": "2026-06-11T11:29:39.516835+09:00"
-    },
-    {
-      "id": "a2faaaba124f6ae5fafabce6b7d0e0a2ce2c3bc88606667332740c66b15c38e8",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "로블록스, FIFA와 함께 2026 월드컵 이벤트 허브 오픈",
-      "url": "https://n.news.naver.com/article/001/0016132427?type=journalists",
-      "published_at": "2026-06-11T09:51:34+09:00",
-      "sent_at": "2026-06-11T11:29:41.035524+09:00"
-    },
-    {
-      "id": "4165956207baa5ecf92c3430f3c66988de9232f8380ccb625fbd421b437c9f67",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "title": "펄어비스 '붉은사막', 글로벌 누적 600만장 판매 달성",
-      "url": "https://n.news.naver.com/article/030/0003436726?type=journalists",
-      "published_at": "2026-06-11T12:15:16+09:00",
-      "sent_at": "2026-06-11T12:25:27.108563+09:00"
-    },
-    {
-      "id": "2fc5ff91e0dab28091151c34d65ab6f7491843708a35436675fc80dc0468c190",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "title": "NHN, 양철웅 CTO 선임... AI 네이티브 전환·AX 전략 가속",
-      "url": "https://n.news.naver.com/article/030/0003436733?type=journalists",
-      "published_at": "2026-06-11T12:23:14+09:00",
-      "sent_at": "2026-06-11T12:35:37.164689+09:00"
-    },
-    {
-      "id": "88455fa79609b330701dbad5caaee9ccb50f8b8f9c9c080a84ac57db8bad2fd8",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "title": "카카오게임즈, '도깨비의세계'로 전통문화 입힌다…한복 코스튬·굿즈 개발",
-      "url": "https://n.news.naver.com/article/030/0003436732?type=journalists",
-      "published_at": "2026-06-11T12:21:16+09:00",
-      "sent_at": "2026-06-11T12:35:38.844134+09:00"
-    },
-    {
-      "id": "67bb5dbd762c64772a7c0528fbc76cd9361b25d46f297450aecf9faee7e4b72d",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "title": "FIFA 월드컵이 로블록스로... 48개국 대표팀·6개 게임 참여 초대형 이벤트",
-      "url": "https://n.news.naver.com/article/030/0003436730?type=journalists",
-      "published_at": "2026-06-11T12:20:13+09:00",
-      "sent_at": "2026-06-11T12:35:40.552699+09:00"
-    },
-    {
-      "id": "1040e421b662637477a136b72145c35c0cfbf44a1bd5831d939ec47da7cfa50e",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "title": "넥스쳐 '마루는 강쥐 카페 게임', 여름 테마 '리틀 산토리니' 업데이트",
-      "url": "https://n.news.naver.com/article/030/0003436728?type=journalists",
-      "published_at": "2026-06-11T12:18:17+09:00",
-      "sent_at": "2026-06-11T12:35:42.269604+09:00"
-    },
-    {
       "id": "58d44df1fae8ecb069b8e469779cce23361b4a01724e45249ec015971b6dc362",
       "reporter": "박정은",
       "press": "전자신문",
@@ -620,7 +557,52 @@
       "url": "https://n.news.naver.com/article/001/0016144135?type=journalists",
       "published_at": "2026-06-17T16:08:48+09:00",
       "sent_at": "2026-06-17T16:27:04.816570+09:00"
+    },
+    {
+      "id": "63882541e8458f745b92509c5cc61f0004e0bbb79927a1623a26acf43eaeed00",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "포켓몬 30주년 기념 축제 부산서 개최…도심 곳곳 체험 행사",
+      "url": "https://n.news.naver.com/article/001/0016145513?type=journalists",
+      "published_at": "2026-06-18T10:57:21+09:00",
+      "sent_at": "2026-06-18T12:41:11.937927+09:00"
+    },
+    {
+      "id": "ab65f64e673ee81aeb62037f33be9d90c2a853cd260196a4502ff3d79051f420",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "펄어비스, 게임스컴서 '붉은사막' 개발기 강연한다",
+      "url": "https://n.news.naver.com/article/001/0016145397?type=journalists",
+      "published_at": "2026-06-18T10:34:40+09:00",
+      "sent_at": "2026-06-18T12:41:13.897007+09:00"
+    },
+    {
+      "id": "2fdb77cf1b68a074618be5ee49e84d627dc3fa872b188bd1dcfd2090fd8e2969",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "구글·애플 30% 수수료 논란 재점화…시민단체 \"정상화하라\"",
+      "url": "https://n.news.naver.com/article/001/0016145388?type=journalists",
+      "published_at": "2026-06-18T10:31:00+09:00",
+      "sent_at": "2026-06-18T12:41:15.673674+09:00"
+    },
+    {
+      "id": "2e9ef455a6d459829a7c9ea1c71cfc1910ea88565909c0ce42db2f5713437941",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "유저에 게임 운영권 준다…넷마블, 'SOL: 인챈트' 출시",
+      "url": "https://n.news.naver.com/article/001/0016145251?type=journalists",
+      "published_at": "2026-06-18T10:01:07+09:00",
+      "sent_at": "2026-06-18T12:41:17.802676+09:00"
+    },
+    {
+      "id": "cece6f1cf520e2ef4df8cb0c8027b345fe2132fbdd67f7d8b5986d445355ea21",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "게임으로 ADHD 치료하나…'가디언즈DTx' 임상 결과 공개",
+      "url": "https://n.news.naver.com/article/001/0016145033?type=journalists",
+      "published_at": "2026-06-18T09:07:17+09:00",
+      "sent_at": "2026-06-18T12:41:19.711602+09:00"
     }
   ],
-  "last_run_at": "2026-06-17T21:44:06.237845+00:00"
+  "last_run_at": "2026-06-18T03:41:06.847019+00:00"
 }
