@@ -1,24 +1,6 @@
 {
   "sent": [
     {
-      "id": "d058cf98904f83a3368e26e1269610ed57b18ac38858bea617cb7cda018e40bd",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "크래프톤 '프로젝트 제타' 첫 커뮤니티 테스트 진행",
-      "url": "https://n.news.naver.com/article/001/0016134750?type=journalists",
-      "published_at": "2026-06-12T09:36:59+09:00",
-      "sent_at": "2026-06-12T10:55:59.096160+09:00"
-    },
-    {
-      "id": "7a9f3a2538dfe19bea9981036daef6f739e2282ca2b0f551e8dab788a10296a4",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "title": "문체부, 한국콘텐츠진흥원장에 김윤지 씨 임명",
-      "url": "https://n.news.naver.com/article/030/0003437097?type=journalists",
-      "published_at": "2026-06-12T11:50:15+09:00",
-      "sent_at": "2026-06-12T12:06:57.187473+09:00"
-    },
-    {
       "id": "3657a4ef8ddc8bf532ceef0374d4c366067bdcc89606ac44d86ceff382d3808b",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -568,5 +550,5 @@
       "sent_at": "2026-06-18T14:22:58.669407+09:00"
     }
   ],
-  "last_run_at": "2026-06-18T21:14:50.575215+00:00"
+  "last_run_at": "2026-06-19T03:12:04.485482+00:00"
 }
