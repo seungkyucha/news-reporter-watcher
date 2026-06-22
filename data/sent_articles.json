@@ -1,24 +1,6 @@
 {
   "sent": [
     {
-      "id": "b94e5ff67d67c7c2e1919f0afb852094a5d134bae4c2987e80294203babbe018",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "title": "넥슨, '메이플스토리' 극장판 애니메이션 '디어 마이 히어로' 개봉",
-      "url": "https://n.news.naver.com/article/030/0003437747?type=journalists",
-      "published_at": "2026-06-15T15:08:15+09:00",
-      "sent_at": "2026-06-15T15:27:27.161233+09:00"
-    },
-    {
-      "id": "26e1573a99a4cb52db401d3c9e996eb1651ad954b74744090f2a898c3fe3037a",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "title": "위메이드, 액토즈소프트 상대 로열티 소송 취하",
-      "url": "https://n.news.naver.com/article/030/0003437746?type=journalists",
-      "published_at": "2026-06-15T15:07:12+09:00",
-      "sent_at": "2026-06-15T15:27:28.881227+09:00"
-    },
-    {
       "id": "099dd3d3fca234d1a8c7730a7feed6dd672057ca4aac9a4bc9e63b1130158a59",
       "reporter": "박정은",
       "press": "전자신문",
@@ -388,5 +370,5 @@
       "sent_at": "2026-06-18T14:22:58.669407+09:00"
     }
   ],
-  "last_run_at": "2026-06-22T06:22:41.379910+00:00"
+  "last_run_at": "2026-06-22T06:27:53.558138+00:00"
 }
