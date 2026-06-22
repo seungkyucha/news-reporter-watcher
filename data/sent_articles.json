@@ -1,24 +1,6 @@
 {
   "sent": [
     {
-      "id": "50d5114841d15d4b23b11e04c9f113de91d2d4585feb1ec993bdc535a54fb1b6",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "[AI픽] 넥써쓰, AI 메타버스 플랫폼 '스테이지' 창작자 모집",
-      "url": "https://n.news.naver.com/article/001/0016138582?type=journalists",
-      "published_at": "2026-06-15T09:51:46+09:00",
-      "sent_at": "2026-06-15T10:04:58.617868+09:00"
-    },
-    {
-      "id": "2dbf91a0a440cdd24c328fb99cf86914613898bdd1e1fb4563c218486a59d2f9",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "위메이드 \"액토즈소프트 상대 로열티 소송 취하…정산 완료\"",
-      "url": "https://n.news.naver.com/article/001/0016138615?type=journalists",
-      "published_at": "2026-06-15T09:59:30+09:00",
-      "sent_at": "2026-06-15T10:15:09.591690+09:00"
-    },
-    {
       "id": "ce94a4c309bf190996a86bcd590d23ed87c1f95c69d5e4d00e4045ec1b0e1c9a",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -460,5 +442,5 @@
       "sent_at": "2026-06-18T14:22:58.669407+09:00"
     }
   ],
-  "last_run_at": "2026-06-21T19:41:12.398471+00:00"
+  "last_run_at": "2026-06-22T01:38:29.280582+00:00"
 }
