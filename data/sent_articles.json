@@ -314,7 +314,16 @@
       "url": "https://n.news.naver.com/article/001/0016154153?type=journalists",
       "published_at": "2026-06-23T15:13:13+09:00",
       "sent_at": "2026-06-23T15:24:42.618617+09:00"
+    },
+    {
+      "id": "adbfa39cf52b735e6da2f6d19dc7db8f59fe4b8d151271939123335648c14838",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "조승래 의원, 게임·음악 제작비 세액공제 재추진... “K콘텐츠 수출산업 육성”",
+      "url": "https://n.news.naver.com/article/030/0003440530?type=journalists",
+      "published_at": "2026-06-23T16:14:17+09:00",
+      "sent_at": "2026-06-23T16:26:05.326226+09:00"
     }
   ],
-  "last_run_at": "2026-06-23T07:20:54.672486+00:00"
+  "last_run_at": "2026-06-23T07:26:01.000203+00:00"
 }
