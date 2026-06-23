@@ -323,7 +323,43 @@
       "url": "https://n.news.naver.com/article/030/0003440530?type=journalists",
       "published_at": "2026-06-23T16:14:17+09:00",
       "sent_at": "2026-06-23T16:26:05.326226+09:00"
+    },
+    {
+      "id": "3d9d502a7ab14fdcea1cc0ad29083a46b8a3c824ff1992c92495c47f096e97ef",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "스마일게이트, 마리오아울렛에 '에픽세븐'·'카오스 제로 나이트메어' 팝업 오픈",
+      "url": "https://n.news.naver.com/article/030/0003440535?type=journalists",
+      "published_at": "2026-06-23T16:20:10+09:00",
+      "sent_at": "2026-06-23T16:36:20.586996+09:00"
+    },
+    {
+      "id": "ac8dd1924f362af84cd26fb75a860add23fa49c05516dcb2abc7a6b6e288cf34",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "펄어비스, 7월 11일 '검은사막 모바일 하이델 연회' 개최... 하반기 업데이트 공개",
+      "url": "https://n.news.naver.com/article/030/0003440533?type=journalists",
+      "published_at": "2026-06-23T16:18:16+09:00",
+      "sent_at": "2026-06-23T16:36:23.840166+09:00"
+    },
+    {
+      "id": "9ccb953e8cea6ff14c59431c93ac7a57b60a8240c22533f2dbb413db165e37fb",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "넥슨, '블루 아카이브' 메인 스토리 'EX. 데카그라마톤 편 3장' 최종편 업데이트",
+      "url": "https://n.news.naver.com/article/030/0003440532?type=journalists",
+      "published_at": "2026-06-23T16:17:10+09:00",
+      "sent_at": "2026-06-23T16:36:26.563472+09:00"
+    },
+    {
+      "id": "fbb843f0e4bd743ea6ca4a598db1d6ae070168f7621461f8b07be0d351de306f",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "넥슨, '크레이지레이싱 카트라이더' 부활 선언... 원작 이름 그대로 계승",
+      "url": "https://n.news.naver.com/article/030/0003440531?type=journalists",
+      "published_at": "2026-06-23T16:16:15+09:00",
+      "sent_at": "2026-06-23T16:36:29.114813+09:00"
     }
   ],
-  "last_run_at": "2026-06-23T07:31:10.150490+00:00"
+  "last_run_at": "2026-06-23T07:36:16.022739+00:00"
 }
