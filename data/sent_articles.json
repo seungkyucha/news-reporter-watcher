@@ -314,7 +314,16 @@
       "url": "https://n.news.naver.com/article/030/0003440531?type=journalists",
       "published_at": "2026-06-23T16:16:15+09:00",
       "sent_at": "2026-06-23T16:36:29.114813+09:00"
+    },
+    {
+      "id": "78f7d1bce23828595895d3ce16dca8a5c8a0e2c04020170ed4c734f2a5a5eae7",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "'군 복무' 데프트·라스칼, 아시안게임 전력분석관 맡았다",
+      "url": "https://n.news.naver.com/article/001/0016154611?type=journalists",
+      "published_at": "2026-06-23T17:37:15+09:00",
+      "sent_at": "2026-06-23T17:53:14.931526+09:00"
     }
   ],
-  "last_run_at": "2026-06-23T08:48:02.897059+00:00"
+  "last_run_at": "2026-06-23T08:53:09.049800+00:00"
 }
