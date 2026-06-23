@@ -305,7 +305,34 @@
       "url": "https://n.news.naver.com/article/030/0003440368?type=journalists",
       "published_at": "2026-06-23T13:36:13+09:00",
       "sent_at": "2026-06-23T13:57:21.303213+09:00"
+    },
+    {
+      "id": "6ccd72bd506b6517925a7b197f25d4be20b18bc17091fd6921b7b77172778429",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "넥슨-문체부, 2500억 규모 게임 IP 투자 생태계 구축... '게임 전문 펀드' 물꼬 텄다",
+      "url": "https://n.news.naver.com/article/030/0003440397?type=journalists",
+      "published_at": "2026-06-23T13:55:16+09:00",
+      "sent_at": "2026-06-23T14:07:37.524253+09:00"
+    },
+    {
+      "id": "5a07a0daa3908bf412f23f2883ed88c7e45cd11a47a18fecdbd463ba8a1b78d1",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "크래프톤, 게임스컴 2026서 신작 5종 공개... '배틀그라운드' 이을 차세대 IP 출격",
+      "url": "https://n.news.naver.com/article/030/0003440394?type=journalists",
+      "published_at": "2026-06-23T13:52:19+09:00",
+      "sent_at": "2026-06-23T14:07:40.390492+09:00"
+    },
+    {
+      "id": "8825f09898209f7fba8558054aa8ce54b48a90d2793c1da441fd337b6362187b",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "네오위즈, 내러티브 CRPG '와인드 업 데드맨' 퍼블리싱 계약 체결",
+      "url": "https://n.news.naver.com/article/030/0003440389?type=journalists",
+      "published_at": "2026-06-23T13:48:18+09:00",
+      "sent_at": "2026-06-23T14:07:43.357618+09:00"
     }
   ],
-  "last_run_at": "2026-06-23T05:02:25.913662+00:00"
+  "last_run_at": "2026-06-23T05:07:32.740596+00:00"
 }
