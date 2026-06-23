@@ -269,7 +269,43 @@
       "url": "https://n.news.naver.com/article/001/0016153674?type=journalists",
       "published_at": "2026-06-23T12:11:15+09:00",
       "sent_at": "2026-06-23T12:25:03.328992+09:00"
+    },
+    {
+      "id": "0453a3b4e22f10ce614c5bb22633f2fc79dfeb3ee0dba13b40cb74b2cb3558ef",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "넥써쓰, 대만 머스타버스와 '아우라얄' 크로쓰 온보딩 업무협약 체결",
+      "url": "https://n.news.naver.com/article/030/0003440384?type=journalists",
+      "published_at": "2026-06-23T13:45:16+09:00",
+      "sent_at": "2026-06-23T13:57:12.526192+09:00"
+    },
+    {
+      "id": "953bc979df71e0151d53478a74042ca2b7534264826d0405f232dabda241fe59",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "에픽게임즈, '언리얼 페스트 서울 2026' 사전등록 개시... 팀 스위니 창업자 키노트",
+      "url": "https://n.news.naver.com/article/030/0003440380?type=journalists",
+      "published_at": "2026-06-23T13:43:19+09:00",
+      "sent_at": "2026-06-23T13:57:15.495580+09:00"
+    },
+    {
+      "id": "888232e2035c025aa3f647831b42e69b8dec01f939a6d350d9042ff7c8666718",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "[ICT 시사용어] K-문샷 프로젝트",
+      "url": "https://n.news.naver.com/article/030/0003440369?type=journalists",
+      "published_at": "2026-06-23T13:37:13+09:00",
+      "sent_at": "2026-06-23T13:57:18.384885+09:00"
+    },
+    {
+      "id": "d21818b9a9e234d17af83e9f911311a4942c69f0a3819dd26e23ccadf3853d8e",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "獨 대통령도 찾는 게임스컴... '국가전략산업 게임'에 정계 총출동",
+      "url": "https://n.news.naver.com/article/030/0003440368?type=journalists",
+      "published_at": "2026-06-23T13:36:13+09:00",
+      "sent_at": "2026-06-23T13:57:21.303213+09:00"
     }
   ],
-  "last_run_at": "2026-06-23T04:52:01.146138+00:00"
+  "last_run_at": "2026-06-23T04:57:07.810816+00:00"
 }
