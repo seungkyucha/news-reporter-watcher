@@ -332,7 +332,16 @@
       "url": "https://n.news.naver.com/article/030/0003440389?type=journalists",
       "published_at": "2026-06-23T13:48:18+09:00",
       "sent_at": "2026-06-23T14:07:43.357618+09:00"
+    },
+    {
+      "id": "29e1e4849bb4599259c86bda24da3e6874f11a2f2177978d3631a279d2a2e5d1",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "\"게임·음악 제작비 세액공제 도입\" 조세특례법 개정안 발의",
+      "url": "https://n.news.naver.com/article/001/0016153921?type=journalists",
+      "published_at": "2026-06-23T14:06:37+09:00",
+      "sent_at": "2026-06-23T14:23:08.955138+09:00"
     }
   ],
-  "last_run_at": "2026-06-23T05:17:55.419550+00:00"
+  "last_run_at": "2026-06-23T05:23:02.697723+00:00"
 }
