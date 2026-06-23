@@ -341,7 +341,16 @@
       "url": "https://n.news.naver.com/article/001/0016153921?type=journalists",
       "published_at": "2026-06-23T14:06:37+09:00",
       "sent_at": "2026-06-23T14:23:08.955138+09:00"
+    },
+    {
+      "id": "24ad9004083affafce8bd77740340a807599d770f9afda32d0bb5faf59fc61b0",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "에픽게임즈, 콘퍼런스 '언리얼 페스트 서울' 8월 개최",
+      "url": "https://n.news.naver.com/article/001/0016153254?type=journalists",
+      "published_at": "2026-06-23T23:59:59+09:00",
+      "sent_at": "2026-06-23T14:33:35.864473+09:00"
     }
   ],
-  "last_run_at": "2026-06-23T05:28:13.102200+00:00"
+  "last_run_at": "2026-06-23T05:33:21.143118+00:00"
 }
