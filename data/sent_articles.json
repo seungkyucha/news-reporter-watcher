@@ -332,7 +332,16 @@
       "url": "https://n.news.naver.com/article/030/0003438975?type=journalists",
       "published_at": "2026-06-18T14:10:25+09:00",
       "sent_at": "2026-06-18T14:22:58.669407+09:00"
+    },
+    {
+      "id": "74e5b2f677686cceaacd9e41fd45a117ca3c7b3a074a7ebcf48f23350b1125a0",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "[써보니] 친구 없어도 AI와 듀오 즐긴다…'펍지 앨라이' 해보니",
+      "url": "https://n.news.naver.com/article/001/0016153674?type=journalists",
+      "published_at": "2026-06-23T12:11:15+09:00",
+      "sent_at": "2026-06-23T12:25:03.328992+09:00"
     }
   ],
-  "last_run_at": "2026-06-23T03:20:46.024166+00:00"
+  "last_run_at": "2026-06-23T03:24:57.726600+00:00"
 }
