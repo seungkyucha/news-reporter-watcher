@@ -341,7 +341,16 @@
       "url": "https://n.news.naver.com/article/001/0016153254?type=journalists",
       "published_at": "2026-06-23T23:59:59+09:00",
       "sent_at": "2026-06-23T14:33:35.864473+09:00"
+    },
+    {
+      "id": "53ee38f7230b885cebcfe0e31e4fe34ed1a7db0236e624f4a5b3c35e8308a585",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "카트라이더 부활 선언…넥슨, 원작 이름 그대로 돌아온다",
+      "url": "https://n.news.naver.com/article/001/0016154153?type=journalists",
+      "published_at": "2026-06-23T15:13:13+09:00",
+      "sent_at": "2026-06-23T15:24:42.618617+09:00"
     }
   ],
-  "last_run_at": "2026-06-23T06:19:31.189937+00:00"
+  "last_run_at": "2026-06-23T06:24:37.544414+00:00"
 }
