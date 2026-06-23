@@ -1,24 +1,6 @@
 {
   "sent": [
     {
-      "id": "bc1486e541aa44f283fa44252c4db7f8be5f1282975e957e6f61b1223732dd02",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "title": "위메이드맥스, 방치형 RPG 신작 '윈드러너 키우기' 사전예약 실시",
-      "url": "https://n.news.naver.com/article/030/0003438171?type=journalists",
-      "published_at": "2026-06-16T15:33:11+09:00",
-      "sent_at": "2026-06-16T15:45:43.729227+09:00"
-    },
-    {
-      "id": "3b47590c42800275c3451182348c9112404bf229d482f9e70eda05fb3f69c6eb",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "title": "크래프톤, 'PUBG 엘라이' 베타 서비스 첫 공개",
-      "url": "https://n.news.naver.com/article/030/0003438169?type=journalists",
-      "published_at": "2026-06-16T15:31:11+09:00",
-      "sent_at": "2026-06-16T15:45:45.483069+09:00"
-    },
-    {
       "id": "23d61fada751e0f9ad8005d478981ebb874e27b4fbbc8af104f4b762d1d2a9f5",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -343,5 +325,5 @@
       "sent_at": "2026-06-23T15:24:42.618617+09:00"
     }
   ],
-  "last_run_at": "2026-06-23T06:45:08.188185+00:00"
+  "last_run_at": "2026-06-23T06:50:14.941186+00:00"
 }
