@@ -386,7 +386,52 @@
       "url": "https://n.news.naver.com/article/001/0016156370?type=journalists",
       "published_at": "2026-06-24T14:17:18+09:00",
       "sent_at": "2026-06-24T14:35:13.402571+09:00"
+    },
+    {
+      "id": "32a3e164697fb823e1de17cf9a358c0f7f486602175135d9024ec8002ab2518e",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "한국인공지능게임협회, '2026 게임사 프로젝트 현장교육 프로그램' 참여기업 모집",
+      "url": "https://n.news.naver.com/article/030/0003440882?type=journalists",
+      "published_at": "2026-06-24T14:31:20+09:00",
+      "sent_at": "2026-06-24T14:45:25.483846+09:00"
+    },
+    {
+      "id": "9e085654e064cbeb0429f9a5623f3c47ed9cfe56f380817e3a438a33093b065c",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "넷마블, '솔: 인챈트' 흥행 안착... 신규 IP로 MMORPG 경쟁력 입증",
+      "url": "https://n.news.naver.com/article/030/0003440879?type=journalists",
+      "published_at": "2026-06-24T14:31:13+09:00",
+      "sent_at": "2026-06-24T14:45:28.368592+09:00"
+    },
+    {
+      "id": "3051b2f444c6577c96ea7abbd6d7c17c90fa4fa0107b35f3db20d0b6f9b16004",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "디아블로IV, 14번째 시즌 '죽음의 각성' 7월 1일 개막…신규 직업 체험·종반 콘텐츠 대폭 확장",
+      "url": "https://n.news.naver.com/article/030/0003440877?type=journalists",
+      "published_at": "2026-06-24T14:29:18+09:00",
+      "sent_at": "2026-06-24T14:45:30.747686+09:00"
+    },
+    {
+      "id": "c452be06868ece32f82097553da53997e589a91b51c21bbf82407c06b3efe295",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "컴투스 신작 MMORPG '제우스: 오만의 신', 실제 게임 플레이 영상 첫 공개",
+      "url": "https://n.news.naver.com/article/030/0003440874?type=journalists",
+      "published_at": "2026-06-24T14:27:13+09:00",
+      "sent_at": "2026-06-24T14:45:33.395918+09:00"
+    },
+    {
+      "id": "ee921e0442608a1212d7ab2405ebd6dea8a79cb982805388d87259ba768d09b7",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "인디크래프트 선정 개발사 한자리에... AI·글로벌 진출 전략 공유",
+      "url": "https://n.news.naver.com/article/030/0003440872?type=journalists",
+      "published_at": "2026-06-24T14:26:20+09:00",
+      "sent_at": "2026-06-24T14:45:36.132913+09:00"
     }
   ],
-  "last_run_at": "2026-06-24T05:40:15.633758+00:00"
+  "last_run_at": "2026-06-24T05:45:20.118479+00:00"
 }
