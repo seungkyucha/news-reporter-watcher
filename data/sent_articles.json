@@ -314,7 +314,61 @@
       "url": "https://n.news.naver.com/article/001/0016154611?type=journalists",
       "published_at": "2026-06-23T17:37:15+09:00",
       "sent_at": "2026-06-23T17:53:14.931526+09:00"
+    },
+    {
+      "id": "3f70a1c6a803c628b70fceef4cc547dbb106922cba75e0b37a0486ea87be391a",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "김창한 크래프톤 대표, AWS CEO와 회동…AI 협력 확대 시동",
+      "url": "https://n.news.naver.com/article/001/0016155795?type=journalists",
+      "published_at": "2026-06-24T11:07:10+09:00",
+      "sent_at": "2026-06-24T11:57:03.564633+09:00"
+    },
+    {
+      "id": "91c3fc07f359c6cfcca02963fafe1cafa7d91b5b49c9b938c415b3ef982001aa",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "SOOP, 세계핀수영선수권대회 국내 단독 생중계",
+      "url": "https://n.news.naver.com/article/001/0016155657?type=journalists",
+      "published_at": "2026-06-24T23:59:59+09:00",
+      "sent_at": "2026-06-24T11:57:07.504387+09:00"
+    },
+    {
+      "id": "8ce813ffc67743615d9254c461b25763c809ef315b1ed628c4ca55dd06306ecf",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "밸브, 소형 게이밍 PC '스팀 머신' 공개…한국선 구매 불가",
+      "url": "https://n.news.naver.com/article/001/0016155625?type=journalists",
+      "published_at": "2026-06-24T10:34:16+09:00",
+      "sent_at": "2026-06-24T11:57:10.157009+09:00"
+    },
+    {
+      "id": "c967785e151cae76464a32cdfdffa55b5b6ad242eb444d337b3a3474f99f936f",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "컴투스, '컴투스프로야구' 클럽 챔피언십 개최",
+      "url": "https://n.news.naver.com/article/001/0016155463?type=journalists",
+      "published_at": "2026-06-24T10:07:01+09:00",
+      "sent_at": "2026-06-24T11:57:12.494298+09:00"
+    },
+    {
+      "id": "43d4bef12fb63fe5ec470e01d1676fba25cf2a7769b5108ca9d1d6ec35fe2213",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "[AI픽] \"4주 걸리던 작업을 3분에\"…NC AI, 바르코 3D 2.0 공개",
+      "url": "https://n.news.naver.com/article/001/0016155169?type=journalists",
+      "published_at": "2026-06-24T08:45:06+09:00",
+      "sent_at": "2026-06-24T11:57:14.925002+09:00"
+    },
+    {
+      "id": "ed4ff32590f89861958907276f157f4ef5c904baf63bb3d16072ea506c06c8b1",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "게임 유튜버 프로모션 논란…어디까지가 마케팅인가",
+      "url": "https://n.news.naver.com/article/001/0016155022?type=journalists",
+      "published_at": "2026-06-24T06:33:00+09:00",
+      "sent_at": "2026-06-24T11:57:17.475652+09:00"
     }
   ],
-  "last_run_at": "2026-06-23T20:59:20.972088+00:00"
+  "last_run_at": "2026-06-24T02:56:58.456005+00:00"
 }
