@@ -350,7 +350,16 @@
       "url": "https://n.news.naver.com/article/001/0016159863?type=journalists",
       "published_at": "2026-06-25T16:12:11+09:00",
       "sent_at": "2026-06-25T17:15:52.192896+09:00"
+    },
+    {
+      "id": "7b7082e20747871ed1525b3ba6992034900ab3f6227a6e35ba43dda4f85abed4",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "한국저작권위원회, 영화와 함께 즐기는 저작권 문화행사... '저작권 문화가 있는 날' 성료",
+      "url": "https://n.news.naver.com/article/030/0003441468?type=journalists",
+      "published_at": "2026-06-25T17:53:14+09:00",
+      "sent_at": "2026-06-25T18:06:30.718008+09:00"
     }
   ],
-  "last_run_at": "2026-06-25T09:01:23.601354+00:00"
+  "last_run_at": "2026-06-25T09:06:27.191859+00:00"
 }
