@@ -359,7 +359,16 @@
       "url": "https://n.news.naver.com/article/030/0003441468?type=journalists",
       "published_at": "2026-06-25T17:53:14+09:00",
       "sent_at": "2026-06-25T18:06:30.718008+09:00"
+    },
+    {
+      "id": "515f2c4a997156bd1dc81d949ce73c59749c2b7a2c7d367e7d6c5764f71a7c6e",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "[만나보니] 넥써쓰 장현국 \"원스토어로 모바일판 스팀 만들겠다\"",
+      "url": "https://n.news.naver.com/article/001/0016160316?type=journalists",
+      "published_at": "2026-06-26T07:12:01+09:00",
+      "sent_at": "2026-06-26T07:24:21.271934+09:00"
     }
   ],
-  "last_run_at": "2026-06-25T22:19:12.757903+00:00"
+  "last_run_at": "2026-06-25T22:24:16.600577+00:00"
 }
