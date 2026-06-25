@@ -1,96 +1,6 @@
 {
   "sent": [
     {
-      "id": "63882541e8458f745b92509c5cc61f0004e0bbb79927a1623a26acf43eaeed00",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "포켓몬 30주년 기념 축제 부산서 개최…도심 곳곳 체험 행사",
-      "url": "https://n.news.naver.com/article/001/0016145513?type=journalists",
-      "published_at": "2026-06-18T10:57:21+09:00",
-      "sent_at": "2026-06-18T12:41:11.937927+09:00"
-    },
-    {
-      "id": "ab65f64e673ee81aeb62037f33be9d90c2a853cd260196a4502ff3d79051f420",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "펄어비스, 게임스컴서 '붉은사막' 개발기 강연한다",
-      "url": "https://n.news.naver.com/article/001/0016145397?type=journalists",
-      "published_at": "2026-06-18T10:34:40+09:00",
-      "sent_at": "2026-06-18T12:41:13.897007+09:00"
-    },
-    {
-      "id": "2fdb77cf1b68a074618be5ee49e84d627dc3fa872b188bd1dcfd2090fd8e2969",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "구글·애플 30% 수수료 논란 재점화…시민단체 \"정상화하라\"",
-      "url": "https://n.news.naver.com/article/001/0016145388?type=journalists",
-      "published_at": "2026-06-18T10:31:00+09:00",
-      "sent_at": "2026-06-18T12:41:15.673674+09:00"
-    },
-    {
-      "id": "2e9ef455a6d459829a7c9ea1c71cfc1910ea88565909c0ce42db2f5713437941",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "유저에 게임 운영권 준다…넷마블, 'SOL: 인챈트' 출시",
-      "url": "https://n.news.naver.com/article/001/0016145251?type=journalists",
-      "published_at": "2026-06-18T10:01:07+09:00",
-      "sent_at": "2026-06-18T12:41:17.802676+09:00"
-    },
-    {
-      "id": "cece6f1cf520e2ef4df8cb0c8027b345fe2132fbdd67f7d8b5986d445355ea21",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "게임으로 ADHD 치료하나…'가디언즈DTx' 임상 결과 공개",
-      "url": "https://n.news.naver.com/article/001/0016145033?type=journalists",
-      "published_at": "2026-06-18T09:07:17+09:00",
-      "sent_at": "2026-06-18T12:41:19.711602+09:00"
-    },
-    {
-      "id": "122413cd6077d112e01da9e77964de7b05592387ca8855232d8cb94001c79702",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "[AI픽] AI로 강해진 언리얼 엔진 6…에픽게임즈 \"내년말 출시\"",
-      "url": "https://n.news.naver.com/article/001/0016145998?type=journalists",
-      "published_at": "2026-06-18T13:38:41+09:00",
-      "sent_at": "2026-06-18T13:52:24.777582+09:00"
-    },
-    {
-      "id": "6a8b1449f0893f3a04336708636f4a8826d491a6cd85502527cb95c5160af78b",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "title": "더핑크퐁컴퍼니, 동대문 DDP서 '아기상어' AI 인터랙티브 전시 개막",
-      "url": "https://n.news.naver.com/article/030/0003438940?type=journalists",
-      "published_at": "2026-06-18T13:52:18+09:00",
-      "sent_at": "2026-06-18T14:02:35.709125+09:00"
-    },
-    {
-      "id": "df6beb46dd55d1d764873580cf7b5b26ad0801fd335d333013e48bb1f210da7c",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "title": "넷마블, '솔: 인챈트' 정식 출시... 이용자가 만드는 MMORPG 세계 연다",
-      "url": "https://n.news.naver.com/article/030/0003438933?type=journalists",
-      "published_at": "2026-06-18T13:47:15+09:00",
-      "sent_at": "2026-06-18T14:02:37.450649+09:00"
-    },
-    {
-      "id": "437cdbb32483fa5c29599c5ed596dcc4ecb51ccac5895187da70a7aab13d632e",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "title": "원스 휴먼, 콘솔 버전 파이널 오픈 베타 시작... 7월 9일까지",
-      "url": "https://n.news.naver.com/article/030/0003438945?type=journalists",
-      "published_at": "2026-06-18T13:58:17+09:00",
-      "sent_at": "2026-06-18T14:12:48.072692+09:00"
-    },
-    {
-      "id": "467ad92404023dfed6334132513f8d4079a45a29abd3a1b31a374a018fec77e8",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "title": "KeSPA-체육공단, 청소년 생활체육·e스포츠 문화 확산 맞손",
-      "url": "https://n.news.naver.com/article/030/0003438975?type=journalists",
-      "published_at": "2026-06-18T14:10:25+09:00",
-      "sent_at": "2026-06-18T14:22:58.669407+09:00"
-    },
-    {
       "id": "74e5b2f677686cceaacd9e41fd45a117ca3c7b3a074a7ebcf48f23350b1125a0",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -413,7 +323,34 @@
       "url": "https://n.news.naver.com/article/001/0016157669?type=journalists",
       "published_at": "2026-06-25T09:24:23+09:00",
       "sent_at": "2026-06-25T09:36:38.035623+09:00"
+    },
+    {
+      "id": "41934ac4db5fd65e2a5ba5842705e590dd226fc39f94e022f807fdb35f14b208",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "[단독] 로블록스, '확률형 아이템' 국내 게임법 맞춰 공개 의무화",
+      "url": "https://n.news.naver.com/article/030/0003441374?type=journalists",
+      "published_at": "2026-06-25T14:53:13+09:00",
+      "sent_at": "2026-06-25T17:15:47.187739+09:00"
+    },
+    {
+      "id": "d9ef50a4478e694902bb79f4e7eb63aa782ee7cd581b22ef711ccd701a3ceb89",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "엔씨, 리니지2M 중국 정식 출시... 현지 앱스토어 인기 1위 기록",
+      "url": "https://n.news.naver.com/article/030/0003441219?type=journalists",
+      "published_at": "2026-06-25T12:34:19+09:00",
+      "sent_at": "2026-06-25T17:15:49.448553+09:00"
+    },
+    {
+      "id": "f4ba14d7a7a481730ba022360a6e418d6d4af015ec65247eeacd715362259264",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "게임이용자협회 \"유튜버 프로모션은 매출 순위 조작…중단해야\"",
+      "url": "https://n.news.naver.com/article/001/0016159863?type=journalists",
+      "published_at": "2026-06-25T16:12:11+09:00",
+      "sent_at": "2026-06-25T17:15:52.192896+09:00"
     }
   ],
-  "last_run_at": "2026-06-25T02:17:54.056053+00:00"
+  "last_run_at": "2026-06-25T08:15:42.901794+00:00"
 }
