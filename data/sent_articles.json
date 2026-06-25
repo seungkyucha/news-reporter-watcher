@@ -404,7 +404,16 @@
       "url": "https://n.news.naver.com/article/001/0016157370?type=journalists",
       "published_at": "2026-06-25T04:24:20+09:00",
       "sent_at": "2026-06-25T05:32:46.239387+09:00"
+    },
+    {
+      "id": "5d8c457ceba028ebac532defff09bb320594d513050e1e7d359bdec060b60ab7",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "엔씨 '리니지2M' 중국 정식 출시…현지 앱스토어 인기 1위",
+      "url": "https://n.news.naver.com/article/001/0016157669?type=journalists",
+      "published_at": "2026-06-25T09:24:23+09:00",
+      "sent_at": "2026-06-25T09:36:38.035623+09:00"
     }
   ],
-  "last_run_at": "2026-06-25T00:31:27.762572+00:00"
+  "last_run_at": "2026-06-25T00:36:33.041822+00:00"
 }
