@@ -368,7 +368,16 @@
       "url": "https://n.news.naver.com/article/001/0016160316?type=journalists",
       "published_at": "2026-06-26T07:12:01+09:00",
       "sent_at": "2026-06-26T07:24:21.271934+09:00"
+    },
+    {
+      "id": "6b033450db0c07681e2f37bf907d8b7a4c47136bb025ef990cc6e8562bc29e0e",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "르세라핌, 블리즈컨 2026 폐막 무대 오른다",
+      "url": "https://n.news.naver.com/article/001/0016160841?type=journalists",
+      "published_at": "2026-06-26T10:08:50+09:00",
+      "sent_at": "2026-06-26T10:26:46.944197+09:00"
     }
   ],
-  "last_run_at": "2026-06-26T01:21:38.199691+00:00"
+  "last_run_at": "2026-06-26T01:26:42.211390+00:00"
 }
