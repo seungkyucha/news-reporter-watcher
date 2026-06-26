@@ -377,7 +377,16 @@
       "url": "https://n.news.naver.com/article/001/0016160841?type=journalists",
       "published_at": "2026-06-26T10:08:50+09:00",
       "sent_at": "2026-06-26T10:26:46.944197+09:00"
+    },
+    {
+      "id": "2bf833caf89812d5da469258c1e37a3401c230d5fd6da3c987af5195922b5bef",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "SOOP, LoL 국제대회 'MSI 2026' 전 경기 다국어 생중계",
+      "url": "https://n.news.naver.com/article/001/0016160882?type=journalists",
+      "published_at": "2026-06-26T10:18:26+09:00",
+      "sent_at": "2026-06-26T10:36:57.655528+09:00"
     }
   ],
-  "last_run_at": "2026-06-26T01:31:48.733846+00:00"
+  "last_run_at": "2026-06-26T01:36:52.716702+00:00"
 }
