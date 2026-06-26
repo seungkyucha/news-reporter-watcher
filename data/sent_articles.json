@@ -395,7 +395,61 @@
       "url": "https://n.news.naver.com/article/001/0016160911?type=journalists",
       "published_at": "2026-06-26T10:26:49+09:00",
       "sent_at": "2026-06-26T10:47:09.008314+09:00"
+    },
+    {
+      "id": "9d4ce177e77d6204db15c088f24e4416cb06ba9ddb3752583a01265b573f85f8",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "크래프톤, 배틀그라운드 e스포츠 국가대항전 'PNC 2026 in Seoul' 개막",
+      "url": "https://n.news.naver.com/article/030/0003441586?type=journalists",
+      "published_at": "2026-06-26T10:53:14+09:00",
+      "sent_at": "2026-06-26T16:51:07.987180+09:00"
+    },
+    {
+      "id": "2e51c472bf6f20ce476532c56da60c4e852c169bec9baa61fdf4b1a2de02f7b1",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "넷마블, 오픈월드 RPG '일곱 개의 대죄: 오리진' 출시 100일 기념 업데이트 실시",
+      "url": "https://n.news.naver.com/article/030/0003441583?type=journalists",
+      "published_at": "2026-06-26T10:51:17+09:00",
+      "sent_at": "2026-06-26T16:51:10.551271+09:00"
+    },
+    {
+      "id": "d42304c9d8b9b6a8c0c547321bd4d91cccff1d4ff3a28d48094da4db90fed780",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "네오위즈 '디제이맥스 리스펙트 V', 신규 DLC 'V 리버티 5' 출시",
+      "url": "https://n.news.naver.com/article/030/0003441579?type=journalists",
+      "published_at": "2026-06-26T10:49:16+09:00",
+      "sent_at": "2026-06-26T16:51:13.237495+09:00"
+    },
+    {
+      "id": "a43182ab0e80d972df2a9f343a499f698fa3639f4a560cc0c7dd87e63138dcd6",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "조이시티, 프리스타일 리마스터 신작 '프리스타일 리부트' 공개",
+      "url": "https://n.news.naver.com/article/030/0003441576?type=journalists",
+      "published_at": "2026-06-26T10:45:11+09:00",
+      "sent_at": "2026-06-26T16:51:15.898638+09:00"
+    },
+    {
+      "id": "3f18b147d1d9400511c6b50269c18fc81de98fc061b2053e06e2ff14c065822a",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "라이엇게임즈, 실물 TCG '리프트바운드' 9월 국내 출시... MSI서 첫 체험 행사",
+      "url": "https://n.news.naver.com/article/030/0003441574?type=journalists",
+      "published_at": "2026-06-26T10:41:11+09:00",
+      "sent_at": "2026-06-26T16:51:18.255707+09:00"
+    },
+    {
+      "id": "0246e0b767c07d0689058359ebb336f763c4bc3944ea916248cd1abf6c91ee39",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "스마일게이트 스토브, '그랜드체이스 클래식' 사전 등록",
+      "url": "https://n.news.naver.com/article/001/0016161658?type=journalists",
+      "published_at": "2026-06-26T15:18:46+09:00",
+      "sent_at": "2026-06-26T16:51:21.301473+09:00"
     }
   ],
-  "last_run_at": "2026-06-26T01:52:10.779496+00:00"
+  "last_run_at": "2026-06-26T07:51:02.322567+00:00"
 }
