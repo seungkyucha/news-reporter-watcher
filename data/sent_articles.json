@@ -458,7 +458,16 @@
       "url": "https://n.news.naver.com/article/001/0016162036?type=journalists",
       "published_at": "2026-06-26T17:15:52+09:00",
       "sent_at": "2026-06-26T17:37:02.785167+09:00"
+    },
+    {
+      "id": "7226cc00774c565fe2d274664b70ab6d7d7d8ef12c52cb28df8ac8c5f6f94326",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "크래프톤 장태석 \"PUBG, 게임 넘어선 문화 플랫폼으로 만들겠다\"",
+      "url": "https://n.news.naver.com/article/001/0016162133?type=journalists",
+      "published_at": "2026-06-26T18:55:25+09:00",
+      "sent_at": "2026-06-26T19:13:27.381250+09:00"
     }
   ],
-  "last_run_at": "2026-06-26T10:08:17.766942+00:00"
+  "last_run_at": "2026-06-26T10:13:22.088887+00:00"
 }
