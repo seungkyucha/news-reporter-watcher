@@ -386,7 +386,16 @@
       "url": "https://n.news.naver.com/article/001/0016160882?type=journalists",
       "published_at": "2026-06-26T10:18:26+09:00",
       "sent_at": "2026-06-26T10:36:57.655528+09:00"
+    },
+    {
+      "id": "50e25b35891be71cd3570de29f98e51d783ad7c53f2df00a82a238d6a00a60e2",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "카드로 즐기는 LoL…'리프트바운드' 9월 한국 출시",
+      "url": "https://n.news.naver.com/article/001/0016160911?type=journalists",
+      "published_at": "2026-06-26T10:26:49+09:00",
+      "sent_at": "2026-06-26T10:47:09.008314+09:00"
     }
   ],
-  "last_run_at": "2026-06-26T01:41:59.479300+00:00"
+  "last_run_at": "2026-06-26T01:47:03.760101+00:00"
 }
