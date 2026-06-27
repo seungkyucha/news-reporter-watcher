@@ -485,7 +485,16 @@
       "url": "https://n.news.naver.com/article/001/0016162162?type=journalists",
       "published_at": "2026-06-26T19:40:17+09:00",
       "sent_at": "2026-06-26T19:54:06.433389+09:00"
+    },
+    {
+      "id": "735a0652ce34f14cbe532ed582b35f26c9327187a5d11bca82c3422111af4408",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "[게임위드인] 앱마켓 순위 경쟁 부른 '유튜버 프로모션' 논란",
+      "url": "https://n.news.naver.com/article/001/0016162373?type=journalists",
+      "published_at": "2026-06-27T11:00:01+09:00",
+      "sent_at": "2026-06-27T16:21:18.063412+09:00"
     }
   ],
-  "last_run_at": "2026-06-27T01:24:31.368564+00:00"
+  "last_run_at": "2026-06-27T07:21:12.160008+00:00"
 }
