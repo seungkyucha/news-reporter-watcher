@@ -503,7 +503,16 @@
       "url": "https://n.news.naver.com/article/001/0016162996?type=journalists",
       "published_at": "2026-06-28T09:00:04+09:00",
       "sent_at": "2026-06-28T09:17:12.690241+09:00"
+    },
+    {
+      "id": "ebe64f7c4d34351082de6fe666223f67b50d62df77fbae162a62da1202d73c7d",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "[K게임 대도약, 지금이 골든타임]〈2〉제작비 세액공제 2.3조원 경제효과... 국회 논의 서둘러야",
+      "url": "https://n.news.naver.com/article/030/0003441910?type=journalists",
+      "published_at": "2026-06-28T10:31:11+09:00",
+      "sent_at": "2026-06-28T15:55:19.794497+09:00"
     }
   ],
-  "last_run_at": "2026-06-28T00:57:43.126662+00:00"
+  "last_run_at": "2026-06-28T06:55:14.277109+00:00"
 }
