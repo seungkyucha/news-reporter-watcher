@@ -629,7 +629,34 @@
       "url": "https://n.news.naver.com/article/001/0016165731?type=journalists",
       "published_at": "2026-06-29T17:01:58+09:00",
       "sent_at": "2026-06-29T17:15:53.078987+09:00"
+    },
+    {
+      "id": "da60a2493fcfe33a65d4307033b9e266933cf5e09788d24aae0e0d5841a4746a",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "크래프톤, ESG 보고서 발간…'책임 있는 AI'·'신뢰할 수 있는 퍼블리싱' 제시",
+      "url": "https://n.news.naver.com/article/030/0003442462?type=journalists",
+      "published_at": "2026-06-29T17:35:13+09:00",
+      "sent_at": "2026-06-29T17:46:19.498364+09:00"
+    },
+    {
+      "id": "c930c11fb7527b6982956709a9483e4cbd8aa430e485b38f3a7dc6c0ad996fb0",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "게임문화재단, 부산서 청소년 디지털 과몰입 해소 캠프 개최",
+      "url": "https://n.news.naver.com/article/030/0003442459?type=journalists",
+      "published_at": "2026-06-29T17:32:18+09:00",
+      "sent_at": "2026-06-29T17:46:21.993778+09:00"
+    },
+    {
+      "id": "0c3871ae196bcbba2ef216f54a5a7c6b2536339d426cac7775979b491199b288",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "문체부·게임위, 숙박업소 내 무등록 게임영업 근절을 위한 안내 및 행정지도 추진",
+      "url": "https://n.news.naver.com/article/030/0003442454?type=journalists",
+      "published_at": "2026-06-29T23:59:59+09:00",
+      "sent_at": "2026-06-29T17:46:34.157165+09:00"
     }
   ],
-  "last_run_at": "2026-06-29T08:41:10.399277+00:00"
+  "last_run_at": "2026-06-29T08:46:14.291326+00:00"
 }
