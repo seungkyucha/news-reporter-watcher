@@ -656,7 +656,16 @@
       "url": "https://n.news.naver.com/article/030/0003442454?type=journalists",
       "published_at": "2026-06-29T23:59:59+09:00",
       "sent_at": "2026-06-29T17:46:34.157165+09:00"
+    },
+    {
+      "id": "aa0b6b5bcb8578b42c92b8b861c9fcbce004b26640bd8ffcd27954562383383b",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "위메이드, ESG 보고서 발간…게임·블록체인 특화 '서비스 품질 관리' 강화",
+      "url": "https://n.news.naver.com/article/030/0003442500?type=journalists",
+      "published_at": "2026-06-29T19:11:09+09:00",
+      "sent_at": "2026-06-29T19:22:58.669710+09:00"
     }
   ],
-  "last_run_at": "2026-06-29T10:17:48.536696+00:00"
+  "last_run_at": "2026-06-29T10:22:52.843541+00:00"
 }
