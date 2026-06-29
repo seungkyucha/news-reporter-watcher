@@ -620,7 +620,16 @@
       "url": "https://n.news.naver.com/article/001/0016165518?type=journalists",
       "published_at": "2026-06-29T15:55:41+09:00",
       "sent_at": "2026-06-29T16:14:57.431209+09:00"
+    },
+    {
+      "id": "3da7157e5eb55055830e01a00a7e1ab82eb1c359185182ddea6fb1b8c18100c5",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "게임텔 불법영업 막는다…문체부, 행정지도 나서",
+      "url": "https://n.news.naver.com/article/001/0016165731?type=journalists",
+      "published_at": "2026-06-29T17:01:58+09:00",
+      "sent_at": "2026-06-29T17:15:53.078987+09:00"
     }
   ],
-  "last_run_at": "2026-06-29T08:10:43.255386+00:00"
+  "last_run_at": "2026-06-29T08:15:47.839336+00:00"
 }
