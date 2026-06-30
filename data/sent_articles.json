@@ -728,7 +728,16 @@
       "url": "https://n.news.naver.com/article/030/0003442951?type=journalists",
       "published_at": "2026-06-30T17:42:16+09:00",
       "sent_at": "2026-06-30T17:56:44.981154+09:00"
+    },
+    {
+      "id": "a06f6761db6fbac0fc26def6781d9428100372e75fab0adb7ca1880dc6070010",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "위메이드, 중국계 자본에 매각…게임·코인사업 재조정하나",
+      "url": "https://n.news.naver.com/article/001/0016168279?type=journalists",
+      "published_at": "2026-06-30T18:06:31+09:00",
+      "sent_at": "2026-06-30T18:27:15.577199+09:00"
     }
   ],
-  "last_run_at": "2026-06-30T09:22:04.933740+00:00"
+  "last_run_at": "2026-06-30T09:27:08.830177+00:00"
 }
