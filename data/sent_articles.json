@@ -1,96 +1,6 @@
 {
   "sent": [
     {
-      "id": "74e5b2f677686cceaacd9e41fd45a117ca3c7b3a074a7ebcf48f23350b1125a0",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "[써보니] 친구 없어도 AI와 듀오 즐긴다…'펍지 앨라이' 해보니",
-      "url": "https://n.news.naver.com/article/001/0016153674?type=journalists",
-      "published_at": "2026-06-23T12:11:15+09:00",
-      "sent_at": "2026-06-23T12:25:03.328992+09:00"
-    },
-    {
-      "id": "0453a3b4e22f10ce614c5bb22633f2fc79dfeb3ee0dba13b40cb74b2cb3558ef",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "title": "넥써쓰, 대만 머스타버스와 '아우라얄' 크로쓰 온보딩 업무협약 체결",
-      "url": "https://n.news.naver.com/article/030/0003440384?type=journalists",
-      "published_at": "2026-06-23T13:45:16+09:00",
-      "sent_at": "2026-06-23T13:57:12.526192+09:00"
-    },
-    {
-      "id": "953bc979df71e0151d53478a74042ca2b7534264826d0405f232dabda241fe59",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "title": "에픽게임즈, '언리얼 페스트 서울 2026' 사전등록 개시... 팀 스위니 창업자 키노트",
-      "url": "https://n.news.naver.com/article/030/0003440380?type=journalists",
-      "published_at": "2026-06-23T13:43:19+09:00",
-      "sent_at": "2026-06-23T13:57:15.495580+09:00"
-    },
-    {
-      "id": "888232e2035c025aa3f647831b42e69b8dec01f939a6d350d9042ff7c8666718",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "title": "[ICT 시사용어] K-문샷 프로젝트",
-      "url": "https://n.news.naver.com/article/030/0003440369?type=journalists",
-      "published_at": "2026-06-23T13:37:13+09:00",
-      "sent_at": "2026-06-23T13:57:18.384885+09:00"
-    },
-    {
-      "id": "d21818b9a9e234d17af83e9f911311a4942c69f0a3819dd26e23ccadf3853d8e",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "title": "獨 대통령도 찾는 게임스컴... '국가전략산업 게임'에 정계 총출동",
-      "url": "https://n.news.naver.com/article/030/0003440368?type=journalists",
-      "published_at": "2026-06-23T13:36:13+09:00",
-      "sent_at": "2026-06-23T13:57:21.303213+09:00"
-    },
-    {
-      "id": "6ccd72bd506b6517925a7b197f25d4be20b18bc17091fd6921b7b77172778429",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "title": "넥슨-문체부, 2500억 규모 게임 IP 투자 생태계 구축... '게임 전문 펀드' 물꼬 텄다",
-      "url": "https://n.news.naver.com/article/030/0003440397?type=journalists",
-      "published_at": "2026-06-23T13:55:16+09:00",
-      "sent_at": "2026-06-23T14:07:37.524253+09:00"
-    },
-    {
-      "id": "5a07a0daa3908bf412f23f2883ed88c7e45cd11a47a18fecdbd463ba8a1b78d1",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "title": "크래프톤, 게임스컴 2026서 신작 5종 공개... '배틀그라운드' 이을 차세대 IP 출격",
-      "url": "https://n.news.naver.com/article/030/0003440394?type=journalists",
-      "published_at": "2026-06-23T13:52:19+09:00",
-      "sent_at": "2026-06-23T14:07:40.390492+09:00"
-    },
-    {
-      "id": "8825f09898209f7fba8558054aa8ce54b48a90d2793c1da441fd337b6362187b",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "title": "네오위즈, 내러티브 CRPG '와인드 업 데드맨' 퍼블리싱 계약 체결",
-      "url": "https://n.news.naver.com/article/030/0003440389?type=journalists",
-      "published_at": "2026-06-23T13:48:18+09:00",
-      "sent_at": "2026-06-23T14:07:43.357618+09:00"
-    },
-    {
-      "id": "29e1e4849bb4599259c86bda24da3e6874f11a2f2177978d3631a279d2a2e5d1",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "\"게임·음악 제작비 세액공제 도입\" 조세특례법 개정안 발의",
-      "url": "https://n.news.naver.com/article/001/0016153921?type=journalists",
-      "published_at": "2026-06-23T14:06:37+09:00",
-      "sent_at": "2026-06-23T14:23:08.955138+09:00"
-    },
-    {
-      "id": "24ad9004083affafce8bd77740340a807599d770f9afda32d0bb5faf59fc61b0",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "에픽게임즈, 콘퍼런스 '언리얼 페스트 서울' 8월 개최",
-      "url": "https://n.news.naver.com/article/001/0016153254?type=journalists",
-      "published_at": "2026-06-23T23:59:59+09:00",
-      "sent_at": "2026-06-23T14:33:35.864473+09:00"
-    },
-    {
       "id": "53ee38f7230b885cebcfe0e31e4fe34ed1a7db0236e624f4a5b3c35e8308a585",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -728,7 +638,142 @@
       "url": "https://n.news.naver.com/article/030/0003442514?type=journalists",
       "published_at": "2026-06-29T19:26:11+09:00",
       "sent_at": "2026-06-29T19:43:44.376661+09:00"
+    },
+    {
+      "id": "fe0d39794d958ef9dc1a42effc4964abb50a3d41da2ca9c3973d04ec1d55aca4",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "컴투스, 서울대 창업동아리 'SNUSV' 데모데이 후원... 송병준 의장 “세계적 기업 만들길”",
+      "url": "https://n.news.naver.com/article/030/0003442824?type=journalists",
+      "published_at": "2026-06-30T14:26:17+09:00",
+      "sent_at": "2026-06-30T14:53:17.829920+09:00"
+    },
+    {
+      "id": "9ef5463ac6ee71a81fa16f7ab9e9f0b7eaeca3932f05569ab0b8fe51f166d2bc",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "배틀그라운드, 신한은행·신한카드와 '나라사랑카드 PUBG 에디션' 출시",
+      "url": "https://n.news.naver.com/article/030/0003442812?type=journalists",
+      "published_at": "2026-06-30T14:23:14+09:00",
+      "sent_at": "2026-06-30T14:53:20.728294+09:00"
+    },
+    {
+      "id": "56810ebe747c9138433b667900898b129987f623f84ab6ef21b11529e6f2f427",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "넥슨, '히간: 이루실' 국내 사전 등록... 신규 퍼블리싱 브랜드 첫 작품",
+      "url": "https://n.news.naver.com/article/030/0003442807?type=journalists",
+      "published_at": "2026-06-30T14:21:15+09:00",
+      "sent_at": "2026-06-30T14:53:23.608562+09:00"
+    },
+    {
+      "id": "61ad142ba54b7ae2c674b4e948d6b91906ebb1f9bf9c93297639507a6fbc49f0",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "카카오게임즈 '갓 세이브 버밍엄' 출시전 막판 담금질",
+      "url": "https://n.news.naver.com/article/030/0003442795?type=journalists",
+      "published_at": "2026-06-30T14:12:11+09:00",
+      "sent_at": "2026-06-30T14:53:26.039062+09:00"
+    },
+    {
+      "id": "3977550c4f358c3d7fba01c601f8f1fe8677ab52ce420d38b32192414d848c3c",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "컴투스홀딩스, 수집형 RPG '스타 세일러' 글로벌 출시",
+      "url": "https://n.news.naver.com/article/030/0003442788?type=journalists",
+      "published_at": "2026-06-30T14:06:20+09:00",
+      "sent_at": "2026-06-30T14:53:28.586938+09:00"
+    },
+    {
+      "id": "f3d899709693d43be7b959e0605878b56448e6e44c4a6166eb44e6f10527c109",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "'호텔 아키텍트', 한국어 지원으로 스팀 국내 시장 공략",
+      "url": "https://n.news.naver.com/article/030/0003442772?type=journalists",
+      "published_at": "2026-06-30T14:00:18+09:00",
+      "sent_at": "2026-06-30T14:53:31.977375+09:00"
+    },
+    {
+      "id": "d4cafa5aaecb89e48f1f005fe492ed34cd073f1a84b0c864aa8b1ac31dbb41b1",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "컴투스, '2026 KBO 올스타전 홈런더비' 공식 스폰서 참여…5년 연속 동행",
+      "url": "https://n.news.naver.com/article/030/0003442769?type=journalists",
+      "published_at": "2026-06-30T13:58:11+09:00",
+      "sent_at": "2026-06-30T14:53:34.592777+09:00"
+    },
+    {
+      "id": "0dcbc3b5fa1babaa8eadef92382cdc0bb7128370039c7afac5b3fb806a37e8e1",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "위메이드 '레전드 오브 이미르' 글로벌 e스포츠 성료…아시아 'Kings' 서버 전 경기 우승",
+      "url": "https://n.news.naver.com/article/030/0003442766?type=journalists",
+      "published_at": "2026-06-30T13:56:16+09:00",
+      "sent_at": "2026-06-30T14:53:37.666089+09:00"
+    },
+    {
+      "id": "c62ef678d02809dfdac61fb213e870970564a2419a1ccc37087ae762b913292b",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "오버워치, J팝 듀오 요아소비와 협업... 신규 전설 스킨·스토리 이벤트 선보인다",
+      "url": "https://n.news.naver.com/article/030/0003442765?type=journalists",
+      "published_at": "2026-06-30T13:54:16+09:00",
+      "sent_at": "2026-06-30T14:53:40.190364+09:00"
+    },
+    {
+      "id": "16f7d66d6ea42f255c75d72cf147a26eb0507bf86aceca6ddc3f6a68d83c4537",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "에피드게임즈, '트릭컬' 차기작 개발 인력 확보…전 직군 공개 채용",
+      "url": "https://n.news.naver.com/article/030/0003442763?type=journalists",
+      "published_at": "2026-06-30T13:53:11+09:00",
+      "sent_at": "2026-06-30T14:53:42.564245+09:00"
+    },
+    {
+      "id": "cc2930aed91605a3b4e1b1aaa05d00f8b7a734fded6e767d898740cd117c468a",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "붉은사막' 흥행 비결 공개…펄어비스, 日 최대 개발자 콘퍼런스 CEDEC서 강연",
+      "url": "https://n.news.naver.com/article/030/0003442760?type=journalists",
+      "published_at": "2026-06-30T13:50:14+09:00",
+      "sent_at": "2026-06-30T14:53:44.991180+09:00"
+    },
+    {
+      "id": "b6fbcc4993d738956d36c503c98ea43cf330ccd64ca28c6db8066886a70c0216",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "넥슨, 수집형 RPG '히간: 이루실' 사전 등록 시작",
+      "url": "https://n.news.naver.com/article/001/0016167554?type=journalists",
+      "published_at": "2026-06-30T14:32:57+09:00",
+      "sent_at": "2026-06-30T14:53:49.490229+09:00"
+    },
+    {
+      "id": "6db5ef86eeb4a429fd4e80a27e0d2317744315ec1f700db6aeebc7ac8a274a03",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "크래프톤, 신한카드와 '나라사랑카드 PUBG 에디션' 출시",
+      "url": "https://n.news.naver.com/article/001/0016167225?type=journalists",
+      "published_at": "2026-06-30T13:07:06+09:00",
+      "sent_at": "2026-06-30T14:53:51.973136+09:00"
+    },
+    {
+      "id": "e1ba21ad8cb1ad0640543c37bd663714a2f1b898791feeee6338204d1fc14b28",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "에피드게임즈, '트릭컬 파티마' 공개…차기작 채용 개시",
+      "url": "https://n.news.naver.com/article/001/0016166754?type=journalists",
+      "published_at": "2026-06-30T10:39:50+09:00",
+      "sent_at": "2026-06-30T14:53:54.582643+09:00"
+    },
+    {
+      "id": "873c6397815bce631a7091e22937fca85bdbd8728542be9df825f3d08b008afc",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "'붉은사막' 개발진, 일본 CEDEC 공식 초청 강연",
+      "url": "https://n.news.naver.com/article/001/0016166400?type=journalists",
+      "published_at": "2026-06-30T09:29:17+09:00",
+      "sent_at": "2026-06-30T14:53:57.347583+09:00"
     }
   ],
-  "last_run_at": "2026-06-29T23:55:18.475675+00:00"
+  "last_run_at": "2026-06-30T05:53:12.758080+00:00"
 }
