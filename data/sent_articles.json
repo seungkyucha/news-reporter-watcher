@@ -1,15 +1,6 @@
 {
   "sent": [
     {
-      "id": "78f7d1bce23828595895d3ce16dca8a5c8a0e2c04020170ed4c734f2a5a5eae7",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "'군 복무' 데프트·라스칼, 아시안게임 전력분석관 맡았다",
-      "url": "https://n.news.naver.com/article/001/0016154611?type=journalists",
-      "published_at": "2026-06-23T17:37:15+09:00",
-      "sent_at": "2026-06-23T17:53:14.931526+09:00"
-    },
-    {
       "id": "3f70a1c6a803c628b70fceef4cc547dbb106922cba75e0b37a0486ea87be391a",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -728,7 +719,16 @@
       "url": "https://n.news.naver.com/article/001/0016168091?type=journalists",
       "published_at": "2026-06-30T16:37:46+09:00",
       "sent_at": "2026-06-30T16:55:46.031655+09:00"
+    },
+    {
+      "id": "85766c4bf97f4e00aac9343e0e4f4bbc6e9ace6a2721a904397aa8124c8f575c",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "박관호 위메이드 의장, 9200억원 메가딜... '미르' IP 중국계 자본 품으로",
+      "url": "https://n.news.naver.com/article/030/0003442951?type=journalists",
+      "published_at": "2026-06-30T17:42:16+09:00",
+      "sent_at": "2026-06-30T17:56:44.981154+09:00"
     }
   ],
-  "last_run_at": "2026-06-30T08:51:36.131711+00:00"
+  "last_run_at": "2026-06-30T08:56:40.274542+00:00"
 }
