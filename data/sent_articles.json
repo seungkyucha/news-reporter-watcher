@@ -719,7 +719,16 @@
       "url": "https://n.news.naver.com/article/001/0016166400?type=journalists",
       "published_at": "2026-06-30T09:29:17+09:00",
       "sent_at": "2026-06-30T14:53:57.347583+09:00"
+    },
+    {
+      "id": "a08e79b975e03fd00121d6f878cdcc7fb49a902a2e9fd9ee2f67dbcb8934ae8c",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "위메이드, 중국계 자본 품었다…박관호 지분 전량 매각",
+      "url": "https://n.news.naver.com/article/001/0016168091?type=journalists",
+      "published_at": "2026-06-30T16:37:46+09:00",
+      "sent_at": "2026-06-30T16:55:46.031655+09:00"
     }
   ],
-  "last_run_at": "2026-06-30T07:50:36.242423+00:00"
+  "last_run_at": "2026-06-30T07:55:40.671976+00:00"
 }
