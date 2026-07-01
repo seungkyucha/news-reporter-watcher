@@ -665,7 +665,16 @@
       "url": "https://n.news.naver.com/article/030/0003443485?type=journalists",
       "published_at": "2026-07-01T16:01:42+09:00",
       "sent_at": "2026-07-01T16:13:38.383344+09:00"
+    },
+    {
+      "id": "a116b9f7e018c7875e43ccf806390f23177c9527c791bd82847b1595fc0c836a",
+      "reporter": "서정근",
+      "press": "MTN",
+      "title": "손면석 위메이드맥스 대표 \"더욱 중요해질 우리 역할 변함 없다\"",
+      "url": "https://news.mtn.co.kr/news-detail/2026070116081029250",
+      "published_at": "Wed, 01 Jul 2026 16:46:00 +0900",
+      "sent_at": "2026-07-01T16:49:07.541305+09:00"
     }
   ],
-  "last_run_at": "2026-07-01T07:44:00.054036+00:00"
+  "last_run_at": "2026-07-01T07:49:04.665088+00:00"
 }
