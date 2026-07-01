@@ -656,7 +656,16 @@
       "url": "https://n.news.naver.com/article/001/0016170671?type=journalists",
       "published_at": "2026-07-01T15:10:40+09:00",
       "sent_at": "2026-07-01T15:22:55.090248+09:00"
+    },
+    {
+      "id": "4fc2846b474efcd55e4320158956d695bb78e4808597304ac946705da230fa87",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "[ET톡] 독일 대통령은 게임전시회에 간다",
+      "url": "https://n.news.naver.com/article/030/0003443485?type=journalists",
+      "published_at": "2026-07-01T16:01:42+09:00",
+      "sent_at": "2026-07-01T16:13:38.383344+09:00"
     }
   ],
-  "last_run_at": "2026-07-01T07:08:29.953222+00:00"
+  "last_run_at": "2026-07-01T07:13:34.011007+00:00"
 }
