@@ -647,7 +647,16 @@
       "url": "https://n.news.naver.com/article/001/0016169079?type=journalists",
       "published_at": "2026-07-01T09:35:59+09:00",
       "sent_at": "2026-07-01T14:22:02.359980+09:00"
+    },
+    {
+      "id": "7a3523ceeaf4c8a138654d1dec305c4ad8938932f461f136177ef7cd9b919ef9",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "엔씨, '신더시티' 스팀 페이지 오픈…개발 현황 공개",
+      "url": "https://n.news.naver.com/article/001/0016170542?type=journalists",
+      "published_at": "2026-07-01T14:47:35+09:00",
+      "sent_at": "2026-07-01T15:02:35.898853+09:00"
     }
   ],
-  "last_run_at": "2026-07-01T05:57:27.176072+00:00"
+  "last_run_at": "2026-07-01T06:02:30.928647+00:00"
 }
