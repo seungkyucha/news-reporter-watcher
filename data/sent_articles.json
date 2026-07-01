@@ -1,15 +1,6 @@
 {
   "sent": [
     {
-      "id": "2307bf07ba00b306a9bae1029758b473dde96d22c9e7ea9a47941f3f2c18324c",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "'사상 최대 제작비' GTA 6, 예약 판매 시작…11월 19일 출시",
-      "url": "https://n.news.naver.com/article/001/0016157370?type=journalists",
-      "published_at": "2026-06-25T04:24:20+09:00",
-      "sent_at": "2026-06-25T05:32:46.239387+09:00"
-    },
-    {
       "id": "5d8c457ceba028ebac532defff09bb320594d513050e1e7d359bdec060b60ab7",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -712,5 +703,5 @@
       "sent_at": "2026-07-02T02:06:30.781063+09:00"
     }
   ],
-  "last_run_at": "2026-07-01T20:29:19.894005+00:00"
+  "last_run_at": "2026-07-01T20:34:23.539147+00:00"
 }
