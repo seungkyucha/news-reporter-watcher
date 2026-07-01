@@ -656,7 +656,16 @@
       "url": "https://n.news.naver.com/article/001/0016170542?type=journalists",
       "published_at": "2026-07-01T14:47:35+09:00",
       "sent_at": "2026-07-01T15:02:35.898853+09:00"
+    },
+    {
+      "id": "a89cfac1882367883ee2324065249879e47246a745c5008a2400ec30e0f4484d",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "공정위, 구글 제재 착수…과징금 최대 8천500억 가능(종합2보)",
+      "url": "https://n.news.naver.com/article/001/0016170671?type=journalists",
+      "published_at": "2026-07-01T15:10:40+09:00",
+      "sent_at": "2026-07-01T15:22:55.090248+09:00"
     }
   ],
-  "last_run_at": "2026-07-01T06:17:45.259017+00:00"
+  "last_run_at": "2026-07-01T06:22:49.150472+00:00"
 }
