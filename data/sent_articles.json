@@ -1,60 +1,6 @@
 {
   "sent": [
     {
-      "id": "3f70a1c6a803c628b70fceef4cc547dbb106922cba75e0b37a0486ea87be391a",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "김창한 크래프톤 대표, AWS CEO와 회동…AI 협력 확대 시동",
-      "url": "https://n.news.naver.com/article/001/0016155795?type=journalists",
-      "published_at": "2026-06-24T11:07:10+09:00",
-      "sent_at": "2026-06-24T11:57:03.564633+09:00"
-    },
-    {
-      "id": "91c3fc07f359c6cfcca02963fafe1cafa7d91b5b49c9b938c415b3ef982001aa",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "SOOP, 세계핀수영선수권대회 국내 단독 생중계",
-      "url": "https://n.news.naver.com/article/001/0016155657?type=journalists",
-      "published_at": "2026-06-24T23:59:59+09:00",
-      "sent_at": "2026-06-24T11:57:07.504387+09:00"
-    },
-    {
-      "id": "8ce813ffc67743615d9254c461b25763c809ef315b1ed628c4ca55dd06306ecf",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "밸브, 소형 게이밍 PC '스팀 머신' 공개…한국선 구매 불가",
-      "url": "https://n.news.naver.com/article/001/0016155625?type=journalists",
-      "published_at": "2026-06-24T10:34:16+09:00",
-      "sent_at": "2026-06-24T11:57:10.157009+09:00"
-    },
-    {
-      "id": "c967785e151cae76464a32cdfdffa55b5b6ad242eb444d337b3a3474f99f936f",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "컴투스, '컴투스프로야구' 클럽 챔피언십 개최",
-      "url": "https://n.news.naver.com/article/001/0016155463?type=journalists",
-      "published_at": "2026-06-24T10:07:01+09:00",
-      "sent_at": "2026-06-24T11:57:12.494298+09:00"
-    },
-    {
-      "id": "43d4bef12fb63fe5ec470e01d1676fba25cf2a7769b5108ca9d1d6ec35fe2213",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "[AI픽] \"4주 걸리던 작업을 3분에\"…NC AI, 바르코 3D 2.0 공개",
-      "url": "https://n.news.naver.com/article/001/0016155169?type=journalists",
-      "published_at": "2026-06-24T08:45:06+09:00",
-      "sent_at": "2026-06-24T11:57:14.925002+09:00"
-    },
-    {
-      "id": "ed4ff32590f89861958907276f157f4ef5c904baf63bb3d16072ea506c06c8b1",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "게임 유튜버 프로모션 논란…어디까지가 마케팅인가",
-      "url": "https://n.news.naver.com/article/001/0016155022?type=journalists",
-      "published_at": "2026-06-24T06:33:00+09:00",
-      "sent_at": "2026-06-24T11:57:17.475652+09:00"
-    },
-    {
       "id": "53de90d3383dd0956aa51c7e37388608f355491a2851b3867c8611b412f1021a",
       "reporter": "박정은",
       "press": "전자신문",
@@ -737,7 +683,61 @@
       "url": "https://n.news.naver.com/article/001/0016168279?type=journalists",
       "published_at": "2026-06-30T18:06:31+09:00",
       "sent_at": "2026-06-30T18:27:15.577199+09:00"
+    },
+    {
+      "id": "812f0aff5a0d87ed61c1657e895e6a3f7faac7cfe6a87bbede5cfcfef783cfd3",
+      "reporter": "서정근",
+      "press": "MTN",
+      "title": "[단독]엔씨 '블소 키우기' 제작중단...'저니오브모나크' 서비스 종료 앞...",
+      "url": "https://news.mtn.co.kr/news-detail/2026070110424590138",
+      "published_at": "Wed, 01 Jul 2026 11:50:00 +0900",
+      "sent_at": "2026-07-01T14:21:49.315969+09:00"
+    },
+    {
+      "id": "98cad1bd0d59fa7721ff0851034cb68f7f23c20ec67b64b2364fa43f4346585a",
+      "reporter": "서정근",
+      "press": "MTN",
+      "title": "'자식과도 같은 회사' 중국 자본에 판 박관호 \"내 품 떠나 더 좋은 날 올...",
+      "url": "https://news.mtn.co.kr/news-detail/2026070109190227459",
+      "published_at": "Wed, 01 Jul 2026 09:46:00 +0900",
+      "sent_at": "2026-07-01T14:21:51.201519+09:00"
+    },
+    {
+      "id": "d908bb285a87a01946d5ccd189a1de7e07bc01e9a09d01b78f179ca0c6602648",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "구글 제재 착수에 게임업계 \"환영\"…소비자 환원 요구 확산",
+      "url": "https://n.news.naver.com/article/001/0016170227?type=journalists",
+      "published_at": "2026-07-01T13:39:58+09:00",
+      "sent_at": "2026-07-01T14:21:55.220812+09:00"
+    },
+    {
+      "id": "9882ef3ed750d611cecfc6468508593bc43ed27c1148b26760cf840ce8a780e4",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "크래프톤, '서브노티카' 언노운월즈와 합의…소송 마무리",
+      "url": "https://n.news.naver.com/article/001/0016170198?type=journalists",
+      "published_at": "2026-07-01T13:31:22+09:00",
+      "sent_at": "2026-07-01T14:21:57.411272+09:00"
+    },
+    {
+      "id": "3e20ba86f43f11351f66185a41a4c425ec6e241799d1320a5b20e3f446c3b521",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "컴투스, 대작 MMORPG '제우스: 오만의 신' 사전 등록 시작",
+      "url": "https://n.news.naver.com/article/001/0016169414?type=journalists",
+      "published_at": "2026-07-01T10:39:36+09:00",
+      "sent_at": "2026-07-01T14:21:59.683733+09:00"
+    },
+    {
+      "id": "3fdaaf9b575a55a76dea2053b2dc1b399781f53edaf5ca151ab1c2ae850a06b9",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "조이시티, '프리스타일 리부트' 22일 사전 예약",
+      "url": "https://n.news.naver.com/article/001/0016169079?type=journalists",
+      "published_at": "2026-07-01T09:35:59+09:00",
+      "sent_at": "2026-07-01T14:22:02.359980+09:00"
     }
   ],
-  "last_run_at": "2026-06-30T23:24:46.010251+00:00"
+  "last_run_at": "2026-07-01T05:21:46.504640+00:00"
 }
