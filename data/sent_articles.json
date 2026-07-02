@@ -719,7 +719,16 @@
       "url": "https://news.mtn.co.kr/news-detail/2026070213322364855",
       "published_at": "Thu, 02 Jul 2026 14:18:00 +0900",
       "sent_at": "2026-07-02T14:23:37.250215+09:00"
+    },
+    {
+      "id": "e7c483884d587ea2fff85d0c1f1ff87210054dc24a0684f3f0b1193ce145a571",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "SOOP, 올해 수영대회 20개 이상 제작·중계한다",
+      "url": "https://n.news.naver.com/article/001/0016172877?type=journalists",
+      "published_at": "2026-07-02T23:59:59+09:00",
+      "sent_at": "2026-07-02T14:49:04.313149+09:00"
     }
   ],
-  "last_run_at": "2026-07-02T05:43:53.433869+00:00"
+  "last_run_at": "2026-07-02T05:48:57.295228+00:00"
 }
