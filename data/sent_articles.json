@@ -1,15 +1,6 @@
 {
   "sent": [
     {
-      "id": "5d8c457ceba028ebac532defff09bb320594d513050e1e7d359bdec060b60ab7",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "엔씨 '리니지2M' 중국 정식 출시…현지 앱스토어 인기 1위",
-      "url": "https://n.news.naver.com/article/001/0016157669?type=journalists",
-      "published_at": "2026-06-25T09:24:23+09:00",
-      "sent_at": "2026-06-25T09:36:38.035623+09:00"
-    },
-    {
       "id": "41934ac4db5fd65e2a5ba5842705e590dd226fc39f94e022f807fdb35f14b208",
       "reporter": "박정은",
       "press": "전자신문",
@@ -701,7 +692,16 @@
       "url": "https://n.news.naver.com/article/001/0016171423?type=journalists",
       "published_at": "2026-07-01T21:06:39+09:00",
       "sent_at": "2026-07-02T02:06:30.781063+09:00"
+    },
+    {
+      "id": "5bad8ac81efd061d6ccbf487845ca61a8b93609256a505f77827a7c3c73fb879",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "네오위즈, 창사 첫 지속가능경영 보고서…팬덤 소통 강조",
+      "url": "https://n.news.naver.com/article/001/0016171829?type=journalists",
+      "published_at": "2026-07-02T09:24:42+09:00",
+      "sent_at": "2026-07-02T13:48:06.544179+09:00"
     }
   ],
-  "last_run_at": "2026-07-01T22:56:17.592798+00:00"
+  "last_run_at": "2026-07-02T04:47:59.772049+00:00"
 }
