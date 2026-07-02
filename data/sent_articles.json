@@ -710,7 +710,16 @@
       "url": "https://n.news.naver.com/article/001/0016172609?type=journalists",
       "published_at": "2026-07-02T13:37:25+09:00",
       "sent_at": "2026-07-02T13:53:13.368833+09:00"
+    },
+    {
+      "id": "07dd297de37b29c313f8d2d8cbf64a1032e88c524bb6780ec1567ecc794ecac2",
+      "reporter": "서정근",
+      "press": "MTN",
+      "title": "[단독]크래프톤, 룬샷게임즈 대표 교체...배형욱 전 대표 개발총괄역 맡...",
+      "url": "https://news.mtn.co.kr/news-detail/2026070213322364855",
+      "published_at": "Thu, 02 Jul 2026 14:18:00 +0900",
+      "sent_at": "2026-07-02T14:23:37.250215+09:00"
     }
   ],
-  "last_run_at": "2026-07-02T05:18:30.540037+00:00"
+  "last_run_at": "2026-07-02T05:23:34.367799+00:00"
 }
