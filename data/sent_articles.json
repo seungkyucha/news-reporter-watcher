@@ -1,33 +1,6 @@
 {
   "sent": [
     {
-      "id": "41934ac4db5fd65e2a5ba5842705e590dd226fc39f94e022f807fdb35f14b208",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "title": "[단독] 로블록스, '확률형 아이템' 국내 게임법 맞춰 공개 의무화",
-      "url": "https://n.news.naver.com/article/030/0003441374?type=journalists",
-      "published_at": "2026-06-25T14:53:13+09:00",
-      "sent_at": "2026-06-25T17:15:47.187739+09:00"
-    },
-    {
-      "id": "d9ef50a4478e694902bb79f4e7eb63aa782ee7cd581b22ef711ccd701a3ceb89",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "title": "엔씨, 리니지2M 중국 정식 출시... 현지 앱스토어 인기 1위 기록",
-      "url": "https://n.news.naver.com/article/030/0003441219?type=journalists",
-      "published_at": "2026-06-25T12:34:19+09:00",
-      "sent_at": "2026-06-25T17:15:49.448553+09:00"
-    },
-    {
-      "id": "f4ba14d7a7a481730ba022360a6e418d6d4af015ec65247eeacd715362259264",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "게임이용자협회 \"유튜버 프로모션은 매출 순위 조작…중단해야\"",
-      "url": "https://n.news.naver.com/article/001/0016159863?type=journalists",
-      "published_at": "2026-06-25T16:12:11+09:00",
-      "sent_at": "2026-06-25T17:15:52.192896+09:00"
-    },
-    {
       "id": "7b7082e20747871ed1525b3ba6992034900ab3f6227a6e35ba43dda4f85abed4",
       "reporter": "박정은",
       "press": "전자신문",
@@ -730,5 +703,5 @@
       "sent_at": "2026-07-02T14:49:04.313149+09:00"
     }
   ],
-  "last_run_at": "2026-07-02T08:10:56.366719+00:00"
+  "last_run_at": "2026-07-02T08:16:00.862532+00:00"
 }
