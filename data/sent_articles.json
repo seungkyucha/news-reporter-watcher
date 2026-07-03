@@ -1,15 +1,6 @@
 {
   "sent": [
     {
-      "id": "be16aa34cc962a768e921dd4f07dc0aad0c8b83eaff3d86dd0ae99d4b4f1a81d",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "배틀그라운드 국가대항전 'PNC 2026' 서울서 결선…16개국 격돌",
-      "url": "https://n.news.naver.com/article/001/0016162036?type=journalists",
-      "published_at": "2026-06-26T17:15:52+09:00",
-      "sent_at": "2026-06-26T17:37:02.785167+09:00"
-    },
-    {
       "id": "7226cc00774c565fe2d274664b70ab6d7d7d8ef12c52cb28df8ac8c5f6f94326",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -649,5 +640,5 @@
       "sent_at": "2026-07-03T13:46:51.205884+09:00"
     }
   ],
-  "last_run_at": "2026-07-03T08:34:34.928669+00:00"
+  "last_run_at": "2026-07-03T08:39:38.659355+00:00"
 }
