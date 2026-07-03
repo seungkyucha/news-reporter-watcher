@@ -674,7 +674,34 @@
       "url": "https://n.news.naver.com/article/001/0016174296?type=journalists",
       "published_at": "2026-07-03T10:31:40+09:00",
       "sent_at": "2026-07-03T13:21:25.921165+09:00"
+    },
+    {
+      "id": "5e46177ce6a7cbc4de253ae765d15b79e35f8784ca806b8f336f382e77d4d9f1",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "엔씨 '아스트라에 오라티오', 일본 코믹마켓 첫 출격",
+      "url": "https://n.news.naver.com/article/001/0016174688?type=journalists",
+      "published_at": "2026-07-03T13:34:23+09:00",
+      "sent_at": "2026-07-03T13:46:46.182593+09:00"
+    },
+    {
+      "id": "952e70c38efaf50b9a3d6f7ca4b072dc8bcc203f05d8d2c24d36295e97ec247b",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "MSI 2026 브래킷 스테이지 개막…한화생명 vs TSW 맞대결",
+      "url": "https://n.news.naver.com/article/001/0016174682?type=journalists",
+      "published_at": "2026-07-03T13:32:45+09:00",
+      "sent_at": "2026-07-03T13:46:48.663422+09:00"
+    },
+    {
+      "id": "b9661564a615930030239e830dc7d66459987dd226b6a597036d1dc45b74302a",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "카카오 대각선 교섭 논란에 화섬노조 \"교섭권 위임일 뿐\"(종합)",
+      "url": "https://n.news.naver.com/article/001/0016174658?type=journalists",
+      "published_at": "2026-07-03T13:27:48+09:00",
+      "sent_at": "2026-07-03T13:46:51.205884+09:00"
     }
   ],
-  "last_run_at": "2026-07-03T04:41:38.446045+00:00"
+  "last_run_at": "2026-07-03T04:46:41.968127+00:00"
 }
