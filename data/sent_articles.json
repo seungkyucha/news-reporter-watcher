@@ -1,33 +1,6 @@
 {
   "sent": [
     {
-      "id": "7226cc00774c565fe2d274664b70ab6d7d7d8ef12c52cb28df8ac8c5f6f94326",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "크래프톤 장태석 \"PUBG, 게임 넘어선 문화 플랫폼으로 만들겠다\"",
-      "url": "https://n.news.naver.com/article/001/0016162133?type=journalists",
-      "published_at": "2026-06-26T18:55:25+09:00",
-      "sent_at": "2026-06-26T19:13:27.381250+09:00"
-    },
-    {
-      "id": "82640cffc132ae793324423b668cb4a87aea51d3f252e25b5c460d3253c4e7bf",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "PNC 2026 결선 개막",
-      "url": "https://n.news.naver.com/article/001/0016162163?type=journalists",
-      "published_at": "2026-06-26T19:40:27+09:00",
-      "sent_at": "2026-06-26T19:54:03.932871+09:00"
-    },
-    {
-      "id": "f5b7984f81baf994bafffa9113e5f33e8bd04fa2871a00491881dc6983c8653a",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "크래프톤 장태석 총괄",
-      "url": "https://n.news.naver.com/article/001/0016162162?type=journalists",
-      "published_at": "2026-06-26T19:40:17+09:00",
-      "sent_at": "2026-06-26T19:54:06.433389+09:00"
-    },
-    {
       "id": "735a0652ce34f14cbe532ed582b35f26c9327187a5d11bca82c3422111af4408",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -638,7 +611,16 @@
       "url": "https://n.news.naver.com/article/001/0016174658?type=journalists",
       "published_at": "2026-07-03T13:27:48+09:00",
       "sent_at": "2026-07-03T13:46:51.205884+09:00"
+    },
+    {
+      "id": "c98caf7777b6ef8b75298af0b959aeebb2e6a3fbfd7bafea57522686881e326c",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "'신작 부진' 라인게임즈, 경영난에 전사 희망퇴직",
+      "url": "https://n.news.naver.com/article/001/0016175452?type=journalists",
+      "published_at": "2026-07-03T19:41:22+09:00",
+      "sent_at": "2026-07-04T01:09:04.981755+09:00"
     }
   ],
-  "last_run_at": "2026-07-03T10:10:42.473794+00:00"
+  "last_run_at": "2026-07-03T16:09:00.250695+00:00"
 }
