@@ -1,33 +1,6 @@
 {
   "sent": [
     {
-      "id": "6b033450db0c07681e2f37bf907d8b7a4c47136bb025ef990cc6e8562bc29e0e",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "르세라핌, 블리즈컨 2026 폐막 무대 오른다",
-      "url": "https://n.news.naver.com/article/001/0016160841?type=journalists",
-      "published_at": "2026-06-26T10:08:50+09:00",
-      "sent_at": "2026-06-26T10:26:46.944197+09:00"
-    },
-    {
-      "id": "2bf833caf89812d5da469258c1e37a3401c230d5fd6da3c987af5195922b5bef",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "SOOP, LoL 국제대회 'MSI 2026' 전 경기 다국어 생중계",
-      "url": "https://n.news.naver.com/article/001/0016160882?type=journalists",
-      "published_at": "2026-06-26T10:18:26+09:00",
-      "sent_at": "2026-06-26T10:36:57.655528+09:00"
-    },
-    {
-      "id": "50e25b35891be71cd3570de29f98e51d783ad7c53f2df00a82a238d6a00a60e2",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "카드로 즐기는 LoL…'리프트바운드' 9월 한국 출시",
-      "url": "https://n.news.naver.com/article/001/0016160911?type=journalists",
-      "published_at": "2026-06-26T10:26:49+09:00",
-      "sent_at": "2026-06-26T10:47:09.008314+09:00"
-    },
-    {
       "id": "9d4ce177e77d6204db15c088f24e4416cb06ba9ddb3752583a01265b573f85f8",
       "reporter": "박정은",
       "press": "전자신문",
@@ -683,7 +656,25 @@
       "url": "https://n.news.naver.com/article/001/0016172877?type=journalists",
       "published_at": "2026-07-02T23:59:59+09:00",
       "sent_at": "2026-07-02T14:49:04.313149+09:00"
+    },
+    {
+      "id": "23f216afb8bb895a34dbce1eff4f2c52ff53c6f553166b0ad0727bcd098498fa",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "T1, KSPO돔서 홈그라운드 경기 8월 개최…젠지와 맞대결",
+      "url": "https://n.news.naver.com/article/001/0016174297?type=journalists",
+      "published_at": "2026-07-03T10:32:08+09:00",
+      "sent_at": "2026-07-03T13:21:23.333111+09:00"
+    },
+    {
+      "id": "4f832707f3846ef2241d97873d981a7b1282b7524cb272f2bb9ae5b6a5790b21",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "스마일게이트, BIKY서 청소년 AI 단편영화 특별전",
+      "url": "https://n.news.naver.com/article/001/0016174296?type=journalists",
+      "published_at": "2026-07-03T10:31:40+09:00",
+      "sent_at": "2026-07-03T13:21:25.921165+09:00"
     }
   ],
-  "last_run_at": "2026-07-02T22:25:02.670816+00:00"
+  "last_run_at": "2026-07-03T04:21:18.579964+00:00"
 }
