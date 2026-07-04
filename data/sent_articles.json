@@ -629,7 +629,16 @@
       "url": "https://n.news.naver.com/article/030/0003444396?type=journalists",
       "published_at": "2026-07-05T04:31:09+09:00",
       "sent_at": "2026-07-05T06:36:22.144936+09:00"
+    },
+    {
+      "id": "07c11230e2097c2fffd9e27372c24563cc041af772435949e81fc5ac6a94660b",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "[만나보니] 라이엇 총괄 \"LoL e스포츠, 경기장 밖으로 확장\"",
+      "url": "https://n.news.naver.com/article/001/0016176103?type=journalists",
+      "published_at": "2026-07-05T07:10:01+09:00",
+      "sent_at": "2026-07-05T07:27:04.513837+09:00"
     }
   ],
-  "last_run_at": "2026-07-04T22:21:55.763758+00:00"
+  "last_run_at": "2026-07-04T22:26:59.528233+00:00"
 }
