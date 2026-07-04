@@ -620,7 +620,16 @@
       "url": "https://n.news.naver.com/article/001/0016175709?type=journalists",
       "published_at": "2026-07-04T11:00:01+09:00",
       "sent_at": "2026-07-04T11:16:57.235668+09:00"
+    },
+    {
+      "id": "55c9c51f219082a64699ceb68a4d4cd60bbd271536a1b08bbcda0f68fd5894f2",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "[K게임 대도약, 지금이 골든타임]〈3〉경쟁력 확대.…전용 투자계정·근로시간 유연화 수면 위로",
+      "url": "https://n.news.naver.com/article/030/0003444396?type=journalists",
+      "published_at": "2026-07-05T04:31:09+09:00",
+      "sent_at": "2026-07-05T06:36:22.144936+09:00"
     }
   ],
-  "last_run_at": "2026-07-04T15:39:45.914961+00:00"
+  "last_run_at": "2026-07-04T21:36:17.492701+00:00"
 }
