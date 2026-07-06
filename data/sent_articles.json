@@ -1,33 +1,6 @@
 {
   "sent": [
     {
-      "id": "8fe1ab986aa6af6c3e8a9640b4b34493fcb69988de8c4d353ff4cf1dd45424c6",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "title": "포켓몬 챔피언스, 글로벌 1000만 다운로드 돌파",
-      "url": "https://n.news.naver.com/article/030/0003442510?type=journalists",
-      "published_at": "2026-06-29T19:20:14+09:00",
-      "sent_at": "2026-06-29T19:33:10.389579+09:00"
-    },
-    {
-      "id": "a3ce1eb33716988573833eb5ee4326f25e32e207b89cf936180e0cfe1777fcf8",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "title": "'벽람항로' 한국 서비스 8주년 팬 이벤트... 웨딩 콘셉트에 이용자 호응",
-      "url": "https://n.news.naver.com/article/030/0003442507?type=journalists",
-      "published_at": "2026-06-29T19:18:09+09:00",
-      "sent_at": "2026-06-29T19:33:13.003143+09:00"
-    },
-    {
-      "id": "ec63bda53982cfea77b61915198201629683049c3252c8f26d0f158ee1413eb6",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "title": "네오위즈 '아바(A.V.A)', 19주년 기념 업데이트 실시",
-      "url": "https://n.news.naver.com/article/030/0003442504?type=journalists",
-      "published_at": "2026-06-29T19:16:14+09:00",
-      "sent_at": "2026-06-29T19:33:15.451547+09:00"
-    },
-    {
       "id": "75c7413a462e3790279e96f6398be525700f3744957e7e59933e12aa994c953b",
       "reporter": "박정은",
       "press": "전자신문",
@@ -505,5 +478,5 @@
       "sent_at": "2026-07-06T11:40:27.464888+09:00"
     }
   ],
-  "last_run_at": "2026-07-06T10:28:46.194630+00:00"
+  "last_run_at": "2026-07-06T10:33:50.403310+00:00"
 }
