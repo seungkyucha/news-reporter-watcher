@@ -440,7 +440,16 @@
       "url": "https://news.mtn.co.kr/news-detail/2026070609131563394",
       "published_at": "Mon, 06 Jul 2026 11:36:00 +0900",
       "sent_at": "2026-07-06T11:40:27.464888+09:00"
+    },
+    {
+      "id": "eb335da28026f2a05a9940abb06a23aa6ce1e0854f3315465b076bcda5efc2db",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "[AI픽] NHN, 전직원에 클로드 제공…'에이전틱 데이' 열어",
+      "url": "https://n.news.naver.com/article/001/0016179368?type=journalists",
+      "published_at": "2026-07-07T09:44:39+09:00",
+      "sent_at": "2026-07-07T09:56:53.798779+09:00"
     }
   ],
-  "last_run_at": "2026-07-07T00:51:45.802693+00:00"
+  "last_run_at": "2026-07-07T00:56:49.598659+00:00"
 }
