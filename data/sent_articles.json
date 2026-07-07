@@ -449,7 +449,16 @@
       "url": "https://n.news.naver.com/article/001/0016179368?type=journalists",
       "published_at": "2026-07-07T09:44:39+09:00",
       "sent_at": "2026-07-07T09:56:53.798779+09:00"
+    },
+    {
+      "id": "eb97dfb0f4a966d3186c603bc809b170c425f790be98c4238184d9e9a567b92a",
+      "reporter": "서정근",
+      "press": "MTN",
+      "title": "[단독]넥써쓰, '아키에이지 워' IP 인수 추진...웹3 활성화 돌파구 열까",
+      "url": "https://news.mtn.co.kr/news-detail/2026070709245641325",
+      "published_at": "Tue, 07 Jul 2026 11:16:00 +0900",
+      "sent_at": "2026-07-07T11:22:55.511579+09:00"
     }
   ],
-  "last_run_at": "2026-07-07T02:17:48.782837+00:00"
+  "last_run_at": "2026-07-07T02:22:52.585708+00:00"
 }
