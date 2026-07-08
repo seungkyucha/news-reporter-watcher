@@ -9,6 +9,7 @@ on:
 
 permissions:
   contents: write
+  actions: read   # 단일 실행 가드가 다른 in_progress run 을 조회하는 데 필요
 
 concurrency:
   # 한 번에 하나만 실행. 새 트리거는 pending 으로 대기하다가 현재 루프가 끝나면
@@ -19,7 +20,7 @@ concurrency:
 jobs:
   watch:
     runs-on: ubuntu-latest
-    timeout-minutes: 360   # GitHub job 최대치(6시간)
+    timeout-minutes: 320
 
     steps:
       - name: Checkout repository
@@ -27,18 +28,41 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      # 단일 실행 가드: 나보다 먼저 시작된(=run id 가 작은) 같은 워크플로우 run 이
+      # 아직 살아 있으면 즉시 종료한다. schedule 이 6시간 루프 도중 새 run 을 만들어
+      # 두 루프가 겹쳐 같은 기사를 두 번 보내던 문제를 원천 차단한다.
+      - name: Single-flight guard
+        id: guard
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+        run: |
+          others=$(gh run list --workflow watch-news.yml --status in_progress \
+            --json databaseId --jq '.[].databaseId' | grep -v "^${GITHUB_RUN_ID}$" || true)
+          for id in $others; do
+            if [ "$id" -lt "$GITHUB_RUN_ID" ]; then
+              echo "이미 실행 중인 이전 run($id)이 있어 이 run 은 종료합니다(겹침 방지)."
+              echo "skip=1" >> "$GITHUB_OUTPUT"
+              exit 0
+            fi
+          done
+          echo "skip=0" >> "$GITHUB_OUTPUT"
+
       - name: Set up Python
+        if: steps.guard.outputs.skip == '0'
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
           cache: "pip"
 
       - name: Install dependencies
+        if: steps.guard.outputs.skip == '0'
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
       - name: Watch loop (5-min cadence)
+        if: steps.guard.outputs.skip == '0'
         env:
           NAVER_CLIENT_ID:           ${{ secrets.NAVER_CLIENT_ID }}
           NAVER_CLIENT_SECRET:       ${{ secrets.NAVER_CLIENT_SECRET }}
@@ -54,7 +78,7 @@ jobs:
           git config user.email "actions@github.com"
 
           INTERVAL=300          # 5분
-          END=$(( SECONDS + 21000 ))   # 약 5시간 50분 동안 반복 후 종료(다음 트리거가 이어받음)
+          END=$(( SECONDS + 18000 ))   # 5시간 반복 후 종료(timeout 320분보다 여유; 다음 트리거가 이어받음)
           iter=0
 
           while [ "$SECONDS" -lt "$END" ]; do
