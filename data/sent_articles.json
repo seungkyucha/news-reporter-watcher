@@ -287,7 +287,16 @@
       "url": "https://n.news.naver.com/article/001/0016182381?type=journalists",
       "published_at": "2026-07-08T11:29:18+09:00",
       "sent_at": "2026-07-08T17:04:57.207459+09:00"
+    },
+    {
+      "id": "6e2dfbe20f8906a475ae7df27d93c84832a733f006c89ec188e7ff20121f234b",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "카카오게임즈, 상장 이래 첫 자사주 소각…RSU 도입",
+      "url": "https://n.news.naver.com/article/001/0016183566?type=journalists",
+      "published_at": "2026-07-08T17:09:59+09:00",
+      "sent_at": "2026-07-08T17:25:18.388834+09:00"
     }
   ],
-  "last_run_at": "2026-07-08T08:20:09.279634+00:00"
+  "last_run_at": "2026-07-08T08:25:13.384576+00:00"
 }
