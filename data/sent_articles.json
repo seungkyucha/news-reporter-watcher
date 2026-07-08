@@ -296,7 +296,16 @@
       "url": "https://n.news.naver.com/article/001/0016183566?type=journalists",
       "published_at": "2026-07-08T17:09:59+09:00",
       "sent_at": "2026-07-08T17:25:18.388834+09:00"
+    },
+    {
+      "id": "b3f1952a1275b2d01fa2da721fd9c6de87a0406df6689e89724dcc8b6e00a1c0",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "T1, MSI 2026 탈락…'LCK 킬러' 유럽 G2에 패해",
+      "url": "https://n.news.naver.com/article/001/0016183813?type=journalists",
+      "published_at": "2026-07-08T21:46:59+09:00",
+      "sent_at": "2026-07-08T22:04:20.463083+09:00"
     }
   ],
-  "last_run_at": "2026-07-08T12:59:11.140388+00:00"
+  "last_run_at": "2026-07-08T13:04:15.199639+00:00"
 }
