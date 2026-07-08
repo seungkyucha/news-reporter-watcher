@@ -314,7 +314,16 @@
       "url": "https://n.news.naver.com/article/001/0016179849?type=journalists",
       "published_at": "2026-07-07T11:26:52+09:00",
       "sent_at": "2026-07-07T17:30:09.976543+09:00"
+    },
+    {
+      "id": "cbe8bfd2a7670a7cc21c1db62e5b4b2358de2f4c5da71d56f9a335c6b59d7b5e",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "펄어비스, 게임스컴 삼성전자 부스서 '붉은사막' 선보인다",
+      "url": "https://n.news.naver.com/article/001/0016181651?type=journalists",
+      "published_at": "2026-07-08T08:51:28+09:00",
+      "sent_at": "2026-07-08T09:04:56.478379+09:00"
     }
   ],
-  "last_run_at": "2026-07-07T23:59:48.751241+00:00"
+  "last_run_at": "2026-07-08T00:04:52.291513+00:00"
 }
