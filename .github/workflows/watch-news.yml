@@ -84,6 +84,8 @@ jobs:
           while [ "$SECONDS" -lt "$END" ]; do
             iter=$(( iter + 1 ))
             echo "::group::iteration $iter (elapsed ${SECONDS}s)"
+            # 전송 판단 전에 최신 발송 이력을 받아온다(run 교대/경합 시 재전송 방지).
+            git pull --rebase --autostash origin main || git reset --hard origin/main
             python watcher.py
             echo "::endgroup::"
 
