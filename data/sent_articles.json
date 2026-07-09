@@ -1,15 +1,6 @@
 {
   "sent": [
     {
-      "id": "fc14751c06ad13f807d6fcdf1d9a02b49ab0f204cc94a746f23f014994fbae8e",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "게임 CD 역사 속으로…소니, 2028년 디스크 생산 종료",
-      "url": "https://n.news.naver.com/article/001/0016172609?type=journalists",
-      "published_at": "2026-07-02T13:37:25+09:00",
-      "sent_at": "2026-07-02T13:53:13.368833+09:00"
-    },
-    {
       "id": "07dd297de37b29c313f8d2d8cbf64a1032e88c524bb6780ec1567ecc794ecac2",
       "reporter": "서정근",
       "press": "MTN",
@@ -307,5 +298,5 @@
       "sent_at": "2026-07-09T12:12:21.993214+09:00"
     }
   ],
-  "last_run_at": "2026-07-09T04:52:29.180167+00:00"
+  "last_run_at": "2026-07-09T04:57:32.934362+00:00"
 }
