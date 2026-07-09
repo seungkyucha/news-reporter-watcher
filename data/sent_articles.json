@@ -305,7 +305,16 @@
       "url": "https://n.news.naver.com/article/001/0016184616?type=journalists",
       "published_at": "2026-07-09T10:50:02+09:00",
       "sent_at": "2026-07-09T11:06:22.383908+09:00"
+    },
+    {
+      "id": "95274f5c41886d864c5a171820cf199588cf2052d8cb6db9a0f21f6c990c4030",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "'전세계 200개 클럽 격돌' e스포츠 월드컵, 파리서 공식 개막",
+      "url": "https://n.news.naver.com/article/001/0016184928?type=journalists",
+      "published_at": "2026-07-09T11:55:50+09:00",
+      "sent_at": "2026-07-09T12:12:21.993214+09:00"
     }
   ],
-  "last_run_at": "2026-07-09T03:07:12.402018+00:00"
+  "last_run_at": "2026-07-09T03:12:16.957171+00:00"
 }
