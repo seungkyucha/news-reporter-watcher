@@ -287,7 +287,16 @@
       "url": "https://n.news.naver.com/article/001/0016184928?type=journalists",
       "published_at": "2026-07-09T11:55:50+09:00",
       "sent_at": "2026-07-09T12:12:21.993214+09:00"
+    },
+    {
+      "id": "31d871e00ee35969bec6d00bc69231da1b800be52e7ce09e11aec1ff2433747f",
+      "reporter": "서정근",
+      "press": "MTN",
+      "title": "[단독]\"형제는 용감했다\"...넷마블넥서스 김정기 대표·김정기 PD 회사 ...",
+      "url": "https://news.mtn.co.kr/news-detail/2026070913512726032",
+      "published_at": "Thu, 09 Jul 2026 14:38:00 +0900",
+      "sent_at": "2026-07-09T14:43:12.680015+09:00"
     }
   ],
-  "last_run_at": "2026-07-09T05:38:05.895547+00:00"
+  "last_run_at": "2026-07-09T05:43:09.713948+00:00"
 }
