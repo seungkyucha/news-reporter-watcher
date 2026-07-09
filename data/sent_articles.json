@@ -1,15 +1,6 @@
 {
   "sent": [
     {
-      "id": "e7c483884d587ea2fff85d0c1f1ff87210054dc24a0684f3f0b1193ce145a571",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "SOOP, 올해 수영대회 20개 이상 제작·중계한다",
-      "url": "https://n.news.naver.com/article/001/0016172877?type=journalists",
-      "published_at": "2026-07-02T23:59:59+09:00",
-      "sent_at": "2026-07-02T14:49:04.313149+09:00"
-    },
-    {
       "id": "23f216afb8bb895a34dbce1eff4f2c52ff53c6f553166b0ad0727bcd098498fa",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -298,5 +289,5 @@
       "sent_at": "2026-07-09T14:43:12.680015+09:00"
     }
   ],
-  "last_run_at": "2026-07-09T05:48:16.885041+00:00"
+  "last_run_at": "2026-07-09T05:53:20.801247+00:00"
 }
