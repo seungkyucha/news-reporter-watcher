@@ -1,24 +1,6 @@
 {
   "sent": [
     {
-      "id": "23f216afb8bb895a34dbce1eff4f2c52ff53c6f553166b0ad0727bcd098498fa",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "T1, KSPO돔서 홈그라운드 경기 8월 개최…젠지와 맞대결",
-      "url": "https://n.news.naver.com/article/001/0016174297?type=journalists",
-      "published_at": "2026-07-03T10:32:08+09:00",
-      "sent_at": "2026-07-03T13:21:23.333111+09:00"
-    },
-    {
-      "id": "4f832707f3846ef2241d97873d981a7b1282b7524cb272f2bb9ae5b6a5790b21",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "스마일게이트, BIKY서 청소년 AI 단편영화 특별전",
-      "url": "https://n.news.naver.com/article/001/0016174296?type=journalists",
-      "published_at": "2026-07-03T10:31:40+09:00",
-      "sent_at": "2026-07-03T13:21:25.921165+09:00"
-    },
-    {
       "id": "5e46177ce6a7cbc4de253ae765d15b79e35f8784ca806b8f336f382e77d4d9f1",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -307,5 +289,5 @@
       "sent_at": "2026-07-10T10:25:23.466926+09:00"
     }
   ],
-  "last_run_at": "2026-07-10T04:17:41.761393+00:00"
+  "last_run_at": "2026-07-10T04:22:45.683480+00:00"
 }
