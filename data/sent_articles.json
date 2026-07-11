@@ -305,7 +305,16 @@
       "url": "https://n.news.naver.com/article/001/0016188998?type=journalists",
       "published_at": "2026-07-11T21:05:46+09:00",
       "sent_at": "2026-07-11T21:27:06.934783+09:00"
+    },
+    {
+      "id": "e50a634e921df0178f9b4651d1adcd54acfd9c540006b697d0cfb6ee0015c82f",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "한화생명, 벼랑 끝서 뒤집었다…창단 첫 MSI 결승 진출",
+      "url": "https://n.news.naver.com/article/001/0016189004?type=journalists",
+      "published_at": "2026-07-11T21:24:45+09:00",
+      "sent_at": "2026-07-11T21:37:18.424177+09:00"
     }
   ],
-  "last_run_at": "2026-07-11T12:32:09.569411+00:00"
+  "last_run_at": "2026-07-11T12:37:13.533520+00:00"
 }
