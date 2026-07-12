@@ -386,7 +386,16 @@
       "url": "https://n.news.naver.com/article/001/0016189946?type=journalists",
       "published_at": "2026-07-12T21:45:58+09:00",
       "sent_at": "2026-07-12T22:04:42.814763+09:00"
+    },
+    {
+      "id": "213b6be6b26e664857069d5ecc00c37fb55bf5b8e80da89d55abdfac8c59d8ac",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "'첫 MSI 우승' 한화생명 제우스 \"평정심이 승리 비결\"",
+      "url": "https://n.news.naver.com/article/001/0016189958?type=journalists",
+      "published_at": "2026-07-12T22:39:38+09:00",
+      "sent_at": "2026-07-12T22:55:46.064781+09:00"
     }
   ],
-  "last_run_at": "2026-07-12T13:50:37.572422+00:00"
+  "last_run_at": "2026-07-12T13:55:41.443857+00:00"
 }
