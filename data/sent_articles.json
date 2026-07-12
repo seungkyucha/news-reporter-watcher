@@ -287,7 +287,16 @@
       "url": "https://n.news.naver.com/article/001/0016189634?type=journalists",
       "published_at": "2026-07-12T14:41:46+09:00",
       "sent_at": "2026-07-12T14:52:56.480688+09:00"
+    },
+    {
+      "id": "f7837844b3088deacf9588637aad9752205badf1f595676e26e7722ed9a1c1ea",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "옛날 협곡 그대로…라이엇, 한국서 LoL 클래식 최초 공개",
+      "url": "https://n.news.naver.com/article/001/0016189780?type=journalists",
+      "published_at": "2026-07-12T16:08:22+09:00",
+      "sent_at": "2026-07-12T16:24:16.611122+09:00"
     }
   ],
-  "last_run_at": "2026-07-12T07:19:07.561806+00:00"
+  "last_run_at": "2026-07-12T07:24:11.913513+00:00"
 }
