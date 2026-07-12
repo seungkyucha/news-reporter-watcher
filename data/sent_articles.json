@@ -368,7 +368,25 @@
       "url": "https://n.news.naver.com/article/001/0016189937?type=journalists",
       "published_at": "2026-07-12T21:30:04+09:00",
       "sent_at": "2026-07-12T21:44:20.215820+09:00"
+    },
+    {
+      "id": "e9ac35979fb2e0af72624b9d26b27413b2b6e6dc019b9f51cf29f9a66fcdc668",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "'한화생명에 역전패' BLG 양대인 감독 \"너무 조급했다\"",
+      "url": "https://n.news.naver.com/article/001/0016189952?type=journalists",
+      "published_at": "2026-07-12T21:53:49+09:00",
+      "sent_at": "2026-07-12T22:04:40.118352+09:00"
+    },
+    {
+      "id": "6256ff2dbb36dda537bb03b5aa8b0274f9d84bf2d416044423550f3d23bd5aca",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "한화생명e스포츠, 2026 MSI 우승",
+      "url": "https://n.news.naver.com/article/001/0016189946?type=journalists",
+      "published_at": "2026-07-12T21:45:58+09:00",
+      "sent_at": "2026-07-12T22:04:42.814763+09:00"
     }
   ],
-  "last_run_at": "2026-07-12T12:59:31.129002+00:00"
+  "last_run_at": "2026-07-12T13:04:35.359448+00:00"
 }
