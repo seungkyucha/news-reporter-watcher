@@ -350,7 +350,16 @@
       "url": "https://n.news.naver.com/article/001/0016189867?type=journalists",
       "published_at": "2026-07-12T18:24:19+09:00",
       "sent_at": "2026-07-12T18:36:40.141975+09:00"
+    },
+    {
+      "id": "8df5fd24fcf6ad9d9bd3a55369c25b4209c473067d4153e2bb78e82357df3e4d",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "한화생명, 창단 첫 MSI 우승…BLG에 3:2 역전승",
+      "url": "https://n.news.naver.com/article/001/0016189914?type=journalists",
+      "published_at": "2026-07-12T20:51:23+09:00",
+      "sent_at": "2026-07-12T21:03:42.919858+09:00"
     }
   ],
-  "last_run_at": "2026-07-12T11:58:33.695687+00:00"
+  "last_run_at": "2026-07-12T12:03:37.436515+00:00"
 }
