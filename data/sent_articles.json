@@ -332,7 +332,16 @@
       "url": "https://n.news.naver.com/article/001/0016189818?type=journalists",
       "published_at": "2026-07-12T17:06:02+09:00",
       "sent_at": "2026-07-12T17:25:19.940333+09:00"
+    },
+    {
+      "id": "b769b2f8467b820ff5f095d193101fab4b9f6d2e7f1e4f8d838945e7940d21fd",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "강훈식, 대전 LoL 결승전 방문…\"게임 현장 목소리 듣겠다\"",
+      "url": "https://n.news.naver.com/article/001/0016189863?type=journalists",
+      "published_at": "2026-07-12T18:09:15+09:00",
+      "sent_at": "2026-07-12T18:26:28.946584+09:00"
     }
   ],
-  "last_run_at": "2026-07-12T09:21:18.946578+00:00"
+  "last_run_at": "2026-07-12T09:26:22.780710+00:00"
 }
