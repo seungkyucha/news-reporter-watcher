@@ -341,7 +341,16 @@
       "url": "https://n.news.naver.com/article/001/0016189863?type=journalists",
       "published_at": "2026-07-12T18:09:15+09:00",
       "sent_at": "2026-07-12T18:26:28.946584+09:00"
+    },
+    {
+      "id": "765d8fe13f3244f1a8cab1714220e9a3daea2ad6748d6a30aca9228c8d7e7dbc",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "2026 MSI 결승전 현장 관람하는 강훈식 대통령 비서실장",
+      "url": "https://n.news.naver.com/article/001/0016189867?type=journalists",
+      "published_at": "2026-07-12T18:24:19+09:00",
+      "sent_at": "2026-07-12T18:36:40.141975+09:00"
     }
   ],
-  "last_run_at": "2026-07-12T09:31:30.949106+00:00"
+  "last_run_at": "2026-07-12T09:36:35.657830+00:00"
 }
