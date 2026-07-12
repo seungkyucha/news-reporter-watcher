@@ -278,7 +278,16 @@
       "url": "https://n.news.naver.com/article/030/0003446762?type=journalists",
       "published_at": "2026-07-12T10:31:13+09:00",
       "sent_at": "2026-07-12T10:43:52.340574+09:00"
+    },
+    {
+      "id": "35a95e738f562f999d9f5851a359d60b74a2bd9f85347a4823b259e64c0ffdff",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "LoL·이터널리턴…대전은 무더위에도 게임으로 '후끈'",
+      "url": "https://n.news.naver.com/article/001/0016189634?type=journalists",
+      "published_at": "2026-07-12T14:41:46+09:00",
+      "sent_at": "2026-07-12T14:52:56.480688+09:00"
     }
   ],
-  "last_run_at": "2026-07-12T05:47:47.485204+00:00"
+  "last_run_at": "2026-07-12T05:52:51.775071+00:00"
 }
