@@ -296,7 +296,16 @@
       "url": "https://n.news.naver.com/article/001/0016189004?type=journalists",
       "published_at": "2026-07-11T21:24:45+09:00",
       "sent_at": "2026-07-11T21:37:18.424177+09:00"
+    },
+    {
+      "id": "29db61a954d53034ae2477e7740629d20962fa6097cc0d2fa0d85e1cee2b2872",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "[K게임 대도약, 지금이 골든타임]〈4〉 AI도 못 막는 불법 핵·사설서버... 게임 생태계 바로 세워야",
+      "url": "https://n.news.naver.com/article/030/0003446762?type=journalists",
+      "published_at": "2026-07-12T10:31:13+09:00",
+      "sent_at": "2026-07-12T10:43:52.340574+09:00"
     }
   ],
-  "last_run_at": "2026-07-12T01:38:44.078603+00:00"
+  "last_run_at": "2026-07-12T01:43:48.008087+00:00"
 }
