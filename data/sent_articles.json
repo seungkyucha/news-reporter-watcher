@@ -359,7 +359,16 @@
       "url": "https://n.news.naver.com/article/001/0016189914?type=journalists",
       "published_at": "2026-07-12T20:51:23+09:00",
       "sent_at": "2026-07-12T21:03:42.919858+09:00"
+    },
+    {
+      "id": "6b0a69e94ed7c19f91c0bab451261d5777ec7d65564b49c8c9388c7b98021764",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "우승 향한 제우스의 질주…한화생명, 2026 MSI 제패(종합)",
+      "url": "https://n.news.naver.com/article/001/0016189937?type=journalists",
+      "published_at": "2026-07-12T21:30:04+09:00",
+      "sent_at": "2026-07-12T21:44:20.215820+09:00"
     }
   ],
-  "last_run_at": "2026-07-12T12:39:10.879282+00:00"
+  "last_run_at": "2026-07-12T12:44:14.880286+00:00"
 }
