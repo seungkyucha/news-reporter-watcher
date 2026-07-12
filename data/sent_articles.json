@@ -296,7 +296,43 @@
       "url": "https://n.news.naver.com/article/001/0016189780?type=journalists",
       "published_at": "2026-07-12T16:08:22+09:00",
       "sent_at": "2026-07-12T16:24:16.611122+09:00"
+    },
+    {
+      "id": "7a94882b42596e39ca38d4bfea4fceecdb96fc05554b906e78ae294bf747db77",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "헤드셋 쓰는 한화생명e스포츠 윤성영 감독",
+      "url": "https://n.news.naver.com/article/001/0016189823?type=journalists",
+      "published_at": "2026-07-12T17:08:46+09:00",
+      "sent_at": "2026-07-12T17:25:10.295532+09:00"
+    },
+    {
+      "id": "ec00f80ef613efaa2bcc2748fc4503e930a6e1a450d7db968673ba267b078f53",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "밴픽 논의하는 빌리빌리 게이밍 양대인 감독",
+      "url": "https://n.news.naver.com/article/001/0016189822?type=journalists",
+      "published_at": "2026-07-12T17:08:38+09:00",
+      "sent_at": "2026-07-12T17:25:13.164309+09:00"
+    },
+    {
+      "id": "bb45c25ceb0d945732655299edba2a12dc875300ccc5e9d59d2ff7161fc3e14a",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "2026 MSI 결승전 오른 빌리빌리 게이밍",
+      "url": "https://n.news.naver.com/article/001/0016189821?type=journalists",
+      "published_at": "2026-07-12T17:07:11+09:00",
+      "sent_at": "2026-07-12T17:25:16.946822+09:00"
+    },
+    {
+      "id": "670d455e5668368d531261ef871312a8fe7af91264dbccfbb8f8362008bb3c23",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "2026 MSI 결승전 오른 한화생명",
+      "url": "https://n.news.naver.com/article/001/0016189818?type=journalists",
+      "published_at": "2026-07-12T17:06:02+09:00",
+      "sent_at": "2026-07-12T17:25:19.940333+09:00"
     }
   ],
-  "last_run_at": "2026-07-12T08:20:01.083388+00:00"
+  "last_run_at": "2026-07-12T08:25:05.704334+00:00"
 }
