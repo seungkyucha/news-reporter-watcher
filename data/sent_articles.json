@@ -1,33 +1,6 @@
 {
   "sent": [
     {
-      "id": "84155db59e1790ce37449e90c691328bc3a8e76bd76d0d73fbba651819ea1296",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "2026 MSI",
-      "url": "https://n.news.naver.com/article/001/0016176423?type=journalists",
-      "published_at": "2026-07-05T11:03:34+09:00",
-      "sent_at": "2026-07-05T11:15:01.487716+09:00"
-    },
-    {
-      "id": "429b1b1ac7e0266eb2bda4ba9ede8010bf887bc6debc15e7f41dcfc9b5cf2fc9",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "포즈 취하는 크리스 그릴리 라이엇게임즈 LoL e스포츠 총괄",
-      "url": "https://n.news.naver.com/article/001/0016176422?type=journalists",
-      "published_at": "2026-07-05T11:03:27+09:00",
-      "sent_at": "2026-07-05T11:15:03.924740+09:00"
-    },
-    {
-      "id": "8a66a5c473c579b52a8db64e62ba8a0b431e7f65dcd032669d4654c796912540",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "포즈 취하는 크리스 그릴리 라이엇게임즈 LoL e스포츠 총괄",
-      "url": "https://n.news.naver.com/article/001/0016176421?type=journalists",
-      "published_at": "2026-07-05T11:03:19+09:00",
-      "sent_at": "2026-07-05T11:15:06.303138+09:00"
-    },
-    {
       "id": "307f2889bd50c170242de1c80e9891c4079756cb5374ab6077048f7a5a632739",
       "reporter": "서정근",
       "press": "MTN",
@@ -307,5 +280,5 @@
       "sent_at": "2026-07-12T10:43:52.340574+09:00"
     }
   ],
-  "last_run_at": "2026-07-12T02:14:16.404313+00:00"
+  "last_run_at": "2026-07-12T02:19:20.415640+00:00"
 }
