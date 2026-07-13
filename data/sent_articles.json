@@ -476,7 +476,61 @@
       "url": "https://n.news.naver.com/article/030/0003447169?type=journalists",
       "published_at": "2026-07-13T15:25:13+09:00",
       "sent_at": "2026-07-13T15:33:14.257744+09:00"
+    },
+    {
+      "id": "cbbe43e02d1af2834a4422736d85463876d4d27ebc0c649ae7d7f0cc8989595d",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "넷마블문화재단, '2026 게임소통학교' 참가자 모집",
+      "url": "https://n.news.naver.com/article/030/0003447184?type=journalists",
+      "published_at": "2026-07-13T15:35:09+09:00",
+      "sent_at": "2026-07-13T15:43:24.823696+09:00"
+    },
+    {
+      "id": "88941007c1a6795b4354d710422c1da7a6213acbc86d00329e00c354e7c46ac9",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "넥슨 네오플, '사이퍼즈' 15주년 행사 개최... 신규 캐릭터 '창연의 오데트' 공개",
+      "url": "https://n.news.naver.com/article/030/0003447182?type=journalists",
+      "published_at": "2026-07-13T15:33:11+09:00",
+      "sent_at": "2026-07-13T15:43:27.260631+09:00"
+    },
+    {
+      "id": "3da14f72eacdb8c9f714f98d02783be1ff55915f26bcdaf575ab3d419f076971",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "컴투스, '2026 KBO 올스타전 홈런더비' 성료... 5년 연속 메인 스폰서 참여",
+      "url": "https://n.news.naver.com/article/030/0003447180?type=journalists",
+      "published_at": "2026-07-13T15:32:14+09:00",
+      "sent_at": "2026-07-13T15:43:29.669516+09:00"
+    },
+    {
+      "id": "52dc7f99ec22e3ee37a5aea82076c61739968a34c49aa0448af3a78359d8fd0e",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "'토치라이트: 인피니트', 상하이서 '토치콘 2026' 개최…신규 시즌 '애프터라이트' 공개",
+      "url": "https://n.news.naver.com/article/030/0003447179?type=journalists",
+      "published_at": "2026-07-13T15:30:11+09:00",
+      "sent_at": "2026-07-13T15:43:32.040165+09:00"
+    },
+    {
+      "id": "32c04edd0a9b87594711ef5876dff0060042fc9ea0fcbe6ed71a1c76ed78c2d0",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "넥슨, '던파모바일 2.0' 공개... 최고 레벨 90·신규 지역 '마계' 업데이트",
+      "url": "https://n.news.naver.com/article/030/0003447175?type=journalists",
+      "published_at": "2026-07-13T15:28:12+09:00",
+      "sent_at": "2026-07-13T15:43:34.440716+09:00"
+    },
+    {
+      "id": "64be68be7a507aac37e1fb37c86e3e4e1a1f96a62d63d79610e6c5ccefd9715b",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "데브시스터즈, '어반브레이크 & 토이콘 서울 2026'서 쿠키런 아트 컬래버 전개",
+      "url": "https://n.news.naver.com/article/030/0003447172?type=journalists",
+      "published_at": "2026-07-13T15:26:19+09:00",
+      "sent_at": "2026-07-13T15:43:36.791134+09:00"
     }
   ],
-  "last_run_at": "2026-07-13T06:38:16.833196+00:00"
+  "last_run_at": "2026-07-13T06:43:20.849543+00:00"
 }
