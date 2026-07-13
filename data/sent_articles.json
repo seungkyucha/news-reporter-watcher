@@ -404,7 +404,16 @@
       "url": "https://n.news.naver.com/article/001/0016190291?type=journalists",
       "published_at": "2026-07-13T09:30:51+09:00",
       "sent_at": "2026-07-13T09:45:14.343972+09:00"
+    },
+    {
+      "id": "70cdbd604530624eed75ec2105489eda9fa928ee2404ebb16842b022dec87a1d",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "렐루게임즈 '미메시스', 글로벌 판매량 200만장 돌파…AI 네이티브 게임 흥행 지속",
+      "url": "https://n.news.naver.com/article/030/0003446989?type=journalists",
+      "published_at": "2026-07-13T10:39:11+09:00",
+      "sent_at": "2026-07-13T10:56:17.284837+09:00"
     }
   ],
-  "last_run_at": "2026-07-13T01:51:07.656370+00:00"
+  "last_run_at": "2026-07-13T01:56:12.115205+00:00"
 }
