@@ -467,7 +467,16 @@
       "url": "https://n.news.naver.com/article/030/0003447156?type=journalists",
       "published_at": "2026-07-13T15:11:09+09:00",
       "sent_at": "2026-07-13T15:23:03.245594+09:00"
+    },
+    {
+      "id": "c2a7302384aff594c5dd3b6460c00f47f43c72985c11bb60d29e952229a434f0",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "NHN, 게임·AI 해커톤 'NAN 2026' 참가자 모집... 채용 연계 특전 제공",
+      "url": "https://n.news.naver.com/article/030/0003447169?type=journalists",
+      "published_at": "2026-07-13T15:25:13+09:00",
+      "sent_at": "2026-07-13T15:33:14.257744+09:00"
     }
   ],
-  "last_run_at": "2026-07-13T06:28:06.362082+00:00"
+  "last_run_at": "2026-07-13T06:33:10.108107+00:00"
 }
