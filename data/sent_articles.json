@@ -422,7 +422,16 @@
       "url": "https://n.news.naver.com/article/001/0016190629?type=journalists",
       "published_at": "2026-07-13T10:59:30+09:00",
       "sent_at": "2026-07-13T11:16:42.706508+09:00"
+    },
+    {
+      "id": "ab5f00e931c2da242ce1ded3acf7ab162848144e570ad9a44a2218d78356241f",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "그라비티, 박현철·기타무라 공동대표 체제 전환",
+      "url": "https://n.news.naver.com/article/001/0016191191?type=journalists",
+      "published_at": "2026-07-13T13:56:40+09:00",
+      "sent_at": "2026-07-13T14:16:58.648860+09:00"
     }
   ],
-  "last_run_at": "2026-07-13T05:11:49.087511+00:00"
+  "last_run_at": "2026-07-13T05:16:53.241251+00:00"
 }
