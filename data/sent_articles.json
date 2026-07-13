@@ -530,7 +530,16 @@
       "url": "https://n.news.naver.com/article/030/0003447172?type=journalists",
       "published_at": "2026-07-13T15:26:19+09:00",
       "sent_at": "2026-07-13T15:43:36.791134+09:00"
+    },
+    {
+      "id": "8277739ca24a582c46cf8b40bb94566827814c9866cb4f14c6a963f3d221b2ba",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "BIC 2026, 공식 선정작 공개... 57개국 856개 작품 몰려 '역대 최다'",
+      "url": "https://n.news.naver.com/article/030/0003447185?type=journalists",
+      "published_at": "2026-07-13T15:36:09+09:00",
+      "sent_at": "2026-07-13T15:53:48.217879+09:00"
     }
   ],
-  "last_run_at": "2026-07-13T06:48:39.518685+00:00"
+  "last_run_at": "2026-07-13T06:53:43.366774+00:00"
 }
