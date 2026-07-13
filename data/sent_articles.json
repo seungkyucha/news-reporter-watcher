@@ -413,7 +413,16 @@
       "url": "https://n.news.naver.com/article/030/0003446989?type=journalists",
       "published_at": "2026-07-13T10:39:11+09:00",
       "sent_at": "2026-07-13T10:56:17.284837+09:00"
+    },
+    {
+      "id": "c824acc490c7f3d9c5888fd42c72b32c8447921e0daf56a6954b913f4a21fb05",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "넥슨, '헬로메이플' 대학생 크리에이터 제작 신규 월드 6종 출시",
+      "url": "https://n.news.naver.com/article/030/0003447000?type=journalists",
+      "published_at": "2026-07-13T10:51:08+09:00",
+      "sent_at": "2026-07-13T11:06:29.454551+09:00"
     }
   ],
-  "last_run_at": "2026-07-13T02:01:20.185643+00:00"
+  "last_run_at": "2026-07-13T02:06:24.671840+00:00"
 }
