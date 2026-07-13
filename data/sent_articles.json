@@ -422,7 +422,16 @@
       "url": "https://n.news.naver.com/article/030/0003447000?type=journalists",
       "published_at": "2026-07-13T10:51:08+09:00",
       "sent_at": "2026-07-13T11:06:29.454551+09:00"
+    },
+    {
+      "id": "dabcc6aa60269fe21dd2501801bb477b47b7247d213d10e2f7988351ada797fc",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "데브시스터즈, '어반브레이크&토이콘 서울' 참가",
+      "url": "https://n.news.naver.com/article/001/0016190629?type=journalists",
+      "published_at": "2026-07-13T10:59:30+09:00",
+      "sent_at": "2026-07-13T11:16:42.706508+09:00"
     }
   ],
-  "last_run_at": "2026-07-13T02:11:32.600747+00:00"
+  "last_run_at": "2026-07-13T02:16:37.020466+00:00"
 }
