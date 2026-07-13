@@ -395,7 +395,16 @@
       "url": "https://n.news.naver.com/article/001/0016189958?type=journalists",
       "published_at": "2026-07-12T22:39:38+09:00",
       "sent_at": "2026-07-12T22:55:46.064781+09:00"
+    },
+    {
+      "id": "6f2f40b6a84d4ddc129a219535364d7d34b35e0b5ebdd7828697802f8e71154e",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "크래프톤 렐루게임즈 '미메시스' 누적 판매량 200만장 돌파",
+      "url": "https://n.news.naver.com/article/001/0016190291?type=journalists",
+      "published_at": "2026-07-13T09:30:51+09:00",
+      "sent_at": "2026-07-13T09:45:14.343972+09:00"
     }
   ],
-  "last_run_at": "2026-07-13T00:40:04.550226+00:00"
+  "last_run_at": "2026-07-13T00:45:08.998871+00:00"
 }
