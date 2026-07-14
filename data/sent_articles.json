@@ -647,7 +647,34 @@
       "url": "https://n.news.naver.com/article/030/0003447743?type=journalists",
       "published_at": "2026-07-14T16:04:10+09:00",
       "sent_at": "2026-07-14T16:16:45.945513+09:00"
+    },
+    {
+      "id": "36e029af1d295401a01c02a1b320a08cbb76794e776236fa5e18c6801852637a",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "넷마블 아스달 연대기, '플레이가 곧 성장' 구현한 신규 서버 '뉴월드' 오픈",
+      "url": "https://n.news.naver.com/article/030/0003447749?type=journalists",
+      "published_at": "2026-07-14T16:10:18+09:00",
+      "sent_at": "2026-07-14T16:26:57.768417+09:00"
+    },
+    {
+      "id": "16d52e014b7cb945d89a326086b7aec3d70cfcc2a2b9f8722189e86aee0e8deb",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "컴투스, 10번째 시즌 맞은 '서머너즈 워 월드 아레나 챔피언십' 기념 영상 공개",
+      "url": "https://n.news.naver.com/article/030/0003447748?type=journalists",
+      "published_at": "2026-07-14T16:08:17+09:00",
+      "sent_at": "2026-07-14T16:27:00.234572+09:00"
+    },
+    {
+      "id": "9b3dfe6a23183454e2f2c0f7c60a0efa8d1ed551b4ec3ebfbe8f495b5c70a79c",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "펄어비스 검은사막 모바일, 두 번째 시즌 및 여름 이벤트 '용궁' 시작",
+      "url": "https://n.news.naver.com/article/030/0003447746?type=journalists",
+      "published_at": "2026-07-14T16:06:16+09:00",
+      "sent_at": "2026-07-14T16:27:02.677505+09:00"
     }
   ],
-  "last_run_at": "2026-07-14T07:21:48.909480+00:00"
+  "last_run_at": "2026-07-14T07:26:52.961655+00:00"
 }
