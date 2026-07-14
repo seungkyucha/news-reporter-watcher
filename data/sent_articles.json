@@ -548,7 +548,16 @@
       "url": "https://n.news.naver.com/article/001/0016192654?type=journalists",
       "published_at": "2026-07-14T09:53:07+09:00",
       "sent_at": "2026-07-14T10:05:20.283960+09:00"
+    },
+    {
+      "id": "357e81c52d159fe23b4f576e6992a604527fcb277ac1c0f12a4578412a9825e3",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "게임업계 힘 모았다…'유스 e스포츠 페스티벌' 개최",
+      "url": "https://n.news.naver.com/article/001/0016192690?type=journalists",
+      "published_at": "2026-07-14T10:00:58+09:00",
+      "sent_at": "2026-07-14T10:15:31.889069+09:00"
     }
   ],
-  "last_run_at": "2026-07-14T01:10:22.495734+00:00"
+  "last_run_at": "2026-07-14T01:15:26.688298+00:00"
 }
