@@ -575,7 +575,16 @@
       "url": "https://n.news.naver.com/article/030/0003447487?type=journalists",
       "published_at": "2026-07-14T10:19:14+09:00",
       "sent_at": "2026-07-14T10:36:08.568456+09:00"
+    },
+    {
+      "id": "710a0b20a9a2852eefa5eb2fc4e983818297b31b3b933f337ea753426b3499e8",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "NC문화재단, 미래세대를 위한 그림책 '엄청난 막대기' 출간",
+      "url": "https://n.news.naver.com/article/030/0003447494?type=journalists",
+      "published_at": "2026-07-14T10:25:11+09:00",
+      "sent_at": "2026-07-14T10:41:16.103692+09:00"
     }
   ],
-  "last_run_at": "2026-07-14T01:35:46.075512+00:00"
+  "last_run_at": "2026-07-14T01:41:11.484650+00:00"
 }
