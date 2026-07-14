@@ -656,7 +656,16 @@
       "url": "https://n.news.naver.com/article/030/0003447746?type=journalists",
       "published_at": "2026-07-14T16:06:16+09:00",
       "sent_at": "2026-07-14T16:27:02.677505+09:00"
+    },
+    {
+      "id": "db2073c64b2a3e322a0e793e6827283cce2e27e1f53d69d7e8bdadca2464272c",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "라이엇 \"LoL 신규 클라이언트 개발 원활…아수라장 계속 유지\"",
+      "url": "https://n.news.naver.com/article/001/0016194754?type=journalists",
+      "published_at": "2026-07-15T00:00:04+09:00",
+      "sent_at": "2026-07-15T00:14:47.337987+09:00"
     }
   ],
-  "last_run_at": "2026-07-14T15:09:38.558615+00:00"
+  "last_run_at": "2026-07-14T15:14:42.771843+00:00"
 }
