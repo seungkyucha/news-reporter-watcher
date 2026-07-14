@@ -584,7 +584,25 @@
       "url": "https://n.news.naver.com/article/030/0003447494?type=journalists",
       "published_at": "2026-07-14T10:25:11+09:00",
       "sent_at": "2026-07-14T10:41:16.103692+09:00"
+    },
+    {
+      "id": "3f808ff6f2e2dc62f9041d8304537f533834586f96bc5635c349a32ada1d7c47",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "'LCK 레전드 매치' 8월 4일 치지직 롤파크 개최... LoL 초창기 감성 되살린다",
+      "url": "https://n.news.naver.com/article/030/0003447518?type=journalists",
+      "published_at": "2026-07-14T11:04:16+09:00",
+      "sent_at": "2026-07-14T11:16:48.896864+09:00"
+    },
+    {
+      "id": "16cd4513be3d9c6a130d1f268c5e319f3de33448fa6877d7d682c3f39febcb73",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "스마게·넥슨 등 '2026 유스 e스포츠 페스티벌' 개최... 게임 진로 탐색·문화 체험",
+      "url": "https://n.news.naver.com/article/030/0003447516?type=journalists",
+      "published_at": "2026-07-14T11:01:19+09:00",
+      "sent_at": "2026-07-14T11:16:51.248612+09:00"
     }
   ],
-  "last_run_at": "2026-07-14T02:11:40.183700+00:00"
+  "last_run_at": "2026-07-14T02:16:44.568244+00:00"
 }
