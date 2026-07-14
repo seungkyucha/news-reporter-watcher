@@ -638,7 +638,16 @@
       "url": "https://n.news.naver.com/article/030/0003447696?type=journalists",
       "published_at": "2026-07-14T15:32:14+09:00",
       "sent_at": "2026-07-14T15:46:10.343150+09:00"
+    },
+    {
+      "id": "a99dbc7dc0d64cc18f9e5614db1bca6e46e2311b9d097543772acf10173f4a4f",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "컴투스플랫폼, 'AMPLIFY 2026'에서 AI 기반 글로벌 게임 서비스 비전 제시",
+      "url": "https://n.news.naver.com/article/030/0003447743?type=journalists",
+      "published_at": "2026-07-14T16:04:10+09:00",
+      "sent_at": "2026-07-14T16:16:45.945513+09:00"
     }
   ],
-  "last_run_at": "2026-07-14T07:11:35.246622+00:00"
+  "last_run_at": "2026-07-14T07:16:39.538318+00:00"
 }
