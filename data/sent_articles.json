@@ -1,24 +1,6 @@
 {
   "sent": [
     {
-      "id": "2963421c1dc9442a853254c16866abe6fbbeb281e7d081449848cea784935636",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "넥슨, '오버워치' 8월 12일부터 국내 서비스…계정 연동 시작",
-      "url": "https://n.news.naver.com/article/001/0016180133?type=journalists",
-      "published_at": "2026-07-07T13:39:34+09:00",
-      "sent_at": "2026-07-07T17:30:07.324606+09:00"
-    },
-    {
-      "id": "6bf0cd5540e947317f8d142aaae2706dc22d84310069b11b06c1218ff077fe38",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "네카오 허위정보 신고창구 열었다…기대·우려 교차",
-      "url": "https://n.news.naver.com/article/001/0016179849?type=journalists",
-      "published_at": "2026-07-07T11:26:52+09:00",
-      "sent_at": "2026-07-07T17:30:09.976543+09:00"
-    },
-    {
       "id": "cbe8bfd2a7670a7cc21c1db62e5b4b2358de2f4c5da71d56f9a335c6b59d7b5e",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -676,5 +658,5 @@
       "sent_at": "2026-07-14T16:27:02.677505+09:00"
     }
   ],
-  "last_run_at": "2026-07-14T08:27:55.463106+00:00"
+  "last_run_at": "2026-07-14T08:33:01.231440+00:00"
 }
