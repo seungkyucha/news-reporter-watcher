@@ -611,7 +611,25 @@
       "url": "https://n.news.naver.com/article/030/0003447661?type=journalists",
       "published_at": "2026-07-14T14:57:14+09:00",
       "sent_at": "2026-07-14T15:15:36.004903+09:00"
+    },
+    {
+      "id": "90f7f128e1d68fb98d8892d2a8d0968bfa40fd7d9a1d333b224e9d1609d334e2",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "크래프톤, AI '실전 적용' 확대... e스포츠·안티치트·AI 팀원까지",
+      "url": "https://n.news.naver.com/article/030/0003447685?type=journalists",
+      "published_at": "2026-07-14T15:21:12+09:00",
+      "sent_at": "2026-07-14T15:35:55.929606+09:00"
+    },
+    {
+      "id": "014fd495b73a95cfbeb7bf9381207f89e614b5ae16fc0efe81c5838d8b75bff8",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "엔씨AI “AI는 게임을 더 많이가 아닌, 더 잘 만드는 기술”... 속도보다는 완성도",
+      "url": "https://n.news.naver.com/article/030/0003447683?type=journalists",
+      "published_at": "2026-07-14T15:18:20+09:00",
+      "sent_at": "2026-07-14T15:35:58.540594+09:00"
     }
   ],
-  "last_run_at": "2026-07-14T06:30:46.795942+00:00"
+  "last_run_at": "2026-07-14T06:35:50.823985+00:00"
 }
