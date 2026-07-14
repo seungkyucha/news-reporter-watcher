@@ -602,7 +602,16 @@
       "url": "https://n.news.naver.com/article/030/0003447644?type=journalists",
       "published_at": "2026-07-14T14:38:12+09:00",
       "sent_at": "2026-07-14T14:55:14.595187+09:00"
+    },
+    {
+      "id": "3bca7b13b4215cc76fa50e61b72278a02cce4d964155aa7e714ccd82cc274fc8",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "배틀그라운드 모바일, 페라리·스쿠데리아 페라리 HP와 컬래버레이션 진행",
+      "url": "https://n.news.naver.com/article/030/0003447661?type=journalists",
+      "published_at": "2026-07-14T14:57:14+09:00",
+      "sent_at": "2026-07-14T15:15:36.004903+09:00"
     }
   ],
-  "last_run_at": "2026-07-14T06:10:27.402921+00:00"
+  "last_run_at": "2026-07-14T06:15:31.531969+00:00"
 }
