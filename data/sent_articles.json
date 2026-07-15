@@ -710,7 +710,16 @@
       "url": "https://n.news.naver.com/article/001/0016197326?type=journalists",
       "published_at": "2026-07-15T21:25:47+09:00",
       "sent_at": "2026-07-15T21:45:34.645582+09:00"
+    },
+    {
+      "id": "4853dc06e63065003f0c104d2e7c7e8376079d3fc3b7793f414ab61ac4f3cae6",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "EWC 첫날…젠지·한화생명·T1, 가뿐히 상위 브래킷 진출",
+      "url": "https://n.news.naver.com/article/001/0016197410?type=journalists",
+      "published_at": "2026-07-16T05:58:05+09:00",
+      "sent_at": "2026-07-16T06:13:35.029232+09:00"
     }
   ],
-  "last_run_at": "2026-07-15T21:08:25.526582+00:00"
+  "last_run_at": "2026-07-15T21:13:29.732664+00:00"
 }
