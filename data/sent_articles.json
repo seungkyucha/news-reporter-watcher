@@ -710,7 +710,16 @@
       "url": "https://n.news.naver.com/article/001/0016197299?type=journalists",
       "published_at": "2026-07-15T23:59:59+09:00",
       "sent_at": "2026-07-15T21:04:57.465434+09:00"
+    },
+    {
+      "id": "1435fc996d92d166e320399a0b655d0c16a478cb585394b5aab99655467c5b11",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "페이커, e스포츠 월드컵·네이션스컵 공식 앰버서더 임명",
+      "url": "https://n.news.naver.com/article/001/0016197326?type=journalists",
+      "published_at": "2026-07-15T21:25:47+09:00",
+      "sent_at": "2026-07-15T21:45:34.645582+09:00"
     }
   ],
-  "last_run_at": "2026-07-15T12:40:25.361231+00:00"
+  "last_run_at": "2026-07-15T12:45:29.473357+00:00"
 }
