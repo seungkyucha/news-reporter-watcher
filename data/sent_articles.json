@@ -647,7 +647,16 @@
       "url": "https://n.news.naver.com/article/030/0003448104?type=journalists",
       "published_at": "2026-07-15T14:07:12+09:00",
       "sent_at": "2026-07-15T14:23:31.242171+09:00"
+    },
+    {
+      "id": "59169c7d7d5c9d787ef827a6624e470bb0a749e5a11a75f091826b8a482c7487",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "LoL e스포츠 월드컵 개막…디펜딩 챔피언 젠지, 개막전 출격",
+      "url": "https://n.news.naver.com/article/001/0016197249?type=journalists",
+      "published_at": "2026-07-15T19:27:45+09:00",
+      "sent_at": "2026-07-15T19:43:22.063179+09:00"
     }
   ],
-  "last_run_at": "2026-07-15T10:38:11.628168+00:00"
+  "last_run_at": "2026-07-15T10:43:16.150179+00:00"
 }
