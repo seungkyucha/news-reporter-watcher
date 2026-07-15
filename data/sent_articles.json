@@ -1,24 +1,6 @@
 {
   "sent": [
     {
-      "id": "7bd7c2a2ec7ab6c8d71df45dd409f11b52e3e66f7d982f99e7dc3520211388fc",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "[AI픽] NC AI '바르코 보이스', ITU가 꼽은 우수 AI 사례로",
-      "url": "https://n.news.naver.com/article/001/0016181989?type=journalists",
-      "published_at": "2026-07-08T10:12:48+09:00",
-      "sent_at": "2026-07-08T10:25:56.274651+09:00"
-    },
-    {
-      "id": "9179710a83644f4973037062635d7b1d6658968c033928608a85a4bc1b42fc20",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "위메이드 위믹스, 미국 크라켄 상장…글로벌 시장 넓힌다",
-      "url": "https://n.news.naver.com/article/001/0016181967?type=journalists",
-      "published_at": "2026-07-08T10:08:15+09:00",
-      "sent_at": "2026-07-08T10:25:58.949811+09:00"
-    },
-    {
       "id": "b61c622ac0f419acfc992a54fb3798301110c326572a4efd89981189bbc584c5",
       "reporter": "서정근",
       "press": "MTN",
@@ -658,5 +640,5 @@
       "sent_at": "2026-07-15T00:14:47.337987+09:00"
     }
   ],
-  "last_run_at": "2026-07-15T01:24:12.075141+00:00"
+  "last_run_at": "2026-07-15T01:29:16.405189+00:00"
 }
