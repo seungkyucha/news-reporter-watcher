@@ -665,7 +665,34 @@
       "url": "https://n.news.naver.com/article/030/0003448079?type=journalists",
       "published_at": "2026-07-15T13:48:13+09:00",
       "sent_at": "2026-07-15T14:02:54.315031+09:00"
+    },
+    {
+      "id": "155f34670ca0e759aa997707546bda00a1896875077464444e20904c0d04f503",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "컴투스 '제우스: 오만의 신', 그리스 신화 세계관 구현...'디렉터스 인사이트' 공개",
+      "url": "https://n.news.naver.com/article/030/0003448101?type=journalists",
+      "published_at": "2026-07-15T14:05:10+09:00",
+      "sent_at": "2026-07-15T14:13:05.812174+09:00"
+    },
+    {
+      "id": "723b5fa729509542f6f122bdf94685ee33923d538a7e31b8d28287e7722f63a5",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "라이엇게임즈, 더현대 서울서 '와일드 팬페스트' 개최... '사운즈 포레스트' 입성",
+      "url": "https://n.news.naver.com/article/030/0003448093?type=journalists",
+      "published_at": "2026-07-15T13:58:12+09:00",
+      "sent_at": "2026-07-15T14:13:08.251167+09:00"
+    },
+    {
+      "id": "55e16b74b28a8506d7fc0a6a90daf60eddede419d919b198359b36b357851bdb",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "'승리의 여신: 니케', 빌리빌리 월드 2026 참가 성료... 체험형 부스로 중국 팬 호응",
+      "url": "https://n.news.naver.com/article/030/0003448089?type=journalists",
+      "published_at": "2026-07-15T13:56:15+09:00",
+      "sent_at": "2026-07-15T14:13:10.798739+09:00"
     }
   ],
-  "last_run_at": "2026-07-15T05:07:57.488757+00:00"
+  "last_run_at": "2026-07-15T05:13:01.813369+00:00"
 }
