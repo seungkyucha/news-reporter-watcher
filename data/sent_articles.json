@@ -638,7 +638,34 @@
       "url": "https://n.news.naver.com/article/001/0016194754?type=journalists",
       "published_at": "2026-07-15T00:00:04+09:00",
       "sent_at": "2026-07-15T00:14:47.337987+09:00"
+    },
+    {
+      "id": "1610744f43bfa82d996102def5b5f7d69ae64ac9ebdd2c1332341c91b15dffdc",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "원스토어, 크로쓰 프로토콜 밸리데이터 합류... 블록체인 인프라 참여",
+      "url": "https://n.news.naver.com/article/030/0003448083?type=journalists",
+      "published_at": "2026-07-15T13:51:10+09:00",
+      "sent_at": "2026-07-15T14:02:48.700750+09:00"
+    },
+    {
+      "id": "45195415ab6a0d58aef95d4a42d817d2eea1a18c29506d6b7a337189f1442fcc",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "네오위즈 '신 천상비', 서비스 25주년 기념 대규모 이벤트·업데이트",
+      "url": "https://n.news.naver.com/article/030/0003448082?type=journalists",
+      "published_at": "2026-07-15T13:50:12+09:00",
+      "sent_at": "2026-07-15T14:02:51.641789+09:00"
+    },
+    {
+      "id": "e63fe0b210eabfa237a6a2475b47ad23b761344152d145a510364276640989ee",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "슈퍼패스트, 스팀 퍼블리싱 레이블 '오프문' 출범... 신작 4종 1100원에 출시",
+      "url": "https://n.news.naver.com/article/030/0003448079?type=journalists",
+      "published_at": "2026-07-15T13:48:13+09:00",
+      "sent_at": "2026-07-15T14:02:54.315031+09:00"
     }
   ],
-  "last_run_at": "2026-07-15T04:57:19.200941+00:00"
+  "last_run_at": "2026-07-15T05:02:44.243306+00:00"
 }
