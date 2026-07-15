@@ -692,7 +692,16 @@
       "url": "https://n.news.naver.com/article/030/0003448089?type=journalists",
       "published_at": "2026-07-15T13:56:15+09:00",
       "sent_at": "2026-07-15T14:13:10.798739+09:00"
+    },
+    {
+      "id": "da819b83fbab6d18386ca9ecfd36436b35c42a66f33fd4f277479a5579611c8d",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "5민랩, '딩컴 투게더' 첫 CBT 결과 공개... 정식 출시 전 완성도 지속 개선",
+      "url": "https://n.news.naver.com/article/030/0003448104?type=journalists",
+      "published_at": "2026-07-15T14:07:12+09:00",
+      "sent_at": "2026-07-15T14:23:31.242171+09:00"
     }
   ],
-  "last_run_at": "2026-07-15T05:18:18.936412+00:00"
+  "last_run_at": "2026-07-15T05:23:26.601851+00:00"
 }
