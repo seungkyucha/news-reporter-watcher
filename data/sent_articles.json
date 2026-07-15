@@ -719,7 +719,16 @@
       "url": "https://n.news.naver.com/article/001/0016197410?type=journalists",
       "published_at": "2026-07-16T05:58:05+09:00",
       "sent_at": "2026-07-16T06:13:35.029232+09:00"
+    },
+    {
+      "id": "cf7cccd785c31a7f241410bbee0b6bb432c97fe3cb33011efe970ab780556859",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "[가보니] 오일머니가 만든 EWC…경기장이 게임쇼였다",
+      "url": "https://n.news.naver.com/article/001/0016197478?type=journalists",
+      "published_at": "2026-07-16T07:52:49+09:00",
+      "sent_at": "2026-07-16T08:05:14.826156+09:00"
     }
   ],
-  "last_run_at": "2026-07-15T23:00:05.325061+00:00"
+  "last_run_at": "2026-07-15T23:05:09.576044+00:00"
 }
