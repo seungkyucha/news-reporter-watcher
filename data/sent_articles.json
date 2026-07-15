@@ -656,7 +656,61 @@
       "url": "https://n.news.naver.com/article/001/0016197249?type=journalists",
       "published_at": "2026-07-15T19:27:45+09:00",
       "sent_at": "2026-07-15T19:43:22.063179+09:00"
+    },
+    {
+      "id": "3193551ef2643b305441b57f5136c12f3fff54a908d8da3fcf459da2e5e94475",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "EWC 무대 선 '페이커' 이상혁",
+      "url": "https://n.news.naver.com/article/001/0016197305?type=journalists",
+      "published_at": "2026-07-15T23:59:59+09:00",
+      "sent_at": "2026-07-15T21:04:39.429262+09:00"
+    },
+    {
+      "id": "cb014e5a07847ed5f9e7d352d24b4298ae45b48f404d63e2e753d77f319a211e",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "EWC 출전한 디플러스 기아",
+      "url": "https://n.news.naver.com/article/001/0016197303?type=journalists",
+      "published_at": "2026-07-15T23:59:59+09:00",
+      "sent_at": "2026-07-15T21:04:42.803060+09:00"
+    },
+    {
+      "id": "5432ec7530104c0051b3761c71fb23e8fcd0c6206da9f54d669e9489b2d5d929",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "EWC 출전한 한화생명e스포츠",
+      "url": "https://n.news.naver.com/article/001/0016197302?type=journalists",
+      "published_at": "2026-07-15T23:59:59+09:00",
+      "sent_at": "2026-07-15T21:04:46.450641+09:00"
+    },
+    {
+      "id": "bdbb3adc6e942d96069e75d04f397bdc51eba786a70ffc488cc5bb77d68e79b0",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "EWC LoL 관람 열기",
+      "url": "https://n.news.naver.com/article/001/0016197301?type=journalists",
+      "published_at": "2026-07-15T23:59:59+09:00",
+      "sent_at": "2026-07-15T21:04:49.922039+09:00"
+    },
+    {
+      "id": "6733001e2e89768b9c8a33b06ca77cd82281ca24255f171d959a8ccc8c49633d",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "EWC LoL 관람 열기",
+      "url": "https://n.news.naver.com/article/001/0016197300?type=journalists",
+      "published_at": "2026-07-15T23:59:59+09:00",
+      "sent_at": "2026-07-15T21:04:53.816986+09:00"
+    },
+    {
+      "id": "9369b13033016151242033774196dffd09420107804c66904a92e6d69cda1696",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "EWC 출전한 T1",
+      "url": "https://n.news.naver.com/article/001/0016197299?type=journalists",
+      "published_at": "2026-07-15T23:59:59+09:00",
+      "sent_at": "2026-07-15T21:04:57.465434+09:00"
     }
   ],
-  "last_run_at": "2026-07-15T11:59:28.199952+00:00"
+  "last_run_at": "2026-07-15T12:04:32.622923+00:00"
 }
