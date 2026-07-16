@@ -719,7 +719,16 @@
       "url": "https://n.news.naver.com/article/001/0016200047?type=journalists",
       "published_at": "2026-07-17T05:12:31+09:00",
       "sent_at": "2026-07-17T05:24:56.598136+09:00"
+    },
+    {
+      "id": "dbaaa4b518b3e4282a7ff05a983238b9bc6896269a95e2f704a6bc5d7b282d2d",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "[만나보니] \"e스포츠 월드컵, 한국 개최 충분히 가능\"",
+      "url": "https://n.news.naver.com/article/001/0016200155?type=journalists",
+      "published_at": "2026-07-17T08:42:22+09:00",
+      "sent_at": "2026-07-17T08:53:16.614656+09:00"
     }
   ],
-  "last_run_at": "2026-07-16T23:48:06.275884+00:00"
+  "last_run_at": "2026-07-16T23:53:10.456295+00:00"
 }
