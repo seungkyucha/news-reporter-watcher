@@ -701,7 +701,25 @@
       "url": "https://n.news.naver.com/article/001/0016199986?type=journalists",
       "published_at": "2026-07-16T21:59:00+09:00",
       "sent_at": "2026-07-16T22:13:32.494657+09:00"
+    },
+    {
+      "id": "384b920c219b12221e9415beca52cf46349271f8e5a67ceb0eccabdf5935544b",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "페이커 \"EWC, e스포츠·게임산업 성장 선순환 만드는 대회\"",
+      "url": "https://n.news.naver.com/article/001/0016200048?type=journalists",
+      "published_at": "2026-07-17T05:13:19+09:00",
+      "sent_at": "2026-07-17T05:24:53.901639+09:00"
+    },
+    {
+      "id": "9883a8aa5047795af99a69b655da2bd884e7d38415aa929565029642c0aa3fef",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "젠지·한화생명·T1·DK, 나란히 EWC 플레이오프 진출 확정",
+      "url": "https://n.news.naver.com/article/001/0016200047?type=journalists",
+      "published_at": "2026-07-17T05:12:31+09:00",
+      "sent_at": "2026-07-17T05:24:56.598136+09:00"
     }
   ],
-  "last_run_at": "2026-07-16T20:19:45.017319+00:00"
+  "last_run_at": "2026-07-16T20:24:49.270058+00:00"
 }
