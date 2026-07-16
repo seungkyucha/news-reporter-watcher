@@ -692,7 +692,16 @@
       "url": "https://n.news.naver.com/article/001/0016199970?type=journalists",
       "published_at": "2026-07-16T21:30:59+09:00",
       "sent_at": "2026-07-16T21:43:04.231880+09:00"
+    },
+    {
+      "id": "49f65d09688e28869e35f10d4c1627b2602358e73ba3fdd93e01859d10eabc90",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "BLG 바이퍼 \"MSI 우승 못 했지만 EWC는 정상 서겠다\"",
+      "url": "https://n.news.naver.com/article/001/0016199986?type=journalists",
+      "published_at": "2026-07-16T21:59:00+09:00",
+      "sent_at": "2026-07-16T22:13:32.494657+09:00"
     }
   ],
-  "last_run_at": "2026-07-16T13:08:23.494236+00:00"
+  "last_run_at": "2026-07-16T13:13:27.627544+00:00"
 }
