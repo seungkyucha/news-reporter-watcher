@@ -1,24 +1,6 @@
 {
   "sent": [
     {
-      "id": "cdd03100889eb6dd0d173f762f39bb937eea188c2b9f74aa38ba0e3ff3326d3e",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "[AI픽] \"AI로 게임 만든다\"…컴투스플랫폼, 개발 노하우 공유",
-      "url": "https://n.news.naver.com/article/001/0016184626?type=journalists",
-      "published_at": "2026-07-09T10:52:05+09:00",
-      "sent_at": "2026-07-09T11:06:19.086707+09:00"
-    },
-    {
-      "id": "bf04d441320a43dfa106963547ca419561c2690cf69b294ba191f9a6eadb10f9",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "드림에이지, 본파이어 스튜디오 신작 '알케론' 16일 CBT",
-      "url": "https://n.news.naver.com/article/001/0016184616?type=journalists",
-      "published_at": "2026-07-09T10:50:02+09:00",
-      "sent_at": "2026-07-09T11:06:22.383908+09:00"
-    },
-    {
       "id": "95274f5c41886d864c5a171820cf199588cf2052d8cb6db9a0f21f6c990c4030",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -721,5 +703,5 @@
       "sent_at": "2026-07-16T08:05:14.826156+09:00"
     }
   ],
-  "last_run_at": "2026-07-16T02:03:01.594022+00:00"
+  "last_run_at": "2026-07-16T02:08:05.932060+00:00"
 }
