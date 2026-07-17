@@ -701,7 +701,25 @@
       "url": "https://n.news.naver.com/article/001/0016200155?type=journalists",
       "published_at": "2026-07-17T08:42:22+09:00",
       "sent_at": "2026-07-17T08:53:16.614656+09:00"
+    },
+    {
+      "id": "f9a278d333340752a9bb76c0c18cd348752ea8b7b1d06f79bfcd8c44599c5840",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "파리서 펼쳐진 LCK 내전…T1, 플레이오프서 한화생명에 완승",
+      "url": "https://n.news.naver.com/article/001/0016200885?type=journalists",
+      "published_at": "2026-07-17T22:00:59+09:00",
+      "sent_at": "2026-07-17T22:10:09.301720+09:00"
+    },
+    {
+      "id": "09d720f79982dfef0153a4d8d74102dc8bf477ce5cd84a088f62b2a6fdf038ee",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "쵸비의 화려한 백도어…젠지, 징동 2:0 꺾고 EWC 4강 진출",
+      "url": "https://n.news.naver.com/article/001/0016200883?type=journalists",
+      "published_at": "2026-07-17T21:58:18+09:00",
+      "sent_at": "2026-07-17T22:10:11.781655+09:00"
     }
   ],
-  "last_run_at": "2026-07-17T13:05:00.265415+00:00"
+  "last_run_at": "2026-07-17T13:10:04.400335+00:00"
 }
