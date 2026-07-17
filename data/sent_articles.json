@@ -746,7 +746,34 @@
       "url": "https://n.news.naver.com/article/001/0016200894?type=journalists",
       "published_at": "2026-07-17T23:03:08+09:00",
       "sent_at": "2026-07-17T23:16:32.991778+09:00"
+    },
+    {
+      "id": "c05b9808feeff8601e16c732392915ae457dbc2e8d3366c105d3521162c6e1db",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "'EWC 4강 진출' T1 도란 \"부진 극복 완료, 컨디션 자신 있다\"",
+      "url": "https://n.news.naver.com/article/001/0016200928?type=journalists",
+      "published_at": "2026-07-18T03:59:22+09:00",
+      "sent_at": "2026-07-18T04:16:19.817273+09:00"
+    },
+    {
+      "id": "7ddf89446b7c892852f31ca363783553be70a544f3835c89f01379234786ca10",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "'4강 진출' 젠지 \"힘든 상황에서도 계속 이어간 게 승리 비결\"",
+      "url": "https://n.news.naver.com/article/001/0016200927?type=journalists",
+      "published_at": "2026-07-18T03:58:56+09:00",
+      "sent_at": "2026-07-18T04:16:22.322586+09:00"
+    },
+    {
+      "id": "aa3beb54fee6db0efd839bedaf88c65be9b89a1fb5ff0413141bc1693ff80e61",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "디플러스 기아, EWC 플레이오프서 BLG에 업셋 승 …LPL '침몰'",
+      "url": "https://n.news.naver.com/article/001/0016200926?type=journalists",
+      "published_at": "2026-07-18T03:58:24+09:00",
+      "sent_at": "2026-07-18T04:16:25.373089+09:00"
     }
   ],
-  "last_run_at": "2026-07-17T19:11:09.503204+00:00"
+  "last_run_at": "2026-07-17T19:16:13.864366+00:00"
 }
