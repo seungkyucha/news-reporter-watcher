@@ -1,15 +1,6 @@
 {
   "sent": [
     {
-      "id": "6f4f0a79ac710463982219399dfed7c2fbf85b178388d817da963fc3f29d7745",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "크래프톤, 세계 최고 AI학회 ICML 메인트랙서 논문 10편 채택",
-      "url": "https://n.news.naver.com/article/001/0016187535?type=journalists",
-      "published_at": "2026-07-10T14:15:34+09:00",
-      "sent_at": "2026-07-10T14:33:48.043327+09:00"
-    },
-    {
       "id": "396a764ef3c2acf1eb0f6413dec7e834b8a07c9503be4f896ce6da6d76cc9516",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -712,5 +703,5 @@
       "sent_at": "2026-07-17T08:53:16.614656+09:00"
     }
   ],
-  "last_run_at": "2026-07-17T05:33:21.926780+00:00"
+  "last_run_at": "2026-07-17T05:38:26.163746+00:00"
 }
