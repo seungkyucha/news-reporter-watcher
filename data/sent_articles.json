@@ -710,7 +710,16 @@
       "url": "https://n.news.naver.com/article/001/0016200926?type=journalists",
       "published_at": "2026-07-18T03:58:24+09:00",
       "sent_at": "2026-07-18T04:16:25.373089+09:00"
+    },
+    {
+      "id": "f1d691294a4179c0649251ef1697fbf009cc70bf2212441a1c17bae72e32e39e",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "T1, EWC 4강서 프랑스 카르민코프에 1:2 충격패",
+      "url": "https://n.news.naver.com/article/001/0016201400?type=journalists",
+      "published_at": "2026-07-18T23:34:04+09:00",
+      "sent_at": "2026-07-18T23:43:11.313700+09:00"
     }
   ],
-  "last_run_at": "2026-07-18T14:37:49.984091+00:00"
+  "last_run_at": "2026-07-18T14:43:06.020715+00:00"
 }
