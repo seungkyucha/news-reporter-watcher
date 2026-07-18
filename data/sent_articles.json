@@ -728,7 +728,16 @@
       "url": "https://n.news.naver.com/article/001/0016201424?type=journalists",
       "published_at": "2026-07-19T02:19:39+09:00",
       "sent_at": "2026-07-19T02:35:34.171258+09:00"
+    },
+    {
+      "id": "032c4d9325d97f4b095b2801474ca03d621352b647dd2e897a74f66304e295e5",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "'업셋 대행진' 디플러스 기아 \"이제 못 이길 팀 없다 생각\"",
+      "url": "https://n.news.naver.com/article/001/0016201549?type=journalists",
+      "published_at": "2026-07-19T08:21:44+09:00",
+      "sent_at": "2026-07-19T08:35:34.215960+09:00"
     }
   ],
-  "last_run_at": "2026-07-18T23:30:26.356682+00:00"
+  "last_run_at": "2026-07-18T23:35:30.179548+00:00"
 }
