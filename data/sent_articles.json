@@ -719,7 +719,16 @@
       "url": "https://n.news.naver.com/article/001/0016201400?type=journalists",
       "published_at": "2026-07-18T23:34:04+09:00",
       "sent_at": "2026-07-18T23:43:11.313700+09:00"
+    },
+    {
+      "id": "e99657f9fb136a2b3eaf0cffa65025983991ec6569f3a0957f9e8c1a6318ff21",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "승리 굶주린 언더독의 반란…DK, 젠지 꺾고 EWC 결승 진출",
+      "url": "https://n.news.naver.com/article/001/0016201424?type=journalists",
+      "published_at": "2026-07-19T02:19:39+09:00",
+      "sent_at": "2026-07-19T02:35:34.171258+09:00"
     }
   ],
-  "last_run_at": "2026-07-18T17:30:24.817779+00:00"
+  "last_run_at": "2026-07-18T17:35:29.008192+00:00"
 }
