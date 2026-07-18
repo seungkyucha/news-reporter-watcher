@@ -1,42 +1,6 @@
 {
   "sent": [
     {
-      "id": "5edbc7f7e5f9aa9fc3b1af3c74ad485831e2dbeef9e3e9c7dcf1d0e32e897a00",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "기념사진 찍는 존 니덤 라이엇게임즈 사장",
-      "url": "https://n.news.naver.com/article/001/0016189001?type=journalists",
-      "published_at": "2026-07-11T21:06:39+09:00",
-      "sent_at": "2026-07-11T21:26:59.307103+09:00"
-    },
-    {
-      "id": "6a59e08d8f4a0919a2ca9f79eac2382fceeb830dbe65d2b34eac48376e01eaf3",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "엑스포과학공원 게임 팬으로 북적거려",
-      "url": "https://n.news.naver.com/article/001/0016189000?type=journalists",
-      "published_at": "2026-07-11T21:06:20+09:00",
-      "sent_at": "2026-07-11T21:27:01.810129+09:00"
-    },
-    {
-      "id": "3ea8302a48c0618fbd2fa86b544d9f19616cc34264ef19d1df84dc243e6ad752",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "지역·청소년 e스포츠 현황 설명 듣는 존 니덤 라이엇게임즈 사장",
-      "url": "https://n.news.naver.com/article/001/0016188999?type=journalists",
-      "published_at": "2026-07-11T21:06:04+09:00",
-      "sent_at": "2026-07-11T21:27:04.310220+09:00"
-    },
-    {
-      "id": "6a88b1a5863b4e2bb4c4c0db5b74ae076c1f9c4c25a7952e2b9a13ed4787d25e",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "기념사진 찍는 라이엇게임즈 임원들",
-      "url": "https://n.news.naver.com/article/001/0016188998?type=journalists",
-      "published_at": "2026-07-11T21:05:46+09:00",
-      "sent_at": "2026-07-11T21:27:06.934783+09:00"
-    },
-    {
       "id": "e50a634e921df0178f9b4651d1adcd54acfd9c540006b697d0cfb6ee0015c82f",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -757,5 +721,5 @@
       "sent_at": "2026-07-18T04:16:25.373089+09:00"
     }
   ],
-  "last_run_at": "2026-07-18T12:25:57.334755+00:00"
+  "last_run_at": "2026-07-18T12:31:01.682410+00:00"
 }
