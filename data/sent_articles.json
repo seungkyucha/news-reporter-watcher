@@ -1,15 +1,6 @@
 {
   "sent": [
     {
-      "id": "c33f95ee9b50812c4120a44352687ed0eeb9b4366b7fb9c4874bcc6c248c8e88",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "대전 찾은 라이엇 사장 \"지역·청소년 e스포츠 생태계 놀라워\"",
-      "url": "https://n.news.naver.com/article/001/0016188875?type=journalists",
-      "published_at": "2026-07-11T17:24:50+09:00",
-      "sent_at": "2026-07-11T17:33:28.845475+09:00"
-    },
-    {
       "id": "5edbc7f7e5f9aa9fc3b1af3c74ad485831e2dbeef9e3e9c7dcf1d0e32e897a00",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -766,5 +757,5 @@
       "sent_at": "2026-07-18T04:16:25.373089+09:00"
     }
   ],
-  "last_run_at": "2026-07-18T08:32:25.641316+00:00"
+  "last_run_at": "2026-07-18T08:37:29.574347+00:00"
 }
