@@ -746,7 +746,16 @@
       "url": "https://n.news.naver.com/article/001/0016202097?type=journalists",
       "published_at": "2026-07-19T15:08:27+09:00",
       "sent_at": "2026-07-19T15:27:00.920557+09:00"
+    },
+    {
+      "id": "97241ed94b2bac2e650678a21a800b2ef012c0108160eec554d6a6f5d833d5e8",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "[만나보니] \"파리 e스포츠 월드컵, 역대 최고 시청률·관중 기록\"",
+      "url": "https://n.news.naver.com/article/001/0016202376?type=journalists",
+      "published_at": "2026-07-19T21:04:13+09:00",
+      "sent_at": "2026-07-19T21:17:05.812266+09:00"
     }
   ],
-  "last_run_at": "2026-07-19T12:11:55.762566+00:00"
+  "last_run_at": "2026-07-19T12:16:59.826186+00:00"
 }
