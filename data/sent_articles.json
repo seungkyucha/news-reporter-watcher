@@ -746,7 +746,79 @@
       "url": "https://n.news.naver.com/article/030/0003448766?type=journalists",
       "published_at": "2026-07-19T11:31:10+09:00",
       "sent_at": "2026-07-19T11:43:27.996791+09:00"
+    },
+    {
+      "id": "79a70a78b99e0a59d63337a07614f7be551cbc6b3625e4e72c2dc354d3ac00fb",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "포즈 취하는 DK '스매시' 신금재",
+      "url": "https://n.news.naver.com/article/001/0016202104?type=journalists",
+      "published_at": "2026-07-19T15:09:31+09:00",
+      "sent_at": "2026-07-19T15:26:43.266594+09:00"
+    },
+    {
+      "id": "7fc80ba52f4f1a4426aef47ad56fe8add0bbb7c61d3327f0750d7ee453faaa4d",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "포즈 취하는 DK '쇼메이커' 허수",
+      "url": "https://n.news.naver.com/article/001/0016202103?type=journalists",
+      "published_at": "2026-07-19T15:09:19+09:00",
+      "sent_at": "2026-07-19T15:26:45.735714+09:00"
+    },
+    {
+      "id": "5d6dee31f2a1693e0d90002ac42d087f5e11a7202647c2996adee33c5f9cb80f",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "밴픽 준비하는 DK 김대호 감독",
+      "url": "https://n.news.naver.com/article/001/0016202102?type=journalists",
+      "published_at": "2026-07-19T15:09:08+09:00",
+      "sent_at": "2026-07-19T15:26:48.447034+09:00"
+    },
+    {
+      "id": "dffa79570726151ffd55314eb6e37743df30689a958dcafa28098d52160d77b0",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "젠지 대 DK",
+      "url": "https://n.news.naver.com/article/001/0016202101?type=journalists",
+      "published_at": "2026-07-19T15:08:59+09:00",
+      "sent_at": "2026-07-19T15:26:50.803577+09:00"
+    },
+    {
+      "id": "1c43931beb18ea478dc132fe1dfe161400b2c87d62241940a70b4cda8d0fb6c8",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "선수단 바라보는 젠지 유상욱 감독",
+      "url": "https://n.news.naver.com/article/001/0016202100?type=journalists",
+      "published_at": "2026-07-19T15:08:50+09:00",
+      "sent_at": "2026-07-19T15:26:53.243166+09:00"
+    },
+    {
+      "id": "ed84acf8c6d786d4e07877f551a12846635549fa8b22cc48387c9326965bc118",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "자리에 앉는 젠지",
+      "url": "https://n.news.naver.com/article/001/0016202099?type=journalists",
+      "published_at": "2026-07-19T15:08:44+09:00",
+      "sent_at": "2026-07-19T15:26:55.784452+09:00"
+    },
+    {
+      "id": "84c70c449b042297309f9b531815ec7dabae28a9a875973eaf2282a880fa0f44",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "응원하는 젠지 팬들",
+      "url": "https://n.news.naver.com/article/001/0016202098?type=journalists",
+      "published_at": "2026-07-19T15:08:33+09:00",
+      "sent_at": "2026-07-19T15:26:58.576126+09:00"
+    },
+    {
+      "id": "b42685a3c1fb552eb5a35fb7cd36dc9ea0943cd53c90fe0f1a66a43f165dc488",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "생각 잠긴 DK '커리어' 오형석",
+      "url": "https://n.news.naver.com/article/001/0016202097?type=journalists",
+      "published_at": "2026-07-19T15:08:27+09:00",
+      "sent_at": "2026-07-19T15:27:00.920557+09:00"
     }
   ],
-  "last_run_at": "2026-07-19T06:21:33.971928+00:00"
+  "last_run_at": "2026-07-19T06:26:38.175435+00:00"
 }
