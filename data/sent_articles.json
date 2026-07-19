@@ -728,7 +728,16 @@
       "url": "https://n.news.naver.com/article/001/0016202395?type=journalists",
       "published_at": "2026-07-19T21:44:43+09:00",
       "sent_at": "2026-07-19T21:52:39.721646+09:00"
+    },
+    {
+      "id": "5cbc642b043c5261c341e79da8d7e4bde16c948c46827ef9dc4cfcb11e5e952b",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "'언더독' 디플러스 기아, 국제전 한 풀었다…EWC 2026 우승",
+      "url": "https://n.news.naver.com/article/001/0016202421?type=journalists",
+      "published_at": "2026-07-20T01:50:57+09:00",
+      "sent_at": "2026-07-20T02:06:29.148185+09:00"
     }
   ],
-  "last_run_at": "2026-07-19T17:01:18.589701+00:00"
+  "last_run_at": "2026-07-19T17:06:23.704684+00:00"
 }
