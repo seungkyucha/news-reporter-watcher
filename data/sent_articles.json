@@ -746,7 +746,52 @@
       "url": "https://n.news.naver.com/article/001/0016202474?type=journalists",
       "published_at": "2026-07-20T06:19:28+09:00",
       "sent_at": "2026-07-20T06:35:40.275441+09:00"
+    },
+    {
+      "id": "56daefbb3a73dccfb6273c03372177f7b8a9cd4f8f47dd85f6c153808b5e2015",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "[사다리밖 2030] ⑥ AI 시대, 첫 직장이 사라진다…'경력 사다리' 흔들",
+      "url": "https://n.news.naver.com/article/001/0016202497?type=journalists",
+      "published_at": "2026-07-20T07:00:11+09:00",
+      "sent_at": "2026-07-20T07:11:13.758370+09:00"
+    },
+    {
+      "id": "596e3f397e2f263bdfc5b729af110aeb43cb0aa97e7d32d084773879171fceaf",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "트로피 들어올리는 디플러스 기아",
+      "url": "https://n.news.naver.com/article/001/0016202489?type=journalists",
+      "published_at": "2026-07-20T06:59:29+09:00",
+      "sent_at": "2026-07-20T07:11:16.089719+09:00"
+    },
+    {
+      "id": "2db03182da7430cc580fa3e3c55e8422a1ae6197a3b606e06e33c4887c92655a",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "인터뷰하는 '쇼메이커' 허수",
+      "url": "https://n.news.naver.com/article/001/0016202488?type=journalists",
+      "published_at": "2026-07-20T06:58:53+09:00",
+      "sent_at": "2026-07-20T07:11:18.418706+09:00"
+    },
+    {
+      "id": "984232a224fcbcd1372d16db7df11958892c9b9aa9d853d4ffd72545aaca527b",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "인터뷰하는 디플러스 기아 김대호 감독",
+      "url": "https://n.news.naver.com/article/001/0016202487?type=journalists",
+      "published_at": "2026-07-20T06:58:40+09:00",
+      "sent_at": "2026-07-20T07:11:21.314998+09:00"
+    },
+    {
+      "id": "4e4e3d8edda983ece56921ac8f60cf884e449fcd4c76e41f72ce846e612bea4c",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "포즈 취하는 디플러스 기아",
+      "url": "https://n.news.naver.com/article/001/0016202486?type=journalists",
+      "published_at": "2026-07-20T06:58:26+09:00",
+      "sent_at": "2026-07-20T07:11:23.953086+09:00"
     }
   ],
-  "last_run_at": "2026-07-19T22:06:03.674111+00:00"
+  "last_run_at": "2026-07-19T22:11:08.217729+00:00"
 }
