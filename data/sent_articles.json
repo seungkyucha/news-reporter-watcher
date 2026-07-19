@@ -737,7 +737,16 @@
       "url": "https://n.news.naver.com/article/030/0003448744?type=journalists",
       "published_at": "2026-07-19T10:13:09+09:00",
       "sent_at": "2026-07-19T10:27:20.621060+09:00"
+    },
+    {
+      "id": "3861ba2d52f8d7f32a8039324a8bd18edb0510a6309f9050767f635bf306d247",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "크래프톤, '게임스컴 2026' 부스 프로그램 공개... IP 5종 체험 공간 마련",
+      "url": "https://n.news.naver.com/article/030/0003448765?type=journalists",
+      "published_at": "2026-07-19T11:21:10+09:00",
+      "sent_at": "2026-07-19T11:33:16.889742+09:00"
     }
   ],
-  "last_run_at": "2026-07-19T02:28:08.518683+00:00"
+  "last_run_at": "2026-07-19T02:33:12.408301+00:00"
 }
