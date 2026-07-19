@@ -737,7 +737,16 @@
       "url": "https://n.news.naver.com/article/001/0016201549?type=journalists",
       "published_at": "2026-07-19T08:21:44+09:00",
       "sent_at": "2026-07-19T08:35:34.215960+09:00"
+    },
+    {
+      "id": "ba487b0c5bd6d2650148fedeb4683d6570908a1cdb88e7018adaa0fb9a1e6e69",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "[K게임 대도약, 지금이 골든타임]〈5〉 질병코드 고비 넘긴 K게임, 전략 문화산업으로 인식 전환 필요",
+      "url": "https://n.news.naver.com/article/030/0003448744?type=journalists",
+      "published_at": "2026-07-19T10:13:09+09:00",
+      "sent_at": "2026-07-19T10:27:20.621060+09:00"
     }
   ],
-  "last_run_at": "2026-07-19T01:22:11.398248+00:00"
+  "last_run_at": "2026-07-19T01:27:15.592517+00:00"
 }
