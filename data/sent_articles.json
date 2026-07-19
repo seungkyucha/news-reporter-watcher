@@ -746,7 +746,16 @@
       "url": "https://n.news.naver.com/article/030/0003448765?type=journalists",
       "published_at": "2026-07-19T11:21:10+09:00",
       "sent_at": "2026-07-19T11:33:16.889742+09:00"
+    },
+    {
+      "id": "2e9ba6ce7284ec52dd0df830cd93bde1661011bfa96a29941f143f76f68082dc",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "EU 디지털 수장도 게임스컴 첫 방문... 독일 대통령 이어 '게임 외교' 무게 커진다",
+      "url": "https://n.news.naver.com/article/030/0003448766?type=journalists",
+      "published_at": "2026-07-19T11:31:10+09:00",
+      "sent_at": "2026-07-19T11:43:27.996791+09:00"
     }
   ],
-  "last_run_at": "2026-07-19T02:38:19.488493+00:00"
+  "last_run_at": "2026-07-19T02:43:23.376668+00:00"
 }
