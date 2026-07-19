@@ -746,7 +746,16 @@
       "url": "https://n.news.naver.com/article/001/0016202376?type=journalists",
       "published_at": "2026-07-19T21:04:13+09:00",
       "sent_at": "2026-07-19T21:17:05.812266+09:00"
+    },
+    {
+      "id": "b08bc078f65b32a5858fe00a16ef91aa467afc8d8c2fde4d47680c9d77081100",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "젠지, e스포츠 월드컵 3·4위전서 T1 꺾고 최종 3위",
+      "url": "https://n.news.naver.com/article/001/0016202395?type=journalists",
+      "published_at": "2026-07-19T21:44:43+09:00",
+      "sent_at": "2026-07-19T21:52:39.721646+09:00"
     }
   ],
-  "last_run_at": "2026-07-19T12:47:30.310922+00:00"
+  "last_run_at": "2026-07-19T12:52:34.470130+00:00"
 }
