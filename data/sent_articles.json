@@ -737,7 +737,16 @@
       "url": "https://n.news.naver.com/article/001/0016202421?type=journalists",
       "published_at": "2026-07-20T01:50:57+09:00",
       "sent_at": "2026-07-20T02:06:29.148185+09:00"
+    },
+    {
+      "id": "f74a575fd8c7de6b3e1fd11e55ab218b97241023e0d78f093d80b450c66ef057",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "디플러스 \"우린 넘어질수록 강해지는 팀…월즈까지 노린다\"",
+      "url": "https://n.news.naver.com/article/001/0016202474?type=journalists",
+      "published_at": "2026-07-20T06:19:28+09:00",
+      "sent_at": "2026-07-20T06:35:40.275441+09:00"
     }
   ],
-  "last_run_at": "2026-07-19T21:30:30.102387+00:00"
+  "last_run_at": "2026-07-19T21:35:34.385047+00:00"
 }
