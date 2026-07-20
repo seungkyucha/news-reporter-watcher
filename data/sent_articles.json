@@ -800,7 +800,16 @@
       "url": "https://n.news.naver.com/article/030/0003449043?type=journalists",
       "published_at": "2026-07-20T13:17:12+09:00",
       "sent_at": "2026-07-20T13:37:09.912790+09:00"
+    },
+    {
+      "id": "fdf0a09baf21c4f0cd604cca90c3c0028e2ff3c260b342867087f2a52ce090c7",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "카카오게임즈 오션드라이브 '갓 세이브 버밍엄' 게임스컴 2026 출격",
+      "url": "https://n.news.naver.com/article/030/0003449055?type=journalists",
+      "published_at": "2026-07-20T13:27:10+09:00",
+      "sent_at": "2026-07-20T13:47:20.555480+09:00"
     }
   ],
-  "last_run_at": "2026-07-20T04:42:12.882595+00:00"
+  "last_run_at": "2026-07-20T04:47:16.732194+00:00"
 }
