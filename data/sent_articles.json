@@ -1,33 +1,6 @@
 {
   "sent": [
     {
-      "id": "cc34e0ac293a46e17830d75825ab5cfcc9fd7cd003b15d2f56a7c54586ef6e66",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "title": "카카오게임즈 '오딘', 서비스 5주년 효과... 구글 플레이 매출 1위 탈환",
-      "url": "https://n.news.naver.com/article/030/0003447161?type=journalists",
-      "published_at": "2026-07-13T15:15:09+09:00",
-      "sent_at": "2026-07-13T15:22:57.827714+09:00"
-    },
-    {
-      "id": "ed72fa5274ddfdb18c756931e84117302518fe1250bac86eecce10b5d93c9c15",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "title": "그리프라인, '명일방주: 엔드필드' 반주년 기념 대규모 업데이트... '심연으로' 16일 공개",
-      "url": "https://n.news.naver.com/article/030/0003447159?type=journalists",
-      "published_at": "2026-07-13T15:13:09+09:00",
-      "sent_at": "2026-07-13T15:23:00.302526+09:00"
-    },
-    {
-      "id": "2e327f6a144092e3160163dbe26996c7eb39dcfdceeb42e16e743b5911f51ddd",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "title": "LCK, MSI 3년 연속 정상... 한화생명e스포츠 창단 첫 국제대회 우승",
-      "url": "https://n.news.naver.com/article/030/0003447156?type=journalists",
-      "published_at": "2026-07-13T15:11:09+09:00",
-      "sent_at": "2026-07-13T15:23:03.245594+09:00"
-    },
-    {
       "id": "c2a7302384aff594c5dd3b6460c00f47f43c72985c11bb60d29e952229a434f0",
       "reporter": "박정은",
       "press": "전자신문",
@@ -793,5 +766,5 @@
       "sent_at": "2026-07-20T13:47:20.555480+09:00"
     }
   ],
-  "last_run_at": "2026-07-20T06:18:31.962682+00:00"
+  "last_run_at": "2026-07-20T06:23:35.939469+00:00"
 }
