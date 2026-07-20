@@ -764,7 +764,43 @@
       "url": "https://n.news.naver.com/article/001/0016202523?type=journalists",
       "published_at": "2026-07-20T07:49:33+09:00",
       "sent_at": "2026-07-20T08:07:12.679081+09:00"
+    },
+    {
+      "id": "83c94bf970d74651e6ed8cc4edfdfbdee764e49ca447b5b67161c117fb20bf4f",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "배틀그라운드 모바일, 무신사와 협업 '999휴머니티' 컬래버레이션",
+      "url": "https://n.news.naver.com/article/030/0003449051?type=journalists",
+      "published_at": "2026-07-20T13:23:10+09:00",
+      "sent_at": "2026-07-20T13:37:02.383157+09:00"
+    },
+    {
+      "id": "540e966566e38d598646e3be361c6dea11f9d27697be3fe516b4a7c55382cd88",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "엔씨, '아스트라에 오라티오' CBT 진행... 8월 참가자 모집",
+      "url": "https://n.news.naver.com/article/030/0003449049?type=journalists",
+      "published_at": "2026-07-20T13:20:10+09:00",
+      "sent_at": "2026-07-20T13:37:05.004427+09:00"
+    },
+    {
+      "id": "cd9113af2f3064ff1774ed8c0f41c4dcb555b08eaf88bf2aa2fed3f410035e9c",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "데브시스터즈, 부산서 'K헤리티지 with 쿠키런' 캠페인 개막",
+      "url": "https://n.news.naver.com/article/030/0003449046?type=journalists",
+      "published_at": "2026-07-20T13:19:19+09:00",
+      "sent_at": "2026-07-20T13:37:07.503826+09:00"
+    },
+    {
+      "id": "7947d0c5291cc5f3307a26634a75f72e6a23d5273d475ba9ac58c123a46fc3de",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "펄어비스 붉은사막, 플랫폼 간 '크로스 세이브' 기능 추가",
+      "url": "https://n.news.naver.com/article/030/0003449043?type=journalists",
+      "published_at": "2026-07-20T13:17:12+09:00",
+      "sent_at": "2026-07-20T13:37:09.912790+09:00"
     }
   ],
-  "last_run_at": "2026-07-20T04:31:54.095901+00:00"
+  "last_run_at": "2026-07-20T04:36:57.849405+00:00"
 }
