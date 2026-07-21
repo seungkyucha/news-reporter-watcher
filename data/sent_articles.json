@@ -647,7 +647,16 @@
       "url": "https://n.news.naver.com/article/030/0003449392?type=journalists",
       "published_at": "2026-07-21T11:23:12+09:00",
       "sent_at": "2026-07-21T11:32:48.897811+09:00"
+    },
+    {
+      "id": "d680924b625fcfe13347b14543d7699800c594c6c77724da300af0f4a8fab37a",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "유니티 '유나이트 서울', AI 협업 중심 차세대 게임 개발 플랫폼 제시",
+      "url": "https://n.news.naver.com/article/030/0003449393?type=journalists",
+      "published_at": "2026-07-21T11:27:14+09:00",
+      "sent_at": "2026-07-21T11:43:01.677938+09:00"
     }
   ],
-  "last_run_at": "2026-07-21T02:37:52.008562+00:00"
+  "last_run_at": "2026-07-21T02:42:56.456421+00:00"
 }
