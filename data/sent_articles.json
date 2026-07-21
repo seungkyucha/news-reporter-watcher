@@ -638,7 +638,25 @@
       "url": "https://n.news.naver.com/article/030/0003449055?type=journalists",
       "published_at": "2026-07-20T13:27:10+09:00",
       "sent_at": "2026-07-20T13:47:20.555480+09:00"
+    },
+    {
+      "id": "277af34904318a6b470cf7195fc332380cdaa5b52bf27ed88978e648bfa1382a",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "데브시스터즈 '쿠키런: 크럼블', 7월 30일 글로벌 정식 출시",
+      "url": "https://n.news.naver.com/article/030/0003449374?type=journalists",
+      "published_at": "2026-07-21T10:54:17+09:00",
+      "sent_at": "2026-07-21T11:07:21.532948+09:00"
+    },
+    {
+      "id": "f573fbf3b9db330ae4b900deb31cfd93da25611db20bc45eeb39bc32a07bd941",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "웹젠 '테르비스' 일본 코믹마켓 전시 참가",
+      "url": "https://n.news.naver.com/article/030/0003449370?type=journalists",
+      "published_at": "2026-07-21T10:49:12+09:00",
+      "sent_at": "2026-07-21T11:07:24.500320+09:00"
     }
   ],
-  "last_run_at": "2026-07-21T02:02:12.193139+00:00"
+  "last_run_at": "2026-07-21T02:07:16.859647+00:00"
 }
