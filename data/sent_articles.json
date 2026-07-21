@@ -638,7 +638,16 @@
       "url": "https://n.news.naver.com/article/030/0003449370?type=journalists",
       "published_at": "2026-07-21T10:49:12+09:00",
       "sent_at": "2026-07-21T11:07:24.500320+09:00"
+    },
+    {
+      "id": "f9e79ff0c106e40f527dee4c7e02943b7b4d3520db09cdb62da5477b09cfda96",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "국립중앙도서관, '단종 게임 보존과 활용' 세미나 개최",
+      "url": "https://n.news.naver.com/article/030/0003449392?type=journalists",
+      "published_at": "2026-07-21T11:23:12+09:00",
+      "sent_at": "2026-07-21T11:32:48.897811+09:00"
     }
   ],
-  "last_run_at": "2026-07-21T02:27:40.002425+00:00"
+  "last_run_at": "2026-07-21T02:32:44.445158+00:00"
 }
