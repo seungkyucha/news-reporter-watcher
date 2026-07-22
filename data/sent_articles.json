@@ -611,7 +611,16 @@
       "url": "https://n.news.naver.com/article/030/0003449938?type=journalists",
       "published_at": "2026-07-22T16:19:16+09:00",
       "sent_at": "2026-07-22T16:34:43.880420+09:00"
+    },
+    {
+      "id": "a319473870fd13bc384c679fb927e41fef5bb5ae333f6b1994d734ec6810b41b",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "서버 종료와 함께 사라지는 게임…\"디지털 납본제 시급\"",
+      "url": "https://n.news.naver.com/article/001/0016208981?type=journalists",
+      "published_at": "2026-07-22T16:29:41+09:00",
+      "sent_at": "2026-07-22T16:44:56.128863+09:00"
     }
   ],
-  "last_run_at": "2026-07-22T07:39:46.699292+00:00"
+  "last_run_at": "2026-07-22T07:44:50.663898+00:00"
 }
