@@ -593,7 +593,16 @@
       "url": "https://n.news.naver.com/article/001/0016207409?type=journalists",
       "published_at": "2026-07-22T09:45:20+09:00",
       "sent_at": "2026-07-22T10:03:31.815714+09:00"
+    },
+    {
+      "id": "57e46292be34db73e9ccec4c0c031c5df388c859e6cfe68d4cd188f46867bdd8",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "넥슨, FC 모바일 한국 대표 선발전 개최",
+      "url": "https://n.news.naver.com/article/001/0016207507?type=journalists",
+      "published_at": "2026-07-22T10:02:15+09:00",
+      "sent_at": "2026-07-22T10:13:43.697510+09:00"
     }
   ],
-  "last_run_at": "2026-07-22T01:08:34.031392+00:00"
+  "last_run_at": "2026-07-22T01:13:38.445492+00:00"
 }
