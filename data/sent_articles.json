@@ -575,7 +575,25 @@
       "url": "https://n.news.naver.com/article/001/0016207352?type=journalists",
       "published_at": "2026-07-22T09:34:19+09:00",
       "sent_at": "2026-07-22T09:43:07.474498+09:00"
+    },
+    {
+      "id": "9f91140d0d78b9510f4e12534c1f097bb7c3d32044be3ddba679bec4f33ae832",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "[데이터뉴스]게임이 이끈 콘텐츠산업... 1분기 매출 41조원 육박",
+      "url": "https://n.news.naver.com/article/030/0003449665?type=journalists",
+      "published_at": "2026-07-22T09:49:14+09:00",
+      "sent_at": "2026-07-22T10:03:28.622409+09:00"
+    },
+    {
+      "id": "d53d51dbc7bb145a0b3e12e8da61603723ed56765cb7d5a6fa8fcb22236fa528",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "네오위즈 파우게임즈, 신작 '킹덤2: 타오르는 전장' 사전 예약",
+      "url": "https://n.news.naver.com/article/001/0016207409?type=journalists",
+      "published_at": "2026-07-22T09:45:20+09:00",
+      "sent_at": "2026-07-22T10:03:31.815714+09:00"
     }
   ],
-  "last_run_at": "2026-07-22T00:58:19.550950+00:00"
+  "last_run_at": "2026-07-22T01:03:23.973316+00:00"
 }
