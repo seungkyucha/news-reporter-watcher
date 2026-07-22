@@ -620,7 +620,34 @@
       "url": "https://n.news.naver.com/article/001/0016208981?type=journalists",
       "published_at": "2026-07-22T16:29:41+09:00",
       "sent_at": "2026-07-22T16:44:56.128863+09:00"
+    },
+    {
+      "id": "078db0beb35b2f4c87a6e9e4187d5d03e949c32b08a698db367fbcaee9ed0334",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "발표하는 박두산 넥슨뮤지엄 관장",
+      "url": "https://n.news.naver.com/article/001/0016209005?type=journalists",
+      "published_at": "2026-07-22T16:38:29+09:00",
+      "sent_at": "2026-07-22T16:55:08.153760+09:00"
+    },
+    {
+      "id": "42b417d2fe403c1fdf22ff8fe76e23d1f32be55ac5c242a6861532650b7e1866",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "'단종 게임 보존과 활용' 세미나",
+      "url": "https://n.news.naver.com/article/001/0016209000?type=journalists",
+      "published_at": "2026-07-22T16:37:01+09:00",
+      "sent_at": "2026-07-22T16:55:10.543277+09:00"
+    },
+    {
+      "id": "1059eabfd92d44c7ec2bdcd97f4f0f5d7177f55214821be49b8a4fa37f432ea6",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "발표하는 윤대진 게임문화재단 팀장",
+      "url": "https://n.news.naver.com/article/001/0016208994?type=journalists",
+      "published_at": "2026-07-22T16:36:03+09:00",
+      "sent_at": "2026-07-22T16:55:12.985227+09:00"
     }
   ],
-  "last_run_at": "2026-07-22T07:49:58.350073+00:00"
+  "last_run_at": "2026-07-22T07:55:02.742510+00:00"
 }
