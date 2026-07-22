@@ -620,7 +620,34 @@
       "url": "https://n.news.naver.com/article/030/0003449746?type=journalists",
       "published_at": "2026-07-22T11:34:14+09:00",
       "sent_at": "2026-07-22T11:40:02.926407+09:00"
+    },
+    {
+      "id": "ab46632a667b3528032f0e1e82eac6dde92549aa1e367b7fa2776c7d9eb6f7fc",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "조이시티, '프리스타일 리부트' 8월 13일 정식 출시... 사전 예약 돌입",
+      "url": "https://n.news.naver.com/article/030/0003449750?type=journalists",
+      "published_at": "2026-07-22T11:38:16+09:00",
+      "sent_at": "2026-07-22T11:55:18.866284+09:00"
+    },
+    {
+      "id": "048988ac2c89718217739be29d3d20e5c370a21246485aa5ff79a39f1c6fa1e2",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "넥슨, 'FC 모바일' 글로벌 대회 한국 대표 선발전 실시",
+      "url": "https://n.news.naver.com/article/030/0003449749?type=journalists",
+      "published_at": "2026-07-22T11:37:11+09:00",
+      "sent_at": "2026-07-22T11:55:21.327271+09:00"
+    },
+    {
+      "id": "b1d35468c200ec75a2cc68a45860c33be675767a1c68f80973de278ab45be72d",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "게임스컴 2026 참가사 공개…크래프톤·엔씨·삼성 출격",
+      "url": "https://n.news.naver.com/article/001/0016207919?type=journalists",
+      "published_at": "2026-07-22T11:35:25+09:00",
+      "sent_at": "2026-07-22T11:55:24.131117+09:00"
     }
   ],
-  "last_run_at": "2026-07-22T02:50:10.358736+00:00"
+  "last_run_at": "2026-07-22T02:55:14.404388+00:00"
 }
