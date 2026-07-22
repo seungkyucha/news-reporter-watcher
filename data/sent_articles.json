@@ -584,7 +584,34 @@
       "url": "https://n.news.naver.com/article/001/0016207919?type=journalists",
       "published_at": "2026-07-22T11:35:25+09:00",
       "sent_at": "2026-07-22T11:55:24.131117+09:00"
+    },
+    {
+      "id": "38b8defcb9960ece949683893c46d180c40f54edf75718d64f4ee6cd366a7555",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "5민랩, '템빨용사' 글로벌 100만 다운로드 달성... 감사 쿠폰·여름 이벤트 마련",
+      "url": "https://n.news.naver.com/article/030/0003449944?type=journalists",
+      "published_at": "2026-07-22T16:22:16+09:00",
+      "sent_at": "2026-07-22T16:34:38.534599+09:00"
+    },
+    {
+      "id": "6c781dd44180f99726f5b18e8ae72dcddda624ba80bf7fc5b811d808b3184028",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "넥써쓰, 스트리머 플랫폼 '원웨이브'에 토큰 기능 적용",
+      "url": "https://n.news.naver.com/article/030/0003449940?type=journalists",
+      "published_at": "2026-07-22T16:20:09+09:00",
+      "sent_at": "2026-07-22T16:34:41.392290+09:00"
+    },
+    {
+      "id": "d4c2a4a0fd98d484a6e7bc097ee87f4f4ad64546c807a084ceff78ecfbe6aa17",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "국립중앙도서관 “단종된 게임도 문화유산”... 공공 아카이빙 필요성 한목소리",
+      "url": "https://n.news.naver.com/article/030/0003449938?type=journalists",
+      "published_at": "2026-07-22T16:19:16+09:00",
+      "sent_at": "2026-07-22T16:34:43.880420+09:00"
     }
   ],
-  "last_run_at": "2026-07-22T07:29:29.399297+00:00"
+  "last_run_at": "2026-07-22T07:34:33.343832+00:00"
 }
