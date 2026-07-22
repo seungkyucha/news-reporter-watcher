@@ -602,7 +602,16 @@
       "url": "https://n.news.naver.com/article/001/0016207507?type=journalists",
       "published_at": "2026-07-22T10:02:15+09:00",
       "sent_at": "2026-07-22T10:13:43.697510+09:00"
+    },
+    {
+      "id": "6e38c7f93e3ff5fa8ff4b2d2a0406b6d61cf1c4806ad0ed1183a794058c78efc",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "국회 첫 게임스컴 참관…K게임 지원·게임외교 확대",
+      "url": "https://n.news.naver.com/article/030/0003449738?type=journalists",
+      "published_at": "2026-07-22T11:14:15+09:00",
+      "sent_at": "2026-07-22T11:24:47.291452+09:00"
     }
   ],
-  "last_run_at": "2026-07-22T02:19:38.094255+00:00"
+  "last_run_at": "2026-07-22T02:24:42.549367+00:00"
 }
