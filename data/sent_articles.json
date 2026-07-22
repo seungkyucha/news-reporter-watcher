@@ -566,7 +566,16 @@
       "url": "https://n.news.naver.com/article/030/0003449393?type=journalists",
       "published_at": "2026-07-21T11:27:14+09:00",
       "sent_at": "2026-07-21T11:43:01.677938+09:00"
+    },
+    {
+      "id": "1bf061ccb81ad1462c293474983e57c34e091f958065e0e331c580b4fb7d06bf",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "CDPR, 게임스컴서 '더 위쳐 3: 송즈 오브 더 패스트' 공개",
+      "url": "https://n.news.naver.com/article/001/0016207352?type=journalists",
+      "published_at": "2026-07-22T09:34:19+09:00",
+      "sent_at": "2026-07-22T09:43:07.474498+09:00"
     }
   ],
-  "last_run_at": "2026-07-22T00:37:57.887319+00:00"
+  "last_run_at": "2026-07-22T00:43:02.532401+00:00"
 }
