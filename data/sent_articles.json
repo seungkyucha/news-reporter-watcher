@@ -674,7 +674,16 @@
       "url": "https://n.news.naver.com/article/030/0003450482?type=journalists",
       "published_at": "2026-07-23T17:06:11+09:00",
       "sent_at": "2026-07-23T17:23:09.612459+09:00"
+    },
+    {
+      "id": "5b304d0b758b4bfa9adf54af4f0618e538a6712cd168ccaad4dbcbd7b191670c",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "스마일게이트, 신작 MMORPG '이클립스: 더 어웨이크닝' 공개... “'MMOLite'로 부담 낮춘다”",
+      "url": "https://n.news.naver.com/article/030/0003450515?type=journalists",
+      "published_at": "2026-07-23T21:02:13+09:00",
+      "sent_at": "2026-07-23T21:16:47.656869+09:00"
     }
   ],
-  "last_run_at": "2026-07-23T12:11:39.384286+00:00"
+  "last_run_at": "2026-07-23T12:16:43.348225+00:00"
 }
