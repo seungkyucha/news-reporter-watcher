@@ -575,7 +575,16 @@
       "url": "https://n.news.naver.com/article/030/0003450178?type=journalists",
       "published_at": "2026-07-23T10:24:16+09:00",
       "sent_at": "2026-07-23T10:36:45.886836+09:00"
+    },
+    {
+      "id": "4eca0c1790f2a60c6ba7aaeafc24c5762d06f04a4d9de4767f6d1948b90e933f",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "NHN 바둑 AI '한돌', 한중 청소년스포츠교류 양국 바둑 훈련 지원",
+      "url": "https://n.news.naver.com/article/030/0003450184?type=journalists",
+      "published_at": "2026-07-23T10:28:14+09:00",
+      "sent_at": "2026-07-23T10:46:56.729112+09:00"
     }
   ],
-  "last_run_at": "2026-07-23T01:41:48.905796+00:00"
+  "last_run_at": "2026-07-23T01:46:52.709843+00:00"
 }
