@@ -557,7 +557,16 @@
       "url": "https://n.news.naver.com/article/001/0016208994?type=journalists",
       "published_at": "2026-07-22T16:36:03+09:00",
       "sent_at": "2026-07-22T16:55:12.985227+09:00"
+    },
+    {
+      "id": "5e1b6db20b0836fbc93528de136e0641f79ff49da271df2372750e550c3c25de",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "웹젠, 하운드13 가처분 기각…'드래곤소드' 스팀 출시",
+      "url": "https://n.news.naver.com/article/001/0016209834?type=journalists",
+      "published_at": "2026-07-23T09:23:32+09:00",
+      "sent_at": "2026-07-23T09:35:35.823042+09:00"
     }
   ],
-  "last_run_at": "2026-07-23T00:30:26.457487+00:00"
+  "last_run_at": "2026-07-23T00:35:30.648159+00:00"
 }
