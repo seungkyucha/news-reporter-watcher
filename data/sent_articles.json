@@ -647,7 +647,16 @@
       "url": "https://n.news.naver.com/article/030/0003450393?type=journalists",
       "published_at": "2026-07-23T14:56:12+09:00",
       "sent_at": "2026-07-23T15:15:56.162524+09:00"
+    },
+    {
+      "id": "f7a535a515f605e4ff50dbc477f61ec6e3ca96d98afd8357312989359157b5de",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "[人사이트] 박두산 넥슨뮤지엄 관장 “게임 설명 넘어... 플레이어의 추억이 역사”",
+      "url": "https://n.news.naver.com/article/030/0003450459?type=journalists",
+      "published_at": "2026-07-23T16:01:29+09:00",
+      "sent_at": "2026-07-23T16:12:01.159233+09:00"
     }
   ],
-  "last_run_at": "2026-07-23T07:06:52.396362+00:00"
+  "last_run_at": "2026-07-23T07:11:57.053214+00:00"
 }
