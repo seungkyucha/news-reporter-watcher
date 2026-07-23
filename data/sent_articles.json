@@ -620,7 +620,34 @@
       "url": "https://n.news.naver.com/article/030/0003450391?type=journalists",
       "published_at": "2026-07-23T14:54:14+09:00",
       "sent_at": "2026-07-23T15:05:40.184521+09:00"
+    },
+    {
+      "id": "b89172cc691f1bff24c23b162a23b9fc8e2c9cdbec149e96b6955b927a38e2a5",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "호요버스 코리아, 갤럭시Z 폴드8 출시 기념 '원신'·'붕괴: 스타레일' 스페셜 테마 공개",
+      "url": "https://n.news.naver.com/article/030/0003450396?type=journalists",
+      "published_at": "2026-07-23T14:59:09+09:00",
+      "sent_at": "2026-07-23T15:15:51.379249+09:00"
+    },
+    {
+      "id": "bc01bd8f2c6a6e831afc3857b5aca3b48ad1bc5250a93b13e005e4565553d3d4",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "넷마블, 신작 '샹그릴라 프론티어: 일곱 최강종' 글로벌 티저 사이트 오픈",
+      "url": "https://n.news.naver.com/article/030/0003450395?type=journalists",
+      "published_at": "2026-07-23T14:58:17+09:00",
+      "sent_at": "2026-07-23T15:15:53.907689+09:00"
+    },
+    {
+      "id": "3e592a221e8618cfbbf060b3244078d3385e5cb0112a60b3c672e11254938a56",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "라인게임즈, '엠버 앤 블레이드' 중국 공략 본격 시동",
+      "url": "https://n.news.naver.com/article/030/0003450393?type=journalists",
+      "published_at": "2026-07-23T14:56:12+09:00",
+      "sent_at": "2026-07-23T15:15:56.162524+09:00"
     }
   ],
-  "last_run_at": "2026-07-23T06:10:43.303399+00:00"
+  "last_run_at": "2026-07-23T06:15:47.433863+00:00"
 }
