@@ -566,7 +566,16 @@
       "url": "https://n.news.naver.com/article/001/0016209834?type=journalists",
       "published_at": "2026-07-23T09:23:32+09:00",
       "sent_at": "2026-07-23T09:35:35.823042+09:00"
+    },
+    {
+      "id": "3cffaa0acb64884a5c8603cf8ac90d469a508252366f7b012a24008841268d38",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "크래프톤, 글로벌 게임 커머스 인프라 기업 '네온 커머스'에 전략적 투자",
+      "url": "https://n.news.naver.com/article/030/0003450178?type=journalists",
+      "published_at": "2026-07-23T10:24:16+09:00",
+      "sent_at": "2026-07-23T10:36:45.886836+09:00"
     }
   ],
-  "last_run_at": "2026-07-23T01:31:38.190482+00:00"
+  "last_run_at": "2026-07-23T01:36:41.911455+00:00"
 }
