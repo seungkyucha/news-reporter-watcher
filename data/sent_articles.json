@@ -593,7 +593,16 @@
       "url": "https://n.news.naver.com/article/001/0016210298?type=journalists",
       "published_at": "2026-07-23T10:36:03+09:00",
       "sent_at": "2026-07-23T10:57:08.069226+09:00"
+    },
+    {
+      "id": "b41e474e6033fff2212bf81030487b19b97f77fd0f117c4dea19943a8f78c51e",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "넷마블, '샹그릴라 프론티어' 글로벌 티저 사이트 오픈",
+      "url": "https://n.news.naver.com/article/001/0016210482?type=journalists",
+      "published_at": "2026-07-23T11:19:23+09:00",
+      "sent_at": "2026-07-23T11:32:40.373258+09:00"
     }
   ],
-  "last_run_at": "2026-07-23T02:27:31.777024+00:00"
+  "last_run_at": "2026-07-23T02:32:35.983233+00:00"
 }
