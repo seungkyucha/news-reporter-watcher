@@ -584,7 +584,16 @@
       "url": "https://n.news.naver.com/article/030/0003450184?type=journalists",
       "published_at": "2026-07-23T10:28:14+09:00",
       "sent_at": "2026-07-23T10:46:56.729112+09:00"
+    },
+    {
+      "id": "77f8fea61cd114ba1011f04dacaaff8e02492ff7dcb16fc09dbbe6bf5345a335",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "크래프톤, 게임 결제 인프라 기업 네온커머스에 투자",
+      "url": "https://n.news.naver.com/article/001/0016210298?type=journalists",
+      "published_at": "2026-07-23T10:36:03+09:00",
+      "sent_at": "2026-07-23T10:57:08.069226+09:00"
     }
   ],
-  "last_run_at": "2026-07-23T01:51:59.727320+00:00"
+  "last_run_at": "2026-07-23T01:57:03.822466+00:00"
 }
