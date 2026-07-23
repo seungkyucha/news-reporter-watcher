@@ -656,7 +656,16 @@
       "url": "https://n.news.naver.com/article/030/0003450459?type=journalists",
       "published_at": "2026-07-23T16:01:29+09:00",
       "sent_at": "2026-07-23T16:12:01.159233+09:00"
+    },
+    {
+      "id": "49f1610234bec9e296d159b496693dd038eba1a54393fe878af29f9bef87440f",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "넥슨, '마비노기 이터니티' 9월 3일 알파 테스트",
+      "url": "https://n.news.naver.com/article/001/0016211651?type=journalists",
+      "published_at": "2026-07-23T16:24:04+09:00",
+      "sent_at": "2026-07-23T16:32:23.357248+09:00"
     }
   ],
-  "last_run_at": "2026-07-23T07:27:14.336260+00:00"
+  "last_run_at": "2026-07-23T07:32:18.580736+00:00"
 }
