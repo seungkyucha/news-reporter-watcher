@@ -647,7 +647,16 @@
       "url": "https://n.news.naver.com/article/001/0016212533?type=journalists",
       "published_at": "2026-07-24T09:44:16+09:00",
       "sent_at": "2026-07-24T09:52:58.399283+09:00"
+    },
+    {
+      "id": "30a263b2bbb11f51906e56714e06daa76266d4fc43651ecc7a4d02a7bc18f126",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "게임업계 2분기 실적 전망 엇갈려…크래프톤 독주 예상",
+      "url": "https://n.news.naver.com/article/001/0016212569?type=journalists",
+      "published_at": "2026-07-24T09:51:51+09:00",
+      "sent_at": "2026-07-24T10:03:10.533607+09:00"
     }
   ],
-  "last_run_at": "2026-07-24T00:58:01.103409+00:00"
+  "last_run_at": "2026-07-24T01:03:05.497461+00:00"
 }
