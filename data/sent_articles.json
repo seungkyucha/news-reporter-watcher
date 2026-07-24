@@ -1,33 +1,6 @@
 {
   "sent": [
     {
-      "id": "d758c0eb985ec14e698fda31a170d007a4d797bf40a1b5bf8957d9c0eb43bb5d",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "T1 대 한화생명e스포츠 승자는?",
-      "url": "https://n.news.naver.com/article/001/0016200896?type=journalists",
-      "published_at": "2026-07-17T23:03:47+09:00",
-      "sent_at": "2026-07-17T23:16:27.634337+09:00"
-    },
-    {
-      "id": "e353a3d16aabbf65f8875032f0a1106bace5df89bad0a6f4e765a0e3cfeb645a",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "경기 펼치는 T1",
-      "url": "https://n.news.naver.com/article/001/0016200895?type=journalists",
-      "published_at": "2026-07-17T23:03:27+09:00",
-      "sent_at": "2026-07-17T23:16:30.220126+09:00"
-    },
-    {
-      "id": "3f32573fedced620572d578b6f6778775cc84dba3cda7436841ac265b6f3f3d0",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "경기 펼치는 한화생명e스포츠",
-      "url": "https://n.news.naver.com/article/001/0016200894?type=journalists",
-      "published_at": "2026-07-17T23:03:08+09:00",
-      "sent_at": "2026-07-17T23:16:32.991778+09:00"
-    },
-    {
       "id": "c05b9808feeff8601e16c732392915ae457dbc2e8d3366c105d3521162c6e1db",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -721,5 +694,5 @@
       "sent_at": "2026-07-24T14:53:05.416335+09:00"
     }
   ],
-  "last_run_at": "2026-07-24T14:15:34.718721+00:00"
+  "last_run_at": "2026-07-24T14:20:39.137404+00:00"
 }
