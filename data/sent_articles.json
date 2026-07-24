@@ -674,7 +674,16 @@
       "url": "https://n.news.naver.com/article/001/0016212933?type=journalists",
       "published_at": "2026-07-24T11:32:48+09:00",
       "sent_at": "2026-07-24T11:44:54.581650+09:00"
+    },
+    {
+      "id": "689e7008cfe2a4550c015daea4ecdfa27b7776d78368a358e8c286fc519693d9",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "컴투스, 에이버튼 MMORPG 신작 '제우스: 오만의 신', 8월 7일 쇼케이스 개최",
+      "url": "https://n.news.naver.com/article/030/0003450703?type=journalists",
+      "published_at": "2026-07-24T14:24:11+09:00",
+      "sent_at": "2026-07-24T14:32:32.932161+09:00"
     }
   ],
-  "last_run_at": "2026-07-24T05:27:24.276010+00:00"
+  "last_run_at": "2026-07-24T05:32:28.378379+00:00"
 }
