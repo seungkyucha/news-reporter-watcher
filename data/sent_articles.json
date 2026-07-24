@@ -683,7 +683,34 @@
       "url": "https://n.news.naver.com/article/030/0003450703?type=journalists",
       "published_at": "2026-07-24T14:24:11+09:00",
       "sent_at": "2026-07-24T14:32:32.932161+09:00"
+    },
+    {
+      "id": "5a29e305f41df3c4452eb53ec9bf3bf8a921de85b2dfe29387955a4f2d013022",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "스마일게이트, 정통 K공포 '골목길: 귀흔' 글로벌 출시",
+      "url": "https://n.news.naver.com/article/030/0003450709?type=journalists",
+      "published_at": "2026-07-24T14:34:09+09:00",
+      "sent_at": "2026-07-24T14:42:44.762872+09:00"
+    },
+    {
+      "id": "5df2e9eaae0652e0efd52f96f3b5a1c0603e62046fb4e163b48a069f1fb84b06",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "넥슨 '메이플스토리M', 삼성 갤럭시 신제품 출시 기념 테마 공개",
+      "url": "https://n.news.naver.com/article/030/0003450708?type=journalists",
+      "published_at": "2026-07-24T14:29:09+09:00",
+      "sent_at": "2026-07-24T14:42:47.145301+09:00"
+    },
+    {
+      "id": "0ae5767ea1520a8a69bef6e5527847ca813efea9f3bd09801ab50affa2312991",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "넷마블, 갤럭시Z 폴드8 '세븐나이츠 리버스'·'몬길: 스타다이브' 스페셜 테마 출시",
+      "url": "https://n.news.naver.com/article/030/0003450706?type=journalists",
+      "published_at": "2026-07-24T14:27:14+09:00",
+      "sent_at": "2026-07-24T14:42:49.617382+09:00"
     }
   ],
-  "last_run_at": "2026-07-24T05:37:35.598862+00:00"
+  "last_run_at": "2026-07-24T05:42:40.154941+00:00"
 }
