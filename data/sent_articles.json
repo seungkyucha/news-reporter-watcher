@@ -665,7 +665,16 @@
       "url": "https://n.news.naver.com/article/001/0016212735?type=journalists",
       "published_at": "2026-07-24T10:42:13+09:00",
       "sent_at": "2026-07-24T10:53:55.661727+09:00"
+    },
+    {
+      "id": "796b800943ea425d2543ea936e43a7b2b49dbeb5d777b65100446834a83103b3",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "스마일게이트, K-공포 게임 '골목길: 귀흔' 글로벌 출시",
+      "url": "https://n.news.naver.com/article/001/0016212933?type=journalists",
+      "published_at": "2026-07-24T11:32:48+09:00",
+      "sent_at": "2026-07-24T11:44:54.581650+09:00"
     }
   ],
-  "last_run_at": "2026-07-24T02:39:34.005137+00:00"
+  "last_run_at": "2026-07-24T02:44:49.189941+00:00"
 }
