@@ -603,6 +603,25 @@ def selftest() -> int:
     for name, fn in notifiers:
         ok = fn(msg)
         print(f"[SELFTEST] {name}: {'성공' if ok else '실패'}")
+
+    # 기자 설정 진단: 각 기자가 실제로 몇 건 잡히는지(검색/도메인/기자ID) 점검.
+    try:
+        reporters = load_reporters(os.environ.get("REPORTERS", ""))
+        naver_id = os.environ.get("NAVER_CLIENT_ID", "").strip()
+        naver_secret = os.environ.get("NAVER_CLIENT_SECRET", "").strip()
+        print(f"[SELFTEST] 기자 {len(reporters)}명: {', '.join(r['label'] for r in reporters)}")
+        for r in reporters:
+            if r.get("journalist"):
+                arts = fetch_journalist_articles(r["journalist"])
+                print(f"[SELFTEST]   {r['label']} (기자ID {r['journalist']['oid']}/{r['journalist']['jid']}): {len(arts)}건")
+            else:
+                q = build_query(r)
+                arts = search_naver_news(q, naver_id, naver_secret)
+                dom = sum(1 for a in arts if passes_domain(a, r))
+                newest = arts[0]["pubDate"] if arts else "-"
+                print(f"[SELFTEST]   {r['label']} (검색 '{q}', domains={r['domains']}): 검색 {len(arts)}건 / 도메인일치 {dom}건 / 최신 {newest}")
+    except Exception as e:  # noqa: BLE001
+        print(f"[SELFTEST] 기자 진단 오류: {e}")
     return 0
 
 
