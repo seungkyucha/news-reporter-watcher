@@ -710,7 +710,34 @@
       "url": "https://n.news.naver.com/article/030/0003450706?type=journalists",
       "published_at": "2026-07-24T14:27:14+09:00",
       "sent_at": "2026-07-24T14:42:49.617382+09:00"
+    },
+    {
+      "id": "51eba0790fd66df01917606591c7377e7218aafbb24ac2a85266efed3bfdbe73",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "넥써쓰, 전략 시뮬레이션 게임 '프로스트 킹덤' 출시",
+      "url": "https://n.news.naver.com/article/030/0003450716?type=journalists",
+      "published_at": "2026-07-24T14:45:09+09:00",
+      "sent_at": "2026-07-24T14:53:00.583199+09:00"
+    },
+    {
+      "id": "49974b0a6851bb30cdf431eec632bfd45f91c08de8029be08d48b9d3da08d092",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "넵튠, 콘진원 K컬처 글로벌 정부 과제 선정... 생성형 AI로 웹툰 IP 게임 자동 개발",
+      "url": "https://n.news.naver.com/article/030/0003450715?type=journalists",
+      "published_at": "2026-07-24T14:44:17+09:00",
+      "sent_at": "2026-07-24T14:53:02.981590+09:00"
+    },
+    {
+      "id": "3eba9140f05d0424aeb63854df2ee5ac795b52276c97142b3df38fd0216858c1",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "네오위즈 인디 성공 주역들, 새 도전... 레드브릭하우스 투자 유치",
+      "url": "https://n.news.naver.com/article/030/0003450714?type=journalists",
+      "published_at": "2026-07-24T14:44:14+09:00",
+      "sent_at": "2026-07-24T14:53:05.416335+09:00"
     }
   ],
-  "last_run_at": "2026-07-24T05:47:52.061475+00:00"
+  "last_run_at": "2026-07-24T05:52:55.841911+00:00"
 }
