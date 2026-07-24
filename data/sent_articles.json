@@ -638,7 +638,16 @@
       "url": "https://n.news.naver.com/article/030/0003450515?type=journalists",
       "published_at": "2026-07-23T21:02:13+09:00",
       "sent_at": "2026-07-23T21:16:47.656869+09:00"
+    },
+    {
+      "id": "80b8a0ff6b34f2a4bb503cce69e5019d8bcb3b2fe26cf1cfdd9cbbfbb1ed2bc6",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "넥써쓰, 전략 시뮬레이션 '프로스트 킹덤' 출시",
+      "url": "https://n.news.naver.com/article/001/0016212533?type=journalists",
+      "published_at": "2026-07-24T09:44:16+09:00",
+      "sent_at": "2026-07-24T09:52:58.399283+09:00"
     }
   ],
-  "last_run_at": "2026-07-24T00:47:49.222198+00:00"
+  "last_run_at": "2026-07-24T00:52:53.249064+00:00"
 }
