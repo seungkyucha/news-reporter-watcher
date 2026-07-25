@@ -665,7 +665,16 @@
       "url": "https://n.news.naver.com/article/030/0003450714?type=journalists",
       "published_at": "2026-07-24T14:44:14+09:00",
       "sent_at": "2026-07-24T14:53:05.416335+09:00"
+    },
+    {
+      "id": "12398fffee333348de247cea79921d46ac67c73dabb67f64cedea1060cd0864e",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "[게임위드인] 게임은 안 해도 굿즈는 산다…2030이 게임에 남는 법",
+      "url": "https://n.news.naver.com/article/001/0016214251?type=journalists",
+      "published_at": "2026-07-25T11:00:01+09:00",
+      "sent_at": "2026-07-25T11:16:56.241597+09:00"
     }
   ],
-  "last_run_at": "2026-07-25T02:11:47.018586+00:00"
+  "last_run_at": "2026-07-25T02:16:51.353157+00:00"
 }
