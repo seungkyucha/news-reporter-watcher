@@ -683,7 +683,16 @@
       "url": "https://n.news.naver.com/article/030/0003450798?type=journalists",
       "published_at": "2026-07-25T13:04:14+09:00",
       "sent_at": "2026-07-25T13:14:00.805502+09:00"
+    },
+    {
+      "id": "901338cbdac27d8e584cc97c21a70eb32351c9c9e6984fdf0620daa230f6ee46",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "공포와 통제, 이상과 실험의 역사... '소련의 서기장들' 출간",
+      "url": "https://n.news.naver.com/article/030/0003450799?type=journalists",
+      "published_at": "2026-07-25T13:07:09+09:00",
+      "sent_at": "2026-07-25T13:24:11.904703+09:00"
     }
   ],
-  "last_run_at": "2026-07-25T04:19:03.880802+00:00"
+  "last_run_at": "2026-07-25T04:24:07.796802+00:00"
 }
