@@ -1,24 +1,6 @@
 {
   "sent": [
     {
-      "id": "79a70a78b99e0a59d63337a07614f7be551cbc6b3625e4e72c2dc354d3ac00fb",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "포즈 취하는 DK '스매시' 신금재",
-      "url": "https://n.news.naver.com/article/001/0016202104?type=journalists",
-      "published_at": "2026-07-19T15:09:31+09:00",
-      "sent_at": "2026-07-19T15:26:43.266594+09:00"
-    },
-    {
-      "id": "7fc80ba52f4f1a4426aef47ad56fe8add0bbb7c61d3327f0750d7ee453faaa4d",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "포즈 취하는 DK '쇼메이커' 허수",
-      "url": "https://n.news.naver.com/article/001/0016202103?type=journalists",
-      "published_at": "2026-07-19T15:09:19+09:00",
-      "sent_at": "2026-07-19T15:26:45.735714+09:00"
-    },
-    {
       "id": "5d6dee31f2a1693e0d90002ac42d087f5e11a7202647c2996adee33c5f9cb80f",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -649,5 +631,5 @@
       "sent_at": "2026-07-26T10:07:13.122750+09:00"
     }
   ],
-  "last_run_at": "2026-07-26T06:21:39.312360+00:00"
+  "last_run_at": "2026-07-26T06:26:43.607545+00:00"
 }
