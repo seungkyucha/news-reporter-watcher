@@ -665,7 +665,16 @@
       "url": "https://n.news.naver.com/article/030/0003450799?type=journalists",
       "published_at": "2026-07-25T13:07:09+09:00",
       "sent_at": "2026-07-25T13:24:11.904703+09:00"
+    },
+    {
+      "id": "0ac4f3ad59a1984dda395770fe33655f1e6580e884ed0fecec3e87df1ced2554",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "카카오맵, 스트레이키즈 콘서트 전용 지도 선보인다",
+      "url": "https://n.news.naver.com/article/001/0016214917?type=journalists",
+      "published_at": "2026-07-26T09:48:46+09:00",
+      "sent_at": "2026-07-26T10:07:13.122750+09:00"
     }
   ],
-  "last_run_at": "2026-07-26T01:02:04.192195+00:00"
+  "last_run_at": "2026-07-26T01:07:08.562519+00:00"
 }
