@@ -1,15 +1,6 @@
 {
   "sent": [
     {
-      "id": "4f21611fdcdab8adcb22f5210d952b7dd2560bd8e7924151ddcec86b3c9b48ed",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "[게임위드인] 사우디가 키운 e스포츠…한국은 어디에 있나",
-      "url": "https://n.news.naver.com/article/001/0016202523?type=journalists",
-      "published_at": "2026-07-20T07:49:33+09:00",
-      "sent_at": "2026-07-20T08:07:12.679081+09:00"
-    },
-    {
       "id": "83c94bf970d74651e6ed8cc4edfdfbdee764e49ca447b5b67161c117fb20bf4f",
       "reporter": "박정은",
       "press": "전자신문",
@@ -496,5 +487,5 @@
       "sent_at": "2026-07-26T10:07:13.122750+09:00"
     }
   ],
-  "last_run_at": "2026-07-26T23:06:08.320119+00:00"
+  "last_run_at": "2026-07-26T23:11:12.742012+00:00"
 }
