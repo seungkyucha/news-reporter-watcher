@@ -485,7 +485,16 @@
       "url": "https://n.news.naver.com/article/001/0016216441?type=journalists",
       "published_at": "2026-07-27T11:20:29+09:00",
       "sent_at": "2026-07-27T11:34:27.831732+09:00"
+    },
+    {
+      "id": "54f24123a6e61dec4f7a413e7eca2e0100dff57f06fe3542eb049af55cfb4791",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "하반기 MMORPG 대전 개막... '부담 완화' vs '정통 재미' 정면 승부",
+      "url": "https://n.news.naver.com/article/030/0003451349?type=journalists",
+      "published_at": "2026-07-27T14:23:09+09:00",
+      "sent_at": "2026-07-27T14:37:15.981847+09:00"
     }
   ],
-  "last_run_at": "2026-07-27T05:32:06.518817+00:00"
+  "last_run_at": "2026-07-27T05:37:10.797498+00:00"
 }
