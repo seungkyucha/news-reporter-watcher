@@ -494,7 +494,34 @@
       "url": "https://n.news.naver.com/article/001/0016215981?type=journalists",
       "published_at": "2026-07-27T09:30:46+09:00",
       "sent_at": "2026-07-27T09:42:45.972094+09:00"
+    },
+    {
+      "id": "edaf8423528590975e50043d4202ddd6f271ce7b6f4e4d223b8e0c0b17348c27",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "러버덕 작가 호프만, 제주 '돌코리숲'에 전 세계 유일 고양이 작품 설치",
+      "url": "https://n.news.naver.com/article/030/0003451144?type=journalists",
+      "published_at": "2026-07-27T09:54:16+09:00",
+      "sent_at": "2026-07-27T10:03:05.312098+09:00"
+    },
+    {
+      "id": "1d5c3c7a424b0fe0eda6c5f8c34c1cefdc80669f91aed9a3a64e1609b5e33438",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "로블록스, 무신사와 손잡고 성수동서 'My Life with Roblox' 팝업 오픈",
+      "url": "https://n.news.naver.com/article/030/0003451139?type=journalists",
+      "published_at": "2026-07-27T09:51:13+09:00",
+      "sent_at": "2026-07-27T10:03:07.968226+09:00"
+    },
+    {
+      "id": "34cd37d32601bc560939bbac33e4878dffe38aeeab92f4f0a3fc41ad8377e8ba",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "펄어비스 붉은사막, 2026년 신규 IP 중 스팀 매출 1위",
+      "url": "https://n.news.naver.com/article/030/0003451133?type=journalists",
+      "published_at": "2026-07-27T09:48:20+09:00",
+      "sent_at": "2026-07-27T10:03:10.668676+09:00"
     }
   ],
-  "last_run_at": "2026-07-27T00:57:56.513623+00:00"
+  "last_run_at": "2026-07-27T01:03:00.500742+00:00"
 }
