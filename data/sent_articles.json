@@ -494,7 +494,16 @@
       "url": "https://n.news.naver.com/article/030/0003451349?type=journalists",
       "published_at": "2026-07-27T14:23:09+09:00",
       "sent_at": "2026-07-27T14:37:15.981847+09:00"
+    },
+    {
+      "id": "9c581d2c36a55e6a2eb60e9aae7abab9dbeeffe65193b575e53b289c7e171678",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "넷마블 선수단, 충주탄금호배 장애인조정대회서 메달 17개",
+      "url": "https://n.news.naver.com/article/001/0016217008?type=journalists",
+      "published_at": "2026-07-27T14:31:59+09:00",
+      "sent_at": "2026-07-27T14:42:23.627268+09:00"
     }
   ],
-  "last_run_at": "2026-07-27T05:37:10.797498+00:00"
+  "last_run_at": "2026-07-27T05:42:18.550714+00:00"
 }
