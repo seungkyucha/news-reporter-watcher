@@ -503,7 +503,16 @@
       "url": "https://n.news.naver.com/article/001/0016217008?type=journalists",
       "published_at": "2026-07-27T14:31:59+09:00",
       "sent_at": "2026-07-27T14:42:23.627268+09:00"
+    },
+    {
+      "id": "0c67adf0a4810a6436b4d150a1f5fcd0c0079660d37621e9753e5d3dbbdf6241",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "위메이드 위믹스 또 해킹…\"스테이블코인 비정상 발행\"",
+      "url": "https://n.news.naver.com/article/001/0016217616?type=journalists",
+      "published_at": "2026-07-27T17:39:41+09:00",
+      "sent_at": "2026-07-27T17:55:06.119445+09:00"
     }
   ],
-  "last_run_at": "2026-07-27T08:49:55.207875+00:00"
+  "last_run_at": "2026-07-27T08:54:59.863698+00:00"
 }
