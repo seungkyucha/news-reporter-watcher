@@ -485,7 +485,16 @@
       "url": "https://n.news.naver.com/article/001/0016214917?type=journalists",
       "published_at": "2026-07-26T09:48:46+09:00",
       "sent_at": "2026-07-26T10:07:13.122750+09:00"
+    },
+    {
+      "id": "dc5a76cc73fa74dd87e524bc9951e37b335678119cdf0fca8c0987715f201011",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "펄어비스 '붉은사막', 올해 신규 IP 중 스팀 매출 1위",
+      "url": "https://n.news.naver.com/article/001/0016215981?type=journalists",
+      "published_at": "2026-07-27T09:30:46+09:00",
+      "sent_at": "2026-07-27T09:42:45.972094+09:00"
     }
   ],
-  "last_run_at": "2026-07-27T00:37:37.121353+00:00"
+  "last_run_at": "2026-07-27T00:42:40.932511+00:00"
 }
