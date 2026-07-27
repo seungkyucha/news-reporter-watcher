@@ -521,7 +521,16 @@
       "url": "https://n.news.naver.com/article/030/0003451133?type=journalists",
       "published_at": "2026-07-27T09:48:20+09:00",
       "sent_at": "2026-07-27T10:03:10.668676+09:00"
+    },
+    {
+      "id": "636419dee9a2b1377564245c1c9df36bc8152fa49bf9fae348c586a9f6372f45",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "크래프톤, 배틀그라운드 모바일 창작 모드 공모전 개최",
+      "url": "https://n.news.naver.com/article/001/0016216441?type=journalists",
+      "published_at": "2026-07-27T11:20:29+09:00",
+      "sent_at": "2026-07-27T11:34:27.831732+09:00"
     }
   ],
-  "last_run_at": "2026-07-27T02:29:18.508048+00:00"
+  "last_run_at": "2026-07-27T02:34:22.286716+00:00"
 }
