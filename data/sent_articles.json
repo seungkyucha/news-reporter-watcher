@@ -584,7 +584,16 @@
       "url": "https://n.news.naver.com/article/001/0016219395?type=journalists",
       "published_at": "2026-07-28T14:29:46+09:00",
       "sent_at": "2026-07-28T14:44:48.115182+09:00"
+    },
+    {
+      "id": "337552875ce0deb049321c1fc69e08776bcd526c831798295055b36d053feb04",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "넥슨, 글로벌 흥행 IP 기반 신작 MMORPG '템빨: 오버기어드' 타이틀명 확정",
+      "url": "https://n.news.naver.com/article/030/0003451804?type=journalists",
+      "published_at": "2026-07-28T14:47:12+09:00",
+      "sent_at": "2026-07-28T15:05:06.545749+09:00"
     }
   ],
-  "last_run_at": "2026-07-28T05:59:58.131929+00:00"
+  "last_run_at": "2026-07-28T06:05:02.180735+00:00"
 }
