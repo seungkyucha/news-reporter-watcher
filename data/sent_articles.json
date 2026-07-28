@@ -530,7 +530,16 @@
       "url": "https://n.news.naver.com/article/030/0003451733?type=journalists",
       "published_at": "2026-07-28T13:18:16+09:00",
       "sent_at": "2026-07-28T13:33:32.374860+09:00"
+    },
+    {
+      "id": "089210ca6994954312b13aea3b205b6d6222f6f73bd947c64949cf2770f996d8",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "카카오게임즈, 콩 스튜디오 신작 '가디언 메이든' 글로벌 퍼블리싱 계약",
+      "url": "https://n.news.naver.com/article/030/0003451741?type=journalists",
+      "published_at": "2026-07-28T13:37:10+09:00",
+      "sent_at": "2026-07-28T13:53:51.466955+09:00"
     }
   ],
-  "last_run_at": "2026-07-28T04:48:43.355997+00:00"
+  "last_run_at": "2026-07-28T04:53:47.274662+00:00"
 }
