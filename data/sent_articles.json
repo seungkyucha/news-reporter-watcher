@@ -548,7 +548,25 @@
       "url": "https://n.news.naver.com/article/030/0003451745?type=journalists",
       "published_at": "2026-07-28T13:46:11+09:00",
       "sent_at": "2026-07-28T14:04:02.649251+09:00"
+    },
+    {
+      "id": "c7fd2b0d6189c9694ce458e99cf43796856423d57eea075908c91223ad726085",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "창조공작소, 'AI 게임사운드디자인 챌린지 with GXG 2026' 개최",
+      "url": "https://n.news.naver.com/article/030/0003451763?type=journalists",
+      "published_at": "2026-07-28T14:02:18+09:00",
+      "sent_at": "2026-07-28T14:14:14.430580+09:00"
+    },
+    {
+      "id": "569e6ae26702537308585fe1d2bc5339145e189239a48b991f5314848782d8cc",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "바다게임즈·스마게 희망스튜디오, 게임으로 난치병 환아 소원 응원",
+      "url": "https://n.news.naver.com/article/030/0003451753?type=journalists",
+      "published_at": "2026-07-28T13:59:11+09:00",
+      "sent_at": "2026-07-28T14:14:16.813187+09:00"
     }
   ],
-  "last_run_at": "2026-07-28T05:09:05.307889+00:00"
+  "last_run_at": "2026-07-28T05:14:09.407878+00:00"
 }
