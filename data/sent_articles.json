@@ -539,7 +539,16 @@
       "url": "https://n.news.naver.com/article/030/0003451741?type=journalists",
       "published_at": "2026-07-28T13:37:10+09:00",
       "sent_at": "2026-07-28T13:53:51.466955+09:00"
+    },
+    {
+      "id": "4b2742d035b81cbe93a12e337df89d38e2a511c9e4db5599212cb96a5fa928a2",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "[ICT 시사용어] 전자의무기록(EMR)",
+      "url": "https://n.news.naver.com/article/030/0003451745?type=journalists",
+      "published_at": "2026-07-28T13:46:11+09:00",
+      "sent_at": "2026-07-28T14:04:02.649251+09:00"
     }
   ],
-  "last_run_at": "2026-07-28T04:58:54.012668+00:00"
+  "last_run_at": "2026-07-28T05:03:57.954283+00:00"
 }
