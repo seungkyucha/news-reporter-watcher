@@ -575,7 +575,16 @@
       "url": "https://n.news.naver.com/article/030/0003451786?type=journalists",
       "published_at": "2026-07-28T14:25:11+09:00",
       "sent_at": "2026-07-28T14:34:36.668344+09:00"
+    },
+    {
+      "id": "65e4118fef0b3ff17f033290ca554e6562b0b5a43c38aabffd2ce3ba50e6ae78",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "게임위, 불법게임물 단속지원 24% 증가…경찰 공조 강화",
+      "url": "https://n.news.naver.com/article/001/0016219395?type=journalists",
+      "published_at": "2026-07-28T14:29:46+09:00",
+      "sent_at": "2026-07-28T14:44:48.115182+09:00"
     }
   ],
-  "last_run_at": "2026-07-28T05:39:39.371835+00:00"
+  "last_run_at": "2026-07-28T05:44:43.156845+00:00"
 }
