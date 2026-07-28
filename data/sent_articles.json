@@ -566,7 +566,16 @@
       "url": "https://n.news.naver.com/article/030/0003451753?type=journalists",
       "published_at": "2026-07-28T13:59:11+09:00",
       "sent_at": "2026-07-28T14:14:16.813187+09:00"
+    },
+    {
+      "id": "5c990d59b9f486d8eb77dbe2df603a478060bde60da15fd5d8f4242ad058b59f",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "후반기 국회 문광위 핵심과제 '게임 제작비 세액공제' 부상",
+      "url": "https://n.news.naver.com/article/030/0003451786?type=journalists",
+      "published_at": "2026-07-28T14:25:11+09:00",
+      "sent_at": "2026-07-28T14:34:36.668344+09:00"
     }
   ],
-  "last_run_at": "2026-07-28T05:29:27.831210+00:00"
+  "last_run_at": "2026-07-28T05:34:32.202433+00:00"
 }
