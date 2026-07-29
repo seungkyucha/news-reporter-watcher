@@ -593,7 +593,16 @@
       "url": "https://n.news.naver.com/article/001/0016220656?type=journalists",
       "published_at": "2026-07-29T09:35:06+09:00",
       "sent_at": "2026-07-29T09:44:01.475463+09:00"
+    },
+    {
+      "id": "8b8f1f97eb23d545d467a98123227dc05425a387cc6b77461d471532a25b79ce",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "컴투스홀딩스, 중국 최대 게임쇼 '차이나조이' 참가",
+      "url": "https://n.news.naver.com/article/001/0016220698?type=journalists",
+      "published_at": "2026-07-29T09:44:54+09:00",
+      "sent_at": "2026-07-29T09:54:12.988170+09:00"
     }
   ],
-  "last_run_at": "2026-07-29T00:49:04.283785+00:00"
+  "last_run_at": "2026-07-29T00:54:08.256284+00:00"
 }
