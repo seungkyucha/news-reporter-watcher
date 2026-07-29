@@ -1,15 +1,6 @@
 {
   "sent": [
     {
-      "id": "1bf061ccb81ad1462c293474983e57c34e091f958065e0e331c580b4fb7d06bf",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "CDPR, 게임스컴서 '더 위쳐 3: 송즈 오브 더 패스트' 공개",
-      "url": "https://n.news.naver.com/article/001/0016207352?type=journalists",
-      "published_at": "2026-07-22T09:34:19+09:00",
-      "sent_at": "2026-07-22T09:43:07.474498+09:00"
-    },
-    {
       "id": "9f91140d0d78b9510f4e12534c1f097bb7c3d32044be3ddba679bec4f33ae832",
       "reporter": "박정은",
       "press": "전자신문",
@@ -593,7 +584,16 @@
       "url": "https://n.news.naver.com/article/030/0003451804?type=journalists",
       "published_at": "2026-07-28T14:47:12+09:00",
       "sent_at": "2026-07-28T15:05:06.545749+09:00"
+    },
+    {
+      "id": "8556ba7b6daf969a07f41dcd46309dc49a814143f7536637e5f636b7347915ed",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "[AI픽] 크래프톤, 음성 AI 모델 '라온 스피치' 공개",
+      "url": "https://n.news.naver.com/article/001/0016220656?type=journalists",
+      "published_at": "2026-07-29T09:35:06+09:00",
+      "sent_at": "2026-07-29T09:44:01.475463+09:00"
     }
   ],
-  "last_run_at": "2026-07-29T00:38:52.501588+00:00"
+  "last_run_at": "2026-07-29T00:43:56.193037+00:00"
 }
