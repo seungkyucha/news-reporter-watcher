@@ -602,7 +602,16 @@
       "url": "https://n.news.naver.com/article/030/0003452297?type=journalists",
       "published_at": "2026-07-29T15:53:12+09:00",
       "sent_at": "2026-07-29T16:05:20.964263+09:00"
+    },
+    {
+      "id": "0ce8fe4c3b03c1bb283f27932491a580a1b4eaad474571af0fcc58e28ba30de3",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "크래프톤, PUBG·서브노티카2 성공에 상반기 역대 최고 실적(종합)",
+      "url": "https://n.news.naver.com/article/001/0016222252?type=journalists",
+      "published_at": "2026-07-29T15:58:55+09:00",
+      "sent_at": "2026-07-29T16:10:29.504661+09:00"
     }
   ],
-  "last_run_at": "2026-07-29T07:05:16.068163+00:00"
+  "last_run_at": "2026-07-29T07:10:23.890490+00:00"
 }
