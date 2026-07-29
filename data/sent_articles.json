@@ -548,7 +548,16 @@
       "url": "https://n.news.naver.com/article/001/0016222252?type=journalists",
       "published_at": "2026-07-29T15:58:55+09:00",
       "sent_at": "2026-07-29T16:10:29.504661+09:00"
+    },
+    {
+      "id": "63c03c3dd4677405ed57c36ecd1c2d95d009f42e5c7d784f316193d8835ad058",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "넥스트 배그' 찾은 크래프톤…역대 최대 실적 썼다(종합2보)",
+      "url": "https://n.news.naver.com/article/001/0016222504?type=journalists",
+      "published_at": "2026-07-29T17:18:33+09:00",
+      "sent_at": "2026-07-29T17:37:11.316778+09:00"
     }
   ],
-  "last_run_at": "2026-07-29T08:32:02.414319+00:00"
+  "last_run_at": "2026-07-29T08:37:06.664428+00:00"
 }
