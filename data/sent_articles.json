@@ -530,7 +530,16 @@
       "url": "https://n.news.naver.com/article/001/0016220698?type=journalists",
       "published_at": "2026-07-29T09:44:54+09:00",
       "sent_at": "2026-07-29T09:54:12.988170+09:00"
+    },
+    {
+      "id": "588638a798e3961fe9323cf56f4c3694d8770e7932f6e6697bbad824e4ed17e9",
+      "reporter": "서정근",
+      "press": "MTN",
+      "title": "[단독]네오플 '사이퍼즈' 개발팀 감축...대기발령자 100명 육박",
+      "url": "https://news.mtn.co.kr/news-detail/2026072911550197851",
+      "published_at": "Wed, 29 Jul 2026 12:26:00 +0900",
+      "sent_at": "2026-07-29T12:31:48.359135+09:00"
     }
   ],
-  "last_run_at": "2026-07-29T03:26:41.146205+00:00"
+  "last_run_at": "2026-07-29T03:31:45.455277+00:00"
 }
