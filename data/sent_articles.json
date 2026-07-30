@@ -557,7 +557,16 @@
       "url": "https://n.news.naver.com/article/001/0016223246?type=journalists",
       "published_at": "2026-07-30T09:19:21+09:00",
       "sent_at": "2026-07-30T09:36:35.044933+09:00"
+    },
+    {
+      "id": "844122e807b13637ec1e9d0a7548229995291d9c77ed41b71d92cbd31f872c0c",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "넷마블 '마블 퓨처파이트' 미국 코믹콘 참가",
+      "url": "https://n.news.naver.com/article/001/0016223342?type=journalists",
+      "published_at": "2026-07-30T09:43:05+09:00",
+      "sent_at": "2026-07-30T09:56:53.159615+09:00"
     }
   ],
-  "last_run_at": "2026-07-30T00:51:45.094477+00:00"
+  "last_run_at": "2026-07-30T00:56:49.104866+00:00"
 }
