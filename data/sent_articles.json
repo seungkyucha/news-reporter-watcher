@@ -1,15 +1,6 @@
 {
   "sent": [
     {
-      "id": "b41e474e6033fff2212bf81030487b19b97f77fd0f117c4dea19943a8f78c51e",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "넷마블, '샹그릴라 프론티어' 글로벌 티저 사이트 오픈",
-      "url": "https://n.news.naver.com/article/001/0016210482?type=journalists",
-      "published_at": "2026-07-23T11:19:23+09:00",
-      "sent_at": "2026-07-23T11:32:40.373258+09:00"
-    },
-    {
       "id": "0c141fac2e2331c06b75bc5b71e4868aae227e98f928b1df51fef0b6b7809711",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -566,7 +557,16 @@
       "url": "https://n.news.naver.com/article/001/0016223588?type=journalists",
       "published_at": "2026-07-30T10:37:48+09:00",
       "sent_at": "2026-07-30T10:52:48.365475+09:00"
+    },
+    {
+      "id": "5498f24b5489946e8cafeaccc0f84b52f538aa64ffc45b9188b876392b90fed6",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "\"서든 야호\" 넥슨, 서든어택에 리센느 캐릭터 출시",
+      "url": "https://n.news.naver.com/article/001/0016223791?type=journalists",
+      "published_at": "2026-07-30T11:16:16+09:00",
+      "sent_at": "2026-07-30T11:33:23.528545+09:00"
     }
   ],
-  "last_run_at": "2026-07-30T02:28:15.272803+00:00"
+  "last_run_at": "2026-07-30T02:33:19.124976+00:00"
 }
