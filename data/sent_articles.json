@@ -575,7 +575,16 @@
       "url": "https://n.news.naver.com/article/030/0003452696?type=journalists",
       "published_at": "2026-07-30T14:40:13+09:00",
       "sent_at": "2026-07-30T14:56:44.448849+09:00"
+    },
+    {
+      "id": "8cd294d20be1b92b9e76946ba8f30eb46254118d78afded08a6c62ca83b6e84b",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "T1, 기부 러닝 행사 'T1 위시 런' 개최",
+      "url": "https://n.news.naver.com/article/001/0016224810?type=journalists",
+      "published_at": "2026-07-30T15:27:37+09:00",
+      "sent_at": "2026-07-30T15:42:27.820049+09:00"
     }
   ],
-  "last_run_at": "2026-07-30T06:37:18.225354+00:00"
+  "last_run_at": "2026-07-30T06:42:22.770510+00:00"
 }
