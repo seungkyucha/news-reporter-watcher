@@ -566,7 +566,16 @@
       "url": "https://n.news.naver.com/article/001/0016223486?type=journalists",
       "published_at": "2026-07-30T23:59:59+09:00",
       "sent_at": "2026-07-30T10:22:21.542599+09:00"
+    },
+    {
+      "id": "c90530324ccae8075ebe182fd1745d807c8b612f687ad4265376b790fc73ff6d",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "데브시스터즈, 방치형 키우기 게임 '쿠키런 크럼블' 출시",
+      "url": "https://n.news.naver.com/article/001/0016223588?type=journalists",
+      "published_at": "2026-07-30T10:37:48+09:00",
+      "sent_at": "2026-07-30T10:52:48.365475+09:00"
     }
   ],
-  "last_run_at": "2026-07-30T01:47:39.725033+00:00"
+  "last_run_at": "2026-07-30T01:52:43.911028+00:00"
 }
