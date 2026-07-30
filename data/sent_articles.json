@@ -557,7 +557,43 @@
       "url": "https://n.news.naver.com/article/001/0016223791?type=journalists",
       "published_at": "2026-07-30T11:16:16+09:00",
       "sent_at": "2026-07-30T11:33:23.528545+09:00"
+    },
+    {
+      "id": "48439deea3569dc86a7a20f76197fcd58ce0e7bb0b4e0e6f73429e71c733b6ce",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "넥슨 현대카드, 한정판 '던전앤파이터' 플레이트 출시",
+      "url": "https://n.news.naver.com/article/030/0003452600?type=journalists",
+      "published_at": "2026-07-30T12:20:11+09:00",
+      "sent_at": "2026-07-30T12:29:11.571925+09:00"
+    },
+    {
+      "id": "ffc589d319b654b96abd4c1aa7ea9e58b34c1f4ed3702ef4bf62e0f3e5ab0d61",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "네온 자이언트, '디 어센트' 5주년... 누적 이용자 1200만명 돌파",
+      "url": "https://n.news.naver.com/article/030/0003452599?type=journalists",
+      "published_at": "2026-07-30T12:19:12+09:00",
+      "sent_at": "2026-07-30T12:29:14.023160+09:00"
+    },
+    {
+      "id": "cde6ec360b362bd4a4683a94854bc3faf77d9db70d55c24e02801032c1829a80",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "데브시스터즈 '쿠키런: 크럼블', 글로벌 정식 출시... 쿠키런 IP 첫 키우기 게임",
+      "url": "https://n.news.naver.com/article/030/0003452595?type=journalists",
+      "published_at": "2026-07-30T12:16:12+09:00",
+      "sent_at": "2026-07-30T12:29:16.569818+09:00"
+    },
+    {
+      "id": "69ed831bab7682c085cdd2c8bc0c49cbd1916e7726913c33ab0b860fd0c0e8c7",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "조이시티, '3on3 프리스타일' GOTF 2026 개막 종목으로 참가",
+      "url": "https://n.news.naver.com/article/030/0003452594?type=journalists",
+      "published_at": "2026-07-30T12:15:09+09:00",
+      "sent_at": "2026-07-30T12:29:19.112650+09:00"
     }
   ],
-  "last_run_at": "2026-07-30T03:24:03.197530+00:00"
+  "last_run_at": "2026-07-30T03:29:07.117390+00:00"
 }
