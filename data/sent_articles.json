@@ -593,7 +593,25 @@
       "url": "https://n.news.naver.com/article/030/0003452594?type=journalists",
       "published_at": "2026-07-30T12:15:09+09:00",
       "sent_at": "2026-07-30T12:29:19.112650+09:00"
+    },
+    {
+      "id": "fadd817fb2a8526864660d58ddd6a4c43a19c46c47fc5c4ac3e6b8cff1ad02df",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "T1, e스포츠 구단 첫 대규모 기부 러닝 개최... 3000명과 '선한 영향력' 달린다",
+      "url": "https://n.news.naver.com/article/030/0003452699?type=journalists",
+      "published_at": "2026-07-30T14:45:10+09:00",
+      "sent_at": "2026-07-30T14:56:41.691236+09:00"
+    },
+    {
+      "id": "3e8fd4b29d0f4025e73f46e0dff763df2932508e864f1dcacac3a4085db245db",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "광복절에 돌아온 1920년대 경성... 신문 편집장 되는 게임 '그날의 신문' 출시",
+      "url": "https://n.news.naver.com/article/030/0003452696?type=journalists",
+      "published_at": "2026-07-30T14:40:13+09:00",
+      "sent_at": "2026-07-30T14:56:44.448849+09:00"
     }
   ],
-  "last_run_at": "2026-07-30T05:51:31.845909+00:00"
+  "last_run_at": "2026-07-30T05:56:36.673292+00:00"
 }
