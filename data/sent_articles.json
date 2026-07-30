@@ -1,15 +1,6 @@
 {
   "sent": [
     {
-      "id": "ef4f6743271878165f3e3acde195bcf5abb193822de39a2252fca8e59d9cb973",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "title": "넥슨, 서브컬처 수집형 RPG '히간: 이루실' 국내 정식 출시",
-      "url": "https://n.news.naver.com/article/030/0003450391?type=journalists",
-      "published_at": "2026-07-23T14:54:14+09:00",
-      "sent_at": "2026-07-23T15:05:40.184521+09:00"
-    },
-    {
       "id": "b89172cc691f1bff24c23b162a23b9fc8e2c9cdbec149e96b6955b927a38e2a5",
       "reporter": "박정은",
       "press": "전자신문",
@@ -613,5 +604,5 @@
       "sent_at": "2026-07-30T14:56:44.448849+09:00"
     }
   ],
-  "last_run_at": "2026-07-30T06:01:47.344509+00:00"
+  "last_run_at": "2026-07-30T06:06:52.016578+00:00"
 }
