@@ -566,7 +566,16 @@
       "url": "https://n.news.naver.com/article/001/0016224810?type=journalists",
       "published_at": "2026-07-30T15:27:37+09:00",
       "sent_at": "2026-07-30T15:42:27.820049+09:00"
+    },
+    {
+      "id": "0589c83318c30d311ed0b2fcbadea018fac75ca1a074517cb1bf15e2e94d611a",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "'2차 해킹' 위믹스 \"취약점 노린 공격에 관리자 권한 탈취\"",
+      "url": "https://n.news.naver.com/article/001/0016225260?type=journalists",
+      "published_at": "2026-07-30T16:43:03+09:00",
+      "sent_at": "2026-07-30T16:53:30.857902+09:00"
     }
   ],
-  "last_run_at": "2026-07-30T07:48:21.257035+00:00"
+  "last_run_at": "2026-07-30T07:53:25.356813+00:00"
 }
