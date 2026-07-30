@@ -575,7 +575,16 @@
       "url": "https://n.news.naver.com/article/001/0016223437?type=journalists",
       "published_at": "2026-07-30T23:59:59+09:00",
       "sent_at": "2026-07-30T10:17:13.888973+09:00"
+    },
+    {
+      "id": "09fb033786ed6e65544bc28a9bb39bd722a8648827308ae7c735abd3ce770878",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "여자배구단 SOOP, 전남광주 연고 확정…세부 협약은 8월 추진(종합)",
+      "url": "https://n.news.naver.com/article/001/0016223486?type=journalists",
+      "published_at": "2026-07-30T23:59:59+09:00",
+      "sent_at": "2026-07-30T10:22:21.542599+09:00"
     }
   ],
-  "last_run_at": "2026-07-30T01:17:07.740590+00:00"
+  "last_run_at": "2026-07-30T01:22:16.426820+00:00"
 }
