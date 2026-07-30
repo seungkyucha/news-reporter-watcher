@@ -1,15 +1,6 @@
 {
   "sent": [
     {
-      "id": "5e1b6db20b0836fbc93528de136e0641f79ff49da271df2372750e550c3c25de",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "웹젠, 하운드13 가처분 기각…'드래곤소드' 스팀 출시",
-      "url": "https://n.news.naver.com/article/001/0016209834?type=journalists",
-      "published_at": "2026-07-23T09:23:32+09:00",
-      "sent_at": "2026-07-23T09:35:35.823042+09:00"
-    },
-    {
       "id": "3cffaa0acb64884a5c8603cf8ac90d469a508252366f7b012a24008841268d38",
       "reporter": "박정은",
       "press": "전자신문",
@@ -557,7 +548,16 @@
       "url": "https://n.news.naver.com/article/001/0016222504?type=journalists",
       "published_at": "2026-07-29T17:18:33+09:00",
       "sent_at": "2026-07-29T17:37:11.316778+09:00"
+    },
+    {
+      "id": "9b58887e86a8482a4f081edc5c11ab47d6162c7bd9901405cb33bbd9ce59a3fc",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "[AI픽] NC AI, 씨메스로보스틱스와 피지컬 AI 협력 강화",
+      "url": "https://n.news.naver.com/article/001/0016223246?type=journalists",
+      "published_at": "2026-07-30T09:19:21+09:00",
+      "sent_at": "2026-07-30T09:36:35.044933+09:00"
     }
   ],
-  "last_run_at": "2026-07-30T00:31:25.775744+00:00"
+  "last_run_at": "2026-07-30T00:36:30.707040+00:00"
 }
