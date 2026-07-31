@@ -575,7 +575,16 @@
       "url": "https://n.news.naver.com/article/001/0016226520?type=journalists",
       "published_at": "2026-07-31T10:51:10+09:00",
       "sent_at": "2026-07-31T11:04:43.508483+09:00"
+    },
+    {
+      "id": "5a4d4228d37ff5590994359da39d0bc9dd03e0a6606cc4fe030c9e01cb375344",
+      "reporter": "서정근",
+      "press": "MTN",
+      "title": "[단독]엔씨 루디우스, 77스트릿으로 개명...본사 대규모 조직개편 앞둬",
+      "url": "https://news.mtn.co.kr/news-detail/2026073111594170234",
+      "published_at": "Fri, 31 Jul 2026 13:08:00 +0900",
+      "sent_at": "2026-07-31T13:11:32.284356+09:00"
     }
   ],
-  "last_run_at": "2026-07-31T04:06:24.240080+00:00"
+  "last_run_at": "2026-07-31T04:11:29.290915+00:00"
 }
