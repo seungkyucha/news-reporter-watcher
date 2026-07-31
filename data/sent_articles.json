@@ -584,7 +584,16 @@
       "url": "https://news.mtn.co.kr/news-detail/2026073111594170234",
       "published_at": "Fri, 31 Jul 2026 13:08:00 +0900",
       "sent_at": "2026-07-31T13:11:32.284356+09:00"
+    },
+    {
+      "id": "270aea39ff2ee823e81b3e75e7b34f4e451ff883805e41a90109b39114cf133d",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "발언하는 김택진 엔씨 대표",
+      "url": "https://n.news.naver.com/article/001/0016226831?type=journalists",
+      "published_at": "2026-07-31T13:45:01+09:00",
+      "sent_at": "2026-07-31T13:52:10.122655+09:00"
     }
   ],
-  "last_run_at": "2026-07-31T04:47:01.270202+00:00"
+  "last_run_at": "2026-07-31T04:52:05.139110+00:00"
 }
