@@ -593,7 +593,25 @@
       "url": "https://n.news.naver.com/article/001/0016226831?type=journalists",
       "published_at": "2026-07-31T13:45:01+09:00",
       "sent_at": "2026-07-31T13:52:10.122655+09:00"
+    },
+    {
+      "id": "63a32145245cc7002658e6d139f66ffe60786a04c85f0945b4893eb3d72ce966",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "기념 촬영하는 김택진 엔씨 대표·펑청 셩취게임즈 대표",
+      "url": "https://n.news.naver.com/article/001/0016226834?type=journalists",
+      "published_at": "2026-07-31T13:46:41+09:00",
+      "sent_at": "2026-07-31T14:02:22.045726+09:00"
+    },
+    {
+      "id": "a946fdcf405157fa794839aa9823db8e4acb0ee054bc5436d174cd987084d7bd",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "포즈 취하는 김택진 엔씨 대표·펑청 셩취게임즈 대표",
+      "url": "https://n.news.naver.com/article/001/0016226832?type=journalists",
+      "published_at": "2026-07-31T13:46:08+09:00",
+      "sent_at": "2026-07-31T14:02:24.420419+09:00"
     }
   ],
-  "last_run_at": "2026-07-31T04:57:12.314130+00:00"
+  "last_run_at": "2026-07-31T05:02:16.563307+00:00"
 }
