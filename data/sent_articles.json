@@ -620,7 +620,16 @@
       "url": "https://n.news.naver.com/article/001/0016227337?type=journalists",
       "published_at": "2026-07-31T16:43:48+09:00",
       "sent_at": "2026-07-31T16:55:21.115282+09:00"
+    },
+    {
+      "id": "6633053bd05e9d9f25a34f1dfc7565070eb357bd9399daa7052e566791386fa1",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "SOOP, 2분기 실적 급감…\"스트리머 생태계·스포츠로 반등\"(종합2보)",
+      "url": "https://n.news.naver.com/article/001/0016227422?type=journalists",
+      "published_at": "2026-07-31T17:03:07+09:00",
+      "sent_at": "2026-07-31T17:15:40.358548+09:00"
     }
   ],
-  "last_run_at": "2026-07-31T08:10:31.953350+00:00"
+  "last_run_at": "2026-07-31T08:15:35.867079+00:00"
 }
