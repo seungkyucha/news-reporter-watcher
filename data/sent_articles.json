@@ -557,7 +557,34 @@
       "url": "https://n.news.naver.com/article/030/0003453086?type=journalists",
       "published_at": "2026-07-31T14:45:10+09:00",
       "sent_at": "2026-07-31T14:53:25.567210+09:00"
+    },
+    {
+      "id": "fc4bee253c83162144c2eba70090e74191f22c35856c65a7735549653183593f",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "넥슨코리아, '더블유 캠페인' 통해 저소득가정 화상 아동 치료비 8800만원 전달",
+      "url": "https://n.news.naver.com/article/030/0003453091?type=journalists",
+      "published_at": "2026-07-31T14:54:11+09:00",
+      "sent_at": "2026-07-31T15:03:36.935708+09:00"
+    },
+    {
+      "id": "3e99afa42b22912b409a5754d92d02160e56ba90e1fe2ed307b15dc712befcaa",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "카카오게임즈, 신작 2.5D MMORPG '도깨비의세계' 10월 출시 확정",
+      "url": "https://n.news.naver.com/article/030/0003453090?type=journalists",
+      "published_at": "2026-07-31T14:50:15+09:00",
+      "sent_at": "2026-07-31T15:03:39.353539+09:00"
+    },
+    {
+      "id": "cfa2fba4426636d13f71489b74fa5b9091a30ad9b81a88f1c3aa5af06c8cb44e",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "라인게임즈, 투맨게임즈와 PC 신작 '어메이징 슬롯 서바이버' 퍼블리싱 계약 체결",
+      "url": "https://n.news.naver.com/article/030/0003453087?type=journalists",
+      "published_at": "2026-07-31T14:47:10+09:00",
+      "sent_at": "2026-07-31T15:03:42.053692+09:00"
     }
   ],
-  "last_run_at": "2026-07-31T05:58:29.026083+00:00"
+  "last_run_at": "2026-07-31T06:03:33.167884+00:00"
 }
