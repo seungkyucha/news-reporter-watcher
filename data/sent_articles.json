@@ -602,7 +602,16 @@
       "url": "https://n.news.naver.com/article/030/0003453092?type=journalists",
       "published_at": "2026-07-31T14:57:10+09:00",
       "sent_at": "2026-07-31T15:13:56.098178+09:00"
+    },
+    {
+      "id": "5376c420547688c1f5722b39e89b9be2515f1bce296a15abf6dfab51c536582c",
+      "reporter": "서정근",
+      "press": "MTN",
+      "title": "[단독]엔씨 레거시 IP 백승욱 CBO 산하로...디나미스 원 신작은 이성구 ...",
+      "url": "https://news.mtn.co.kr/news-detail/2026073114414990095",
+      "published_at": "Fri, 31 Jul 2026 15:26:00 +0900",
+      "sent_at": "2026-07-31T15:29:10.399165+09:00"
     }
   ],
-  "last_run_at": "2026-07-31T06:24:03.134819+00:00"
+  "last_run_at": "2026-07-31T06:29:07.690690+00:00"
 }
