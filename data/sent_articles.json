@@ -557,7 +557,16 @@
       "url": "https://n.news.naver.com/article/001/0016225260?type=journalists",
       "published_at": "2026-07-30T16:43:03+09:00",
       "sent_at": "2026-07-30T16:53:30.857902+09:00"
+    },
+    {
+      "id": "3bf9075be9e9edbe51670e76515a44cd550de170e22f35f9ecbbe590bc20fc43",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "[AI픽] NC AI, 에이전틱 AI 국책사업 주관기관 선정",
+      "url": "https://n.news.naver.com/article/001/0016226062?type=journalists",
+      "published_at": "2026-07-31T08:46:34+09:00",
+      "sent_at": "2026-07-31T09:07:37.095796+09:00"
     }
   ],
-  "last_run_at": "2026-07-31T00:02:29.247039+00:00"
+  "last_run_at": "2026-07-31T00:07:32.790218+00:00"
 }
