@@ -575,7 +575,16 @@
       "url": "https://n.news.naver.com/article/001/0016226207?type=journalists",
       "published_at": "2026-07-31T09:29:12+09:00",
       "sent_at": "2026-07-31T09:43:28.523488+09:00"
+    },
+    {
+      "id": "cd6a03e79817c125dd10b8988a968abb951ac66fda96a6f98c0ece1f09766b79",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "카카오게임즈, '도깨비의세계' 10월 출시…대표 일러스트 공개",
+      "url": "https://n.news.naver.com/article/001/0016226410?type=journalists",
+      "published_at": "2026-07-31T10:22:47+09:00",
+      "sent_at": "2026-07-31T10:34:15.308870+09:00"
     }
   ],
-  "last_run_at": "2026-07-31T01:29:05.678034+00:00"
+  "last_run_at": "2026-07-31T01:34:09.735228+00:00"
 }
