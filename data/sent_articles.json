@@ -629,7 +629,16 @@
       "url": "https://n.news.naver.com/article/001/0016227422?type=journalists",
       "published_at": "2026-07-31T17:03:07+09:00",
       "sent_at": "2026-07-31T17:15:40.358548+09:00"
+    },
+    {
+      "id": "873362e3ba19af85f6c30095a599b3515340dda58681ed711c324a989bba9be5",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "[게임위드인] 시간을 무기로 바꾼 '어센드투제로'의 실험",
+      "url": "https://n.news.naver.com/article/001/0016228134?type=journalists",
+      "published_at": "2026-08-01T11:00:01+09:00",
+      "sent_at": "2026-08-01T11:13:09.359950+09:00"
     }
   ],
-  "last_run_at": "2026-08-01T02:07:58.985217+00:00"
+  "last_run_at": "2026-08-01T02:13:03.617285+00:00"
 }
