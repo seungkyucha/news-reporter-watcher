@@ -602,7 +602,16 @@
       "url": "https://n.news.naver.com/article/001/0016228134?type=journalists",
       "published_at": "2026-08-01T11:00:01+09:00",
       "sent_at": "2026-08-01T11:13:09.359950+09:00"
+    },
+    {
+      "id": "4ef511ea894e23cc8656f3547ea3e244f481098b41e34e6ccd2cd2c94cabc71d",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "9200억원 위메이드 인수, 누가 돈 대나…네오펄스 자금 구조 베일에",
+      "url": "https://n.news.naver.com/article/030/0003453336?type=journalists",
+      "published_at": "2026-08-02T10:31:17+09:00",
+      "sent_at": "2026-08-02T10:43:40.505278+09:00"
     }
   ],
-  "last_run_at": "2026-08-02T01:38:31.149957+00:00"
+  "last_run_at": "2026-08-02T01:43:35.577066+00:00"
 }
