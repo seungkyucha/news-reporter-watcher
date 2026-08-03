@@ -566,16 +566,20 @@ def send_line(message: str, channel_access_token: str, target_id: str) -> bool:
 def build_notifiers() -> list[tuple[str, Any]]:
     """환경변수에 설정된 알림 채널을 (이름, 전송함수) 목록으로 만든다.
 
-    - 텔레그램: TELEGRAM_BOT_TOKEN + TELEGRAM_CHAT_ID 가 모두 있을 때
+    - 텔레그램: TELEGRAM_BOT_TOKEN + TELEGRAM_CHAT_ID 가 모두 있을 때.
+      TELEGRAM_CHAT_ID 는 쉼표로 여러 대상(그룹/채널/DM)을 지정할 수 있다.
+      예: "-1004371006208,-1001234567890"
     - 라인:     LINE_CHANNEL_ACCESS_TOKEN + LINE_GROUP_ID 가 모두 있을 때
     하나도 없으면 오류로 종료한다. 각 전송함수는 message 를 받아 성공 여부를 반환.
     """
     notifiers: list[tuple[str, Any]] = []
 
     tg_token = os.environ.get("TELEGRAM_BOT_TOKEN", "").strip()
-    tg_chat = os.environ.get("TELEGRAM_CHAT_ID", "").strip()
-    if tg_token and tg_chat:
-        notifiers.append(("Telegram", lambda m: send_telegram(m, tg_token, tg_chat)))
+    tg_chats = [c.strip() for c in os.environ.get("TELEGRAM_CHAT_ID", "").split(",") if c.strip()]
+    if tg_token and tg_chats:
+        for chat in tg_chats:
+            label = "Telegram" if len(tg_chats) == 1 else f"Telegram({chat})"
+            notifiers.append((label, lambda m, c=chat: send_telegram(m, tg_token, c)))
 
     line_token = os.environ.get("LINE_CHANNEL_ACCESS_TOKEN", "").strip()
     line_group = os.environ.get("LINE_GROUP_ID", "").strip()

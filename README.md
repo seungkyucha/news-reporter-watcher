@@ -104,7 +104,7 @@
 | `NAVER_CLIENT_SECRET` | ✅ | Step 2 에서 받은 Client Secret |
 | `REPORTERS` | ✅ | 감시할 기자 목록 JSON (아래 5장 참고) |
 | `TELEGRAM_BOT_TOKEN` | △ | Step 3 에서 받은 Bot Token |
-| `TELEGRAM_CHAT_ID` | △ | Step 5 에서 확인한 chat_id |
+| `TELEGRAM_CHAT_ID` | △ | Step 5 에서 확인한 chat_id. **쉼표로 여러 대상 지정 가능** (예: `-100111,-100222` — 각 대상에 모두 전송) |
 | `LINE_CHANNEL_ACCESS_TOKEN` | △ | 라인으로 받을 때(아래 10장) |
 | `LINE_GROUP_ID` | △ | 라인 그룹 ID(아래 10장) |
 
