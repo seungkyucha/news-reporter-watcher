@@ -602,7 +602,16 @@
       "url": "https://n.news.naver.com/article/001/0016230854?type=journalists",
       "published_at": "2026-08-03T14:24:31+09:00",
       "sent_at": "2026-08-03T14:34:31.255397+09:00"
+    },
+    {
+      "id": "5b90791d7c4fe9ad267199c73655a9941575320a7055581a250ced2b80692e72",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "[알림] 2026 올해의 우수게임 후보작 모집",
+      "url": "https://n.news.naver.com/article/030/0003453775?type=journalists",
+      "published_at": "2026-08-03T16:01:36+09:00",
+      "sent_at": "2026-08-03T16:16:11.106168+09:00"
     }
   ],
-  "last_run_at": "2026-08-03T07:10:52.594452+00:00"
+  "last_run_at": "2026-08-03T07:16:06.798019+00:00"
 }
