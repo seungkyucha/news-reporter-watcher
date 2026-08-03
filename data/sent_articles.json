@@ -620,7 +620,16 @@
       "url": "https://n.news.naver.com/article/001/0016228966?type=journalists",
       "published_at": "2026-08-02T12:06:51+09:00",
       "sent_at": "2026-08-02T12:25:21.729240+09:00"
+    },
+    {
+      "id": "6a6482031249ea4b7afbf78d49cb3e2d209a6f780c394dd62fc2b6326209f90e",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "SOOP, 버추얼 스트리머 모션캡처 스튜디오 4곳으로 확대",
+      "url": "https://n.news.naver.com/article/001/0016229917?type=journalists",
+      "published_at": "2026-08-03T09:23:47+09:00",
+      "sent_at": "2026-08-03T09:34:50.358748+09:00"
     }
   ],
-  "last_run_at": "2026-08-03T00:29:40.215245+00:00"
+  "last_run_at": "2026-08-03T00:34:44.718165+00:00"
 }
