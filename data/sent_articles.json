@@ -1,15 +1,6 @@
 {
   "sent": [
     {
-      "id": "636419dee9a2b1377564245c1c9df36bc8152fa49bf9fae348c586a9f6372f45",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "크래프톤, 배틀그라운드 모바일 창작 모드 공모전 개최",
-      "url": "https://n.news.naver.com/article/001/0016216441?type=journalists",
-      "published_at": "2026-07-27T11:20:29+09:00",
-      "sent_at": "2026-07-27T11:34:27.831732+09:00"
-    },
-    {
       "id": "54f24123a6e61dec4f7a413e7eca2e0100dff57f06fe3542eb049af55cfb4791",
       "reporter": "박정은",
       "press": "전자신문",
@@ -611,7 +602,16 @@
       "url": "https://n.news.naver.com/article/001/0016230144?type=journalists",
       "published_at": "2026-08-03T10:20:23+09:00",
       "sent_at": "2026-08-03T10:35:46.610197+09:00"
+    },
+    {
+      "id": "a224602dee6b6baaf12e8a91b49e2c32d3a8381a6810c1d541d3922d32f25f86",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "넥슨, 부산서 '오버워치 데이' 개최…국내 서비스 기념",
+      "url": "https://n.news.naver.com/article/001/0016230367?type=journalists",
+      "published_at": "2026-08-03T11:18:19+09:00",
+      "sent_at": "2026-08-03T11:36:40.389055+09:00"
     }
   ],
-  "last_run_at": "2026-08-03T02:31:30.010120+00:00"
+  "last_run_at": "2026-08-03T02:36:34.582054+00:00"
 }
