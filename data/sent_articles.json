@@ -611,7 +611,16 @@
       "url": "https://n.news.naver.com/article/001/0016230367?type=journalists",
       "published_at": "2026-08-03T11:18:19+09:00",
       "sent_at": "2026-08-03T11:36:40.389055+09:00"
+    },
+    {
+      "id": "618d86f1e6ffa19da5a58e177096fdf08375de65b26afc7ccc40cd6b242e4cce",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "[AI픽] 시프트업 AI 뮤직비디오 논란…게이머 비판에 해명",
+      "url": "https://n.news.naver.com/article/001/0016230854?type=journalists",
+      "published_at": "2026-08-03T14:24:31+09:00",
+      "sent_at": "2026-08-03T14:34:31.255397+09:00"
     }
   ],
-  "last_run_at": "2026-08-03T05:29:22.847331+00:00"
+  "last_run_at": "2026-08-03T05:34:26.868313+00:00"
 }
