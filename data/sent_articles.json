@@ -620,7 +620,16 @@
       "url": "https://n.news.naver.com/article/001/0016231305?type=journalists",
       "published_at": "2026-08-03T16:24:07+09:00",
       "sent_at": "2026-08-03T16:36:44.912006+09:00"
+    },
+    {
+      "id": "b4cecda0b8715a20612d9812c59d158db7a9cf41460922bab1b872f1a84e01b4",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "30년 만의 개편... '이달의 우수게임'에서 '올해의 우수게임'으로",
+      "url": "https://n.news.naver.com/article/030/0003453788?type=journalists",
+      "published_at": "2026-08-03T16:41:44+09:00",
+      "sent_at": "2026-08-03T16:57:13.643076+09:00"
     }
   ],
-  "last_run_at": "2026-08-03T07:52:05.885375+00:00"
+  "last_run_at": "2026-08-03T07:57:09.784400+00:00"
 }
