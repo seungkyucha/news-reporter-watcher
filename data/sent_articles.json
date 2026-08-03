@@ -593,7 +593,16 @@
       "url": "https://n.news.naver.com/article/001/0016229917?type=journalists",
       "published_at": "2026-08-03T09:23:47+09:00",
       "sent_at": "2026-08-03T09:34:50.358748+09:00"
+    },
+    {
+      "id": "1414688074297b82b02740f085d56c8ad0f21b16efd50d2dab980ef4156ee1da",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "펄어비스 '붉은사막', 중국서 '최고의 인터내셔널 게임' 선정",
+      "url": "https://n.news.naver.com/article/001/0016230101?type=journalists",
+      "published_at": "2026-08-03T10:12:13+09:00",
+      "sent_at": "2026-08-03T10:25:34.517849+09:00"
     }
   ],
-  "last_run_at": "2026-08-03T01:20:25.492550+00:00"
+  "last_run_at": "2026-08-03T01:25:29.451721+00:00"
 }
