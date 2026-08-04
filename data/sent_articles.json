@@ -539,7 +539,16 @@
       "url": "https://n.news.naver.com/article/001/0016232831?type=journalists",
       "published_at": "2026-08-04T14:06:47+09:00",
       "sent_at": "2026-08-04T14:23:44.884828+09:00"
+    },
+    {
+      "id": "f4df733e43e76348f64d342b566296f9d00e4619e780d7a4c73765a4ab27ad16",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "카카오게임즈, '김부장' 보유 더그림엔터와 IP 협력",
+      "url": "https://n.news.naver.com/article/001/0016233306?type=journalists",
+      "published_at": "2026-08-04T15:32:24+09:00",
+      "sent_at": "2026-08-04T15:45:13.933002+09:00"
     }
   ],
-  "last_run_at": "2026-08-04T06:40:04.777747+00:00"
+  "last_run_at": "2026-08-04T06:45:09.108607+00:00"
 }
