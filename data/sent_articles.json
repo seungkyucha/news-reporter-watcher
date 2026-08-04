@@ -1,24 +1,6 @@
 {
   "sent": [
     {
-      "id": "4573f6abb6f4666d5078a9d193d43c4d209e8c77dcc3ff3b90e079b712ab7bd6",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "넥슨, 웹소설 원작 MMORPG '템빨: 오버기어드' 공개",
-      "url": "https://n.news.naver.com/article/001/0016218681?type=journalists",
-      "published_at": "2026-07-28T11:07:49+09:00",
-      "sent_at": "2026-07-28T11:26:40.414060+09:00"
-    },
-    {
-      "id": "67539a45ab22b918ceb079e070e08d8bbd63b00a22b1b8d87c9503d0e9288306",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "게임산업 성장 둔화에 경고음…\"세제 지원 시급\"",
-      "url": "https://n.news.naver.com/article/001/0016218675?type=journalists",
-      "published_at": "2026-07-28T11:06:51+09:00",
-      "sent_at": "2026-07-28T11:26:42.747207+09:00"
-    },
-    {
       "id": "efe25131f297421acd6081f504fec30269a74197a315317b32744cb1fd8fc7d0",
       "reporter": "박정은",
       "press": "전자신문",
@@ -631,5 +613,5 @@
       "sent_at": "2026-08-04T11:00:56.918948+09:00"
     }
   ],
-  "last_run_at": "2026-08-04T02:26:16.520804+00:00"
+  "last_run_at": "2026-08-04T02:31:20.721284+00:00"
 }
