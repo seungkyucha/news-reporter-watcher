@@ -1,24 +1,6 @@
 {
   "sent": [
     {
-      "id": "8b8cd296c4124ce1defa17977cae44134fdf7104d2b7e2705b962474f9e1631f",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "스마일게이트·바다게임즈, 게임으로 선한 영향력 확산",
-      "url": "https://n.news.naver.com/article/001/0016218489?type=journalists",
-      "published_at": "2026-07-28T10:27:52+09:00",
-      "sent_at": "2026-07-28T10:40:56.714864+09:00"
-    },
-    {
-      "id": "3152be592bdadb16324b54bc3a19dc94bd378904cc7be9858f216e23f49d0936",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "카카오게임즈, '가디언 메이든' 글로벌 퍼블리싱 계약",
-      "url": "https://n.news.naver.com/article/001/0016218471?type=journalists",
-      "published_at": "2026-07-28T10:25:08+09:00",
-      "sent_at": "2026-07-28T10:40:59.075799+09:00"
-    },
-    {
       "id": "4573f6abb6f4666d5078a9d193d43c4d209e8c77dcc3ff3b90e079b712ab7bd6",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -640,5 +622,5 @@
       "sent_at": "2026-08-04T09:59:45.419593+09:00"
     }
   ],
-  "last_run_at": "2026-08-04T01:40:35.577146+00:00"
+  "last_run_at": "2026-08-04T01:45:39.768852+00:00"
 }
