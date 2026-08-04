@@ -629,7 +629,16 @@
       "url": "https://n.news.naver.com/article/001/0016231976?type=journalists",
       "published_at": "2026-08-04T09:24:51+09:00",
       "sent_at": "2026-08-04T09:34:21.276279+09:00"
+    },
+    {
+      "id": "f2b547333ab4dec67d82b109a295a9c449255444e28a98d43efbc89681cbf338",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "넷마블게임박물관, '한국 게임산업 뿌리' PC게임 상설 전시",
+      "url": "https://n.news.naver.com/article/001/0016232057?type=journalists",
+      "published_at": "2026-08-04T09:49:55+09:00",
+      "sent_at": "2026-08-04T09:59:45.419593+09:00"
     }
   ],
-  "last_run_at": "2026-08-04T00:54:35.940263+00:00"
+  "last_run_at": "2026-08-04T00:59:39.974205+00:00"
 }
