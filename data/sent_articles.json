@@ -557,7 +557,16 @@
       "url": "https://n.news.naver.com/article/001/0016232388?type=journalists",
       "published_at": "2026-08-04T10:54:06+09:00",
       "sent_at": "2026-08-04T11:00:56.918948+09:00"
+    },
+    {
+      "id": "b16dd77135158e7ef2a9d0343b6f009aef2da3dd72cbdd6526afce8295828cc1",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "샌디플로어, 후속 투자 유치…\"자체개발·퍼블리싱 역량 강화\"",
+      "url": "https://n.news.naver.com/article/001/0016232831?type=journalists",
+      "published_at": "2026-08-04T14:06:47+09:00",
+      "sent_at": "2026-08-04T14:23:44.884828+09:00"
     }
   ],
-  "last_run_at": "2026-08-04T05:18:36.092525+00:00"
+  "last_run_at": "2026-08-04T05:23:40.026558+00:00"
 }
