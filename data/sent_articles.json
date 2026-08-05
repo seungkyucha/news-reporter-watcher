@@ -575,7 +575,16 @@
       "url": "https://n.news.naver.com/article/001/0016234094?type=journalists",
       "published_at": "2026-08-05T08:50:29+09:00",
       "sent_at": "2026-08-05T09:06:32.671241+09:00"
+    },
+    {
+      "id": "b85741221db7191f97e4928347078928b35c4fecb0a4307abe53f8e6c19bec63",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "[속보] 김태환 카카오게임즈 대표 \"라인게임즈와 합병 계획 없어\"",
+      "url": "https://n.news.naver.com/article/001/0016234191?type=journalists",
+      "published_at": "2026-08-05T09:30:45+09:00",
+      "sent_at": "2026-08-05T09:42:06.473872+09:00"
     }
   ],
-  "last_run_at": "2026-08-05T00:36:56.506132+00:00"
+  "last_run_at": "2026-08-05T00:42:00.749694+00:00"
 }
