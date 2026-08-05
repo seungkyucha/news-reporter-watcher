@@ -521,7 +521,16 @@
       "url": "https://n.news.naver.com/article/001/0016234921?type=journalists",
       "published_at": "2026-08-05T13:39:04+09:00",
       "sent_at": "2026-08-05T13:56:32.767347+09:00"
+    },
+    {
+      "id": "42d78c6fe8450ddfcda096345cbd21ad09e5644ccc3441911b13fc082ff3d420",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "넷마블, 2분기 신작 효과에도 비용 늘며 영업익 21% 감소(종합)",
+      "url": "https://n.news.naver.com/article/001/0016235636?type=journalists",
+      "published_at": "2026-08-05T16:09:36+09:00",
+      "sent_at": "2026-08-05T16:23:46.483650+09:00"
     }
   ],
-  "last_run_at": "2026-08-05T07:18:36.647600+00:00"
+  "last_run_at": "2026-08-05T07:23:41.284690+00:00"
 }
