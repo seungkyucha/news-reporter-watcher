@@ -1,15 +1,6 @@
 {
   "sent": [
     {
-      "id": "8b8f1f97eb23d545d467a98123227dc05425a387cc6b77461d471532a25b79ce",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "컴투스홀딩스, 중국 최대 게임쇼 '차이나조이' 참가",
-      "url": "https://n.news.naver.com/article/001/0016220698?type=journalists",
-      "published_at": "2026-07-29T09:44:54+09:00",
-      "sent_at": "2026-07-29T09:54:12.988170+09:00"
-    },
-    {
       "id": "588638a798e3961fe9323cf56f4c3694d8770e7932f6e6697bbad824e4ed17e9",
       "reporter": "서정근",
       "press": "MTN",
@@ -575,7 +566,16 @@
       "url": "https://n.news.naver.com/article/001/0016234191?type=journalists",
       "published_at": "2026-08-05T09:30:45+09:00",
       "sent_at": "2026-08-05T09:42:06.473872+09:00"
+    },
+    {
+      "id": "7e6387fd11da4cb2ccc5ffc9893d201215b2d1c85127d165eeb7830ca60fce72",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "카카오게임즈 새 경영진 \"신뢰 회복할 것…라인게임즈와 합병 X\"",
+      "url": "https://n.news.naver.com/article/001/0016234235?type=journalists",
+      "published_at": "2026-08-05T09:40:10+09:00",
+      "sent_at": "2026-08-05T09:57:23.142705+09:00"
     }
   ],
-  "last_run_at": "2026-08-05T00:52:13.080221+00:00"
+  "last_run_at": "2026-08-05T00:57:17.711706+00:00"
 }
