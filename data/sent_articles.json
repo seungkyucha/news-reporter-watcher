@@ -1,24 +1,6 @@
 {
   "sent": [
     {
-      "id": "662c25f27759163c755572b26bd53e111b22ce4486a16cbde3686fadf4b02314",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "title": "엔씨 리듬게임 '러브비트', 여름방학 맞아 '감사제' 이벤트 진행",
-      "url": "https://n.news.naver.com/article/030/0003452166?type=journalists",
-      "published_at": "2026-07-29T12:49:09+09:00",
-      "sent_at": "2026-07-29T13:07:34.978658+09:00"
-    },
-    {
-      "id": "1a7039893406a0cf102546917c75c97209d1eefe8f777a3ae7b790b23989eb27",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "title": "카카오게임즈, '프렌즈팝콘' 이용자 참여 기부... WWF에 3000만원 전달",
-      "url": "https://n.news.naver.com/article/030/0003452165?type=journalists",
-      "published_at": "2026-07-29T12:46:15+09:00",
-      "sent_at": "2026-07-29T13:07:37.906240+09:00"
-    },
-    {
       "id": "c2383f6514f23187e11aeae04fbfdc3dd0ac4ab7718eb8b21b37698e8a430b5c",
       "reporter": "박정은",
       "press": "전자신문",
@@ -550,5 +532,5 @@
       "sent_at": "2026-08-05T10:22:49.452267+09:00"
     }
   ],
-  "last_run_at": "2026-08-05T04:05:40.888713+00:00"
+  "last_run_at": "2026-08-05T04:10:45.213392+00:00"
 }
