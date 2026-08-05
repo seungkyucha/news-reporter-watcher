@@ -1,24 +1,6 @@
 {
   "sent": [
     {
-      "id": "c4e13cba608c95c96de023da6f69a5932777d9f88f7b1ee54e39cf62ec0b12f6",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "title": "킹넷, 신작 MMORPG '열혈강호: 넥스트' 국내 정식 출시",
-      "url": "https://n.news.naver.com/article/030/0003452161?type=journalists",
-      "published_at": "2026-07-29T12:32:12+09:00",
-      "sent_at": "2026-07-29T12:47:05.874382+09:00"
-    },
-    {
-      "id": "3239db33d266c423b0b79baa06424def44c11e52ff679ccbb6f530b8ecb3842b",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "title": "크래프톤, 일본서 첫 글로벌 브랜드 캠페인 전개... 미메시스 등 16개 IP 소개",
-      "url": "https://n.news.naver.com/article/030/0003452160?type=journalists",
-      "published_at": "2026-07-29T12:29:09+09:00",
-      "sent_at": "2026-07-29T12:47:08.605057+09:00"
-    },
-    {
       "id": "1af3d7661c49405d08b4950bf2cb2576533b1c8ed975b2ae4d0219d6a09ac949",
       "reporter": "박정은",
       "press": "전자신문",
@@ -586,5 +568,5 @@
       "sent_at": "2026-08-05T10:22:49.452267+09:00"
     }
   ],
-  "last_run_at": "2026-08-05T03:45:21.022569+00:00"
+  "last_run_at": "2026-08-05T03:50:27.163644+00:00"
 }
