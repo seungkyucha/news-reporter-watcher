@@ -1,24 +1,6 @@
 {
   "sent": [
     {
-      "id": "1af3d7661c49405d08b4950bf2cb2576533b1c8ed975b2ae4d0219d6a09ac949",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "title": "컴투스홀딩스 '페이탈 클로', 중국 최대 게임쇼 '차이나조이 2026' 참가",
-      "url": "https://n.news.naver.com/article/030/0003452164?type=journalists",
-      "published_at": "2026-07-29T12:41:09+09:00",
-      "sent_at": "2026-07-29T12:57:20.861506+09:00"
-    },
-    {
-      "id": "3eeeb7b8d3c042a43aeb5d9e59a10a07ff1573a86af85c408ee579ad18ae24e1",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "title": "크래프톤, 한국어 성능 1위 음성 AI 파운데이션 모델 'A.X K2 Raon-Speech' 공개",
-      "url": "https://n.news.naver.com/article/030/0003452163?type=journalists",
-      "published_at": "2026-07-29T12:37:09+09:00",
-      "sent_at": "2026-07-29T12:57:23.522962+09:00"
-    },
-    {
       "id": "662c25f27759163c755572b26bd53e111b22ce4486a16cbde3686fadf4b02314",
       "reporter": "박정은",
       "press": "전자신문",
@@ -568,5 +550,5 @@
       "sent_at": "2026-08-05T10:22:49.452267+09:00"
     }
   ],
-  "last_run_at": "2026-08-05T03:55:31.588438+00:00"
+  "last_run_at": "2026-08-05T04:00:36.475453+00:00"
 }
