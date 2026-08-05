@@ -530,7 +530,16 @@
       "url": "https://n.news.naver.com/article/001/0016234355?type=journalists",
       "published_at": "2026-08-05T10:08:30+09:00",
       "sent_at": "2026-08-05T10:22:49.452267+09:00"
+    },
+    {
+      "id": "9b3f55d4b9f39bfa7be2bcb0388d48ccd18f82cfd00fb41f1a43d57fc44dac3e",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "네오위즈 파우게임즈, '킹덤2: 타오르는 전장' 정식 출시",
+      "url": "https://n.news.naver.com/article/001/0016234921?type=journalists",
+      "published_at": "2026-08-05T13:39:04+09:00",
+      "sent_at": "2026-08-05T13:56:32.767347+09:00"
     }
   ],
-  "last_run_at": "2026-08-05T04:51:22.014303+00:00"
+  "last_run_at": "2026-08-05T04:56:26.826432+00:00"
 }
