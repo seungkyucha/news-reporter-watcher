@@ -575,7 +575,25 @@
       "url": "https://n.news.naver.com/article/001/0016234235?type=journalists",
       "published_at": "2026-08-05T09:40:10+09:00",
       "sent_at": "2026-08-05T09:57:23.142705+09:00"
+    },
+    {
+      "id": "411a252db6d9dd92566293ce1d807cd8589c8285e6aa843397fcb6a4df8533d6",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "NC문화재단·서울문화재단, 청년 예술인 지원 협력",
+      "url": "https://n.news.naver.com/article/001/0016234370?type=journalists",
+      "published_at": "2026-08-05T10:12:58+09:00",
+      "sent_at": "2026-08-05T10:22:46.848259+09:00"
+    },
+    {
+      "id": "3ba3c4e5137cbc32458f8f4d7ffbf57784e481c808cc337d1a00ccd6aa5d7bd6",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "카카오게임즈 신임 경영진 \"신작으로 내년 1분기 흑자전환\"(종합2보)",
+      "url": "https://n.news.naver.com/article/001/0016234355?type=journalists",
+      "published_at": "2026-08-05T10:08:30+09:00",
+      "sent_at": "2026-08-05T10:22:49.452267+09:00"
     }
   ],
-  "last_run_at": "2026-08-05T01:17:37.585193+00:00"
+  "last_run_at": "2026-08-05T01:22:41.490455+00:00"
 }
