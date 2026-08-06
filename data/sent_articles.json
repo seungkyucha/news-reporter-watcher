@@ -530,7 +530,16 @@
       "url": "https://n.news.naver.com/article/001/0016237990?type=journalists",
       "published_at": "2026-08-06T16:04:58+09:00",
       "sent_at": "2026-08-06T16:17:02.574833+09:00"
+    },
+    {
+      "id": "8b88c4651ca405d842a71cddc2fb601d057149ad703aefdf1ae1695462391f79",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "게임산업법 개편 논의 본격화... “진흥 중심 전환 속 세부 보완 필요”",
+      "url": "https://n.news.naver.com/article/030/0003455008?type=journalists",
+      "published_at": "2026-08-06T17:31:11+09:00",
+      "sent_at": "2026-08-06T17:43:24.445832+09:00"
     }
   ],
-  "last_run_at": "2026-08-06T08:38:15.495887+00:00"
+  "last_run_at": "2026-08-06T08:43:20.169613+00:00"
 }
