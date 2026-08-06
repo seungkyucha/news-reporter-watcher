@@ -530,7 +530,16 @@
       "url": "https://n.news.naver.com/article/001/0016237730?type=journalists",
       "published_at": "2026-08-06T15:17:55+09:00",
       "sent_at": "2026-08-06T15:36:20.740812+09:00"
+    },
+    {
+      "id": "e9b0acb96209117ac15a3b4cd45eb4711f8662cd6df23a4d5d24a822e633311e",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "웹젠 2분기 영업익 57억원…전년 동기 대비 8.4%↓(종합)",
+      "url": "https://n.news.naver.com/article/001/0016237990?type=journalists",
+      "published_at": "2026-08-06T16:04:58+09:00",
+      "sent_at": "2026-08-06T16:17:02.574833+09:00"
     }
   ],
-  "last_run_at": "2026-08-06T07:11:52.102358+00:00"
+  "last_run_at": "2026-08-06T07:16:57.098100+00:00"
 }
