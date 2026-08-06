@@ -521,7 +521,16 @@
       "url": "https://n.news.naver.com/article/001/0016235636?type=journalists",
       "published_at": "2026-08-05T16:09:36+09:00",
       "sent_at": "2026-08-05T16:23:46.483650+09:00"
+    },
+    {
+      "id": "2d0e6e854bf95f195bd76ad3dd2493d066c8f4b6e7781b49c43939c531efc31d",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "네오위즈, 'P의 거짓 컴플리트 에디션' 닌텐도 스위치2 출시",
+      "url": "https://n.news.naver.com/article/001/0016236466?type=journalists",
+      "published_at": "2026-08-06T09:17:02+09:00",
+      "sent_at": "2026-08-06T09:35:05.905779+09:00"
     }
   ],
-  "last_run_at": "2026-08-06T00:29:56.046108+00:00"
+  "last_run_at": "2026-08-06T00:35:00.041478+00:00"
 }
