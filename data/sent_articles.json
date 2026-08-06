@@ -1,15 +1,6 @@
 {
   "sent": [
     {
-      "id": "5498f24b5489946e8cafeaccc0f84b52f538aa64ffc45b9188b876392b90fed6",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "\"서든 야호\" 넥슨, 서든어택에 리센느 캐릭터 출시",
-      "url": "https://n.news.naver.com/article/001/0016223791?type=journalists",
-      "published_at": "2026-07-30T11:16:16+09:00",
-      "sent_at": "2026-07-30T11:33:23.528545+09:00"
-    },
-    {
       "id": "48439deea3569dc86a7a20f76197fcd58ce0e7bb0b4e0e6f73429e71c733b6ce",
       "reporter": "박정은",
       "press": "전자신문",
@@ -521,7 +512,25 @@
       "url": "https://n.news.naver.com/article/030/0003454781?type=journalists",
       "published_at": "2026-08-06T11:13:13+09:00",
       "sent_at": "2026-08-06T11:26:55.559816+09:00"
+    },
+    {
+      "id": "06d8d95278f582a4f83228c0af7c2c5fc9a65747bbe80f31b6d013fcf1a32c08",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "슈퍼패스트, 상반기 매출 1065억원... '협타디' 역주행에 38% 성장",
+      "url": "https://n.news.naver.com/article/030/0003454785?type=journalists",
+      "published_at": "2026-08-06T11:23:13+09:00",
+      "sent_at": "2026-08-06T11:37:07.551495+09:00"
+    },
+    {
+      "id": "c7ace62a415c14f7d80a33da3b3511e9a4f1dde59a67767edc396f27067d75e3",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "위메이드, '미르4' 글로벌 서비스 5주년 기념 이용자 헌정 영상 공개",
+      "url": "https://n.news.naver.com/article/030/0003454783?type=journalists",
+      "published_at": "2026-08-06T11:17:13+09:00",
+      "sent_at": "2026-08-06T11:37:10.005948+09:00"
     }
   ],
-  "last_run_at": "2026-08-06T02:31:58.184478+00:00"
+  "last_run_at": "2026-08-06T02:37:02.530558+00:00"
 }
