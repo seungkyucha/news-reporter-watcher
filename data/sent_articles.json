@@ -539,7 +539,16 @@
       "url": "https://n.news.naver.com/article/030/0003455008?type=journalists",
       "published_at": "2026-08-06T17:31:11+09:00",
       "sent_at": "2026-08-06T17:43:24.445832+09:00"
+    },
+    {
+      "id": "f11f547698647a4d2eda5e92cbafb121ddca540324d6dba21172b3ecd8751d0d",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "배틀그라운드 모바일, 최상위 국제 대회 '2026 PMWC' 개막",
+      "url": "https://n.news.naver.com/article/030/0003455021?type=journalists",
+      "published_at": "2026-08-06T17:46:12+09:00",
+      "sent_at": "2026-08-06T18:04:08.147929+09:00"
     }
   ],
-  "last_run_at": "2026-08-06T08:58:58.671476+00:00"
+  "last_run_at": "2026-08-06T09:04:03.207593+00:00"
 }
