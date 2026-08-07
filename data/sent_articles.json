@@ -521,7 +521,16 @@
       "url": "https://n.news.naver.com/article/030/0003455195?type=journalists",
       "published_at": "2026-08-07T11:39:12+09:00",
       "sent_at": "2026-08-07T11:53:58.249321+09:00"
+    },
+    {
+      "id": "b006a622926f6edc25000cdddcd8a72881f8b514bdbf2ffa193ad3f43b1f3b24",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "스마일게이트, '이클립스: 더 어웨이크닝' 9월 10일 출시",
+      "url": "https://n.news.naver.com/article/001/0016239292?type=journalists",
+      "published_at": "2026-08-07T14:21:45+09:00",
+      "sent_at": "2026-08-07T14:36:40.606675+09:00"
     }
   ],
-  "last_run_at": "2026-08-07T05:31:16.158338+00:00"
+  "last_run_at": "2026-08-07T05:36:35.814810+00:00"
 }
