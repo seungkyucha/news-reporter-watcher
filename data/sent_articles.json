@@ -539,7 +539,16 @@
       "url": "https://n.news.naver.com/article/030/0003455193?type=journalists",
       "published_at": "2026-08-07T11:32:15+09:00",
       "sent_at": "2026-08-07T11:38:38.261904+09:00"
+    },
+    {
+      "id": "d3ba7439074201e8bd48a2e6cca1f7e71bb1c21744949bc327bf5dc04666f94f",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "데브시스터즈 2분기 영업손실 160억원…적자 전환(종합)",
+      "url": "https://n.news.naver.com/article/001/0016238985?type=journalists",
+      "published_at": "2026-08-07T11:25:42+09:00",
+      "sent_at": "2026-08-07T11:43:46.448913+09:00"
     }
   ],
-  "last_run_at": "2026-08-07T02:38:30.919155+00:00"
+  "last_run_at": "2026-08-07T02:43:41.045732+00:00"
 }
