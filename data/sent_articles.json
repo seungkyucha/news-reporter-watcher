@@ -1,24 +1,6 @@
 {
   "sent": [
     {
-      "id": "f020e45711e989a3acfa1eea8bc551079d9d99ae8b99ef3c39aaa0fa6226d34e",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "title": "컴투스 '서머너즈 워' e스포츠 10주년... 글로벌 모바일 e스포츠 대표 무대로 자리매김",
-      "url": "https://n.news.naver.com/article/030/0003453097?type=journalists",
-      "published_at": "2026-07-31T15:03:10+09:00",
-      "sent_at": "2026-07-31T15:13:53.439906+09:00"
-    },
-    {
-      "id": "885cd2337af85615deaa5f82f6df72e063765cfe313906dd50d3673234f4de76",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "title": "'블루 아카이브'가 만든 선한 영향력... 헌혈부터 기부 러닝까지 사회공헌 확대",
-      "url": "https://n.news.naver.com/article/030/0003453092?type=journalists",
-      "published_at": "2026-07-31T14:57:10+09:00",
-      "sent_at": "2026-07-31T15:13:56.098178+09:00"
-    },
-    {
       "id": "5376c420547688c1f5722b39e89b9be2515f1bce296a15abf6dfab51c536582c",
       "reporter": "서정근",
       "press": "MTN",
@@ -505,5 +487,5 @@
       "sent_at": "2026-08-07T15:12:15.214781+09:00"
     }
   ],
-  "last_run_at": "2026-08-07T06:12:09.806696+00:00"
+  "last_run_at": "2026-08-07T06:17:18.062051+00:00"
 }
