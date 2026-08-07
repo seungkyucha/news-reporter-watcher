@@ -1,33 +1,6 @@
 {
   "sent": [
     {
-      "id": "9c220d35b69fb180000940e61aa858837f7fe375ced9a9aa8649ac5227e89251",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "title": "NHN 게임xAI 해커톤 'NAN 2026', D-10... 홈페이지 방문자 10만 명 돌파",
-      "url": "https://n.news.naver.com/article/030/0003452962?type=journalists",
-      "published_at": "2026-07-31T09:33:12+09:00",
-      "sent_at": "2026-07-31T09:43:23.253301+09:00"
-    },
-    {
-      "id": "625917da85a7fe81b4b2154d6dcad80fd89c3e5547c8b0371e3d09673b93388b",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "title": "엔씨, 셩취게임즈와 '아이온2' 전략적 협업... 중국 출시 시동",
-      "url": "https://n.news.naver.com/article/030/0003452957?type=journalists",
-      "published_at": "2026-07-31T09:30:17+09:00",
-      "sent_at": "2026-07-31T09:43:25.677737+09:00"
-    },
-    {
-      "id": "a7db0d2578b1bf1f532f48802f701f8e1b970af3892809166b72bb989b4f99fc",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "엔씨, '아이온2' 중국 진출 시동…셩취게임즈와 전략 협력",
-      "url": "https://n.news.naver.com/article/001/0016226207?type=journalists",
-      "published_at": "2026-07-31T09:29:12+09:00",
-      "sent_at": "2026-07-31T09:43:28.523488+09:00"
-    },
-    {
       "id": "cd6a03e79817c125dd10b8988a968abb951ac66fda96a6f98c0ece1f09766b79",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -550,5 +523,5 @@
       "sent_at": "2026-08-07T09:31:39.426640+09:00"
     }
   ],
-  "last_run_at": "2026-08-07T00:41:46.025818+00:00"
+  "last_run_at": "2026-08-07T00:46:50.022306+00:00"
 }
