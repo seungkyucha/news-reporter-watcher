@@ -1,15 +1,6 @@
 {
   "sent": [
     {
-      "id": "3bf9075be9e9edbe51670e76515a44cd550de170e22f35f9ecbbe590bc20fc43",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "[AI픽] NC AI, 에이전틱 AI 국책사업 주관기관 선정",
-      "url": "https://n.news.naver.com/article/001/0016226062?type=journalists",
-      "published_at": "2026-07-31T08:46:34+09:00",
-      "sent_at": "2026-07-31T09:07:37.095796+09:00"
-    },
-    {
       "id": "9c220d35b69fb180000940e61aa858837f7fe375ced9a9aa8649ac5227e89251",
       "reporter": "박정은",
       "press": "전자신문",
@@ -548,7 +539,16 @@
       "url": "https://n.news.naver.com/article/030/0003455021?type=journalists",
       "published_at": "2026-08-06T17:46:12+09:00",
       "sent_at": "2026-08-06T18:04:08.147929+09:00"
+    },
+    {
+      "id": "7cd1733b738432e88037b2ef30a2528973395ce9891829253f1f01a0e155e7e9",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "[가보니] 도심 빌딩 4개 층 채운 GPU…NHN '팩토리X'",
+      "url": "https://n.news.naver.com/article/001/0016238520?type=journalists",
+      "published_at": "2026-08-07T09:00:01+09:00",
+      "sent_at": "2026-08-07T09:31:39.426640+09:00"
     }
   ],
-  "last_run_at": "2026-08-06T16:25:55.582107+00:00"
+  "last_run_at": "2026-08-07T00:31:34.652122+00:00"
 }
