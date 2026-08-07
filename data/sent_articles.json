@@ -1,15 +1,6 @@
 {
   "sent": [
     {
-      "id": "c46fea3be5bf34e2f5be1502b4baa60fd269b39bf89395789ab07cc18330959d",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "넥슨, 화상 아동 18명 첫 수술 돕는다",
-      "url": "https://n.news.naver.com/article/001/0016226520?type=journalists",
-      "published_at": "2026-07-31T10:51:10+09:00",
-      "sent_at": "2026-07-31T11:04:43.508483+09:00"
-    },
-    {
       "id": "5a4d4228d37ff5590994359da39d0bc9dd03e0a6606cc4fe030c9e01cb375344",
       "reporter": "서정근",
       "press": "MTN",
@@ -523,5 +514,5 @@
       "sent_at": "2026-08-07T10:22:25.039293+09:00"
     }
   ],
-  "last_run_at": "2026-08-07T02:02:56.620358+00:00"
+  "last_run_at": "2026-08-07T02:08:00.747088+00:00"
 }
