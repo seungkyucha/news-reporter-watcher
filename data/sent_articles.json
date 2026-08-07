@@ -548,7 +548,16 @@
       "url": "https://n.news.naver.com/article/001/0016238985?type=journalists",
       "published_at": "2026-08-07T11:25:42+09:00",
       "sent_at": "2026-08-07T11:43:46.448913+09:00"
+    },
+    {
+      "id": "589ca8979ae89a0afe8d64e66a86b9201f0df6aa8b204c276f22a67424011f8e",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "데브시스터즈, 2분기 매출 527억 원 기록... “3분기 수익성 대폭 개선”",
+      "url": "https://n.news.naver.com/article/030/0003455195?type=journalists",
+      "published_at": "2026-08-07T11:39:12+09:00",
+      "sent_at": "2026-08-07T11:53:58.249321+09:00"
     }
   ],
-  "last_run_at": "2026-08-07T02:48:48.921032+00:00"
+  "last_run_at": "2026-08-07T02:53:53.204976+00:00"
 }
