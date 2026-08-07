@@ -494,7 +494,16 @@
       "url": "https://n.news.naver.com/article/001/0016239292?type=journalists",
       "published_at": "2026-08-07T14:21:45+09:00",
       "sent_at": "2026-08-07T14:36:40.606675+09:00"
+    },
+    {
+      "id": "b8c71f9d056d0bd6c931f3cd4d55a2d981e9956fcf753e95d2b2c5c3e61138f5",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "[가보니] 라이엇게임즈, 더현대서 TFT 축제…'신비의 숲' 현실로",
+      "url": "https://n.news.naver.com/article/001/0016239362?type=journalists",
+      "published_at": "2026-08-07T15:00:00+09:00",
+      "sent_at": "2026-08-07T15:12:15.214781+09:00"
     }
   ],
-  "last_run_at": "2026-08-07T06:07:05.096507+00:00"
+  "last_run_at": "2026-08-07T06:12:09.806696+00:00"
 }
