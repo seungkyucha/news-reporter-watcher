@@ -521,7 +521,16 @@
       "url": "https://n.news.naver.com/article/001/0016240002?type=journalists",
       "published_at": "2026-08-08T11:00:00+09:00",
       "sent_at": "2026-08-08T11:12:27.373130+09:00"
+    },
+    {
+      "id": "1ac6867a7f81f6cb02850dce1cd7878b58d95c43ff4ee65d26446a238ea84864",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "컴투스 '제우스: 오만의 신' 26일 출격…“모두가 즐기는 경쟁 MMORPG”",
+      "url": "https://n.news.naver.com/article/030/0003455370?type=journalists",
+      "published_at": "2026-08-08T13:21:12+09:00",
+      "sent_at": "2026-08-08T13:34:39.463779+09:00"
     }
   ],
-  "last_run_at": "2026-08-08T04:29:29.280649+00:00"
+  "last_run_at": "2026-08-08T04:34:34.205508+00:00"
 }
