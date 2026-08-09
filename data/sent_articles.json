@@ -521,7 +521,16 @@
       "url": "https://n.news.naver.com/article/030/0003455371?type=journalists",
       "published_at": "2026-08-08T13:26:16+09:00",
       "sent_at": "2026-08-08T13:44:52.466770+09:00"
+    },
+    {
+      "id": "79bd254c328219448f2c7770d901cfabbf40d472deb1aedf7be8f07e897109a6",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "K-인디, 게임스컴서 글로벌 시장 개척... 세계 무대 출사표",
+      "url": "https://n.news.naver.com/article/030/0003455495?type=journalists",
+      "published_at": "2026-08-09T15:04:18+09:00",
+      "sent_at": "2026-08-09T15:13:36.545168+09:00"
     }
   ],
-  "last_run_at": "2026-08-09T06:08:26.644261+00:00"
+  "last_run_at": "2026-08-09T06:13:31.805414+00:00"
 }
