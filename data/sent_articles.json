@@ -1,15 +1,6 @@
 {
   "sent": [
     {
-      "id": "4d263de9dcdbfb426750fcc3c5cbf49b51900c627de68db0ffa7498e3da5ab5d",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "SKT, '러닝족 인기템' 가민·샥즈 제품 출시",
-      "url": "https://n.news.naver.com/article/001/0016228966?type=journalists",
-      "published_at": "2026-08-02T12:06:51+09:00",
-      "sent_at": "2026-08-02T12:25:21.729240+09:00"
-    },
-    {
       "id": "6a6482031249ea4b7afbf78d49cb3e2d209a6f780c394dd62fc2b6326209f90e",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -532,5 +523,5 @@
       "sent_at": "2026-08-08T13:44:52.466770+09:00"
     }
   ],
-  "last_run_at": "2026-08-09T03:20:58.650711+00:00"
+  "last_run_at": "2026-08-09T03:26:03.987693+00:00"
 }
