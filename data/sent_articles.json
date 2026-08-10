@@ -530,7 +530,25 @@
       "url": "https://n.news.naver.com/article/030/0003455522?type=journalists",
       "published_at": "2026-08-09T18:05:09+09:00",
       "sent_at": "2026-08-09T18:16:33.884007+09:00"
+    },
+    {
+      "id": "b8f69313c16af5be0fefd6f71b60022dd4d4b1999523f4b6d3d87635934d978a",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "웹젠, 네이버웹툰 원작 신작 '프로젝트 D1' 공개",
+      "url": "https://n.news.naver.com/article/001/0016241744?type=journalists",
+      "published_at": "2026-08-10T09:42:04+09:00",
+      "sent_at": "2026-08-10T09:51:42.821936+09:00"
+    },
+    {
+      "id": "3d67557bc3e14733a5e644d9c91f2284c5da5a9bf8ad7d823f560aefa8d65b9e",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "네오위즈, 'P의 거짓' 개발 스튜디오 다큐멘터리 공개",
+      "url": "https://n.news.naver.com/article/001/0016241730?type=journalists",
+      "published_at": "2026-08-10T09:35:29+09:00",
+      "sent_at": "2026-08-10T09:51:45.484096+09:00"
     }
   ],
-  "last_run_at": "2026-08-10T00:46:32.717222+00:00"
+  "last_run_at": "2026-08-10T00:51:37.945136+00:00"
 }
