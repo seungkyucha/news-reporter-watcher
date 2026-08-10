@@ -530,7 +530,16 @@
       "url": "https://n.news.naver.com/article/001/0016241943?type=journalists",
       "published_at": "2026-08-10T10:31:58+09:00",
       "sent_at": "2026-08-10T10:42:35.445661+09:00"
+    },
+    {
+      "id": "7b6861694d3ad155cb6fc5522c91bd65536ff83948f61162be6bd5505153bb89",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "게임위, 사설서버 등 '4대 불법행위' 첫 종합 실태조사",
+      "url": "https://n.news.naver.com/article/001/0016242198?type=journalists",
+      "published_at": "2026-08-10T11:26:27+09:00",
+      "sent_at": "2026-08-10T11:43:37.555983+09:00"
     }
   ],
-  "last_run_at": "2026-08-10T02:38:27.009858+00:00"
+  "last_run_at": "2026-08-10T02:43:32.072785+00:00"
 }
