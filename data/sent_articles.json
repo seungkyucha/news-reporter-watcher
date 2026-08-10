@@ -566,7 +566,16 @@
       "url": "https://n.news.naver.com/article/001/0016242933?type=journalists",
       "published_at": "2026-08-10T15:31:44+09:00",
       "sent_at": "2026-08-10T15:42:48.991842+09:00"
+    },
+    {
+      "id": "30568917e3ca72173047c8125a45cea3c4680719a74d40aeb668f8d781c6b251",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "K게임 글로벌 도전 가로막는 '불법 복제'... 패키지 게임 '크랙' 버젓이 유통",
+      "url": "https://n.news.naver.com/article/030/0003455966?type=journalists",
+      "published_at": "2026-08-10T16:01:27+09:00",
+      "sent_at": "2026-08-10T16:13:20.948788+09:00"
     }
   ],
-  "last_run_at": "2026-08-10T07:08:11.055228+00:00"
+  "last_run_at": "2026-08-10T07:13:16.818032+00:00"
 }
