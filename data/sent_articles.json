@@ -548,7 +548,16 @@
       "url": "https://n.news.naver.com/article/030/0003455966?type=journalists",
       "published_at": "2026-08-10T16:01:27+09:00",
       "sent_at": "2026-08-10T16:13:20.948788+09:00"
+    },
+    {
+      "id": "15a252138acfdf253e6cb72bb51f0c6cf38411e5536d999960b45281b6c8bf81",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "그라비티, 창사 첫 중간배당…총 306억원 규모",
+      "url": "https://n.news.naver.com/article/001/0016243230?type=journalists",
+      "published_at": "2026-08-10T16:50:41+09:00",
+      "sent_at": "2026-08-10T17:04:17.449547+09:00"
     }
   ],
-  "last_run_at": "2026-08-10T07:59:07.549292+00:00"
+  "last_run_at": "2026-08-10T08:04:12.447880+00:00"
 }
