@@ -1,15 +1,6 @@
 {
   "sent": [
     {
-      "id": "b5be800f01302b0c6f540a19a536ee81abddd38a7ee6ef2003a3dab4dc15fd7b",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "카카오게임즈, '아키에이지 S: 자유의 해협' 퍼블리싱",
-      "url": "https://n.news.naver.com/article/001/0016230144?type=journalists",
-      "published_at": "2026-08-03T10:20:23+09:00",
-      "sent_at": "2026-08-03T10:35:46.610197+09:00"
-    },
-    {
       "id": "a224602dee6b6baaf12e8a91b49e2c32d3a8381a6810c1d541d3922d32f25f86",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -541,5 +532,5 @@
       "sent_at": "2026-08-10T09:51:45.484096+09:00"
     }
   ],
-  "last_run_at": "2026-08-10T01:32:20.156365+00:00"
+  "last_run_at": "2026-08-10T01:37:25.472537+00:00"
 }
