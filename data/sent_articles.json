@@ -530,7 +530,16 @@
       "url": "https://n.news.naver.com/article/001/0016241730?type=journalists",
       "published_at": "2026-08-10T09:35:29+09:00",
       "sent_at": "2026-08-10T09:51:45.484096+09:00"
+    },
+    {
+      "id": "d64654c6bac502ef720f9de54469d6024d129897ecfb15558f73a08371d0f447",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "네오플, 제주본사 집중 채용…'던파' 라이브 강화",
+      "url": "https://n.news.naver.com/article/001/0016241943?type=journalists",
+      "published_at": "2026-08-10T10:31:58+09:00",
+      "sent_at": "2026-08-10T10:42:35.445661+09:00"
     }
   ],
-  "last_run_at": "2026-08-10T01:37:25.472537+00:00"
+  "last_run_at": "2026-08-10T01:42:30.488718+00:00"
 }
