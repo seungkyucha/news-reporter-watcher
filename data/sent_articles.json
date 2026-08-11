@@ -584,7 +584,25 @@
       "url": "https://n.news.naver.com/article/030/0003456274?type=journalists",
       "published_at": "2026-08-11T13:48:16+09:00",
       "sent_at": "2026-08-11T14:03:03.026689+09:00"
+    },
+    {
+      "id": "4b19bce839a37a602bfae19a13972e5911852fda84dddce3695791af5c92d245",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "코리아보드게임즈, 부산 첫 컬렉션 팝업... 보드게임 최대 70% 할인",
+      "url": "https://n.news.naver.com/article/030/0003456288?type=journalists",
+      "published_at": "2026-08-11T13:58:16+09:00",
+      "sent_at": "2026-08-11T14:13:17.414435+09:00"
+    },
+    {
+      "id": "bb057c21162f223f051451f3e90a792c364fd7872b4ceccd6ee7bb6bc7097370",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "블로믹스, 신작 웹 MMORPG '에오스 레드 리버스' 대만·태국·필리핀 정식 출시",
+      "url": "https://n.news.naver.com/article/030/0003456287?type=journalists",
+      "published_at": "2026-08-11T13:57:11+09:00",
+      "sent_at": "2026-08-11T14:13:19.857675+09:00"
     }
   ],
-  "last_run_at": "2026-08-11T05:08:06.746803+00:00"
+  "last_run_at": "2026-08-11T05:13:12.411833+00:00"
 }
