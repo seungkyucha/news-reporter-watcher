@@ -620,7 +620,25 @@
       "url": "https://n.news.naver.com/article/001/0016245500?type=journalists",
       "published_at": "2026-08-11T17:27:00+09:00",
       "sent_at": "2026-08-11T17:42:32.781493+09:00"
+    },
+    {
+      "id": "32416ba81e68abaf3aa4f2923fe46baafa20b6dbb1a5b303947eb73f63b09a08",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "엔씨, 2분기 영업익 1739억원 '10배' 껑충... 해외 매출 비중 52%",
+      "url": "https://n.news.naver.com/article/030/0003456426?type=journalists",
+      "published_at": "2026-08-11T18:25:13+09:00",
+      "sent_at": "2026-08-11T18:33:23.618208+09:00"
+    },
+    {
+      "id": "65e1bb91a00c0d2fac6c624611f2a673a31023c0d3886162fa0e12a7dbbf8260",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "펄어비스, '붉은사막' 흥행에 2분기 영업익 676억원... 매출 248%↑",
+      "url": "https://n.news.naver.com/article/030/0003456425?type=journalists",
+      "published_at": "2026-08-11T18:24:19+09:00",
+      "sent_at": "2026-08-11T18:33:26.125208+09:00"
     }
   ],
-  "last_run_at": "2026-08-11T09:28:14.640104+00:00"
+  "last_run_at": "2026-08-11T09:33:19.211175+00:00"
 }
