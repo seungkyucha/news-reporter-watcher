@@ -602,7 +602,25 @@
       "url": "https://n.news.naver.com/article/001/0016244754?type=journalists",
       "published_at": "2026-08-11T14:15:25+09:00",
       "sent_at": "2026-08-11T14:33:45.482130+09:00"
+    },
+    {
+      "id": "e0e40c5eb1ff83f499c6e4cbff8fc549aba63165ae7ca2363fe733d913a7ee05",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "GXG 2026 게임음악 경연 본선 6개팀 확정…9월 판교서 라이브 경연",
+      "url": "https://n.news.naver.com/article/030/0003456328?type=journalists",
+      "published_at": "2026-08-11T14:31:14+09:00",
+      "sent_at": "2026-08-11T14:43:58.368266+09:00"
+    },
+    {
+      "id": "0d1d6c4324623d5c93a7649aa7c053215d101ab1511f5c63b413f0c0ff56c727",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "라이엇게임즈, '와일드 팬페스트' 판교서 개최... 12일 사전예약",
+      "url": "https://n.news.naver.com/article/030/0003456326?type=journalists",
+      "published_at": "2026-08-11T14:28:15+09:00",
+      "sent_at": "2026-08-11T14:44:00.834323+09:00"
     }
   ],
-  "last_run_at": "2026-08-11T05:38:48.097726+00:00"
+  "last_run_at": "2026-08-11T05:43:53.626439+00:00"
 }
