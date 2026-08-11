@@ -557,7 +557,34 @@
       "url": "https://n.news.naver.com/article/001/0016244084?type=journalists",
       "published_at": "2026-08-11T10:35:24+09:00",
       "sent_at": "2026-08-11T10:54:29.815233+09:00"
+    },
+    {
+      "id": "cb8e853205a4d53de9bdbdd050ff40a13e0bc71803247493d843a8b15ea79cc1",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "GSOK “글로벌 게임쇼, 규모보다 정체성·현장 가치 중요”",
+      "url": "https://n.news.naver.com/article/030/0003456283?type=journalists",
+      "published_at": "2026-08-11T13:55:11+09:00",
+      "sent_at": "2026-08-11T14:02:58.294723+09:00"
+    },
+    {
+      "id": "5e001b209a654420fdee5a8d81cfa699b933fd1db331d82cdf2e14b9ad338331",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "네오위즈, 'P의 거짓: 컴플리트 에디션' 메타크리틱 86점… 프랜차이즈 최고 평점 기록",
+      "url": "https://n.news.naver.com/article/030/0003456279?type=journalists",
+      "published_at": "2026-08-11T13:51:09+09:00",
+      "sent_at": "2026-08-11T14:03:00.648629+09:00"
+    },
+    {
+      "id": "9167b76dd4742763f24d8bf2dd4a765b8fa8a942bd548536278919802d8b5dc7",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "NHN, 2분기 매출·영업익 역대 최대... 게임·AI GPU 성장 견인",
+      "url": "https://n.news.naver.com/article/030/0003456274?type=journalists",
+      "published_at": "2026-08-11T13:48:16+09:00",
+      "sent_at": "2026-08-11T14:03:03.026689+09:00"
     }
   ],
-  "last_run_at": "2026-08-11T04:57:48.843264+00:00"
+  "last_run_at": "2026-08-11T05:02:54.232999+00:00"
 }
