@@ -611,7 +611,16 @@
       "url": "https://n.news.naver.com/article/030/0003456399?type=journalists",
       "published_at": "2026-08-11T16:30:12+09:00",
       "sent_at": "2026-08-11T16:46:38.621969+09:00"
+    },
+    {
+      "id": "33d257dc359cdf8a7d9ffead2fc8444ce9518b7e4b331c82746fc103a20e131d",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "엔씨 \"모바일 캐주얼 지속 성장…내년까지 신작 10종 출시\"(종합2보)",
+      "url": "https://n.news.naver.com/article/001/0016245500?type=journalists",
+      "published_at": "2026-08-11T17:27:00+09:00",
+      "sent_at": "2026-08-11T17:42:32.781493+09:00"
     }
   ],
-  "last_run_at": "2026-08-11T08:37:23.172327+00:00"
+  "last_run_at": "2026-08-11T08:42:27.959750+00:00"
 }
