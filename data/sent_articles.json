@@ -557,7 +557,16 @@
       "url": "https://n.news.naver.com/article/001/0016243989?type=journalists",
       "published_at": "2026-08-11T10:13:19+09:00",
       "sent_at": "2026-08-11T10:23:54.693026+09:00"
+    },
+    {
+      "id": "a2cbc8ce81129a42160e194f78adb00f75bc1ea988b8a3557b2782fb116de478",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "NHN, 결제·AI 클라우드 성장에 2분기 역대 최대 실적(종합2보)",
+      "url": "https://n.news.naver.com/article/001/0016244084?type=journalists",
+      "published_at": "2026-08-11T10:35:24+09:00",
+      "sent_at": "2026-08-11T10:54:29.815233+09:00"
     }
   ],
-  "last_run_at": "2026-08-11T01:49:18.416153+00:00"
+  "last_run_at": "2026-08-11T01:54:24.180547+00:00"
 }
