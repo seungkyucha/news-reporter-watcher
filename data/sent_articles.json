@@ -620,7 +620,16 @@
       "url": "https://n.news.naver.com/article/001/0016245307?type=journalists",
       "published_at": "2026-08-11T16:21:25+09:00",
       "sent_at": "2026-08-11T16:36:26.061992+09:00"
+    },
+    {
+      "id": "75923be4312cb0e804029c3f0209e3153a1441a54d4c9724445ef138c97c305d",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "시프트업, 신작 공백에 2분기 영업익 59%↓... 하반기 신작 공개",
+      "url": "https://n.news.naver.com/article/030/0003456399?type=journalists",
+      "published_at": "2026-08-11T16:30:12+09:00",
+      "sent_at": "2026-08-11T16:46:38.621969+09:00"
     }
   ],
-  "last_run_at": "2026-08-11T07:41:29.266128+00:00"
+  "last_run_at": "2026-08-11T07:46:34.317531+00:00"
 }
