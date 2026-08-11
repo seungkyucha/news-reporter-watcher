@@ -593,7 +593,16 @@
       "url": "https://n.news.naver.com/article/030/0003456287?type=journalists",
       "published_at": "2026-08-11T13:57:11+09:00",
       "sent_at": "2026-08-11T14:13:19.857675+09:00"
+    },
+    {
+      "id": "31ff8a2a8b7578651f797e0902f9b61ab456ffa390d7598cc5227566c87e2f32",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "엔씨, 리니지 클래식·캐주얼 성과에 2분기 영업이익 1천53%↑(종합)",
+      "url": "https://n.news.naver.com/article/001/0016244754?type=journalists",
+      "published_at": "2026-08-11T14:15:25+09:00",
+      "sent_at": "2026-08-11T14:33:45.482130+09:00"
     }
   ],
-  "last_run_at": "2026-08-11T05:28:33.705417+00:00"
+  "last_run_at": "2026-08-11T05:33:39.549885+00:00"
 }
