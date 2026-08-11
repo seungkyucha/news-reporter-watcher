@@ -611,7 +611,16 @@
       "url": "https://n.news.naver.com/article/030/0003456326?type=journalists",
       "published_at": "2026-08-11T14:28:15+09:00",
       "sent_at": "2026-08-11T14:44:00.834323+09:00"
+    },
+    {
+      "id": "9aee062dd8798556c699733f724a4a915dd10eac355159db845eb4215d14631f",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "시프트업 2분기 영업익 281억원…전년 대비 58.8% 감소",
+      "url": "https://n.news.naver.com/article/001/0016245307?type=journalists",
+      "published_at": "2026-08-11T16:21:25+09:00",
+      "sent_at": "2026-08-11T16:36:26.061992+09:00"
     }
   ],
-  "last_run_at": "2026-08-11T07:31:15.669998+00:00"
+  "last_run_at": "2026-08-11T07:36:21.095713+00:00"
 }
