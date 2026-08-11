@@ -548,7 +548,16 @@
       "url": "https://n.news.naver.com/article/001/0016243677?type=journalists",
       "published_at": "2026-08-11T08:54:00+09:00",
       "sent_at": "2026-08-11T09:07:15.621542+09:00"
+    },
+    {
+      "id": "c60ca883dceef9d6e44988b0f299aa48f7445b3f5ab8fbae040493da3a67182d",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "구글, 한국 앱 개발자 수수료 최저 10%로 낮춘다",
+      "url": "https://n.news.naver.com/article/001/0016243989?type=journalists",
+      "published_at": "2026-08-11T10:13:19+09:00",
+      "sent_at": "2026-08-11T10:23:54.693026+09:00"
     }
   ],
-  "last_run_at": "2026-08-11T01:18:43.906141+00:00"
+  "last_run_at": "2026-08-11T01:23:49.054831+00:00"
 }
