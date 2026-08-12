@@ -647,7 +647,25 @@
       "url": "https://n.news.naver.com/article/030/0003456631?type=journalists",
       "published_at": "2026-08-12T11:24:16+09:00",
       "sent_at": "2026-08-12T11:35:33.857280+09:00"
+    },
+    {
+      "id": "ad5fc8822b4c4af90a86f0c6da4da1f977ead91c9c389306a79367aced30e38d",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "넥슨, PC '오버워치' 국내 서비스 실시 및 '오버워치' 시즌4 시작",
+      "url": "https://n.news.naver.com/article/030/0003456634?type=journalists",
+      "published_at": "2026-08-12T11:30:11+09:00",
+      "sent_at": "2026-08-12T11:45:47.063569+09:00"
+    },
+    {
+      "id": "c7f5833e2615e28be82dd1431e222889d8ed6e824381665ae6d8acc41414abcb",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "스마게 흐망스튜디오, '유스 e스포츠 페스티벌' 7470명 참여... 게임으로 진로 탐색",
+      "url": "https://n.news.naver.com/article/030/0003456632?type=journalists",
+      "published_at": "2026-08-12T11:27:13+09:00",
+      "sent_at": "2026-08-12T11:45:49.787959+09:00"
     }
   ],
-  "last_run_at": "2026-08-12T02:40:36.982558+00:00"
+  "last_run_at": "2026-08-12T02:45:41.567914+00:00"
 }
