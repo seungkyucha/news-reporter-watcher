@@ -1,15 +1,6 @@
 {
   "sent": [
     {
-      "id": "b85741221db7191f97e4928347078928b35c4fecb0a4307abe53f8e6c19bec63",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "[속보] 김태환 카카오게임즈 대표 \"라인게임즈와 합병 계획 없어\"",
-      "url": "https://n.news.naver.com/article/001/0016234191?type=journalists",
-      "published_at": "2026-08-05T09:30:45+09:00",
-      "sent_at": "2026-08-05T09:42:06.473872+09:00"
-    },
-    {
       "id": "7e6387fd11da4cb2ccc5ffc9893d201215b2d1c85127d165eeb7830ca60fce72",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -647,7 +638,16 @@
       "url": "https://n.news.naver.com/article/001/0016246004?type=journalists",
       "published_at": "2026-08-12T08:49:00+09:00",
       "sent_at": "2026-08-12T09:02:29.715390+09:00"
+    },
+    {
+      "id": "e1d4c5daf07637cae8b0df22c18c037fe7bc4770d8e511d2c5c67d339033796b",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "네오위즈, 매출 하향·비용 증가에 2분기 영업익 57.3%↓(종합)",
+      "url": "https://n.news.naver.com/article/001/0016246150?type=journalists",
+      "published_at": "2026-08-12T09:26:14+09:00",
+      "sent_at": "2026-08-12T09:43:17.353451+09:00"
     }
   ],
-  "last_run_at": "2026-08-12T00:38:06.936695+00:00"
+  "last_run_at": "2026-08-12T00:43:11.970613+00:00"
 }
