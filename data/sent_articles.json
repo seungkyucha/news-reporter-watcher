@@ -638,7 +638,16 @@
       "url": "https://n.news.naver.com/article/001/0016246232?type=journalists",
       "published_at": "2026-08-12T09:46:51+09:00",
       "sent_at": "2026-08-12T10:03:43.761635+09:00"
+    },
+    {
+      "id": "2b9664966d139a5e534bf209e3f5d0ebddfd0a5373a8274fc35978dfdd992a7b",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "네오위즈, 2분기 영업익 79억원... 박성준 공동대표 선임 '개발 리더십' 강화",
+      "url": "https://n.news.naver.com/article/030/0003456631?type=journalists",
+      "published_at": "2026-08-12T11:24:16+09:00",
+      "sent_at": "2026-08-12T11:35:33.857280+09:00"
     }
   ],
-  "last_run_at": "2026-08-12T02:30:24.563406+00:00"
+  "last_run_at": "2026-08-12T02:35:29.096044+00:00"
 }
