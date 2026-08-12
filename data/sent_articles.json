@@ -656,7 +656,16 @@
       "url": "https://n.news.naver.com/article/030/0003456632?type=journalists",
       "published_at": "2026-08-12T11:27:13+09:00",
       "sent_at": "2026-08-12T11:45:49.787959+09:00"
+    },
+    {
+      "id": "a99a923ce3a2b456809d0daf532dccd598b3f6609244dba24a32ba7d74b540e8",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "컴투스, 2분기 영업익 72억원... 전년比 421% 증가",
+      "url": "https://n.news.naver.com/article/030/0003456727?type=journalists",
+      "published_at": "2026-08-12T14:20:22+09:00",
+      "sent_at": "2026-08-12T14:33:22.295485+09:00"
     }
   ],
-  "last_run_at": "2026-08-12T05:28:12.480177+00:00"
+  "last_run_at": "2026-08-12T05:33:17.125443+00:00"
 }
