@@ -674,7 +674,16 @@
       "url": "https://n.news.naver.com/article/001/0016247373?type=journalists",
       "published_at": "2026-08-12T14:43:24+09:00",
       "sent_at": "2026-08-12T14:53:44.450098+09:00"
+    },
+    {
+      "id": "9bc4825244481c9f8e5f529612ba6a85624034343c4e98e2835418bf8b20262e",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "게임·AI를 미래 교육 도구로…'2026 게임과학포럼' 9월 개최",
+      "url": "https://n.news.naver.com/article/030/0003456764?type=journalists",
+      "published_at": "2026-08-12T14:49:10+09:00",
+      "sent_at": "2026-08-12T15:03:57.429684+09:00"
     }
   ],
-  "last_run_at": "2026-08-12T05:58:47.119946+00:00"
+  "last_run_at": "2026-08-12T06:03:52.324912+00:00"
 }
