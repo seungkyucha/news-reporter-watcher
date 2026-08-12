@@ -638,7 +638,25 @@
       "url": "https://n.news.naver.com/article/001/0016246150?type=journalists",
       "published_at": "2026-08-12T09:26:14+09:00",
       "sent_at": "2026-08-12T09:43:17.353451+09:00"
+    },
+    {
+      "id": "36e89fdaedc9fc4d80b26371efd4540cab8ee6417fe84359146de2e25d9220c0",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "넥슨, PC '오버워치' 국내 서비스 시작…한국 영웅 추가 출시",
+      "url": "https://n.news.naver.com/article/001/0016246257?type=journalists",
+      "published_at": "2026-08-12T09:52:47+09:00",
+      "sent_at": "2026-08-12T10:03:41.197473+09:00"
+    },
+    {
+      "id": "deba84ab71c460dfbfe57578294ecf4ac8d750cf07226867537aeb55430e91b7",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "컴투스, 게임·콘텐츠 실적 하향에 2분기 매출 15%↓(종합)",
+      "url": "https://n.news.naver.com/article/001/0016246232?type=journalists",
+      "published_at": "2026-08-12T09:46:51+09:00",
+      "sent_at": "2026-08-12T10:03:43.761635+09:00"
     }
   ],
-  "last_run_at": "2026-08-12T00:58:29.920114+00:00"
+  "last_run_at": "2026-08-12T01:03:35.687428+00:00"
 }
