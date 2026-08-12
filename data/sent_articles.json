@@ -665,7 +665,16 @@
       "url": "https://n.news.naver.com/article/030/0003456727?type=journalists",
       "published_at": "2026-08-12T14:20:22+09:00",
       "sent_at": "2026-08-12T14:33:22.295485+09:00"
+    },
+    {
+      "id": "0521000370ff1c6e8f661f74fad10a9b8483228783f64d270ee0be432ce5df7c",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "게임과학연구원 내달 4일 AI·게임이 만드는 미래교육 주제 포럼",
+      "url": "https://n.news.naver.com/article/001/0016247373?type=journalists",
+      "published_at": "2026-08-12T14:43:24+09:00",
+      "sent_at": "2026-08-12T14:53:44.450098+09:00"
     }
   ],
-  "last_run_at": "2026-08-12T05:48:34.198573+00:00"
+  "last_run_at": "2026-08-12T05:53:38.894416+00:00"
 }
