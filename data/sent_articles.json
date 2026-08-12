@@ -692,7 +692,16 @@
       "url": "https://news.mtn.co.kr/news-detail/2026081217344289189",
       "published_at": "Wed, 12 Aug 2026 17:50:00 +0900",
       "sent_at": "2026-08-12T17:56:50.906538+09:00"
+    },
+    {
+      "id": "b3bfdafa3e74ae938fb0c4b0ba80d67ce480a3ea7c0ac52996bbec3c611f82db",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "엔씨, '쓰론 앤 리버티' 해외 서비스 직접 맡는다",
+      "url": "https://n.news.naver.com/article/001/0016248120?type=journalists",
+      "published_at": "2026-08-12T19:27:32+09:00",
+      "sent_at": "2026-08-12T19:43:36.612631+09:00"
     }
   ],
-  "last_run_at": "2026-08-12T10:38:26.870812+00:00"
+  "last_run_at": "2026-08-12T10:43:31.189047+00:00"
 }
