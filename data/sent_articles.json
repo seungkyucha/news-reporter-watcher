@@ -764,7 +764,16 @@
       "url": "https://n.news.naver.com/article/030/0003457166?type=journalists",
       "published_at": "2026-08-13T14:04:15+09:00",
       "sent_at": "2026-08-13T14:12:57.120682+09:00"
+    },
+    {
+      "id": "4690e7acd3502c2cd99c42ee515545c0939fd5dd0c5e4bde238f9bebf716829c",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "'월드 오브 워크래프트: 한밤' 첫 대규모 업데이트... '울라텍의 저주' 적용",
+      "url": "https://n.news.naver.com/article/030/0003457171?type=journalists",
+      "published_at": "2026-08-13T14:11:15+09:00",
+      "sent_at": "2026-08-13T14:23:09.312452+09:00"
     }
   ],
-  "last_run_at": "2026-08-13T05:18:00.515609+00:00"
+  "last_run_at": "2026-08-13T05:23:05.052733+00:00"
 }
