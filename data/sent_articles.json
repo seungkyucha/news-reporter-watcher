@@ -728,7 +728,34 @@
       "url": "https://n.news.naver.com/article/001/0016249605?type=journalists",
       "published_at": "2026-08-13T13:45:19+09:00",
       "sent_at": "2026-08-13T14:02:36.119377+09:00"
+    },
+    {
+      "id": "ee0b93f5737927f9e06c0228b0922631eb7513740fcff6ffa8dfc9ac146bc214",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "넵튠, 자사주 108만 1286주 소각 결정... 주주환원 본격 시동",
+      "url": "https://n.news.naver.com/article/030/0003457144?type=journalists",
+      "published_at": "2026-08-13T13:53:11+09:00",
+      "sent_at": "2026-08-13T14:07:43.036585+09:00"
+    },
+    {
+      "id": "2875baee4052da14b0589d1fed90b14888f8c4b070e4a87fb717f2e49f40085f",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "위메이드커넥트, 서브컬처 신작 '메이크 드라마 : MAD' 글로벌 사전예약 시작",
+      "url": "https://n.news.naver.com/article/030/0003457138?type=journalists",
+      "published_at": "2026-08-13T13:50:17+09:00",
+      "sent_at": "2026-08-13T14:07:45.950449+09:00"
+    },
+    {
+      "id": "067019b64725c403bc95277e4ad70f961f122fee92332c301cc32191de860f4d",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "라이엇 게임즈, '바로 발로 익스프레스' 오프라인 팝업 진행",
+      "url": "https://n.news.naver.com/article/030/0003457135?type=journalists",
+      "published_at": "2026-08-13T13:49:09+09:00",
+      "sent_at": "2026-08-13T14:07:48.460076+09:00"
     }
   ],
-  "last_run_at": "2026-08-13T05:02:26.369165+00:00"
+  "last_run_at": "2026-08-13T05:07:39.164799+00:00"
 }
