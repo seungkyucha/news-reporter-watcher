@@ -1,24 +1,6 @@
 {
   "sent": [
     {
-      "id": "83c3e280848c929a82b3e9c7028c169c624908ce165cf05af2d5f8d558ca5397",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "title": "카카오게임즈, 신작 2.5D MMORPG '도깨비의세계' 배우 박지훈 광고 모델 발탁",
-      "url": "https://n.news.naver.com/article/030/0003454797?type=journalists",
-      "published_at": "2026-08-06T11:35:13+09:00",
-      "sent_at": "2026-08-06T11:47:22.084322+09:00"
-    },
-    {
-      "id": "26b066728ec12620a2f33af0adda4f7cec120eae08d21eba2121e897ae6be256",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "title": "넵튠, '에르피스' 정식 출시 반주년 기념 대규모 이벤트 실시",
-      "url": "https://n.news.naver.com/article/030/0003454795?type=journalists",
-      "published_at": "2026-08-06T11:31:18+09:00",
-      "sent_at": "2026-08-06T11:47:24.583757+09:00"
-    },
-    {
       "id": "47b899958465abc2437af17b64fb2af78848a5f90fc0c702cc053767b37d3fd1",
       "reporter": "박정은",
       "press": "전자신문",
@@ -676,5 +658,5 @@
       "sent_at": "2026-08-13T11:44:43.420532+09:00"
     }
   ],
-  "last_run_at": "2026-08-13T02:44:37.192176+00:00"
+  "last_run_at": "2026-08-13T02:49:46.227440+00:00"
 }
