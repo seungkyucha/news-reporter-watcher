@@ -755,7 +755,16 @@
       "url": "https://n.news.naver.com/article/030/0003457244?type=journalists",
       "published_at": "2026-08-13T16:00:11+09:00",
       "sent_at": "2026-08-13T16:14:54.710496+09:00"
+    },
+    {
+      "id": "21e82b10c88034b4959bbb958c01499c58f25147370f5b95b8ab03dc95dcaca5",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "넥슨, 메이플·아크레이더스 흥행에 상반기 역대 최고 실적(종합)",
+      "url": "https://n.news.naver.com/article/001/0016250377?type=journalists",
+      "published_at": "2026-08-13T16:08:07+09:00",
+      "sent_at": "2026-08-13T16:25:07.804253+09:00"
     }
   ],
-  "last_run_at": "2026-08-13T07:19:58.598819+00:00"
+  "last_run_at": "2026-08-13T07:25:03.206787+00:00"
 }
