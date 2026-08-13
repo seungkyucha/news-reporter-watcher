@@ -1,24 +1,6 @@
 {
   "sent": [
     {
-      "id": "bbd9822476f51be07de7ce7b4cfded9015b325683cc75bf14993abce86d36e3f",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "title": "웹젠, 상반기 영업이익 110억원... 신작 공백에 실적 감소",
-      "url": "https://n.news.naver.com/article/030/0003454946?type=journalists",
-      "published_at": "2026-08-06T15:20:10+09:00",
-      "sent_at": "2026-08-06T15:36:17.724252+09:00"
-    },
-    {
-      "id": "95f3743154c257625fe8b48421f5930e2f1a85ea1498227c228b7b54fc2bdfd8",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "배틀그라운드 모바일 국제대회 'PMWC' 개막…EWC와 연계",
-      "url": "https://n.news.naver.com/article/001/0016237730?type=journalists",
-      "published_at": "2026-08-06T15:17:55+09:00",
-      "sent_at": "2026-08-06T15:36:20.740812+09:00"
-    },
-    {
       "id": "e9b0acb96209117ac15a3b4cd45eb4711f8662cd6df23a4d5d24a822e633311e",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -775,5 +757,5 @@
       "sent_at": "2026-08-13T14:23:09.312452+09:00"
     }
   ],
-  "last_run_at": "2026-08-13T06:34:14.388982+00:00"
+  "last_run_at": "2026-08-13T06:39:19.047725+00:00"
 }
