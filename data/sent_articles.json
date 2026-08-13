@@ -1,15 +1,6 @@
 {
   "sent": [
     {
-      "id": "6aae795afa2b87bfa5f9dfde734fd11a172ac069a393946283f8ef229fd05c97",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "슈퍼패스트 상반기 매출 1천65억원…전년 대비 38%↑",
-      "url": "https://n.news.naver.com/article/001/0016236504?type=journalists",
-      "published_at": "2026-08-06T09:30:10+09:00",
-      "sent_at": "2026-08-06T09:45:18.775475+09:00"
-    },
-    {
       "id": "bec8a942b86eb26cabe24208bf60d4bab480b144f668b1bfd7464b9548468fea",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -712,5 +703,5 @@
       "sent_at": "2026-08-13T09:42:51.422951+09:00"
     }
   ],
-  "last_run_at": "2026-08-13T00:42:46.623377+00:00"
+  "last_run_at": "2026-08-13T00:47:54.295497+00:00"
 }
