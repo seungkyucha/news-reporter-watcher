@@ -665,7 +665,16 @@
       "url": "https://n.news.naver.com/article/001/0016248757?type=journalists",
       "published_at": "2026-08-13T10:17:15+09:00",
       "sent_at": "2026-08-13T10:33:37.788628+09:00"
+    },
+    {
+      "id": "f72e5950c24b9b07a7a8b65592f6164464353379b518cd7deb2865934fb871d1",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "지스타 메인 스폰서에 뤼튼 AI '크랙'…3N2K는 전원 불참",
+      "url": "https://n.news.naver.com/article/001/0016249106?type=journalists",
+      "published_at": "2026-08-13T11:28:42+09:00",
+      "sent_at": "2026-08-13T11:44:43.420532+09:00"
     }
   ],
-  "last_run_at": "2026-08-13T02:39:32.734734+00:00"
+  "last_run_at": "2026-08-13T02:44:37.192176+00:00"
 }
