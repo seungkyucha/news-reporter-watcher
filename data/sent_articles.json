@@ -755,7 +755,16 @@
       "url": "https://n.news.naver.com/article/030/0003457171?type=journalists",
       "published_at": "2026-08-13T14:11:15+09:00",
       "sent_at": "2026-08-13T14:23:09.312452+09:00"
+    },
+    {
+      "id": "54c7dcd21d9823f7cd323588761b0b1062e59617335d1f57ba4daaafc59c5dbb",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "넥슨, 상반기 매출 2조5603억원 '역대 최대'... 메이플·아크 레이더스 견인",
+      "url": "https://n.news.naver.com/article/030/0003457244?type=journalists",
+      "published_at": "2026-08-13T16:00:11+09:00",
+      "sent_at": "2026-08-13T16:14:54.710496+09:00"
     }
   ],
-  "last_run_at": "2026-08-13T07:09:45.669937+00:00"
+  "last_run_at": "2026-08-13T07:14:50.307581+00:00"
 }
