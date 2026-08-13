@@ -683,7 +683,16 @@
       "url": "https://n.news.naver.com/article/030/0003457106?type=journalists",
       "published_at": "2026-08-13T13:19:09+09:00",
       "sent_at": "2026-08-13T13:36:56.233045+09:00"
+    },
+    {
+      "id": "d774c6e6fa9d527fa7e01751e1e85d2cd8eb6665871fe475fd2babe11d43dcb0",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "스마일게이트, 도쿄 게임쇼... '미래시'·'데드 어카운트' 출품",
+      "url": "https://n.news.naver.com/article/030/0003457119?type=journalists",
+      "published_at": "2026-08-13T13:31:09+09:00",
+      "sent_at": "2026-08-13T13:47:08.615220+09:00"
     }
   ],
-  "last_run_at": "2026-08-13T04:41:59.914242+00:00"
+  "last_run_at": "2026-08-13T04:47:04.299895+00:00"
 }
