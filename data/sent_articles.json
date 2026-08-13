@@ -1,33 +1,6 @@
 {
   "sent": [
     {
-      "id": "47b899958465abc2437af17b64fb2af78848a5f90fc0c702cc053767b37d3fd1",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "title": "넷이즈게임즈, 'NBA 덩크 시티' 국내 출시... NBA 공식 라이선스 모바일 농구게임",
-      "url": "https://n.news.naver.com/article/030/0003454803?type=journalists",
-      "published_at": "2026-08-06T11:41:15+09:00",
-      "sent_at": "2026-08-06T11:52:31.990863+09:00"
-    },
-    {
-      "id": "d8c4e450e0f3fcdf2e077d99d66f1284f7be5f2556b0d5701efcea1a57873fb5",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "title": "로스트아크, 맘스터치와 함께 '모코코 썸머 바캉스 세트' 출시",
-      "url": "https://n.news.naver.com/article/030/0003454801?type=journalists",
-      "published_at": "2026-08-06T11:39:13+09:00",
-      "sent_at": "2026-08-06T11:52:34.525794+09:00"
-    },
-    {
-      "id": "e9b39f115c2a91be233ed604811c794767e1d08b744f99c5688b3f4b092f728c",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "title": "펄어비스 붉은사막, 글로벌 영상 콘테스트 '비욘드 디 어비스' 수상작 발표",
-      "url": "https://n.news.naver.com/article/030/0003454799?type=journalists",
-      "published_at": "2026-08-06T11:37:13+09:00",
-      "sent_at": "2026-08-06T11:52:36.944459+09:00"
-    },
-    {
       "id": "bbd9822476f51be07de7ce7b4cfded9015b325683cc75bf14993abce86d36e3f",
       "reporter": "박정은",
       "press": "전자신문",
@@ -656,7 +629,16 @@
       "url": "https://n.news.naver.com/article/001/0016249106?type=journalists",
       "published_at": "2026-08-13T11:28:42+09:00",
       "sent_at": "2026-08-13T11:44:43.420532+09:00"
+    },
+    {
+      "id": "c04666560a7244744e1e0a5ecfeb069da5911862161bd43016376fb88d9b5e02",
+      "reporter": "서정근",
+      "press": "MTN",
+      "title": "[단독]'프라시아 전기' 주역들 '탈 넥슨'....'쇠더룬드 빌드' 영향",
+      "url": "https://news.mtn.co.kr/news-detail/2026081310444095392",
+      "published_at": "Thu, 13 Aug 2026 11:54:00 +0900",
+      "sent_at": "2026-08-13T11:54:52.811546+09:00"
     }
   ],
-  "last_run_at": "2026-08-13T02:49:46.227440+00:00"
+  "last_run_at": "2026-08-13T02:54:50.207676+00:00"
 }
