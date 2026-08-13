@@ -764,7 +764,16 @@
       "url": "https://n.news.naver.com/article/001/0016250377?type=journalists",
       "published_at": "2026-08-13T16:08:07+09:00",
       "sent_at": "2026-08-13T16:25:07.804253+09:00"
+    },
+    {
+      "id": "9ea98432d5d1efd18f1bd7c07e29214ebf451f8d3d0c3fd919f72ae082bbb703",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "크래프톤, 넥슨 처음 제쳤다…2분기 게임사 실적 1위",
+      "url": "https://n.news.naver.com/article/001/0016250526?type=journalists",
+      "published_at": "2026-08-13T16:43:25+09:00",
+      "sent_at": "2026-08-13T16:55:38.508767+09:00"
     }
   ],
-  "last_run_at": "2026-08-13T07:50:29.894955+00:00"
+  "last_run_at": "2026-08-13T07:55:34.068787+00:00"
 }
