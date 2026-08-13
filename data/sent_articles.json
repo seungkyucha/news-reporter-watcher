@@ -665,7 +665,16 @@
       "url": "https://n.news.naver.com/article/030/0003457082?type=journalists",
       "published_at": "2026-08-13T13:01:11+09:00",
       "sent_at": "2026-08-13T13:16:31.851747+09:00"
+    },
+    {
+      "id": "cd48a071578467ae1d92370266b99dcf0e80e0494fd5f6335c9cb7f5af48076d",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "게임이용자협회·G식백과, K게임 불법 공유 사이트 공동 신고... “게임판 누누티비·밤토끼 철퇴”",
+      "url": "https://n.news.naver.com/article/030/0003457092?type=journalists",
+      "published_at": "2026-08-13T13:10:13+09:00",
+      "sent_at": "2026-08-13T13:26:43.919446+09:00"
     }
   ],
-  "last_run_at": "2026-08-13T04:21:35.288488+00:00"
+  "last_run_at": "2026-08-13T04:26:39.607340+00:00"
 }
