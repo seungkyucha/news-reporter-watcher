@@ -1,24 +1,6 @@
 {
   "sent": [
     {
-      "id": "06d8d95278f582a4f83228c0af7c2c5fc9a65747bbe80f31b6d013fcf1a32c08",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "title": "슈퍼패스트, 상반기 매출 1065억원... '협타디' 역주행에 38% 성장",
-      "url": "https://n.news.naver.com/article/030/0003454785?type=journalists",
-      "published_at": "2026-08-06T11:23:13+09:00",
-      "sent_at": "2026-08-06T11:37:07.551495+09:00"
-    },
-    {
-      "id": "c7ace62a415c14f7d80a33da3b3511e9a4f1dde59a67767edc396f27067d75e3",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "title": "위메이드, '미르4' 글로벌 서비스 5주년 기념 이용자 헌정 영상 공개",
-      "url": "https://n.news.naver.com/article/030/0003454783?type=journalists",
-      "published_at": "2026-08-06T11:17:13+09:00",
-      "sent_at": "2026-08-06T11:37:10.005948+09:00"
-    },
-    {
       "id": "83c3e280848c929a82b3e9c7028c169c624908ce165cf05af2d5f8d558ca5397",
       "reporter": "박정은",
       "press": "전자신문",
@@ -685,5 +667,5 @@
       "sent_at": "2026-08-13T10:33:37.788628+09:00"
     }
   ],
-  "last_run_at": "2026-08-13T02:34:28.705606+00:00"
+  "last_run_at": "2026-08-13T02:39:32.734734+00:00"
 }
