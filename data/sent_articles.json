@@ -701,7 +701,34 @@
       "url": "https://n.news.naver.com/article/030/0003457124?type=journalists",
       "published_at": "2026-08-13T13:36:12+09:00",
       "sent_at": "2026-08-13T13:57:21.579545+09:00"
+    },
+    {
+      "id": "f6fa6210b60a366ec8cf9d44fc24d72964a374a26c6ee941d05dc17623ece99e",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "질문 답하는 조영기 게임산업협회장 겸 지스타 조직위원장",
+      "url": "https://n.news.naver.com/article/001/0016249612?type=journalists",
+      "published_at": "2026-08-13T13:45:34+09:00",
+      "sent_at": "2026-08-13T14:02:30.899974+09:00"
+    },
+    {
+      "id": "d58d660e6bd8f02e788f5cc7c25142a4cb2d018282bbf3a07de849a1803a298b",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "인사하는 조영기 게임산업협회장 겸 지스타 조직위원장",
+      "url": "https://n.news.naver.com/article/001/0016249608?type=journalists",
+      "published_at": "2026-08-13T13:45:26+09:00",
+      "sent_at": "2026-08-13T14:02:33.527529+09:00"
+    },
+    {
+      "id": "18bb620818621ab93f5d37f7a789b4a34934fcec232d85202a26b36d2bc6dbb0",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "지스타 메인 스폰서에 뤼튼 '크랙'",
+      "url": "https://n.news.naver.com/article/001/0016249605?type=journalists",
+      "published_at": "2026-08-13T13:45:19+09:00",
+      "sent_at": "2026-08-13T14:02:36.119377+09:00"
     }
   ],
-  "last_run_at": "2026-08-13T04:57:17.155346+00:00"
+  "last_run_at": "2026-08-13T05:02:26.369165+00:00"
 }
