@@ -656,7 +656,16 @@
       "url": "https://n.news.naver.com/article/001/0016249432?type=journalists",
       "published_at": "2026-08-13T12:45:49+09:00",
       "sent_at": "2026-08-13T13:06:20.235931+09:00"
+    },
+    {
+      "id": "d91be05e8aa264472672d75508412f28de234541fadc406495806ae8933e5f5e",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "K-인디게임, 부산 거쳐 독일로... 콘진원 BIC·게임스컴 연계 지원",
+      "url": "https://n.news.naver.com/article/030/0003457082?type=journalists",
+      "published_at": "2026-08-13T13:01:11+09:00",
+      "sent_at": "2026-08-13T13:16:31.851747+09:00"
     }
   ],
-  "last_run_at": "2026-08-13T04:11:23.383903+00:00"
+  "last_run_at": "2026-08-13T04:16:27.787132+00:00"
 }
