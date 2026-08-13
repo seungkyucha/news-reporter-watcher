@@ -647,7 +647,16 @@
       "url": "https://n.news.naver.com/article/030/0003457057?type=journalists",
       "published_at": "2026-08-13T11:53:13+09:00",
       "sent_at": "2026-08-13T12:05:05.757599+09:00"
+    },
+    {
+      "id": "e2efa6381a483c61bf23beb889bd9b8259b43af9ac1595c82e3a18d1b7800101",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "지스타에 '3N2K' 대형 게임사 불참…\"외연 확장 집중\"(종합)",
+      "url": "https://n.news.naver.com/article/001/0016249432?type=journalists",
+      "published_at": "2026-08-13T12:45:49+09:00",
+      "sent_at": "2026-08-13T13:06:20.235931+09:00"
     }
   ],
-  "last_run_at": "2026-08-13T04:01:09.616763+00:00"
+  "last_run_at": "2026-08-13T04:06:15.508660+00:00"
 }
