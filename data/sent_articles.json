@@ -701,7 +701,16 @@
       "url": "https://n.news.naver.com/article/001/0016248567?type=journalists",
       "published_at": "2026-08-13T09:33:33+09:00",
       "sent_at": "2026-08-13T09:42:51.422951+09:00"
+    },
+    {
+      "id": "d434eba2b3bd529d0811ce038e9d8317e4166b31eda73ed140bd7cb68781921b",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "넵튠, 자사주 2.31% 소각…\"주주환원 본격 시동\"",
+      "url": "https://n.news.naver.com/article/001/0016248757?type=journalists",
+      "published_at": "2026-08-13T10:17:15+09:00",
+      "sent_at": "2026-08-13T10:33:37.788628+09:00"
     }
   ],
-  "last_run_at": "2026-08-13T01:28:28.756933+00:00"
+  "last_run_at": "2026-08-13T01:33:33.065357+00:00"
 }
