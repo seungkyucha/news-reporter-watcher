@@ -692,7 +692,16 @@
       "url": "https://n.news.naver.com/article/030/0003457119?type=journalists",
       "published_at": "2026-08-13T13:31:09+09:00",
       "sent_at": "2026-08-13T13:47:08.615220+09:00"
+    },
+    {
+      "id": "527bdf79730ba6c20cc47760a12bc6fb81a1076d4376b5ac080974591ec57cf7",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "글로벌 인디게임 부산 집결... BIC 2026, 42개국 332개작 전시",
+      "url": "https://n.news.naver.com/article/030/0003457124?type=journalists",
+      "published_at": "2026-08-13T13:36:12+09:00",
+      "sent_at": "2026-08-13T13:57:21.579545+09:00"
     }
   ],
-  "last_run_at": "2026-08-13T04:52:12.242874+00:00"
+  "last_run_at": "2026-08-13T04:57:17.155346+00:00"
 }
