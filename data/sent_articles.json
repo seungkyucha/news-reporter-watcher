@@ -701,7 +701,16 @@
       "url": "https://n.news.naver.com/article/001/0016248341?type=journalists",
       "published_at": "2026-08-13T08:01:33+09:00",
       "sent_at": "2026-08-13T08:11:31.261058+09:00"
+    },
+    {
+      "id": "5c083fcd9b853eb3d9415c59c1d52f8b18d1a89784ca5ac12c62914c4f06e2c5",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "K-인디게임, 부산 찍고 게임스컴 간다…해외시장 공략",
+      "url": "https://n.news.naver.com/article/001/0016248567?type=journalists",
+      "published_at": "2026-08-13T09:33:33+09:00",
+      "sent_at": "2026-08-13T09:42:51.422951+09:00"
     }
   ],
-  "last_run_at": "2026-08-13T00:37:42.172524+00:00"
+  "last_run_at": "2026-08-13T00:42:46.623377+00:00"
 }
