@@ -755,7 +755,16 @@
       "url": "https://n.news.naver.com/article/030/0003457135?type=journalists",
       "published_at": "2026-08-13T13:49:09+09:00",
       "sent_at": "2026-08-13T14:07:48.460076+09:00"
+    },
+    {
+      "id": "6fe18622d64dfdc77b63b844f0c6269d452268cc23cd967832c01df8b51d0901",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "컴투스, 고용노동부 손잡고 '게임 QA 실무 중심 부트캠프' 실시",
+      "url": "https://n.news.naver.com/article/030/0003457166?type=journalists",
+      "published_at": "2026-08-13T14:04:15+09:00",
+      "sent_at": "2026-08-13T14:12:57.120682+09:00"
     }
   ],
-  "last_run_at": "2026-08-13T05:07:39.164799+00:00"
+  "last_run_at": "2026-08-13T05:12:52.231728+00:00"
 }
