@@ -674,7 +674,16 @@
       "url": "https://n.news.naver.com/article/030/0003457092?type=journalists",
       "published_at": "2026-08-13T13:10:13+09:00",
       "sent_at": "2026-08-13T13:26:43.919446+09:00"
+    },
+    {
+      "id": "c9a9225ca6b12ea0d94ea12dd81025a016f149ca6282255ece880c78e2622a3d",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "게임 넘어 AI·웹툰·모빌리티로... 지스타 2026 '외연 확장' 승부수",
+      "url": "https://n.news.naver.com/article/030/0003457106?type=journalists",
+      "published_at": "2026-08-13T13:19:09+09:00",
+      "sent_at": "2026-08-13T13:36:56.233045+09:00"
     }
   ],
-  "last_run_at": "2026-08-13T04:31:47.553052+00:00"
+  "last_run_at": "2026-08-13T04:36:51.791065+00:00"
 }
