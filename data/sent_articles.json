@@ -755,7 +755,16 @@
       "url": "https://n.news.naver.com/article/030/0003457503?type=journalists",
       "published_at": "2026-08-14T11:58:16+09:00",
       "sent_at": "2026-08-14T12:15:57.504114+09:00"
+    },
+    {
+      "id": "76e4aeb093c3dfae5ecd942ca482141c7cb254f75633bd190a7e3038c1b1dbcd",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "게임업계 “게임 제작비 세액공제 도입해야”... 5개 협회 공동성명",
+      "url": "https://n.news.naver.com/article/030/0003457534?type=journalists",
+      "published_at": "2026-08-14T13:51:13+09:00",
+      "sent_at": "2026-08-14T14:02:48.124908+09:00"
     }
   ],
-  "last_run_at": "2026-08-14T04:57:39.489390+00:00"
+  "last_run_at": "2026-08-14T05:02:43.819904+00:00"
 }
