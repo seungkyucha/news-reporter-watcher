@@ -737,7 +737,16 @@
       "url": "https://news.mtn.co.kr/news-detail/2026081417550141081",
       "published_at": "Fri, 14 Aug 2026 18:30:00 +0900",
       "sent_at": "2026-08-14T18:32:12.989305+09:00"
+    },
+    {
+      "id": "0273421b12a51beaeeced06994d359f8e3d456808e72936b423c2148795ade3f",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "상반기 보수 1위 두산 박정원 455억…주가 급등에 375억 수령",
+      "url": "https://n.news.naver.com/article/001/0016252620?type=journalists",
+      "published_at": "2026-08-14T18:41:45+09:00",
+      "sent_at": "2026-08-14T18:52:35.157606+09:00"
     }
   ],
-  "last_run_at": "2026-08-14T09:47:26.385942+00:00"
+  "last_run_at": "2026-08-14T09:52:30.878171+00:00"
 }
