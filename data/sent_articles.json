@@ -746,7 +746,16 @@
       "url": "https://n.news.naver.com/article/030/0003457502?type=journalists",
       "published_at": "2026-08-14T11:52:17+09:00",
       "sent_at": "2026-08-14T12:05:45.714924+09:00"
+    },
+    {
+      "id": "ba1a0f5657dfd69fccb0c448d084f73db812d1e40d87d39acce98e0222960643",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "오픈AI 첫 게임 해커톤에 '리니지·메이플·애니팡·쿠키런' 개발 주역 총출동",
+      "url": "https://n.news.naver.com/article/030/0003457503?type=journalists",
+      "published_at": "2026-08-14T11:58:16+09:00",
+      "sent_at": "2026-08-14T12:15:57.504114+09:00"
     }
   ],
-  "last_run_at": "2026-08-14T03:10:48.993649+00:00"
+  "last_run_at": "2026-08-14T03:15:53.312673+00:00"
 }
