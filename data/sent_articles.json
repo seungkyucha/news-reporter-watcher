@@ -710,7 +710,16 @@
       "url": "https://n.news.naver.com/article/030/0003457614?type=journalists",
       "published_at": "2026-08-14T17:17:09+09:00",
       "sent_at": "2026-08-14T17:36:14.109621+09:00"
+    },
+    {
+      "id": "01a4c27d695bce5ec219c624692447da0f8d0307e821faea3a0622af7a13537c",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "“AI는 후보를 보여줄 뿐, 선택은 사람 몫”... 김용하 넥슨게임즈 본부장이 말한 개발자의 '안목'",
+      "url": "https://n.news.naver.com/article/030/0003457617?type=journalists",
+      "published_at": "2026-08-14T17:26:15+09:00",
+      "sent_at": "2026-08-14T17:46:26.426606+09:00"
     }
   ],
-  "last_run_at": "2026-08-14T08:41:17.633193+00:00"
+  "last_run_at": "2026-08-14T08:46:22.021396+00:00"
 }
