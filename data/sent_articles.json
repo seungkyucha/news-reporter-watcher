@@ -728,7 +728,16 @@
       "url": "https://n.news.naver.com/article/001/0016252567?type=journalists",
       "published_at": "2026-08-14T17:54:10+09:00",
       "sent_at": "2026-08-14T18:06:47.910088+09:00"
+    },
+    {
+      "id": "0dd1956b299a70b494070df274aa543f9d278fc602d22ab3b3533b01cbc5faa7",
+      "reporter": "서정근",
+      "press": "MTN",
+      "title": "[단독]네이버파이낸셜, 일본법인 설립...첫 해외 확장",
+      "url": "https://news.mtn.co.kr/news-detail/2026081417550141081",
+      "published_at": "Fri, 14 Aug 2026 18:30:00 +0900",
+      "sent_at": "2026-08-14T18:32:12.989305+09:00"
     }
   ],
-  "last_run_at": "2026-08-14T09:27:04.920555+00:00"
+  "last_run_at": "2026-08-14T09:32:09.763793+00:00"
 }
