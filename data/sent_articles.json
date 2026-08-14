@@ -1,24 +1,6 @@
 {
   "sent": [
     {
-      "id": "ddbab8151528ba50bcfeb89ea559110ae7308b6b331f0e9bcf31e977adc60bce",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "title": "원스토어, 앱마켓 첫 AI 게임 전문관 오픈... “누구나 만들고 유통”",
-      "url": "https://n.news.naver.com/article/030/0003455194?type=journalists",
-      "published_at": "2026-08-07T11:35:12+09:00",
-      "sent_at": "2026-08-07T11:38:35.907425+09:00"
-    },
-    {
-      "id": "a5c38e4f81dd84d0f9a3bb67c6df3110fc58f2b4b7aaa8401397a460401fdff7",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "title": "오렌지플래닛, 유망 스타트업 21개팀 배출…AI·딥테크 성장 지원",
-      "url": "https://n.news.naver.com/article/030/0003455193?type=journalists",
-      "published_at": "2026-08-07T11:32:15+09:00",
-      "sent_at": "2026-08-07T11:38:38.261904+09:00"
-    },
-    {
       "id": "d3ba7439074201e8bd48a2e6cca1f7e71bb1c21744949bc327bf5dc04666f94f",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -775,5 +757,5 @@
       "sent_at": "2026-08-14T11:35:17.156846+09:00"
     }
   ],
-  "last_run_at": "2026-08-14T02:35:12.754281+00:00"
+  "last_run_at": "2026-08-14T02:40:20.210185+00:00"
 }
