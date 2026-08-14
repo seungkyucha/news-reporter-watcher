@@ -701,7 +701,16 @@
       "url": "https://n.news.naver.com/article/030/0003457609?type=journalists",
       "published_at": "2026-08-14T17:08:11+09:00",
       "sent_at": "2026-08-14T17:26:01.776118+09:00"
+    },
+    {
+      "id": "c8afc87171cd0e6f9e0a8db0c9cf0238ed2b70b22a4060dff42587ecf73224a9",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "임직원·가족까지 코스프레 지원사격... 레드브릭하우스, '보이드 다이버'에 쏟은 인디 열정",
+      "url": "https://n.news.naver.com/article/030/0003457614?type=journalists",
+      "published_at": "2026-08-14T17:17:09+09:00",
+      "sent_at": "2026-08-14T17:36:14.109621+09:00"
     }
   ],
-  "last_run_at": "2026-08-14T08:31:05.323721+00:00"
+  "last_run_at": "2026-08-14T08:36:10.077845+00:00"
 }
