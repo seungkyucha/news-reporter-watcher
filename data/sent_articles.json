@@ -1,15 +1,6 @@
 {
   "sent": [
     {
-      "id": "24ccb037b637b5e21d41c6a47ac1d212aeec31ea450f501d3da08e2d6ff366b9",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "'제우스' 소개하는 정성훈 에이버튼 디렉터",
-      "url": "https://n.news.naver.com/article/001/0016239650?type=journalists",
-      "published_at": "2026-08-07T16:46:33+09:00",
-      "sent_at": "2026-08-07T17:04:08.309361+09:00"
-    },
-    {
       "id": "934d83cbd265c66cb12a0787972bdeef2a816b4751d96316edd9d540ecfceae6",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -703,5 +694,5 @@
       "sent_at": "2026-08-14T14:33:21.193763+09:00"
     }
   ],
-  "last_run_at": "2026-08-14T08:00:35.406414+00:00"
+  "last_run_at": "2026-08-14T08:05:40.007772+00:00"
 }
