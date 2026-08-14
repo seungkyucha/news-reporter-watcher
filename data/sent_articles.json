@@ -1,15 +1,6 @@
 {
   "sent": [
     {
-      "id": "a2c0d84e026974cdbf52b6f6d1c59d81ecd4bcfc232f568dead5ee4249bc5272",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "원스토어, AI 창작 게임 전문관 오픈…\"설치 없이 바로 플레이\"",
-      "url": "https://n.news.naver.com/article/001/0016238697?type=journalists",
-      "published_at": "2026-08-07T10:07:04+09:00",
-      "sent_at": "2026-08-07T10:22:25.039293+09:00"
-    },
-    {
       "id": "eae03b0a72bff8b5956fc6167d436635d65ffaf32e136f0dd5d2381c8139456b",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -755,7 +746,16 @@
       "url": "https://n.news.naver.com/article/001/0016250738?type=journalists",
       "published_at": "2026-08-13T18:44:37+09:00",
       "sent_at": "2026-08-13T18:52:50.650532+09:00"
+    },
+    {
+      "id": "fa8ca976621c012ee5770ef7b52dfbc1a9ef9012d30b2bafbbedb4d4ff93ffa4",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "모토로라, 7000mAh '모토 g57 파워' 국내 출시... 외산폰 틈새 공략",
+      "url": "https://n.news.naver.com/article/030/0003457433?type=journalists",
+      "published_at": "2026-08-14T10:15:13+09:00",
+      "sent_at": "2026-08-14T10:24:06.457014+09:00"
     }
   ],
-  "last_run_at": "2026-08-14T01:18:57.400700+00:00"
+  "last_run_at": "2026-08-14T01:24:02.412472+00:00"
 }
