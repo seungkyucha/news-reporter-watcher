@@ -1,15 +1,6 @@
 {
   "sent": [
     {
-      "id": "eae03b0a72bff8b5956fc6167d436635d65ffaf32e136f0dd5d2381c8139456b",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "스마일게이트 오렌지플래닛 \"유망 스타트업 21팀 배출\"",
-      "url": "https://n.news.naver.com/article/001/0016238938?type=journalists",
-      "published_at": "2026-08-07T11:10:43+09:00",
-      "sent_at": "2026-08-07T11:23:20.530510+09:00"
-    },
-    {
       "id": "ddbab8151528ba50bcfeb89ea559110ae7308b6b331f0e9bcf31e977adc60bce",
       "reporter": "박정은",
       "press": "전자신문",
@@ -775,5 +766,5 @@
       "sent_at": "2026-08-14T10:44:29.822604+09:00"
     }
   ],
-  "last_run_at": "2026-08-14T02:19:58.769970+00:00"
+  "last_run_at": "2026-08-14T02:25:02.760330+00:00"
 }
