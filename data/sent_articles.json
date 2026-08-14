@@ -737,7 +737,16 @@
       "url": "https://n.news.naver.com/article/001/0016251605?type=journalists",
       "published_at": "2026-08-14T11:21:55+09:00",
       "sent_at": "2026-08-14T11:35:17.156846+09:00"
+    },
+    {
+      "id": "c94597211988dfff2bfb9539433447858394840bb4d420d23c853ccb33c2928b",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "MyACG 스튜디오, BIC서 '신데리아·항요산기' 최신 버전 공개",
+      "url": "https://n.news.naver.com/article/030/0003457502?type=journalists",
+      "published_at": "2026-08-14T11:52:17+09:00",
+      "sent_at": "2026-08-14T12:05:45.714924+09:00"
     }
   ],
-  "last_run_at": "2026-08-14T03:00:37.213395+00:00"
+  "last_run_at": "2026-08-14T03:05:41.629897+00:00"
 }
