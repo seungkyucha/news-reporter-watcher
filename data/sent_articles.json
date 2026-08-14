@@ -1,24 +1,6 @@
 {
   "sent": [
     {
-      "id": "0071029b3d87a492dd5c942b1e665b07157d82645d96ae8bcfad161e22af6a7b",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "title": "한국e스포츠협회-스포츠서울, 'e스포츠 대상' 공동 개최 추진",
-      "url": "https://n.news.naver.com/article/030/0003455262?type=journalists",
-      "published_at": "2026-08-07T15:30:10+09:00",
-      "sent_at": "2026-08-07T15:42:42.753017+09:00"
-    },
-    {
-      "id": "d7171fc585be80903157ca6855f713303d130ed06686f0e18d465a53493273eb",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "title": "스마일게이트, MMORPG 신작 '이클립스: 더 어웨이크닝' 9월 10일 론칭",
-      "url": "https://n.news.naver.com/article/030/0003455257?type=journalists",
-      "published_at": "2026-08-07T15:26:11+09:00",
-      "sent_at": "2026-08-07T15:42:45.308985+09:00"
-    },
-    {
       "id": "35247c09e1f487796912f8a5cd7a1970a9375c2d0e7061da7a09c0686f6bf4cd",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -757,5 +739,5 @@
       "sent_at": "2026-08-14T14:33:21.193763+09:00"
     }
   ],
-  "last_run_at": "2026-08-14T06:39:22.152146+00:00"
+  "last_run_at": "2026-08-14T06:44:26.582715+00:00"
 }
