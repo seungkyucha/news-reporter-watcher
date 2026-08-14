@@ -1,24 +1,6 @@
 {
   "sent": [
     {
-      "id": "9cd5ab28fa863f327a0d8ed1d23bc8d9aa43504b4520d26d8b372b5ded0cb2b6",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "'제우스: 오만의 신' 쇼케이스",
-      "url": "https://n.news.naver.com/article/001/0016239645?type=journalists",
-      "published_at": "2026-08-07T16:44:30+09:00",
-      "sent_at": "2026-08-07T16:53:54.016701+09:00"
-    },
-    {
-      "id": "04ca7efc526d5ff126d090ffe20a8c8b7bbd56694180766ddc3d6307c34a84e4",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "인사말 하는 남재관 컴투스 대표",
-      "url": "https://n.news.naver.com/article/001/0016239616?type=journalists",
-      "published_at": "2026-08-07T16:35:18+09:00",
-      "sent_at": "2026-08-07T16:53:56.545410+09:00"
-    },
-    {
       "id": "24ccb037b637b5e21d41c6a47ac1d212aeec31ea450f501d3da08e2d6ff366b9",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -721,5 +703,5 @@
       "sent_at": "2026-08-14T14:33:21.193763+09:00"
     }
   ],
-  "last_run_at": "2026-08-14T07:50:26.653471+00:00"
+  "last_run_at": "2026-08-14T07:55:30.873416+00:00"
 }
