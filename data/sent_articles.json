@@ -764,7 +764,16 @@
       "url": "https://n.news.naver.com/article/001/0016251391?type=journalists",
       "published_at": "2026-08-14T10:29:09+09:00",
       "sent_at": "2026-08-14T10:44:29.822604+09:00"
+    },
+    {
+      "id": "665cc9f3a0699ce93993032c52a0efcdc4b2d64806ccea07a308d224d94ed1cb",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "오픈AI 게임 해커톤에 송재경 뜬다…유명 개발자 총출동",
+      "url": "https://n.news.naver.com/article/001/0016251605?type=journalists",
+      "published_at": "2026-08-14T11:21:55+09:00",
+      "sent_at": "2026-08-14T11:35:17.156846+09:00"
     }
   ],
-  "last_run_at": "2026-08-14T02:30:07.626997+00:00"
+  "last_run_at": "2026-08-14T02:35:12.754281+00:00"
 }
