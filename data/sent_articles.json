@@ -764,7 +764,16 @@
       "url": "https://n.news.naver.com/article/030/0003457534?type=journalists",
       "published_at": "2026-08-14T13:51:13+09:00",
       "sent_at": "2026-08-14T14:02:48.124908+09:00"
+    },
+    {
+      "id": "a05dc7bec6b8f9893ebbbc904000b42e48c2902bf16712ca476f90dfb0704b8f",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "게임단체들 \"게임 제작비·e스포츠 대회 세액공제 필요\"",
+      "url": "https://n.news.naver.com/article/001/0016251950?type=journalists",
+      "published_at": "2026-08-14T14:15:53+09:00",
+      "sent_at": "2026-08-14T14:33:21.193763+09:00"
     }
   ],
-  "last_run_at": "2026-08-14T05:28:12.111548+00:00"
+  "last_run_at": "2026-08-14T05:33:16.390476+00:00"
 }
