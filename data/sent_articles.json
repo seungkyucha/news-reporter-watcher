@@ -692,7 +692,16 @@
       "url": "https://n.news.naver.com/article/001/0016251950?type=journalists",
       "published_at": "2026-08-14T14:15:53+09:00",
       "sent_at": "2026-08-14T14:33:21.193763+09:00"
+    },
+    {
+      "id": "b7c0c0b79621f35e07160cd038121d3ab631db9ec56df03f0317bd428097c72d",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "스마게 스토브, BIC 2026 골드 스폰서 참가... 인디게임 개발사 전시 지원",
+      "url": "https://n.news.naver.com/article/030/0003457609?type=journalists",
+      "published_at": "2026-08-14T17:08:11+09:00",
+      "sent_at": "2026-08-14T17:26:01.776118+09:00"
     }
   ],
-  "last_run_at": "2026-08-14T08:20:53.453304+00:00"
+  "last_run_at": "2026-08-14T08:25:57.797905+00:00"
 }
