@@ -1,15 +1,6 @@
 {
   "sent": [
     {
-      "id": "934d83cbd265c66cb12a0787972bdeef2a816b4751d96316edd9d540ecfceae6",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "[게임위드인] 포켓몬 개발사의 야심작, 왜 기대에 못 미쳤나",
-      "url": "https://n.news.naver.com/article/001/0016240002?type=journalists",
-      "published_at": "2026-08-08T11:00:00+09:00",
-      "sent_at": "2026-08-08T11:12:27.373130+09:00"
-    },
-    {
       "id": "1ac6867a7f81f6cb02850dce1cd7878b58d95c43ff4ee65d26446a238ea84864",
       "reporter": "박정은",
       "press": "전자신문",
@@ -755,7 +746,16 @@
       "url": "https://n.news.naver.com/article/030/0003457683?type=journalists",
       "published_at": "2026-08-15T10:30:14+09:00",
       "sent_at": "2026-08-15T10:43:38.797795+09:00"
+    },
+    {
+      "id": "37fc392b6af3946ca899ab8fd4f40928340e430ceacd03255a304ec16e32c568",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "[게임위드인] 게임사들은 해외로…변화의 기로 선 지스타",
+      "url": "https://n.news.naver.com/article/001/0016253039?type=journalists",
+      "published_at": "2026-08-15T11:00:01+09:00",
+      "sent_at": "2026-08-15T11:14:09.739279+09:00"
     }
   ],
-  "last_run_at": "2026-08-15T02:08:59.835521+00:00"
+  "last_run_at": "2026-08-15T02:14:04.568502+00:00"
 }
