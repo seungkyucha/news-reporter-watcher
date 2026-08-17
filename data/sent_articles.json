@@ -1,33 +1,6 @@
 {
   "sent": [
     {
-      "id": "746405705b0e39a55431582a2b82f28307c6d7f8cc159251cc8e4447d1941366",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "title": "펄어비스, '게임스컴 데브'에서 '붉은사막' 개발 초청 강연",
-      "url": "https://n.news.naver.com/article/030/0003455814?type=journalists",
-      "published_at": "2026-08-10T12:45:10+09:00",
-      "sent_at": "2026-08-10T12:54:47.882243+09:00"
-    },
-    {
-      "id": "358c749495a96576808f2dfb6bc3d30f96f9e33b0183ba5d6f36a7923e9b69d3",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "title": "네오위즈, 'P의 거짓' 개발한 너프 스튜디오 다큐멘터리 공개",
-      "url": "https://n.news.naver.com/article/030/0003455813?type=journalists",
-      "published_at": "2026-08-10T12:43:11+09:00",
-      "sent_at": "2026-08-10T12:54:50.660167+09:00"
-    },
-    {
-      "id": "d5c401a57361afdbbe0d51d17ef3dd072467dcd8129966b368e8c4883d3a3186",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "title": "웹젠, 신작 'PROJECT D1' 게임정보 첫 공개... 웹툰 IP 기반 지휘 전략RPG",
-      "url": "https://n.news.naver.com/article/030/0003455810?type=journalists",
-      "published_at": "2026-08-10T12:40:15+09:00",
-      "sent_at": "2026-08-10T12:54:53.174591+09:00"
-    },
-    {
       "id": "b298e0978d98545757acdcad7d44e45e3e25020b2d8f1a91c5b67cbea1fda377",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -685,5 +658,5 @@
       "sent_at": "2026-08-15T11:14:09.739279+09:00"
     }
   ],
-  "last_run_at": "2026-08-17T03:52:25.610376+00:00"
+  "last_run_at": "2026-08-17T03:57:30.379459+00:00"
 }
