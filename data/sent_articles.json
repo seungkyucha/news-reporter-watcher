@@ -602,7 +602,16 @@
       "url": "https://n.news.naver.com/article/001/0016256960?type=journalists",
       "published_at": "2026-08-18T16:35:50+09:00",
       "sent_at": "2026-08-18T16:56:33.119664+09:00"
+    },
+    {
+      "id": "f6a3acf852897566068cdc45770aa423ba2c94b80e17f80e0d0d98607e65a8b5",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "e스포츠 네이션스컵, 이란 전쟁 여파에 내년 11월로 연기",
+      "url": "https://n.news.naver.com/article/001/0016257233?type=journalists",
+      "published_at": "2026-08-18T18:45:41+09:00",
+      "sent_at": "2026-08-18T19:03:32.158883+09:00"
     }
   ],
-  "last_run_at": "2026-08-18T09:58:22.880821+00:00"
+  "last_run_at": "2026-08-18T10:03:27.529114+00:00"
 }
