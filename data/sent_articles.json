@@ -647,7 +647,25 @@
       "url": "https://n.news.naver.com/article/001/0016255985?type=journalists",
       "published_at": "2026-08-18T11:15:40+09:00",
       "sent_at": "2026-08-18T11:35:19.167515+09:00"
+    },
+    {
+      "id": "356f2a60c34ca6a2c2c9b93dfbd3cfcb86dbf74b65a7be8e0f1496ef241043d4",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "로블록스, 차세대 크리에이터 육성 확대... 서울에 아시아 유일 '인스파이어 카페'",
+      "url": "https://n.news.naver.com/article/030/0003458137?type=journalists",
+      "published_at": "2026-08-18T23:59:59+09:00",
+      "sent_at": "2026-08-18T11:45:40.669581+09:00"
+    },
+    {
+      "id": "c6e357e3d99504e2f5fd755c5669b388bfab7e8e50c714a288e6226d3725e8fd",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "엔씨 '아스트라에 오라티오', 日 코믹마켓서 티저 아트북 완판",
+      "url": "https://n.news.naver.com/article/030/0003458133?type=journalists",
+      "published_at": "2026-08-18T23:59:59+09:00",
+      "sent_at": "2026-08-18T11:45:52.590305+09:00"
     }
   ],
-  "last_run_at": "2026-08-18T02:40:21.635933+00:00"
+  "last_run_at": "2026-08-18T02:45:26.484746+00:00"
 }
