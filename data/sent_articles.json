@@ -647,7 +647,16 @@
       "url": "https://n.news.naver.com/article/030/0003458142?type=journalists",
       "published_at": "2026-08-18T11:48:16+09:00",
       "sent_at": "2026-08-18T12:06:41.252495+09:00"
+    },
+    {
+      "id": "0d2e4943d36b827055a662fdf94f578bc9b01d1c39db74627f9c28c8e096a6c0",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "크래프톤, 배틀그라운드 인도 공략 전방위 확대...'라이트' 버전으로 15억 시장 노린다",
+      "url": "https://n.news.naver.com/article/030/0003458236?type=journalists",
+      "published_at": "2026-08-18T23:59:59+09:00",
+      "sent_at": "2026-08-18T14:24:17.646790+09:00"
     }
   ],
-  "last_run_at": "2026-08-18T05:18:58.982545+00:00"
+  "last_run_at": "2026-08-18T05:24:03.418382+00:00"
 }
