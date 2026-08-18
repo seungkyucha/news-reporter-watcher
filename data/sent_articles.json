@@ -683,7 +683,16 @@
       "url": "https://n.news.naver.com/article/030/0003458139?type=journalists",
       "published_at": "2026-08-18T23:59:59+09:00",
       "sent_at": "2026-08-18T11:56:26.638281+09:00"
+    },
+    {
+      "id": "c4487dbcd11db08ec772c273c69573d9a43989f9d6495271c535b2ea9e133df3",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "펄어비스 '붉은사막', 출시 5개월간 17차례 업데이트... 콘텐츠 지속 확장",
+      "url": "https://n.news.naver.com/article/030/0003458142?type=journalists",
+      "published_at": "2026-08-18T11:48:16+09:00",
+      "sent_at": "2026-08-18T12:06:41.252495+09:00"
     }
   ],
-  "last_run_at": "2026-08-18T03:01:30.248844+00:00"
+  "last_run_at": "2026-08-18T03:06:35.715170+00:00"
 }
