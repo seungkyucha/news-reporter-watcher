@@ -638,7 +638,16 @@
       "url": "https://n.news.naver.com/article/001/0016255975?type=journalists",
       "published_at": "2026-08-18T11:14:25+09:00",
       "sent_at": "2026-08-18T11:25:06.390372+09:00"
+    },
+    {
+      "id": "f87f1603c821a17735769bfb09e5d366fdf4fe5a7c16cbd44eb921a37446babf",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "라이엇게임즈, '리프트바운드' 스타터팩 '증명의 전장' 공개",
+      "url": "https://n.news.naver.com/article/001/0016255985?type=journalists",
+      "published_at": "2026-08-18T11:15:40+09:00",
+      "sent_at": "2026-08-18T11:35:19.167515+09:00"
     }
   ],
-  "last_run_at": "2026-08-18T02:30:09.020598+00:00"
+  "last_run_at": "2026-08-18T02:35:13.816625+00:00"
 }
