@@ -1,15 +1,6 @@
 {
   "sent": [
     {
-      "id": "a2181357a2d9df715bfdb7dcc890d0158feac98cf7414925192ccdf596f47ed1",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "NHN, 매출 호조에 2분기 영업익 전년 대비 164%↑(종합)",
-      "url": "https://n.news.naver.com/article/001/0016243677?type=journalists",
-      "published_at": "2026-08-11T08:54:00+09:00",
-      "sent_at": "2026-08-11T09:07:15.621542+09:00"
-    },
-    {
       "id": "c60ca883dceef9d6e44988b0f299aa48f7445b3f5ab8fbae040493da3a67182d",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -649,5 +640,5 @@
       "sent_at": "2026-08-17T15:14:56.101758+09:00"
     }
   ],
-  "last_run_at": "2026-08-18T00:02:23.288411+00:00"
+  "last_run_at": "2026-08-18T00:07:28.400010+00:00"
 }
