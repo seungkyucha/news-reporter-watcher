@@ -665,7 +665,25 @@
       "url": "https://n.news.naver.com/article/030/0003458133?type=journalists",
       "published_at": "2026-08-18T23:59:59+09:00",
       "sent_at": "2026-08-18T11:45:52.590305+09:00"
+    },
+    {
+      "id": "69aa4b7267483920305d5f8f92a91844d3ce60febbc44c4e178ce70e20c32e2a",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "라이엇게임즈, 신작 TCG '리프트바운드' 9월 출격... 스타터팩 국내 첫 공개",
+      "url": "https://n.news.naver.com/article/030/0003458140?type=journalists",
+      "published_at": "2026-08-18T23:59:59+09:00",
+      "sent_at": "2026-08-18T11:56:14.471221+09:00"
+    },
+    {
+      "id": "138ff6e38bd4d828de2704338992aa7253fe0a8eb004633680c304d5215a98e6",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "부산인디커넥트페스티벌 역대 최대 흥행... 42개국 332개 인디게임 부산 달궜다",
+      "url": "https://n.news.naver.com/article/030/0003458139?type=journalists",
+      "published_at": "2026-08-18T23:59:59+09:00",
+      "sent_at": "2026-08-18T11:56:26.638281+09:00"
     }
   ],
-  "last_run_at": "2026-08-18T02:50:56.143535+00:00"
+  "last_run_at": "2026-08-18T02:56:00.428828+00:00"
 }
