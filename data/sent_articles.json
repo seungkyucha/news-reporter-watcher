@@ -638,7 +638,16 @@
       "url": "https://n.news.naver.com/article/030/0003457910?type=journalists",
       "published_at": "2026-08-17T15:01:12+09:00",
       "sent_at": "2026-08-17T15:14:56.101758+09:00"
+    },
+    {
+      "id": "f30b0920640d4c720467b463158ef9b11bf285c3321136e644da5b755bbacea0",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "넵튠, 크래프톤 손잡고 인도 BGMI 광고 사업 공략",
+      "url": "https://n.news.naver.com/article/001/0016255558?type=journalists",
+      "published_at": "2026-08-18T09:41:06+09:00",
+      "sent_at": "2026-08-18T09:53:36.983053+09:00"
     }
   ],
-  "last_run_at": "2026-08-18T00:48:26.916214+00:00"
+  "last_run_at": "2026-08-18T00:53:31.487500+00:00"
 }
