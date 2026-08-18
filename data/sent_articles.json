@@ -629,7 +629,16 @@
       "url": "https://n.news.naver.com/article/001/0016255558?type=journalists",
       "published_at": "2026-08-18T09:41:06+09:00",
       "sent_at": "2026-08-18T09:53:36.983053+09:00"
+    },
+    {
+      "id": "e8069984029808a1c1c3a26972050482b614e99791672d271cf6842a802f47eb",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "넥써쓰, 원화 스테이블코인 KRWQ와 협력…게임 결제에 적용",
+      "url": "https://n.news.naver.com/article/001/0016255975?type=journalists",
+      "published_at": "2026-08-18T11:14:25+09:00",
+      "sent_at": "2026-08-18T11:25:06.390372+09:00"
     }
   ],
-  "last_run_at": "2026-08-18T02:19:56.102288+00:00"
+  "last_run_at": "2026-08-18T02:25:00.744618+00:00"
 }
