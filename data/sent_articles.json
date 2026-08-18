@@ -1,24 +1,6 @@
 {
   "sent": [
     {
-      "id": "e0e40c5eb1ff83f499c6e4cbff8fc549aba63165ae7ca2363fe733d913a7ee05",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "title": "GXG 2026 게임음악 경연 본선 6개팀 확정…9월 판교서 라이브 경연",
-      "url": "https://n.news.naver.com/article/030/0003456328?type=journalists",
-      "published_at": "2026-08-11T14:31:14+09:00",
-      "sent_at": "2026-08-11T14:43:58.368266+09:00"
-    },
-    {
-      "id": "0d1d6c4324623d5c93a7649aa7c053215d101ab1511f5c63b413f0c0ff56c727",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "title": "라이엇게임즈, '와일드 팬페스트' 판교서 개최... 12일 사전예약",
-      "url": "https://n.news.naver.com/article/030/0003456326?type=journalists",
-      "published_at": "2026-08-11T14:28:15+09:00",
-      "sent_at": "2026-08-11T14:44:00.834323+09:00"
-    },
-    {
       "id": "9aee062dd8798556c699733f724a4a915dd10eac355159db845eb4215d14631f",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -649,5 +631,5 @@
       "sent_at": "2026-08-18T14:24:17.646790+09:00"
     }
   ],
-  "last_run_at": "2026-08-18T05:39:29.057485+00:00"
+  "last_run_at": "2026-08-18T05:44:33.447298+00:00"
 }
