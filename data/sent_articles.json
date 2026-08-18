@@ -629,7 +629,16 @@
       "url": "https://n.news.naver.com/article/030/0003458236?type=journalists",
       "published_at": "2026-08-18T23:59:59+09:00",
       "sent_at": "2026-08-18T14:24:17.646790+09:00"
+    },
+    {
+      "id": "d066f35270b5d400fb41b1d4a0f265efa7baa1b893548b112c95f8e5482330a5",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "막바지 접어든 LCK 정규리그…한화생명, PO·월즈 진출 확정",
+      "url": "https://n.news.naver.com/article/001/0016256525?type=journalists",
+      "published_at": "2026-08-18T14:36:29+09:00",
+      "sent_at": "2026-08-18T14:54:45.956426+09:00"
     }
   ],
-  "last_run_at": "2026-08-18T05:49:37.368721+00:00"
+  "last_run_at": "2026-08-18T05:54:41.561458+00:00"
 }
