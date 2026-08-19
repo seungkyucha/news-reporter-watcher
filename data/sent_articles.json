@@ -593,7 +593,16 @@
       "url": "https://n.news.naver.com/article/030/0003458646?type=journalists",
       "published_at": "2026-08-19T14:52:17+09:00",
       "sent_at": "2026-08-19T15:04:14.925633+09:00"
+    },
+    {
+      "id": "6b19e8ec41625752822697bc1778cd0a7a24c56909d7f2dc1f3518e13f108f77",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "여야 의원들, 이달 말 EWC·게임스컴 연달아 찾는다",
+      "url": "https://n.news.naver.com/article/001/0016259411?type=journalists",
+      "published_at": "2026-08-19T16:02:59+09:00",
+      "sent_at": "2026-08-19T16:15:38.052703+09:00"
     }
   ],
-  "last_run_at": "2026-08-19T07:10:27.915164+00:00"
+  "last_run_at": "2026-08-19T07:15:32.371158+00:00"
 }
