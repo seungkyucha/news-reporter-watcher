@@ -1,24 +1,6 @@
 {
   "sent": [
     {
-      "id": "36e89fdaedc9fc4d80b26371efd4540cab8ee6417fe84359146de2e25d9220c0",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "넥슨, PC '오버워치' 국내 서비스 시작…한국 영웅 추가 출시",
-      "url": "https://n.news.naver.com/article/001/0016246257?type=journalists",
-      "published_at": "2026-08-12T09:52:47+09:00",
-      "sent_at": "2026-08-12T10:03:41.197473+09:00"
-    },
-    {
-      "id": "deba84ab71c460dfbfe57578294ecf4ac8d750cf07226867537aeb55430e91b7",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "컴투스, 게임·콘텐츠 실적 하향에 2분기 매출 15%↓(종합)",
-      "url": "https://n.news.naver.com/article/001/0016246232?type=journalists",
-      "published_at": "2026-08-12T09:46:51+09:00",
-      "sent_at": "2026-08-12T10:03:43.761635+09:00"
-    },
-    {
       "id": "2b9664966d139a5e534bf209e3f5d0ebddfd0a5373a8274fc35978dfdd992a7b",
       "reporter": "박정은",
       "press": "전자신문",
@@ -593,7 +575,16 @@
       "url": "https://news.mtn.co.kr/news-detail/2026081808261263879",
       "published_at": "Tue, 18 Aug 2026 19:58:00 +0900",
       "sent_at": "2026-08-18T19:59:39.921924+09:00"
+    },
+    {
+      "id": "34515ae41f95a366f000b25a29f8b43abf28173ce7c2ad16e06561c446d4b617",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "넥써쓰, 자체 개발 AI 툴 11종 한자리에…'AI 랩스' 오픈",
+      "url": "https://n.news.naver.com/article/001/0016257763?type=journalists",
+      "published_at": "2026-08-19T09:48:09+09:00",
+      "sent_at": "2026-08-19T10:04:01.944656+09:00"
     }
   ],
-  "last_run_at": "2026-08-19T00:58:53.315130+00:00"
+  "last_run_at": "2026-08-19T01:03:57.650229+00:00"
 }
