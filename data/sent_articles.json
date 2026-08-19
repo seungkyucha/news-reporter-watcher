@@ -1,15 +1,6 @@
 {
   "sent": [
     {
-      "id": "951e6afdbd2d4940ac47a37f4303b7ba9d78444d783a3b04da450b950067fea1",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "위메이드 2분기 영업손실 210억원…적자 폭 감소(종합)",
-      "url": "https://n.news.naver.com/article/001/0016247871?type=journalists",
-      "published_at": "2026-08-12T16:40:09+09:00",
-      "sent_at": "2026-08-12T16:55:56.073991+09:00"
-    },
-    {
       "id": "0a1ddcf02b7933d4340fbb1b319ab83ef05e1eff04535bd45e10a3f8abac8674",
       "reporter": "서정근",
       "press": "MTN",
@@ -604,5 +595,5 @@
       "sent_at": "2026-08-19T16:15:38.052703+09:00"
     }
   ],
-  "last_run_at": "2026-08-19T07:51:09.821977+00:00"
+  "last_run_at": "2026-08-19T07:56:14.406637+00:00"
 }
