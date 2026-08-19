@@ -566,7 +566,16 @@
       "url": "https://n.news.naver.com/article/001/0016258227?type=journalists",
       "published_at": "2026-08-19T11:24:38+09:00",
       "sent_at": "2026-08-19T11:35:43.439982+09:00"
+    },
+    {
+      "id": "a003ee32aec7b826bfc469948b7520b2c1efaddb4bc727ab405516c025f56df9",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "엔씨, '아스트라에 오라티오' 베타테스트 참가자 모집",
+      "url": "https://n.news.naver.com/article/001/0016258598?type=journalists",
+      "published_at": "2026-08-19T13:22:13+09:00",
+      "sent_at": "2026-08-19T13:32:34.058015+09:00"
     }
   ],
-  "last_run_at": "2026-08-19T04:27:24.428892+00:00"
+  "last_run_at": "2026-08-19T04:32:28.739633+00:00"
 }
