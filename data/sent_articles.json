@@ -1,15 +1,6 @@
 {
   "sent": [
     {
-      "id": "0521000370ff1c6e8f661f74fad10a9b8483228783f64d270ee0be432ce5df7c",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "게임과학연구원 내달 4일 AI·게임이 만드는 미래교육 주제 포럼",
-      "url": "https://n.news.naver.com/article/001/0016247373?type=journalists",
-      "published_at": "2026-08-12T14:43:24+09:00",
-      "sent_at": "2026-08-12T14:53:44.450098+09:00"
-    },
-    {
       "id": "9bc4825244481c9f8e5f529612ba6a85624034343c4e98e2835418bf8b20262e",
       "reporter": "박정은",
       "press": "전자신문",
@@ -584,7 +575,25 @@
       "url": "https://n.news.naver.com/article/030/0003458580?type=journalists",
       "published_at": "2026-08-19T13:30:16+09:00",
       "sent_at": "2026-08-19T13:42:48.451902+09:00"
+    },
+    {
+      "id": "ef65b463ffbebb92e6728d16f210b798e5626302d8e41e9a834b931b651a0465",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "넵튠, 신무협 RPG '검신제로' 글로벌 사전예약... 4분기 출시",
+      "url": "https://n.news.naver.com/article/030/0003458635?type=journalists",
+      "published_at": "2026-08-19T14:41:11+09:00",
+      "sent_at": "2026-08-19T14:53:59.538252+09:00"
+    },
+    {
+      "id": "e95f653e30a986b9e21b1de697d8078a1bd442de81b492560fbea0aa7d564716",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "넥써쓰, 자체 개발 AI 솔루션 11종 한자리에... 'AI 랩스' 포털 오픈",
+      "url": "https://n.news.naver.com/article/030/0003458631?type=journalists",
+      "published_at": "2026-08-19T14:37:11+09:00",
+      "sent_at": "2026-08-19T14:54:02.120021+09:00"
     }
   ],
-  "last_run_at": "2026-08-19T05:48:50.289868+00:00"
+  "last_run_at": "2026-08-19T05:53:55.024362+00:00"
 }
