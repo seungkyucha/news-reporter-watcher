@@ -1,15 +1,6 @@
 {
   "sent": [
     {
-      "id": "9bc4825244481c9f8e5f529612ba6a85624034343c4e98e2835418bf8b20262e",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "title": "게임·AI를 미래 교육 도구로…'2026 게임과학포럼' 9월 개최",
-      "url": "https://n.news.naver.com/article/030/0003456764?type=journalists",
-      "published_at": "2026-08-12T14:49:10+09:00",
-      "sent_at": "2026-08-12T15:03:57.429684+09:00"
-    },
-    {
       "id": "951e6afdbd2d4940ac47a37f4303b7ba9d78444d783a3b04da450b950067fea1",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -593,7 +584,16 @@
       "url": "https://n.news.naver.com/article/030/0003458631?type=journalists",
       "published_at": "2026-08-19T14:37:11+09:00",
       "sent_at": "2026-08-19T14:54:02.120021+09:00"
+    },
+    {
+      "id": "d1e704df4f61c3b161db3224542997aa88df8eca7979c9c8f327175fc7e693c9",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "게임스컴 2026 일주일 앞으로... K게임 신작 들고 글로벌 공략",
+      "url": "https://n.news.naver.com/article/030/0003458646?type=journalists",
+      "published_at": "2026-08-19T14:52:17+09:00",
+      "sent_at": "2026-08-19T15:04:14.925633+09:00"
     }
   ],
-  "last_run_at": "2026-08-19T05:59:05.552902+00:00"
+  "last_run_at": "2026-08-19T06:04:10.188752+00:00"
 }
