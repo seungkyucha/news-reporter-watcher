@@ -1,15 +1,6 @@
 {
   "sent": [
     {
-      "id": "2b9664966d139a5e534bf209e3f5d0ebddfd0a5373a8274fc35978dfdd992a7b",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "title": "네오위즈, 2분기 영업익 79억원... 박성준 공동대표 선임 '개발 리더십' 강화",
-      "url": "https://n.news.naver.com/article/030/0003456631?type=journalists",
-      "published_at": "2026-08-12T11:24:16+09:00",
-      "sent_at": "2026-08-12T11:35:33.857280+09:00"
-    },
-    {
       "id": "ad5fc8822b4c4af90a86f0c6da4da1f977ead91c9c389306a79367aced30e38d",
       "reporter": "박정은",
       "press": "전자신문",
@@ -584,7 +575,16 @@
       "url": "https://n.news.naver.com/article/001/0016257763?type=journalists",
       "published_at": "2026-08-19T09:48:09+09:00",
       "sent_at": "2026-08-19T10:04:01.944656+09:00"
+    },
+    {
+      "id": "6a3c392a38523f2bd81bffaff3fffa21bec39fa4a21ed7bf715423c4109efab3",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "스마일게이트 '이클립스', 캐릭터 사전 생성 시작",
+      "url": "https://n.news.naver.com/article/001/0016258227?type=journalists",
+      "published_at": "2026-08-19T11:24:38+09:00",
+      "sent_at": "2026-08-19T11:35:43.439982+09:00"
     }
   ],
-  "last_run_at": "2026-08-19T02:30:33.292786+00:00"
+  "last_run_at": "2026-08-19T02:35:37.930193+00:00"
 }
