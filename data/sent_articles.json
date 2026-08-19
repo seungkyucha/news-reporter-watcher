@@ -575,7 +575,25 @@
       "url": "https://n.news.naver.com/article/001/0016258598?type=journalists",
       "published_at": "2026-08-19T13:22:13+09:00",
       "sent_at": "2026-08-19T13:32:34.058015+09:00"
+    },
+    {
+      "id": "34808e463f8b12266fae9a6315a9630fec629c1315c1881dcbaa9b3e100c426f",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "더코브, 레드브릭하우스와 '배드애스가르드' 글로벌 퍼블리싱 계약",
+      "url": "https://n.news.naver.com/article/030/0003458586?type=journalists",
+      "published_at": "2026-08-19T13:34:13+09:00",
+      "sent_at": "2026-08-19T13:42:45.364626+09:00"
+    },
+    {
+      "id": "30059c012596e66bb4042ccc4c7bcffad17c83bf38fa2195c1a62b122e9a8bba",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "엠게임 '귀혼키우기', 사전예약 9일 만에 50만명 돌파",
+      "url": "https://n.news.naver.com/article/030/0003458580?type=journalists",
+      "published_at": "2026-08-19T13:30:16+09:00",
+      "sent_at": "2026-08-19T13:42:48.451902+09:00"
     }
   ],
-  "last_run_at": "2026-08-19T04:37:36.586582+00:00"
+  "last_run_at": "2026-08-19T04:42:40.744668+00:00"
 }
