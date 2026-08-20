@@ -557,7 +557,16 @@
       "url": "https://n.news.naver.com/article/001/0016259411?type=journalists",
       "published_at": "2026-08-19T16:02:59+09:00",
       "sent_at": "2026-08-19T16:15:38.052703+09:00"
+    },
+    {
+      "id": "95903049009667197a1d943365f358cd1ee2fcdbe704f2b863d7860a489ea5a9",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "LCK 결승, 내년까지 MBC서 본다…2년 연장 계약",
+      "url": "https://n.news.naver.com/article/001/0016260421?type=journalists",
+      "published_at": "2026-08-20T10:03:29+09:00",
+      "sent_at": "2026-08-20T10:14:38.299315+09:00"
     }
   ],
-  "last_run_at": "2026-08-20T01:09:28.046546+00:00"
+  "last_run_at": "2026-08-20T01:14:33.002551+00:00"
 }
