@@ -1,15 +1,6 @@
 {
   "sent": [
     {
-      "id": "4690e7acd3502c2cd99c42ee515545c0939fd5dd0c5e4bde238f9bebf716829c",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "title": "'월드 오브 워크래프트: 한밤' 첫 대규모 업데이트... '울라텍의 저주' 적용",
-      "url": "https://n.news.naver.com/article/030/0003457171?type=journalists",
-      "published_at": "2026-08-13T14:11:15+09:00",
-      "sent_at": "2026-08-13T14:23:09.312452+09:00"
-    },
-    {
       "id": "54c7dcd21d9823f7cd323588761b0b1062e59617335d1f57ba4daaafc59c5dbb",
       "reporter": "박정은",
       "press": "전자신문",
@@ -512,7 +503,25 @@
       "url": "https://n.news.naver.com/article/030/0003458947?type=journalists",
       "published_at": "2026-08-20T13:26:09+09:00",
       "sent_at": "2026-08-20T13:43:44.060400+09:00"
+    },
+    {
+      "id": "eb7870f232ce6f7c3161276f6f2d1490218637592651ea4f029cd0c3f8e85b9b",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "카카오게임즈, '도깨비의세계' 10월 출시…사전 등록 시작",
+      "url": "https://n.news.naver.com/article/001/0016261279?type=journalists",
+      "published_at": "2026-08-20T14:08:37+09:00",
+      "sent_at": "2026-08-20T14:24:23.694984+09:00"
+    },
+    {
+      "id": "0de46919ee5c5490fead59b9fd69214373465ea69e5814bd5477c3a7c133b227",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "에픽게임즈 CEO \"구글·삼성과 앱 수수료 합의…애플 남았다\"",
+      "url": "https://n.news.naver.com/article/001/0016261276?type=journalists",
+      "published_at": "2026-08-20T14:07:08+09:00",
+      "sent_at": "2026-08-20T14:24:26.349601+09:00"
     }
   ],
-  "last_run_at": "2026-08-20T05:19:13.974954+00:00"
+  "last_run_at": "2026-08-20T05:24:19.043932+00:00"
 }
