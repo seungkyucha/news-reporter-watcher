@@ -611,7 +611,16 @@
       "url": "https://n.news.naver.com/article/001/0016260792?type=journalists",
       "published_at": "2026-08-20T11:35:49+09:00",
       "sent_at": "2026-08-20T11:57:04.889752+09:00"
+    },
+    {
+      "id": "77f1b6ebdff35250ee8d038d04ba117df542f36acfe958cfd1213a444d7d81d8",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "마브렉스, 웹3 신작 '픽셀 테이머즈' 글로벌 출시",
+      "url": "https://n.news.naver.com/article/030/0003458926?type=journalists",
+      "published_at": "2026-08-20T12:37:09+09:00",
+      "sent_at": "2026-08-20T12:52:56.641077+09:00"
     }
   ],
-  "last_run_at": "2026-08-20T03:47:48.131114+00:00"
+  "last_run_at": "2026-08-20T03:52:52.377869+00:00"
 }
