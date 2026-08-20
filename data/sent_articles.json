@@ -584,7 +584,16 @@
       "url": "https://n.news.naver.com/article/030/0003458926?type=journalists",
       "published_at": "2026-08-20T12:37:09+09:00",
       "sent_at": "2026-08-20T12:52:56.641077+09:00"
+    },
+    {
+      "id": "0612cf7ac998b6a7c875d643c7374f782393805965f55bac29c6b4274eda5059",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "카카오게임즈, K-판타지 MMORPG '도깨비의세계' 공개... 10월 출시",
+      "url": "https://n.news.naver.com/article/030/0003458947?type=journalists",
+      "published_at": "2026-08-20T13:26:09+09:00",
+      "sent_at": "2026-08-20T13:43:44.060400+09:00"
     }
   ],
-  "last_run_at": "2026-08-20T04:38:35.686299+00:00"
+  "last_run_at": "2026-08-20T04:43:39.956871+00:00"
 }
