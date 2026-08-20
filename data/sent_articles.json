@@ -566,7 +566,16 @@
       "url": "https://n.news.naver.com/article/001/0016260421?type=journalists",
       "published_at": "2026-08-20T10:03:29+09:00",
       "sent_at": "2026-08-20T10:14:38.299315+09:00"
+    },
+    {
+      "id": "163f1f9965da9c742e6ca59496f88c375d7ba275200f1d648dc9adf6cd237d09",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "SOOP, 아시아 배구선수권대회 온라인 독점 생중계한다",
+      "url": "https://n.news.naver.com/article/001/0016260433?type=journalists",
+      "published_at": "2026-08-20T23:59:59+09:00",
+      "sent_at": "2026-08-20T10:24:52.485245+09:00"
     }
   ],
-  "last_run_at": "2026-08-20T01:19:41.560713+00:00"
+  "last_run_at": "2026-08-20T01:24:46.402283+00:00"
 }
