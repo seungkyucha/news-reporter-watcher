@@ -1,15 +1,6 @@
 {
   "sent": [
     {
-      "id": "c04666560a7244744e1e0a5ecfeb069da5911862161bd43016376fb88d9b5e02",
-      "reporter": "서정근",
-      "press": "MTN",
-      "title": "[단독]'프라시아 전기' 주역들 '탈 넥슨'....'쇠더룬드 빌드' 영향",
-      "url": "https://news.mtn.co.kr/news-detail/2026081310444095392",
-      "published_at": "Thu, 13 Aug 2026 11:54:00 +0900",
-      "sent_at": "2026-08-13T11:54:52.811546+09:00"
-    },
-    {
       "id": "d91d49e4c066d8f972ed69ebbe89b0817fa7db87f8199c430e5a185765b7a5d2",
       "reporter": "박정은",
       "press": "전자신문",
@@ -575,7 +566,61 @@
       "url": "https://news.mtn.co.kr/news-detail/2026082011011075546",
       "published_at": "Thu, 20 Aug 2026 11:48:00 +0900",
       "sent_at": "2026-08-20T11:51:43.153338+09:00"
+    },
+    {
+      "id": "29557724f81d5fb9f9d2a8eed499e22c4ca180849dedb5542fc9bb0492a7417c",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "MBC, LCK 결승 2027년까지 생중계... e스포츠 지상파 안착 속도",
+      "url": "https://n.news.naver.com/article/030/0003458903?type=journalists",
+      "published_at": "2026-08-20T11:39:13+09:00",
+      "sent_at": "2026-08-20T11:56:51.236501+09:00"
+    },
+    {
+      "id": "6bebe3e7cfea2d4fbd43f8e15351ff425fac9bf29fa5f239f455b87f75eb6b2b",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "한국 우수 신작 게임 소개하는 에픽게임즈 CEO",
+      "url": "https://n.news.naver.com/article/001/0016260862?type=journalists",
+      "published_at": "2026-08-20T11:42:35+09:00",
+      "sent_at": "2026-08-20T11:56:54.293060+09:00"
+    },
+    {
+      "id": "c1e5820ab383fd0a24f9ada29ae8fc1436b938f709b58a4899ee37c43edc9aaa",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "에픽게임즈 전략 소개하는 팀 스위니 CEO",
+      "url": "https://n.news.naver.com/article/001/0016260861?type=journalists",
+      "published_at": "2026-08-20T11:42:24+09:00",
+      "sent_at": "2026-08-20T11:56:56.934839+09:00"
+    },
+    {
+      "id": "c32f27b994d1bd6571f4536c9167ce2dd82c99703abec72e8648c04d5b4486c2",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "기조 강연하는 팀 스위니 에픽게임즈 CEO",
+      "url": "https://n.news.naver.com/article/001/0016260860?type=journalists",
+      "published_at": "2026-08-20T11:42:13+09:00",
+      "sent_at": "2026-08-20T11:56:59.408331+09:00"
+    },
+    {
+      "id": "6605679b06bf6d26809986beab05508f07ed7bf5beb830d8262089650a5fbc87",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "기조 강연하는 팀 스위니 에픽게임즈 CEO",
+      "url": "https://n.news.naver.com/article/001/0016260859?type=journalists",
+      "published_at": "2026-08-20T11:42:01+09:00",
+      "sent_at": "2026-08-20T11:57:02.070617+09:00"
+    },
+    {
+      "id": "2743a2faa305c1c7fb34c6c6f4da415ed1ad54a08a6fa77fc1b7199b989076fe",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "[만나보니] 에픽게임즈 CEO \"언리얼 엔진 6, AI 개발에 최적화\"",
+      "url": "https://n.news.naver.com/article/001/0016260792?type=journalists",
+      "published_at": "2026-08-20T11:35:49+09:00",
+      "sent_at": "2026-08-20T11:57:04.889752+09:00"
     }
   ],
-  "last_run_at": "2026-08-20T02:51:40.200883+00:00"
+  "last_run_at": "2026-08-20T02:56:47.253415+00:00"
 }
