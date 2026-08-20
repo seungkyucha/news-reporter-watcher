@@ -1,15 +1,6 @@
 {
   "sent": [
     {
-      "id": "f72e5950c24b9b07a7a8b65592f6164464353379b518cd7deb2865934fb871d1",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "지스타 메인 스폰서에 뤼튼 AI '크랙'…3N2K는 전원 불참",
-      "url": "https://n.news.naver.com/article/001/0016249106?type=journalists",
-      "published_at": "2026-08-13T11:28:42+09:00",
-      "sent_at": "2026-08-13T11:44:43.420532+09:00"
-    },
-    {
       "id": "c04666560a7244744e1e0a5ecfeb069da5911862161bd43016376fb88d9b5e02",
       "reporter": "서정근",
       "press": "MTN",
@@ -566,7 +557,16 @@
       "url": "https://n.news.naver.com/article/001/0016260433?type=journalists",
       "published_at": "2026-08-20T23:59:59+09:00",
       "sent_at": "2026-08-20T10:24:52.485245+09:00"
+    },
+    {
+      "id": "8787efc776776f7acbc5dd7473d8dd502a68d942d9ca4a002e5b970ad6f40ef3",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "엔씨 '리밋 제로 브레이커스', 9월 두 번째 글로벌 테스트... 콘텐츠·전투 개선",
+      "url": "https://n.news.naver.com/article/030/0003458900?type=journalists",
+      "published_at": "2026-08-20T11:33:13+09:00",
+      "sent_at": "2026-08-20T11:46:36.505242+09:00"
     }
   ],
-  "last_run_at": "2026-08-20T02:41:27.747701+00:00"
+  "last_run_at": "2026-08-20T02:46:32.068188+00:00"
 }
