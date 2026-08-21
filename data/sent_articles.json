@@ -494,7 +494,16 @@
       "url": "https://n.news.naver.com/article/001/0016262805?type=journalists",
       "published_at": "2026-08-21T09:00:03+09:00",
       "sent_at": "2026-08-21T09:10:34.651677+09:00"
+    },
+    {
+      "id": "fd3499c8eba976d229c8cf6ed66aa8a7160b8cbb5dd6eb4cff08f5a7533dd1e7",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "라이엇게임즈, 격투게임 '2XKO' 인기 저조에 신규 개발 종료",
+      "url": "https://n.news.naver.com/article/001/0016262870?type=journalists",
+      "published_at": "2026-08-21T09:25:37+09:00",
+      "sent_at": "2026-08-21T09:46:16.081876+09:00"
     }
   ],
-  "last_run_at": "2026-08-21T00:41:04.854099+00:00"
+  "last_run_at": "2026-08-21T00:46:10.247424+00:00"
 }
