@@ -1,24 +1,6 @@
 {
   "sent": [
     {
-      "id": "36601323a014e5390b7f7d69155032c9c4d65b81654d5972ff4033baae92a5e1",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "title": "배틀그라운드, 웰치스와 여름 컬래버... 한정판 제품·인게임 보상 선봬",
-      "url": "https://n.news.naver.com/article/030/0003457460?type=journalists",
-      "published_at": "2026-08-14T10:30:20+09:00",
-      "sent_at": "2026-08-14T10:44:26.949510+09:00"
-    },
-    {
-      "id": "18783311484acfd78e1b34a05e2a86fc994282e9ccfb46a1083b7717d43daf11",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "SOOP, 스타크래프트 대회 'ASL 시즌22' 17일 개막",
-      "url": "https://n.news.naver.com/article/001/0016251391?type=journalists",
-      "published_at": "2026-08-14T10:29:09+09:00",
-      "sent_at": "2026-08-14T10:44:29.822604+09:00"
-    },
-    {
       "id": "665cc9f3a0699ce93993032c52a0efcdc4b2d64806ccea07a308d224d94ed1cb",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -523,5 +505,5 @@
       "sent_at": "2026-08-21T10:37:19.470695+09:00"
     }
   ],
-  "last_run_at": "2026-08-21T01:42:22.179225+00:00"
+  "last_run_at": "2026-08-21T01:47:27.650791+00:00"
 }
