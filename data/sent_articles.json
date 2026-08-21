@@ -485,7 +485,16 @@
       "url": "https://n.news.naver.com/article/001/0016261276?type=journalists",
       "published_at": "2026-08-20T14:07:08+09:00",
       "sent_at": "2026-08-20T14:24:26.349601+09:00"
+    },
+    {
+      "id": "2cf62360f90707c77ff270b0913c3dfec345abb3e33e96150b4f0cdb0f9f57cc",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "[해보니] 내가 울버린 된 듯…손맛 살린 '마블 울버린'",
+      "url": "https://n.news.naver.com/article/001/0016262805?type=journalists",
+      "published_at": "2026-08-21T09:00:03+09:00",
+      "sent_at": "2026-08-21T09:10:34.651677+09:00"
     }
   ],
-  "last_run_at": "2026-08-21T00:05:23.769999+00:00"
+  "last_run_at": "2026-08-21T00:10:29.227206+00:00"
 }
