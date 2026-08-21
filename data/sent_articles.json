@@ -503,7 +503,16 @@
       "url": "https://n.news.naver.com/article/001/0016263061?type=journalists",
       "published_at": "2026-08-21T10:16:24+09:00",
       "sent_at": "2026-08-21T10:37:19.470695+09:00"
+    },
+    {
+      "id": "62798f4e5e09a51d5fd21957cd803e70c79b5b43c5c01698015291a237afaea9",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "넥슨게임즈, 영케어러 지원 '위드영 프로젝트' 2기... 1억원 기부",
+      "url": "https://n.news.naver.com/article/030/0003459254?type=journalists",
+      "published_at": "2026-08-21T10:57:11+09:00",
+      "sent_at": "2026-08-21T11:13:06.032170+09:00"
     }
   ],
-  "last_run_at": "2026-08-21T02:07:49.847578+00:00"
+  "last_run_at": "2026-08-21T02:12:57.130006+00:00"
 }
