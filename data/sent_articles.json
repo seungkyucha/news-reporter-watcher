@@ -458,7 +458,16 @@
       "url": "https://n.news.naver.com/article/001/0016264298?type=journalists",
       "published_at": "2026-08-21T16:58:48+09:00",
       "sent_at": "2026-08-21T17:14:07.218846+09:00"
+    },
+    {
+      "id": "d268f2b6d251ae21706bedc80ec364af86025235514e7e8db12c4d059356d702",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "방준혁, 3740억원 들여 넷마블 지분 추가 인수... 지분율 38.34%로 확대",
+      "url": "https://n.news.naver.com/article/030/0003459382?type=journalists",
+      "published_at": "2026-08-21T19:14:16+09:00",
+      "sent_at": "2026-08-21T19:26:27.891224+09:00"
     }
   ],
-  "last_run_at": "2026-08-21T10:21:19.352147+00:00"
+  "last_run_at": "2026-08-21T10:26:23.546669+00:00"
 }
