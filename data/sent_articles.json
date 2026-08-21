@@ -512,7 +512,34 @@
       "url": "https://n.news.naver.com/article/030/0003459254?type=journalists",
       "published_at": "2026-08-21T10:57:11+09:00",
       "sent_at": "2026-08-21T11:13:06.032170+09:00"
+    },
+    {
+      "id": "7d2c1009269429e960ed56fd6b23e3879a39db55083cfd40018b0618ce17470f",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "르세라핌·요아소비 블리즈컨 뜬다... 게임 넘어 글로벌 엔터 축제로",
+      "url": "https://n.news.naver.com/article/030/0003459263?type=journalists",
+      "published_at": "2026-08-21T11:12:16+09:00",
+      "sent_at": "2026-08-21T11:23:20.191921+09:00"
+    },
+    {
+      "id": "17904ea7c9abe5cef7fd01abb85f548631ac0312ac4fb8308a325d001ce8cda0",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "CDPR, '사이버펑크: 엣지러너2' 10월 20일 넷플릭스 공개... 신규 트레일러 선봬",
+      "url": "https://n.news.naver.com/article/030/0003459262?type=journalists",
+      "published_at": "2026-08-21T11:10:17+09:00",
+      "sent_at": "2026-08-21T11:23:22.670097+09:00"
+    },
+    {
+      "id": "dd1070d6ded03e6f4d0ac66e73e3b0a84d27f90b15d2e40d3060aa3f769eff07",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "스마일게이트 '크로스파이어', AAA 액션 어드벤처로 재탄생... 개발 비하인드 공개",
+      "url": "https://n.news.naver.com/article/030/0003459259?type=journalists",
+      "published_at": "2026-08-21T11:07:11+09:00",
+      "sent_at": "2026-08-21T11:23:25.062054+09:00"
     }
   ],
-  "last_run_at": "2026-08-21T02:18:09.863254+00:00"
+  "last_run_at": "2026-08-21T02:23:15.165087+00:00"
 }
