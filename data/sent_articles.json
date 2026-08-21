@@ -494,7 +494,16 @@
       "url": "https://n.news.naver.com/article/030/0003459259?type=journalists",
       "published_at": "2026-08-21T11:07:11+09:00",
       "sent_at": "2026-08-21T11:23:25.062054+09:00"
+    },
+    {
+      "id": "4f74cebdeea0f92127d9c3d1141b04c77b1cf45320cd3de327a29ca2123e0390",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "엔씨 '아스트라에 오라티오' 도쿄게임쇼에 단독 부스 참가",
+      "url": "https://n.news.naver.com/article/001/0016263967?type=journalists",
+      "published_at": "2026-08-21T15:25:14+09:00",
+      "sent_at": "2026-08-21T15:42:40.289347+09:00"
     }
   ],
-  "last_run_at": "2026-08-21T06:37:30.304187+00:00"
+  "last_run_at": "2026-08-21T06:42:34.743287+00:00"
 }
