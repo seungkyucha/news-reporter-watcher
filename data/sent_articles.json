@@ -503,7 +503,16 @@
       "url": "https://n.news.naver.com/article/001/0016263967?type=journalists",
       "published_at": "2026-08-21T15:25:14+09:00",
       "sent_at": "2026-08-21T15:42:40.289347+09:00"
+    },
+    {
+      "id": "2b9ae93b2c39aa9d7383da4c1da6d463fed55a1969311b0fd9d8bd7f95dcdf47",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "방준혁 넷마블 의장, 텐센트 보유 지분 13.4% 인수",
+      "url": "https://n.news.naver.com/article/001/0016264298?type=journalists",
+      "published_at": "2026-08-21T16:58:48+09:00",
+      "sent_at": "2026-08-21T17:14:07.218846+09:00"
     }
   ],
-  "last_run_at": "2026-08-21T08:08:57.402508+00:00"
+  "last_run_at": "2026-08-21T08:14:01.788942+00:00"
 }
