@@ -1,15 +1,6 @@
 {
   "sent": [
     {
-      "id": "c38ada7db7da1fa0baf788b316efbe953fef0347d798e24a868ba0e522c1a9eb",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "상반기 게임업계 연봉 1위는 크래프톤 '배틀그라운드' 총괄",
-      "url": "https://n.news.naver.com/article/001/0016252567?type=journalists",
-      "published_at": "2026-08-14T17:54:10+09:00",
-      "sent_at": "2026-08-14T18:06:47.910088+09:00"
-    },
-    {
       "id": "0dd1956b299a70b494070df274aa543f9d278fc602d22ab3b3533b01cbc5faa7",
       "reporter": "서정근",
       "press": "MTN",
@@ -487,5 +478,5 @@
       "sent_at": "2026-08-21T17:14:07.218846+09:00"
     }
   ],
-  "last_run_at": "2026-08-21T09:05:10.732931+00:00"
+  "last_run_at": "2026-08-21T09:10:14.931429+00:00"
 }
