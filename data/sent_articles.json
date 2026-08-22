@@ -458,7 +458,16 @@
       "url": "https://n.news.naver.com/article/030/0003459382?type=journalists",
       "published_at": "2026-08-21T19:14:16+09:00",
       "sent_at": "2026-08-21T19:26:27.891224+09:00"
+    },
+    {
+      "id": "7f5df1a53fbe0451c9219f5f4c68b2a04a11f967cf63498edf9065099a0e5a11",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "[게임위드인] 제타·크랙은 게임일까…AI가 흔드는 '게임의 정의'",
+      "url": "https://n.news.naver.com/article/001/0016264729?type=journalists",
+      "published_at": "2026-08-22T11:00:00+09:00",
+      "sent_at": "2026-08-22T11:12:18.698613+09:00"
     }
   ],
-  "last_run_at": "2026-08-22T02:07:08.308281+00:00"
+  "last_run_at": "2026-08-22T02:12:13.471761+00:00"
 }
