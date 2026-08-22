@@ -1,15 +1,6 @@
 {
   "sent": [
     {
-      "id": "bd9cc355d685459bf52fdc72e8bb276a2ecfb36b1f988b5d0cfa15aad3f6ed8a",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "title": "펄어비스, 9년째 K-인디 글로벌 진출 지원... BIC서 'BIGEM' 5기 12작 선정",
-      "url": "https://n.news.naver.com/article/030/0003457683?type=journalists",
-      "published_at": "2026-08-15T10:30:14+09:00",
-      "sent_at": "2026-08-15T10:43:38.797795+09:00"
-    },
-    {
       "id": "37fc392b6af3946ca899ab8fd4f40928340e430ceacd03255a304ec16e32c568",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -469,5 +460,5 @@
       "sent_at": "2026-08-21T19:26:27.891224+09:00"
     }
   ],
-  "last_run_at": "2026-08-22T01:41:43.747156+00:00"
+  "last_run_at": "2026-08-22T01:46:48.574967+00:00"
 }
