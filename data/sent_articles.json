@@ -467,7 +467,16 @@
       "url": "https://n.news.naver.com/article/030/0003459450?type=journalists",
       "published_at": "2026-08-23T10:01:12+09:00",
       "sent_at": "2026-08-23T10:14:15.263374+09:00"
+    },
+    {
+      "id": "24fceaf50222dab85f19cbfa472332e7df28e5e0d444d570e54a5eecabe22ed4",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "[해보니] 서울 풍경 게임 속으로…'모던 워페어 4' 한국 고증은",
+      "url": "https://n.news.naver.com/article/001/0016265788?type=journalists",
+      "published_at": "2026-08-23T18:14:36+09:00",
+      "sent_at": "2026-08-23T18:27:10.807610+09:00"
     }
   ],
-  "last_run_at": "2026-08-23T09:22:01.445495+00:00"
+  "last_run_at": "2026-08-23T09:27:05.933488+00:00"
 }
