@@ -1,24 +1,6 @@
 {
   "sent": [
     {
-      "id": "12c95e80788adfe95c00b85790a663bae7875497dce1b977fd7c3aa5c0be0a2b",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "title": "[K게임 대도약 좌담회]성장사다리 복원·슈퍼 IP 육성... K게임 국가전략산업으로",
-      "url": "https://n.news.naver.com/article/030/0003457912?type=journalists",
-      "published_at": "2026-08-17T15:01:17+09:00",
-      "sent_at": "2026-08-17T15:14:53.399053+09:00"
-    },
-    {
-      "id": "8ba328cc87f3215c9f90afd43a3d25ae541d8d036607427fb0a593961f89fb52",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "title": "“K게임, 국가전략산업으로 위상 정립”...세제, 인력 금융지원 확대해야",
-      "url": "https://n.news.naver.com/article/030/0003457910?type=journalists",
-      "published_at": "2026-08-17T15:01:12+09:00",
-      "sent_at": "2026-08-17T15:14:56.101758+09:00"
-    },
-    {
       "id": "f30b0920640d4c720467b463158ef9b11bf285c3321136e644da5b755bbacea0",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -487,5 +469,5 @@
       "sent_at": "2026-08-24T10:07:15.897410+09:00"
     }
   ],
-  "last_run_at": "2026-08-24T06:12:04.729554+00:00"
+  "last_run_at": "2026-08-24T06:17:09.469862+00:00"
 }
