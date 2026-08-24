@@ -476,7 +476,16 @@
       "url": "https://n.news.naver.com/article/001/0016265788?type=journalists",
       "published_at": "2026-08-23T18:14:36+09:00",
       "sent_at": "2026-08-23T18:27:10.807610+09:00"
+    },
+    {
+      "id": "c37e6a8da2179b6754d39358c8e5cfd4947c96738aa57cbb411088b5c65ad518",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "게임스컴 26일 개막…엔씨·크래프톤 신작 보따리 푼다",
+      "url": "https://n.news.naver.com/article/001/0016266219?type=journalists",
+      "published_at": "2026-08-24T09:52:07+09:00",
+      "sent_at": "2026-08-24T10:07:15.897410+09:00"
     }
   ],
-  "last_run_at": "2026-08-24T01:02:05.812924+00:00"
+  "last_run_at": "2026-08-24T01:07:10.440902+00:00"
 }
