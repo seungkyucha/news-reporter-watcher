@@ -377,7 +377,16 @@
       "url": "https://n.news.naver.com/article/001/0016266219?type=journalists",
       "published_at": "2026-08-24T09:52:07+09:00",
       "sent_at": "2026-08-24T10:07:15.897410+09:00"
+    },
+    {
+      "id": "9925e2c203ac96d2616a5821fbc7c81ab6e00c0d750f48eac081c6c0f2e5b5d1",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "넥슨, '프로젝트 RX' 타이틀명 '파레이돌리아'로 확정",
+      "url": "https://n.news.naver.com/article/001/0016270095?type=journalists",
+      "published_at": "2026-08-25T16:17:02+09:00",
+      "sent_at": "2026-08-25T16:36:47.713571+09:00"
     }
   ],
-  "last_run_at": "2026-08-25T07:31:38.334802+00:00"
+  "last_run_at": "2026-08-25T07:36:42.639500+00:00"
 }
