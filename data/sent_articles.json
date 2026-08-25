@@ -377,7 +377,16 @@
       "url": "https://n.news.naver.com/article/001/0016270237?type=journalists",
       "published_at": "2026-08-25T17:09:06+09:00",
       "sent_at": "2026-08-25T17:22:32.184068+09:00"
+    },
+    {
+      "id": "cbb9f12b1d27f3a5005f6b1171f4cf81d7302d7a94438ec6b3abaa1d7b94bf91",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "'붉은사막' 게임스컴 어워드 2개 부문 후보... 크래프톤 '에이지 트위스터'도 이름 올려",
+      "url": "https://n.news.naver.com/article/030/0003460324?type=journalists",
+      "published_at": "2026-08-25T19:09:09+09:00",
+      "sent_at": "2026-08-25T19:24:51.158185+09:00"
     }
   ],
-  "last_run_at": "2026-08-25T10:19:41.681607+00:00"
+  "last_run_at": "2026-08-25T10:24:46.119154+00:00"
 }
