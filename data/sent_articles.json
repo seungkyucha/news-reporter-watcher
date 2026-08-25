@@ -413,7 +413,16 @@
       "url": "https://n.news.naver.com/article/001/0016270621?type=journalists",
       "published_at": "2026-08-26T06:17:47+09:00",
       "sent_at": "2026-08-26T06:32:53.515984+09:00"
+    },
+    {
+      "id": "b7abbe9458881c9d0a817f0c17f3c95eed43c394110504407c594d99aafcbf6e",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "크래프톤, 배틀그라운드 후속작 'PUBG: 데드넷' 공개",
+      "url": "https://n.news.naver.com/article/001/0016270632?type=journalists",
+      "published_at": "2026-08-26T06:51:50+09:00",
+      "sent_at": "2026-08-26T07:03:24.685891+09:00"
     }
   ],
-  "last_run_at": "2026-08-25T21:58:15.707185+00:00"
+  "last_run_at": "2026-08-25T22:03:19.906008+00:00"
 }
