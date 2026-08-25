@@ -431,7 +431,16 @@
       "url": "https://n.news.naver.com/article/030/0003460345?type=journalists",
       "published_at": "2026-08-26T07:44:15+09:00",
       "sent_at": "2026-08-26T07:54:15.177602+09:00"
+    },
+    {
+      "id": "1c1837b7407dee3b481ee65e2b6e52a471db06f68606f1bbd502f68e6eb99de2",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "다크 판타지 '타래' 한국어 트레일러로 ONL 데뷔... 크래프톤 신작 5종 공개",
+      "url": "https://n.news.naver.com/article/030/0003460347?type=journalists",
+      "published_at": "2026-08-26T07:53:11+09:00",
+      "sent_at": "2026-08-26T08:04:28.314450+09:00"
     }
   ],
-  "last_run_at": "2026-08-25T22:59:19.673335+00:00"
+  "last_run_at": "2026-08-25T23:04:23.882021+00:00"
 }
