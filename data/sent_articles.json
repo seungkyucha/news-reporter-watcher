@@ -377,7 +377,16 @@
       "url": "https://n.news.naver.com/article/001/0016270095?type=journalists",
       "published_at": "2026-08-25T16:17:02+09:00",
       "sent_at": "2026-08-25T16:36:47.713571+09:00"
+    },
+    {
+      "id": "bdf39c0c01029738e0a20387268e046a50b1a043a9e0f547d3cde33dfc15f375",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "게임스컴이 주목한 '붉은사막'…어워드 2개 부문 후보",
+      "url": "https://n.news.naver.com/article/001/0016270237?type=journalists",
+      "published_at": "2026-08-25T17:09:06+09:00",
+      "sent_at": "2026-08-25T17:22:32.184068+09:00"
     }
   ],
-  "last_run_at": "2026-08-25T08:17:22.468942+00:00"
+  "last_run_at": "2026-08-25T08:22:27.589520+00:00"
 }
