@@ -386,7 +386,16 @@
       "url": "https://n.news.naver.com/article/030/0003460337?type=journalists",
       "published_at": "2026-08-26T04:44:12+09:00",
       "sent_at": "2026-08-26T04:56:16.083932+09:00"
+    },
+    {
+      "id": "05c35fd301b7890214ce1f5a53a6e38b8b1a820e04f21949afc4292cf61d536f",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "펄어비스, 붉은사막 인핸스드 에디션 공개…스토리 대폭 보강",
+      "url": "https://n.news.naver.com/article/001/0016270609?type=journalists",
+      "published_at": "2026-08-26T06:01:33+09:00",
+      "sent_at": "2026-08-26T06:12:29.718778+09:00"
     }
   ],
-  "last_run_at": "2026-08-25T21:07:20.802071+00:00"
+  "last_run_at": "2026-08-25T21:12:25.231728+00:00"
 }
