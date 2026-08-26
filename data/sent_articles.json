@@ -449,7 +449,16 @@
       "url": "https://n.news.naver.com/article/001/0016273085?type=journalists",
       "published_at": "2026-08-26T20:48:40+09:00",
       "sent_at": "2026-08-26T21:02:41.018558+09:00"
+    },
+    {
+      "id": "6627ab7a3c20227390e1705029d8570131ea1bec7f5e5dece0446742ed2334cc",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "게임스컴 찾은 김정욱 넥슨코리아 대표",
+      "url": "https://n.news.naver.com/article/001/0016273089?type=journalists",
+      "published_at": "2026-08-26T20:59:27+09:00",
+      "sent_at": "2026-08-26T21:12:54.457927+09:00"
     }
   ],
-  "last_run_at": "2026-08-26T12:07:44.017248+00:00"
+  "last_run_at": "2026-08-26T12:12:48.655422+00:00"
 }
