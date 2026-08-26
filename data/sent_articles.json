@@ -1,15 +1,6 @@
 {
   "sent": [
     {
-      "id": "34515ae41f95a366f000b25a29f8b43abf28173ce7c2ad16e06561c446d4b617",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "넥써쓰, 자체 개발 AI 툴 11종 한자리에…'AI 랩스' 오픈",
-      "url": "https://n.news.naver.com/article/001/0016257763?type=journalists",
-      "published_at": "2026-08-19T09:48:09+09:00",
-      "sent_at": "2026-08-19T10:04:01.944656+09:00"
-    },
-    {
       "id": "6a3c392a38523f2bd81bffaff3fffa21bec39fa4a21ed7bf715423c4109efab3",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -442,5 +433,5 @@
       "sent_at": "2026-08-26T08:04:28.314450+09:00"
     }
   ],
-  "last_run_at": "2026-08-26T01:01:34.032509+00:00"
+  "last_run_at": "2026-08-26T01:06:39.128895+00:00"
 }
