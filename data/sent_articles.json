@@ -1,24 +1,6 @@
 {
   "sent": [
     {
-      "id": "ef65b463ffbebb92e6728d16f210b798e5626302d8e41e9a834b931b651a0465",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "title": "넵튠, 신무협 RPG '검신제로' 글로벌 사전예약... 4분기 출시",
-      "url": "https://n.news.naver.com/article/030/0003458635?type=journalists",
-      "published_at": "2026-08-19T14:41:11+09:00",
-      "sent_at": "2026-08-19T14:53:59.538252+09:00"
-    },
-    {
-      "id": "e95f653e30a986b9e21b1de697d8078a1bd442de81b492560fbea0aa7d564716",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "title": "넥써쓰, 자체 개발 AI 솔루션 11종 한자리에... 'AI 랩스' 포털 오픈",
-      "url": "https://n.news.naver.com/article/030/0003458631?type=journalists",
-      "published_at": "2026-08-19T14:37:11+09:00",
-      "sent_at": "2026-08-19T14:54:02.120021+09:00"
-    },
-    {
       "id": "d1e704df4f61c3b161db3224542997aa88df8eca7979c9c8f327175fc7e693c9",
       "reporter": "박정은",
       "press": "전자신문",
@@ -415,5 +397,5 @@
       "sent_at": "2026-08-26T14:26:08.497312+09:00"
     }
   ],
-  "last_run_at": "2026-08-26T05:51:29.383167+00:00"
+  "last_run_at": "2026-08-26T05:56:33.461858+00:00"
 }
