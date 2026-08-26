@@ -1,15 +1,6 @@
 {
   "sent": [
     {
-      "id": "6a3c392a38523f2bd81bffaff3fffa21bec39fa4a21ed7bf715423c4109efab3",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "스마일게이트 '이클립스', 캐릭터 사전 생성 시작",
-      "url": "https://n.news.naver.com/article/001/0016258227?type=journalists",
-      "published_at": "2026-08-19T11:24:38+09:00",
-      "sent_at": "2026-08-19T11:35:43.439982+09:00"
-    },
-    {
       "id": "a003ee32aec7b826bfc469948b7520b2c1efaddb4bc727ab405516c025f56df9",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -433,5 +424,5 @@
       "sent_at": "2026-08-26T08:04:28.314450+09:00"
     }
   ],
-  "last_run_at": "2026-08-26T02:33:02.278583+00:00"
+  "last_run_at": "2026-08-26T02:38:06.942083+00:00"
 }
