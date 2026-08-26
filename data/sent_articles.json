@@ -404,7 +404,16 @@
       "url": "https://n.news.naver.com/article/030/0003460528?type=journalists",
       "published_at": "2026-08-26T13:32:15+09:00",
       "sent_at": "2026-08-26T13:45:14.045014+09:00"
+    },
+    {
+      "id": "d001847ee29342e07296ae069c77357df807236b058f9a9892fb78bb57714cc3",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "세계 게임산업 쾰른에 집결... K게임, 신작 앞세워 정면승부",
+      "url": "https://n.news.naver.com/article/030/0003460561?type=journalists",
+      "published_at": "2026-08-26T14:12:15+09:00",
+      "sent_at": "2026-08-26T14:26:08.497312+09:00"
     }
   ],
-  "last_run_at": "2026-08-26T05:20:59.341130+00:00"
+  "last_run_at": "2026-08-26T05:26:04.069070+00:00"
 }
