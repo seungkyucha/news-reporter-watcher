@@ -431,7 +431,25 @@
       "url": "https://n.news.naver.com/article/001/0016272910?type=journalists",
       "published_at": "2026-08-26T18:29:36+09:00",
       "sent_at": "2026-08-26T18:45:12.097555+09:00"
+    },
+    {
+      "id": "11408d6f1753462ddaacf091594bdd4693bee387830c90e0f6a03f57739590bc",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "AI 탑재한 중국판 동물의숲…호요버스 '쁘띠 플래닛'",
+      "url": "https://n.news.naver.com/article/001/0016273086?type=journalists",
+      "published_at": "2026-08-26T20:48:58+09:00",
+      "sent_at": "2026-08-26T21:02:38.147347+09:00"
+    },
+    {
+      "id": "3c3cd59bae19c1da1d15c7cc86d7a6686e1233ae25c99bd5ad711aba16d65080",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "넥슨·크래프톤·스마일게이트 CEO, 게임스컴서 광폭행보",
+      "url": "https://n.news.naver.com/article/001/0016273085?type=journalists",
+      "published_at": "2026-08-26T20:48:40+09:00",
+      "sent_at": "2026-08-26T21:02:41.018558+09:00"
     }
   ],
-  "last_run_at": "2026-08-26T11:57:27.728422+00:00"
+  "last_run_at": "2026-08-26T12:02:32.501728+00:00"
 }
