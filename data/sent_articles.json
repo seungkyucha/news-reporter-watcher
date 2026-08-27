@@ -440,7 +440,16 @@
       "url": "https://n.news.naver.com/article/001/0016275286?type=journalists",
       "published_at": "2026-08-27T16:27:47+09:00",
       "sent_at": "2026-08-27T16:47:14.952460+09:00"
+    },
+    {
+      "id": "39ecc5155eb7700a44aaa48faa6faa1d494e7a4316523cf4af5855d50c3593c0",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "슈타인마이어 독일 대통령 “게임은 사회 중심부…문화 넘어 민주주의에도 영향”",
+      "url": "https://n.news.naver.com/article/030/0003461112?type=journalists",
+      "published_at": "2026-08-27T18:53:10+09:00",
+      "sent_at": "2026-08-27T19:04:18.986796+09:00"
     }
   ],
-  "last_run_at": "2026-08-27T09:59:10.339859+00:00"
+  "last_run_at": "2026-08-27T10:04:14.923890+00:00"
 }
