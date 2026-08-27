@@ -413,7 +413,16 @@
       "url": "https://n.news.naver.com/article/001/0016273377?type=journalists",
       "published_at": "2026-08-27T07:00:00+09:00",
       "sent_at": "2026-08-27T07:12:48.794716+09:00"
+    },
+    {
+      "id": "54372830e59d9cb7d1db6985f4e454fc7fee2d41d2b08ca43deae5c144185213",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "크래프톤, '배틀그라운드 다음' 찾는다... 신작 5종으로 IP 확장 승부수",
+      "url": "https://n.news.naver.com/article/030/0003460937?type=journalists",
+      "published_at": "2026-08-27T14:00:20+09:00",
+      "sent_at": "2026-08-27T14:14:34.459302+09:00"
     }
   ],
-  "last_run_at": "2026-08-27T05:09:25.727486+00:00"
+  "last_run_at": "2026-08-27T05:14:30.425699+00:00"
 }
