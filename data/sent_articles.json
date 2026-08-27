@@ -458,7 +458,16 @@
       "url": "https://n.news.naver.com/article/001/0016275686?type=journalists",
       "published_at": "2026-08-27T21:53:52+09:00",
       "sent_at": "2026-08-27T22:02:34.806495+09:00"
+    },
+    {
+      "id": "d2647e96a8f68913bb1b4ca8d652abdfb2ff100296c831e09c1dc2d1e6ef760c",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "GTA 6, 넷플릭스서 게임플레이 영상 독점 공개",
+      "url": "https://n.news.naver.com/article/001/0016275846?type=journalists",
+      "published_at": "2026-08-28T07:25:26+09:00",
+      "sent_at": "2026-08-28T07:43:25.222788+09:00"
     }
   ],
-  "last_run_at": "2026-08-27T22:38:15.168627+00:00"
+  "last_run_at": "2026-08-27T22:43:20.026415+00:00"
 }
