@@ -476,7 +476,16 @@
       "url": "https://n.news.naver.com/article/001/0016275859?type=journalists",
       "published_at": "2026-08-28T07:49:33+09:00",
       "sent_at": "2026-08-28T08:03:47.342231+09:00"
+    },
+    {
+      "id": "2326c9ff3884f36d54f308e53394077b0a273af81d2e93cf2642336f19268449",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "GTA6, 넷플릭스서 게임플레이 첫 공개… 13년 만에 진화한 오픈월드",
+      "url": "https://n.news.naver.com/article/030/0003461170?type=journalists",
+      "published_at": "2026-08-28T07:57:13+09:00",
+      "sent_at": "2026-08-28T08:13:59.623378+09:00"
     }
   ],
-  "last_run_at": "2026-08-27T23:08:49.739081+00:00"
+  "last_run_at": "2026-08-27T23:13:54.110109+00:00"
 }
