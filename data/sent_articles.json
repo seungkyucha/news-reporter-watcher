@@ -431,7 +431,16 @@
       "url": "https://n.news.naver.com/article/030/0003460994?type=journalists",
       "published_at": "2026-08-27T14:48:22+09:00",
       "sent_at": "2026-08-27T15:05:26.168034+09:00"
+    },
+    {
+      "id": "a7d58308be2b7a666cd5bd9bd9672fc119a2522071838a432360d74c463c5dae",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "엑스박스 25주년…게임 디스크도 디지털로 바꾼다",
+      "url": "https://n.news.naver.com/article/001/0016275286?type=journalists",
+      "published_at": "2026-08-27T16:27:47+09:00",
+      "sent_at": "2026-08-27T16:47:14.952460+09:00"
     }
   ],
-  "last_run_at": "2026-08-27T07:42:05.862810+00:00"
+  "last_run_at": "2026-08-27T07:47:10.350191+00:00"
 }
