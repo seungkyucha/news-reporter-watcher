@@ -1,15 +1,6 @@
 {
   "sent": [
     {
-      "id": "8787efc776776f7acbc5dd7473d8dd502a68d942d9ca4a002e5b970ad6f40ef3",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "title": "엔씨 '리밋 제로 브레이커스', 9월 두 번째 글로벌 테스트... 콘텐츠·전투 개선",
-      "url": "https://n.news.naver.com/article/030/0003458900?type=journalists",
-      "published_at": "2026-08-20T11:33:13+09:00",
-      "sent_at": "2026-08-20T11:46:36.505242+09:00"
-    },
-    {
       "id": "1c3ef76247edba33539fa1f6c6da11c827f42ded792630dacea515f79b4fbc0b",
       "reporter": "서정근",
       "press": "MTN",
@@ -505,5 +496,5 @@
       "sent_at": "2026-08-27T07:12:48.794716+09:00"
     }
   ],
-  "last_run_at": "2026-08-27T02:42:19.243152+00:00"
+  "last_run_at": "2026-08-27T02:47:23.334932+00:00"
 }
