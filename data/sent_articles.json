@@ -449,7 +449,16 @@
       "url": "https://n.news.naver.com/article/030/0003461112?type=journalists",
       "published_at": "2026-08-27T18:53:10+09:00",
       "sent_at": "2026-08-27T19:04:18.986796+09:00"
+    },
+    {
+      "id": "a343d2d13f44943972d4b30066f36e63618d12662ef4c8e4385c74ca60594ef9",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "11년만에 돌아오는 게롤트의 모험…위쳐 3 확장팩 미리 보니",
+      "url": "https://n.news.naver.com/article/001/0016275686?type=journalists",
+      "published_at": "2026-08-27T21:53:52+09:00",
+      "sent_at": "2026-08-27T22:02:34.806495+09:00"
     }
   ],
-  "last_run_at": "2026-08-27T12:57:23.885257+00:00"
+  "last_run_at": "2026-08-27T13:02:28.691959+00:00"
 }
