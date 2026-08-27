@@ -467,7 +467,16 @@
       "url": "https://n.news.naver.com/article/001/0016275846?type=journalists",
       "published_at": "2026-08-28T07:25:26+09:00",
       "sent_at": "2026-08-28T07:43:25.222788+09:00"
+    },
+    {
+      "id": "44141838eba4e7761edea6e8bfc2683c2d73c332d3694655c858671cb4581ef1",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "[만나보니] K-인디 기대작 '모노웨이브'…\"차별점에 집중\"",
+      "url": "https://n.news.naver.com/article/001/0016275859?type=journalists",
+      "published_at": "2026-08-28T07:49:33+09:00",
+      "sent_at": "2026-08-28T08:03:47.342231+09:00"
     }
   ],
-  "last_run_at": "2026-08-27T22:58:37.062291+00:00"
+  "last_run_at": "2026-08-27T23:03:42.263566+00:00"
 }
