@@ -395,7 +395,16 @@
       "url": "https://n.news.naver.com/article/001/0016277504?type=journalists",
       "published_at": "2026-08-28T20:31:06+09:00",
       "sent_at": "2026-08-28T20:46:12.898222+09:00"
+    },
+    {
+      "id": "1de0e1a6bfd14f6a7706ccb593ef96cd5af0cc1b39289ea5a97ca89e8f0ccbf2",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "코나미 '캐슬바니아' 제작진 \"세대 아우르는 작품 되겠다\"",
+      "url": "https://n.news.naver.com/article/001/0016277552?type=journalists",
+      "published_at": "2026-08-28T22:38:28+09:00",
+      "sent_at": "2026-08-28T22:53:32.506578+09:00"
     }
   ],
-  "last_run_at": "2026-08-28T13:48:22.189208+00:00"
+  "last_run_at": "2026-08-28T13:53:27.877744+00:00"
 }
