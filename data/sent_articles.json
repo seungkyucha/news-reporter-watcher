@@ -1,15 +1,6 @@
 {
   "sent": [
     {
-      "id": "7f5df1a53fbe0451c9219f5f4c68b2a04a11f967cf63498edf9065099a0e5a11",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "[게임위드인] 제타·크랙은 게임일까…AI가 흔드는 '게임의 정의'",
-      "url": "https://n.news.naver.com/article/001/0016264729?type=journalists",
-      "published_at": "2026-08-22T11:00:00+09:00",
-      "sent_at": "2026-08-22T11:12:18.698613+09:00"
-    },
-    {
       "id": "e636134bed927f443ada9c1fca716fb7cc5ebbd1e9615a938e9f728b9437dfd5",
       "reporter": "박정은",
       "press": "전자신문",
@@ -422,7 +413,16 @@
       "url": "https://n.news.naver.com/article/001/0016277656?type=journalists",
       "published_at": "2026-08-29T07:30:02+09:00",
       "sent_at": "2026-08-29T07:43:16.862246+09:00"
+    },
+    {
+      "id": "e491f82b33d20180f9f3e3294aa592ef0273f0a0ecc8abb387d160ccffb8dd59",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "[게임위드인] 게임스컴 달군 중일 신작전쟁…한국도 존재감",
+      "url": "https://n.news.naver.com/article/001/0016277767?type=journalists",
+      "published_at": "2026-08-29T11:00:00+09:00",
+      "sent_at": "2026-08-29T11:16:57.058440+09:00"
     }
   ],
-  "last_run_at": "2026-08-29T02:11:47.716604+00:00"
+  "last_run_at": "2026-08-29T02:16:52.521505+00:00"
 }
