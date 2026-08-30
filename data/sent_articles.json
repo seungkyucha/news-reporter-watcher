@@ -413,7 +413,16 @@
       "url": "https://n.news.naver.com/article/001/0016277767?type=journalists",
       "published_at": "2026-08-29T11:00:00+09:00",
       "sent_at": "2026-08-29T11:16:57.058440+09:00"
+    },
+    {
+      "id": "a078f086ac3e1900d5a5c6f2cafb33f46ad7ef9b75ea0cd426c601185d4868d7",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "K게임, 쾰른서 가능성 확인... 인디부터 대형 신작까지 '눈도장'",
+      "url": "https://n.news.naver.com/article/030/0003461543?type=journalists",
+      "published_at": "2026-08-30T11:03:13+09:00",
+      "sent_at": "2026-08-30T11:15:15.373221+09:00"
     }
   ],
-  "last_run_at": "2026-08-30T02:10:05.586244+00:00"
+  "last_run_at": "2026-08-30T02:15:10.474282+00:00"
 }
