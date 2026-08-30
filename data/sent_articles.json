@@ -422,7 +422,16 @@
       "url": "https://n.news.naver.com/article/030/0003461576?type=journalists",
       "published_at": "2026-08-30T13:01:09+09:00",
       "sent_at": "2026-08-30T13:17:07.336356+09:00"
+    },
+    {
+      "id": "29261d6078e174928f92734e8e0bb7c4dcf0422cab64afa261a299a16704488b",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "NC AI, 사우디 LEAP 참가…풀스택 AI 공동관 운영",
+      "url": "https://n.news.naver.com/article/001/0016279288?type=journalists",
+      "published_at": "2026-08-31T08:20:48+09:00",
+      "sent_at": "2026-08-31T08:35:48.171664+09:00"
     }
   ],
-  "last_run_at": "2026-08-30T23:30:37.484235+00:00"
+  "last_run_at": "2026-08-30T23:35:42.211760+00:00"
 }
