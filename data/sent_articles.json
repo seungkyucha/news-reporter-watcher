@@ -548,7 +548,16 @@
       "url": "https://n.news.naver.com/article/001/0016280840?type=journalists",
       "published_at": "2026-08-31T15:56:20+09:00",
       "sent_at": "2026-08-31T16:13:54.289589+09:00"
+    },
+    {
+      "id": "02d84cbe2cacca3735887457cffe1c88053ec963abc60698542ef38a767e6418",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "지스타 2026, 판교서 첫 팝업스토어... 크림과 '스페셜 패스' 선봬",
+      "url": "https://n.news.naver.com/article/030/0003462042?type=journalists",
+      "published_at": "2026-08-31T19:58:17+09:00",
+      "sent_at": "2026-08-31T20:12:39.545531+09:00"
     }
   ],
-  "last_run_at": "2026-08-31T11:07:29.842160+00:00"
+  "last_run_at": "2026-08-31T11:12:34.773836+00:00"
 }
