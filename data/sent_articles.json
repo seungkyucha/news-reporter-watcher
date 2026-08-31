@@ -458,7 +458,25 @@
       "url": "https://n.news.naver.com/article/001/0016280315?type=journalists",
       "published_at": "2026-08-31T13:00:01+09:00",
       "sent_at": "2026-08-31T13:15:30.555294+09:00"
+    },
+    {
+      "id": "b63e63b10ef67ecf2480fac7e936118857d3fee5379cd0bb0066936c4138f971",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "넥슨, AI 시대 맞춰 NYPC 전면 개편... 베트남 참가자와 글로벌 가능성 확인",
+      "url": "https://n.news.naver.com/article/030/0003461883?type=journalists",
+      "published_at": "2026-08-31T13:09:12+09:00",
+      "sent_at": "2026-08-31T13:25:42.743781+09:00"
+    },
+    {
+      "id": "e5f4c14dd2c59ad99937cf8c3d236ad4ae2d7ef53a045ae6fc1fffc0a22d2431",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "넥슨, 롯데월드 부산에 '메이플스토리' 입힌다... 11월 22일까지 컬래버",
+      "url": "https://n.news.naver.com/article/030/0003461880?type=journalists",
+      "published_at": "2026-08-31T13:06:14+09:00",
+      "sent_at": "2026-08-31T13:25:45.539402+09:00"
     }
   ],
-  "last_run_at": "2026-08-31T04:20:33.157379+00:00"
+  "last_run_at": "2026-08-31T04:25:37.806297+00:00"
 }
