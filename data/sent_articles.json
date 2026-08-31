@@ -539,7 +539,16 @@
       "url": "https://n.news.naver.com/article/001/0016280503?type=journalists",
       "published_at": "2026-08-31T14:27:12+09:00",
       "sent_at": "2026-08-31T14:47:21.422834+09:00"
+    },
+    {
+      "id": "ab6e10ab43c17802ea1956d70e10dfcec531c735d592c0194f79e3cba9ff17d3",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "지스타 2026, 개막 전 붐업 나선다…판교서 첫 팝업",
+      "url": "https://n.news.naver.com/article/001/0016280840?type=journalists",
+      "published_at": "2026-08-31T15:56:20+09:00",
+      "sent_at": "2026-08-31T16:13:54.289589+09:00"
     }
   ],
-  "last_run_at": "2026-08-31T07:08:45.309299+00:00"
+  "last_run_at": "2026-08-31T07:13:49.732268+00:00"
 }
