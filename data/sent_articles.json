@@ -530,7 +530,16 @@
       "url": "https://n.news.naver.com/article/001/0016280331?type=journalists",
       "published_at": "2026-08-31T13:17:57+09:00",
       "sent_at": "2026-08-31T13:36:12.314191+09:00"
+    },
+    {
+      "id": "aedd12ff5e6b539632003d58c6a60a16c5d88886fee904a2ec7c8c563fac62e6",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "원스토어 글로벌 122개국 출시…AI·블록체인 게임 전면에",
+      "url": "https://n.news.naver.com/article/001/0016280503?type=journalists",
+      "published_at": "2026-08-31T14:27:12+09:00",
+      "sent_at": "2026-08-31T14:47:21.422834+09:00"
     }
   ],
-  "last_run_at": "2026-08-31T05:42:10.408014+00:00"
+  "last_run_at": "2026-08-31T05:47:15.313342+00:00"
 }
