@@ -440,7 +440,16 @@
       "url": "https://n.news.naver.com/article/001/0016279522?type=journalists",
       "published_at": "2026-08-31T09:34:30+09:00",
       "sent_at": "2026-08-31T09:46:56.856081+09:00"
+    },
+    {
+      "id": "8e2198b4cda1d07dbec5deb900cf4aa0f7612650dc6249fc4d9e7a9c5834eb97",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "서브컬처 콘텐츠·IP 세계로…'일러스타 월드' 조직위 출범",
+      "url": "https://n.news.naver.com/article/001/0016279550?type=journalists",
+      "published_at": "2026-08-31T09:41:39+09:00",
+      "sent_at": "2026-08-31T09:57:10.018629+09:00"
     }
   ],
-  "last_run_at": "2026-08-31T00:51:59.671806+00:00"
+  "last_run_at": "2026-08-31T00:57:04.840180+00:00"
 }
