@@ -431,7 +431,16 @@
       "url": "https://n.news.naver.com/article/001/0016279288?type=journalists",
       "published_at": "2026-08-31T08:20:48+09:00",
       "sent_at": "2026-08-31T08:35:48.171664+09:00"
+    },
+    {
+      "id": "d89e5fe04ff1fb6f0e8ef1c75f39c8ba1d33bbc6280043f0a939d55f7ad4b128",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "호요버스, '호요랜드 2026' 10월 개최…지스타 4년만에 복귀",
+      "url": "https://n.news.naver.com/article/001/0016279522?type=journalists",
+      "published_at": "2026-08-31T09:34:30+09:00",
+      "sent_at": "2026-08-31T09:46:56.856081+09:00"
     }
   ],
-  "last_run_at": "2026-08-31T00:41:47.653497+00:00"
+  "last_run_at": "2026-08-31T00:46:52.218268+00:00"
 }
