@@ -476,7 +476,61 @@
       "url": "https://n.news.naver.com/article/030/0003461880?type=journalists",
       "published_at": "2026-08-31T13:06:14+09:00",
       "sent_at": "2026-08-31T13:25:45.539402+09:00"
+    },
+    {
+      "id": "fb6765a874ed92450426c5ae07a0380672d1ca09719cbd144ada274d5496421c",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "'제우스' 양대 마켓 1위에 게임스컴 신작까지... 김대훤의 에이버튼 주목",
+      "url": "https://n.news.naver.com/article/030/0003461898?type=journalists",
+      "published_at": "2026-08-31T13:21:17+09:00",
+      "sent_at": "2026-08-31T13:35:58.278007+09:00"
+    },
+    {
+      "id": "21d11d38a81911baa7d41c34aa98ab2504decd40677921d4b662934fb428828a",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "원스토어, 122개국 글로벌 서비스 개시... AI·블록체인 게임 유통 본격화",
+      "url": "https://n.news.naver.com/article/030/0003461896?type=journalists",
+      "published_at": "2026-08-31T13:19:14+09:00",
+      "sent_at": "2026-08-31T13:36:01.311389+09:00"
+    },
+    {
+      "id": "84d784502129723d54e0a130882ed99f461a0abd6d952093f2b7daa03cd89aa9",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "\"게임의 가치, 사람의 지성이 완성\"",
+      "url": "https://n.news.naver.com/article/001/0016280335?type=journalists",
+      "published_at": "2026-08-31T13:18:16+09:00",
+      "sent_at": "2026-08-31T13:36:04.427534+09:00"
+    },
+    {
+      "id": "f0fbfa7023630a82c2d8e61cd4bf2305d5bc7b32c93fbd46d8c2b831ec8be109",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "강연하는 '블루 아카이브' 넥슨게임즈 김용하 IO본부장",
+      "url": "https://n.news.naver.com/article/001/0016280334?type=journalists",
+      "published_at": "2026-08-31T13:18:10+09:00",
+      "sent_at": "2026-08-31T13:36:06.997636+09:00"
+    },
+    {
+      "id": "f34da897389b56483a71325eb9ec9fd05e1b15f266090d76904bb264a8419f06",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "오픈AI와 협업 소개하는 송병준 컴투스 의장",
+      "url": "https://n.news.naver.com/article/001/0016280333?type=journalists",
+      "published_at": "2026-08-31T13:18:03+09:00",
+      "sent_at": "2026-08-31T13:36:09.612986+09:00"
+    },
+    {
+      "id": "5f659b6d7b034ed3300012fcc25ed421e0790fd4ba6f3d707be11d0540ec7122",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "강연하는 '리니지 아버지' 송재경",
+      "url": "https://n.news.naver.com/article/001/0016280331?type=journalists",
+      "published_at": "2026-08-31T13:17:57+09:00",
+      "sent_at": "2026-08-31T13:36:12.314191+09:00"
     }
   ],
-  "last_run_at": "2026-08-31T04:30:48.645327+00:00"
+  "last_run_at": "2026-08-31T04:35:53.180498+00:00"
 }
