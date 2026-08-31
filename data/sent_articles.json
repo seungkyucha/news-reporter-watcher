@@ -440,7 +440,25 @@
       "url": "https://n.news.naver.com/article/001/0016279550?type=journalists",
       "published_at": "2026-08-31T09:41:39+09:00",
       "sent_at": "2026-08-31T09:57:10.018629+09:00"
+    },
+    {
+      "id": "09dcbc2d5366d6ea9b8c16cf1ae7abc9fcc7ffea5c547043ceb66660d877adb1",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "호요버스, 10월 '호요랜드2026' 개최... 지스타도 4년 만에 복귀",
+      "url": "https://n.news.naver.com/article/030/0003461879?type=journalists",
+      "published_at": "2026-08-31T13:02:15+09:00",
+      "sent_at": "2026-08-31T13:15:27.138111+09:00"
+    },
+    {
+      "id": "ef1803cc284e928b15c6e90744775c9a974f4404995d65030ce8ed8fe9ca1835",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "오픈AI에 모인 게임계 리더들…\"AI, 도구 넘어 게임 참가자로\"",
+      "url": "https://n.news.naver.com/article/001/0016280315?type=journalists",
+      "published_at": "2026-08-31T13:00:01+09:00",
+      "sent_at": "2026-08-31T13:15:30.555294+09:00"
     }
   ],
-  "last_run_at": "2026-08-31T04:10:17.617814+00:00"
+  "last_run_at": "2026-08-31T04:15:22.516720+00:00"
 }
