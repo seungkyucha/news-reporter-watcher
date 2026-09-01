@@ -584,7 +584,25 @@
       "url": "https://n.news.naver.com/article/001/0016282093?type=journalists",
       "published_at": "2026-09-01T11:10:07+09:00",
       "sent_at": "2026-09-01T11:23:13.181890+09:00"
+    },
+    {
+      "id": "e869b18a02ebf19cfc2792707afee3e4eb4b5617ddcd96ca3f15cd8838c25af4",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "[ICT 시사용어] 프론티어 AI",
+      "url": "https://n.news.naver.com/article/030/0003462331?type=journalists",
+      "published_at": "2026-09-01T14:20:17+09:00",
+      "sent_at": "2026-09-01T14:36:48.039409+09:00"
+    },
+    {
+      "id": "bf1ae50e46ccffbea75a2425d68e14200ba5be8686bc2cca98c8813b5794807a",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "[ET톡] '세계 최대 게임쇼' 개최국의 고민",
+      "url": "https://n.news.naver.com/article/030/0003462330?type=journalists",
+      "published_at": "2026-09-01T14:20:15+09:00",
+      "sent_at": "2026-09-01T14:36:50.778173+09:00"
     }
   ],
-  "last_run_at": "2026-09-01T05:31:38.165349+00:00"
+  "last_run_at": "2026-09-01T05:36:43.404519+00:00"
 }
