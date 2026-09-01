@@ -1,24 +1,6 @@
 {
   "sent": [
     {
-      "id": "16d0ea0bd2f60d7ab775ca86503f722b9e09bd027c59a29d6c5132224ee73e17",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "[가보니] 신작 정보에 환호성…전세계 게이머 축제 된 게임스컴 전야제",
-      "url": "https://n.news.naver.com/article/001/0016270625?type=journalists",
-      "published_at": "2026-08-26T06:20:22+09:00",
-      "sent_at": "2026-08-26T06:32:51.097590+09:00"
-    },
-    {
-      "id": "6f4e6bd8a046f4f43ce8c35509c3ccacc3df689cde7f7c331b66074e8f6862ce",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "엔씨, 팀 기반 FPS '라이크 오어 다이' 최초 공개",
-      "url": "https://n.news.naver.com/article/001/0016270621?type=journalists",
-      "published_at": "2026-08-26T06:17:47+09:00",
-      "sent_at": "2026-08-26T06:32:53.515984+09:00"
-    },
-    {
       "id": "b7abbe9458881c9d0a817f0c17f3c95eed43c394110504407c594d99aafcbf6e",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -586,5 +568,5 @@
       "sent_at": "2026-09-01T17:35:08.272139+09:00"
     }
   ],
-  "last_run_at": "2026-09-01T21:28:08.502409+00:00"
+  "last_run_at": "2026-09-01T21:33:13.150468+00:00"
 }
