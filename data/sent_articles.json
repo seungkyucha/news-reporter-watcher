@@ -602,7 +602,16 @@
       "url": "https://n.news.naver.com/article/030/0003462347?type=journalists",
       "published_at": "2026-09-01T14:38:17+09:00",
       "sent_at": "2026-09-01T14:57:16.106590+09:00"
+    },
+    {
+      "id": "4c465c44d4820929e1705fac053d2ea46ddea1b81f889e09c8f007cd6104200a",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "여전한 MMORPG 강세…'제우스'·'솔: 인챈트' 상위권 석권",
+      "url": "https://n.news.naver.com/article/001/0016283668?type=journalists",
+      "published_at": "2026-09-01T17:21:02+09:00",
+      "sent_at": "2026-09-01T17:35:08.272139+09:00"
     }
   ],
-  "last_run_at": "2026-09-01T08:29:57.799830+00:00"
+  "last_run_at": "2026-09-01T08:35:02.811319+00:00"
 }
