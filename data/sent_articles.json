@@ -575,7 +575,16 @@
       "url": "https://n.news.naver.com/article/001/0016281618?type=journalists",
       "published_at": "2026-09-01T09:40:04+09:00",
       "sent_at": "2026-09-01T09:56:45.204334+09:00"
+    },
+    {
+      "id": "9b70e60fa68374c3e19004514b1e3842c19ebbdf381a79fe730d31ccb02b408b",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "스마일게이트 임직원, 지역아동센터에 '새활용 우산' 기부",
+      "url": "https://n.news.naver.com/article/001/0016282093?type=journalists",
+      "published_at": "2026-09-01T11:10:07+09:00",
+      "sent_at": "2026-09-01T11:23:13.181890+09:00"
     }
   ],
-  "last_run_at": "2026-09-01T02:18:03.111240+00:00"
+  "last_run_at": "2026-09-01T02:23:07.928168+00:00"
 }
