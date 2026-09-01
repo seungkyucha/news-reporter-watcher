@@ -557,7 +557,16 @@
       "url": "https://n.news.naver.com/article/030/0003462042?type=journalists",
       "published_at": "2026-08-31T19:58:17+09:00",
       "sent_at": "2026-08-31T20:12:39.545531+09:00"
+    },
+    {
+      "id": "36120cf9285b60cffb7e96736f6afda84ef3d7f40546ccf3c09b5c8d69d47bb8",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "슈퍼패스트, 차세대 게임 발굴 프로그램에 최종 2개사 선정",
+      "url": "https://n.news.naver.com/article/001/0016281590?type=journalists",
+      "published_at": "2026-09-01T09:31:28+09:00",
+      "sent_at": "2026-09-01T09:41:28.187994+09:00"
     }
   ],
-  "last_run_at": "2026-09-01T00:36:18.741657+00:00"
+  "last_run_at": "2026-09-01T00:41:23.129776+00:00"
 }
