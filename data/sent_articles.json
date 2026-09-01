@@ -602,7 +602,25 @@
       "url": "https://n.news.naver.com/article/030/0003462330?type=journalists",
       "published_at": "2026-09-01T14:20:15+09:00",
       "sent_at": "2026-09-01T14:36:50.778173+09:00"
+    },
+    {
+      "id": "df562134a863dc1c1f6428a389c78b2c2d041bd133aab3da2d6aa23343f87731",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "카카오게임즈 '도깨비의세계' 10월 출격... 8일 쇼케이스서 출시일 공개",
+      "url": "https://n.news.naver.com/article/030/0003462355?type=journalists",
+      "published_at": "2026-09-01T14:42:19+09:00",
+      "sent_at": "2026-09-01T14:57:13.198667+09:00"
+    },
+    {
+      "id": "222b9f3d673fe083e9c8413c5f44f4b51709b6287351b44543885c8aff378539",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "中 8월 외자판호 6종 중 절반이 K게임·IP... 나혼렙·쿠키런 중국 진출",
+      "url": "https://n.news.naver.com/article/030/0003462347?type=journalists",
+      "published_at": "2026-09-01T14:38:17+09:00",
+      "sent_at": "2026-09-01T14:57:16.106590+09:00"
     }
   ],
-  "last_run_at": "2026-09-01T05:52:03.793962+00:00"
+  "last_run_at": "2026-09-01T05:57:08.764784+00:00"
 }
