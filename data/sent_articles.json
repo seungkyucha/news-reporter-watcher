@@ -557,7 +557,16 @@
       "url": "https://n.news.naver.com/article/001/0016284471?type=journalists",
       "published_at": "2026-09-02T10:01:56+09:00",
       "sent_at": "2026-09-02T10:16:58.389615+09:00"
+    },
+    {
+      "id": "534ad70e59deeba2da44408a336deb27fdd152f6f0161d52d5cab2be577b7fa7",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "카카오게임즈, AI 백엔드 기업 '백엔드엑스'에 전략 투자",
+      "url": "https://n.news.naver.com/article/001/0016284687?type=journalists",
+      "published_at": "2026-09-02T10:45:59+09:00",
+      "sent_at": "2026-09-02T11:02:43.564875+09:00"
     }
   ],
-  "last_run_at": "2026-09-02T01:57:33.951396+00:00"
+  "last_run_at": "2026-09-02T02:02:38.810323+00:00"
 }
