@@ -557,7 +557,16 @@
       "url": "https://n.news.naver.com/article/001/0016284687?type=journalists",
       "published_at": "2026-09-02T10:45:59+09:00",
       "sent_at": "2026-09-02T11:02:43.564875+09:00"
+    },
+    {
+      "id": "3d518f5e8f5873c31b0e066506fa0993f5c11d568a75f3de69952ceec58648ab",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "K게임, 게임스컴서 1천200억원 상담…유럽 시장 두드렸다",
+      "url": "https://n.news.naver.com/article/001/0016285397?type=journalists",
+      "published_at": "2026-09-02T14:14:19+09:00",
+      "sent_at": "2026-09-02T14:26:02.060377+09:00"
     }
   ],
-  "last_run_at": "2026-09-02T05:20:52.644156+00:00"
+  "last_run_at": "2026-09-02T05:25:56.934365+00:00"
 }
