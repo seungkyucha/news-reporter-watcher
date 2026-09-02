@@ -1,51 +1,6 @@
 {
   "sent": [
     {
-      "id": "578464bb444dbb431b8df08b8a6630e747fa4b81a85a840dae3a4719968d17e0",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "title": "게임스컴 찾은 K게임 수장들... “글로벌 신작·사업 기회 직접 찾는다”",
-      "url": "https://n.news.naver.com/article/030/0003460697?type=journalists",
-      "published_at": "2026-08-26T18:34:16+09:00",
-      "sent_at": "2026-08-26T18:45:00.950164+09:00"
-    },
-    {
-      "id": "b9b24a961f4cfb88509204b4f6d59810ba0cc60f2acce6cd3795da5d5b2663e6",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "크래프톤 부스 찾은 여야 의원들",
-      "url": "https://n.news.naver.com/article/001/0016272916?type=journalists",
-      "published_at": "2026-08-26T18:31:02+09:00",
-      "sent_at": "2026-08-26T18:45:04.367504+09:00"
-    },
-    {
-      "id": "66f3bd52c0f005e83b8506e4aa5f130b8aea59421231c1cd3fcaddaff2c26733",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "펄어비스 '붉은사막' 플레이하는 정연욱 의원",
-      "url": "https://n.news.naver.com/article/001/0016272913?type=journalists",
-      "published_at": "2026-08-26T18:30:27+09:00",
-      "sent_at": "2026-08-26T18:45:06.783063+09:00"
-    },
-    {
-      "id": "426d82cd58911253497d4b96e4a123beee3d1c991a7ec74b577c29c13cd6d97d",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "삼성전자·펄어비스 부스 찾은 여야 의원들",
-      "url": "https://n.news.naver.com/article/001/0016272912?type=journalists",
-      "published_at": "2026-08-26T18:30:05+09:00",
-      "sent_at": "2026-08-26T18:45:09.452535+09:00"
-    },
-    {
-      "id": "2b6ba59d3bad37c02f955effd6f98165cccc978100f23f9630e58a357f3cb107",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "펄어비스 '붉은사막' 플레이하는 조승래 의원",
-      "url": "https://n.news.naver.com/article/001/0016272910?type=journalists",
-      "published_at": "2026-08-26T18:29:36+09:00",
-      "sent_at": "2026-08-26T18:45:12.097555+09:00"
-    },
-    {
       "id": "11408d6f1753462ddaacf091594bdd4693bee387830c90e0f6a03f57739590bc",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -577,5 +532,5 @@
       "sent_at": "2026-09-02T18:35:15.479711+09:00"
     }
   ],
-  "last_run_at": "2026-09-02T09:40:19.441439+00:00"
+  "last_run_at": "2026-09-02T09:45:23.549510+00:00"
 }
