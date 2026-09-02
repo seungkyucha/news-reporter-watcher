@@ -1,24 +1,6 @@
 {
   "sent": [
     {
-      "id": "4db2b8aceedd629109d92fc6a86650a9b4218c0a497b23483081f31efff4d716",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "[만나보니] 라이크 오어 다이 제작진 \"웹소설·인터넷방송 문화에 영감\"",
-      "url": "https://n.news.naver.com/article/001/0016273378?type=journalists",
-      "published_at": "2026-08-27T07:00:01+09:00",
-      "sent_at": "2026-08-27T07:12:46.069415+09:00"
-    },
-    {
-      "id": "c903830c6f6ffa3846d01edfb1bf2fc64d7007047549520335aca0d8db5f0c33",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "[만나보니] 엔씨 캐주얼 총괄 \"AI 기반 데이터 분석으로 매출 최적화\"",
-      "url": "https://n.news.naver.com/article/001/0016273377?type=journalists",
-      "published_at": "2026-08-27T07:00:00+09:00",
-      "sent_at": "2026-08-27T07:12:48.794716+09:00"
-    },
-    {
       "id": "54372830e59d9cb7d1db6985f4e454fc7fee2d41d2b08ca43deae5c144185213",
       "reporter": "박정은",
       "press": "전자신문",
@@ -460,5 +442,5 @@
       "sent_at": "2026-09-02T18:35:15.479711+09:00"
     }
   ],
-  "last_run_at": "2026-09-02T22:07:57.358371+00:00"
+  "last_run_at": "2026-09-02T22:13:01.787150+00:00"
 }
