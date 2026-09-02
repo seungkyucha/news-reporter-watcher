@@ -1,33 +1,6 @@
 {
   "sent": [
     {
-      "id": "fb2060e4a61c7ff977718a65d763aa3601d9bc68e09767c1561fe408b85599c1",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "'프로젝트 제타' 개발진 \"끊임없이 싸우는 팀파이트가 핵심\"",
-      "url": "https://n.news.naver.com/article/001/0016273284?type=journalists",
-      "published_at": "2026-08-27T02:00:02+09:00",
-      "sent_at": "2026-08-27T02:16:48.671766+09:00"
-    },
-    {
-      "id": "13321eb43b6b1b6cc4c26334663b54834696aabba59aaca2c73cca7e97bb8f15",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "'PUBG: 데드넷' 첫 공개…\"배틀로얄에 로그라이크 섞었다\"",
-      "url": "https://n.news.naver.com/article/001/0016273283?type=journalists",
-      "published_at": "2026-08-27T02:00:02+09:00",
-      "sent_at": "2026-08-27T02:16:52.041667+09:00"
-    },
-    {
-      "id": "4a38b82bbbadb66c870689ec68d3ff3270a984b927eb71a6887bfb7547ed0587",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "크래프톤 '타래: 언바운드' 해보니…한국적 세계관에 액션 손맛",
-      "url": "https://n.news.naver.com/article/001/0016273282?type=journalists",
-      "published_at": "2026-08-27T02:00:00+09:00",
-      "sent_at": "2026-08-27T02:16:55.814310+09:00"
-    },
-    {
       "id": "43a1b5090ed11bfc9c8c389177968b030a7b3de584aa5ecc3803b1f457263118",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -505,5 +478,5 @@
       "sent_at": "2026-09-02T18:35:15.479711+09:00"
     }
   ],
-  "last_run_at": "2026-09-02T17:12:53.525411+00:00"
+  "last_run_at": "2026-09-02T17:17:58.324458+00:00"
 }
