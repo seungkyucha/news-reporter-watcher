@@ -1,24 +1,6 @@
 {
   "sent": [
     {
-      "id": "43a1b5090ed11bfc9c8c389177968b030a7b3de584aa5ecc3803b1f457263118",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "'NO LAW' 제작진 \"모든 선택이 새로운 가능성 만든다\"",
-      "url": "https://n.news.naver.com/article/001/0016273301?type=journalists",
-      "published_at": "2026-08-27T04:44:29+09:00",
-      "sent_at": "2026-08-27T04:54:49.826593+09:00"
-    },
-    {
-      "id": "7eceba4da52ddb82fc8c64be2ef70b60816f3b1998c788fed829258191fdd2a6",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "크래프톤 장태석 총괄 \"팬에 오랫동안 사랑받는 게임사 되겠다\"",
-      "url": "https://n.news.naver.com/article/001/0016273300?type=journalists",
-      "published_at": "2026-08-27T04:44:11+09:00",
-      "sent_at": "2026-08-27T04:54:52.244503+09:00"
-    },
-    {
       "id": "4db2b8aceedd629109d92fc6a86650a9b4218c0a497b23483081f31efff4d716",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -478,5 +460,5 @@
       "sent_at": "2026-09-02T18:35:15.479711+09:00"
     }
   ],
-  "last_run_at": "2026-09-02T19:50:54.355864+00:00"
+  "last_run_at": "2026-09-02T19:55:59.159334+00:00"
 }
