@@ -557,7 +557,25 @@
       "url": "https://n.news.naver.com/article/001/0016285501?type=journalists",
       "published_at": "2026-09-02T14:32:12+09:00",
       "sent_at": "2026-09-02T14:46:26.751137+09:00"
+    },
+    {
+      "id": "ec4a182be3174aaa414ff113734e32c95c68af9aed02c84f09ddf56b4918010f",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "정연욱 의원 “국내 최대 게임쇼 지스타, 반드시 부산이 지켜내야”",
+      "url": "https://n.news.naver.com/article/030/0003462996?type=journalists",
+      "published_at": "2026-09-02T18:24:12+09:00",
+      "sent_at": "2026-09-02T18:35:12.937175+09:00"
+    },
+    {
+      "id": "eef0a3e3982fe17c6d5f8c5201c153414312d441b3c72a0bdf36f9960d8dc3a1",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "MonoGPT, 기관용 AI 영상 제작 기능 출시... 시댄스2.5·클링 비디오3.0 옴니 지원",
+      "url": "https://n.news.naver.com/article/030/0003462995?type=journalists",
+      "published_at": "2026-09-02T18:19:14+09:00",
+      "sent_at": "2026-09-02T18:35:15.479711+09:00"
     }
   ],
-  "last_run_at": "2026-09-02T09:30:04.462103+00:00"
+  "last_run_at": "2026-09-02T09:35:08.755591+00:00"
 }
