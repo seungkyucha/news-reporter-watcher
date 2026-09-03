@@ -449,7 +449,16 @@
       "url": "https://n.news.naver.com/article/001/0016286825?type=journalists",
       "published_at": "2026-09-03T09:21:07+09:00",
       "sent_at": "2026-09-03T09:35:31.077217+09:00"
+    },
+    {
+      "id": "38bbc92d654c1b83391142e4a8beda16e95f331b77e07c92628f1a9156d54730",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "크래프톤, 지스타 10년 연속 참가…\"타이틀 추후 공개\"",
+      "url": "https://n.news.naver.com/article/001/0016286986?type=journalists",
+      "published_at": "2026-09-03T09:47:32+09:00",
+      "sent_at": "2026-09-03T10:06:03.997763+09:00"
     }
   ],
-  "last_run_at": "2026-09-03T01:00:54.013410+00:00"
+  "last_run_at": "2026-09-03T01:05:59.025616+00:00"
 }
