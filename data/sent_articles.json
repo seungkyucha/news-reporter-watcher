@@ -458,7 +458,25 @@
       "url": "https://n.news.naver.com/article/001/0016286986?type=journalists",
       "published_at": "2026-09-03T09:47:32+09:00",
       "sent_at": "2026-09-03T10:06:03.997763+09:00"
+    },
+    {
+      "id": "c9e54d0c8993ef8013cfbcca2b536f68323ae574a5b3e73b0f1559f845f786f0",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "아이언메이스, PAX 웨스트·도쿄게임쇼에 '다크 앤 다커' 출품",
+      "url": "https://n.news.naver.com/article/001/0016287221?type=journalists",
+      "published_at": "2026-09-03T10:24:48+09:00",
+      "sent_at": "2026-09-03T10:36:35.792187+09:00"
+    },
+    {
+      "id": "4dacd763b8f34ec37d26cf83ab8b1360bc4d3b0a9f9616704ffb4f229b38d867",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "게임단체 \"구글 앱수수료 배상해야\"…구글 \"합의 사실무근\"(종합)",
+      "url": "https://n.news.naver.com/article/001/0016287213?type=journalists",
+      "published_at": "2026-09-03T10:22:20+09:00",
+      "sent_at": "2026-09-03T10:36:38.186123+09:00"
     }
   ],
-  "last_run_at": "2026-09-03T01:31:24.750352+00:00"
+  "last_run_at": "2026-09-03T01:36:30.331589+00:00"
 }
