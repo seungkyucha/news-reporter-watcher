@@ -476,7 +476,16 @@
       "url": "https://n.news.naver.com/article/001/0016287213?type=journalists",
       "published_at": "2026-09-03T10:22:20+09:00",
       "sent_at": "2026-09-03T10:36:38.186123+09:00"
+    },
+    {
+      "id": "9941126c6a903e72666a5c9934cdd6f4c65a756a886f3fad948e7e03926dda96",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "라이엇게임즈, LoL 카드게임 '리프트바운드' 18일 출시",
+      "url": "https://n.news.naver.com/article/001/0016287523?type=journalists",
+      "published_at": "2026-09-03T11:23:41+09:00",
+      "sent_at": "2026-09-03T11:32:35.485342+09:00"
     }
   ],
-  "last_run_at": "2026-09-03T02:27:24.131134+00:00"
+  "last_run_at": "2026-09-03T02:32:29.014393+00:00"
 }
