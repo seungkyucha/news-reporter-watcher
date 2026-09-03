@@ -1,15 +1,6 @@
 {
   "sent": [
     {
-      "id": "431e73a849af8828ac2ba2df3aaa4beb9c5f5956d08fa907ea183ca4bf84da5a",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "title": "올드 IP의 귀환·中 신작 공세… 게임스컴 달군 세대교체 경쟁",
-      "url": "https://n.news.naver.com/article/030/0003460982?type=journalists",
-      "published_at": "2026-08-27T14:36:19+09:00",
-      "sent_at": "2026-08-27T14:55:11.889494+09:00"
-    },
-    {
       "id": "b136314f944b69dc1621bd81e14bb32ce50ee8d2e78b028042bd70cc96a82e9c",
       "reporter": "박정은",
       "press": "전자신문",
@@ -487,5 +478,5 @@
       "sent_at": "2026-09-03T13:29:29.110527+09:00"
     }
   ],
-  "last_run_at": "2026-09-03T05:50:57.571175+00:00"
+  "last_run_at": "2026-09-03T05:56:02.954546+00:00"
 }
