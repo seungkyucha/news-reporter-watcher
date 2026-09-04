@@ -422,7 +422,25 @@
       "url": "https://n.news.naver.com/article/001/0016289443?type=journalists",
       "published_at": "2026-09-04T09:25:50+09:00",
       "sent_at": "2026-09-04T09:44:59.610390+09:00"
+    },
+    {
+      "id": "84c9e7476e798f5e1c3cb5449f2a4965c26c90b7bb1d5c2453f2ce8e25324e8b",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "데브시스터즈 '쿠키런 카드 게임' 내년 유럽 진출",
+      "url": "https://n.news.naver.com/article/001/0016289522?type=journalists",
+      "published_at": "2026-09-04T09:42:04+09:00",
+      "sent_at": "2026-09-04T09:55:12.794413+09:00"
+    },
+    {
+      "id": "13544fece825312e01d49227b18eed2630a5615bf51a92c64c2b5c0075429a6e",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "크래프톤 5민랩, 신작 '세계허구관리연맹: WPCA' 공개",
+      "url": "https://n.news.naver.com/article/001/0016289497?type=journalists",
+      "published_at": "2026-09-04T09:39:15+09:00",
+      "sent_at": "2026-09-04T09:55:15.367393+09:00"
     }
   ],
-  "last_run_at": "2026-09-04T00:50:02.412922+00:00"
+  "last_run_at": "2026-09-04T00:55:07.303124+00:00"
 }
