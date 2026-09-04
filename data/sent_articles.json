@@ -512,7 +512,16 @@
       "url": "https://n.news.naver.com/article/001/0016290439?type=journalists",
       "published_at": "2026-09-04T14:45:20+09:00",
       "sent_at": "2026-09-04T15:05:40.676135+09:00"
+    },
+    {
+      "id": "dd18432e6e0064da301cb3c15251886157607e4d8d3ee8436797d55c5e8effbe",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "SOOP, 판교 신사옥 매입…\"업무 거점 단계적 통합\"",
+      "url": "https://n.news.naver.com/article/001/0016290934?type=journalists",
+      "published_at": "2026-09-04T17:51:24+09:00",
+      "sent_at": "2026-09-04T18:03:39.492201+09:00"
     }
   ],
-  "last_run_at": "2026-09-04T08:58:29.814113+00:00"
+  "last_run_at": "2026-09-04T09:03:34.600028+00:00"
 }
