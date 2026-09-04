@@ -1,24 +1,6 @@
 {
   "sent": [
     {
-      "id": "9d928b887ec189533381e582c10fc44e880cb7d5e3df7ec94f2ef76ca02e20c4",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "[만나보니] 에이버튼 '건즈앤드래곤즈' 디렉터 \"유저 피드백 받아 개발\"",
-      "url": "https://n.news.naver.com/article/001/0016277506?type=journalists",
-      "published_at": "2026-08-28T20:33:33+09:00",
-      "sent_at": "2026-08-28T20:46:10.104024+09:00"
-    },
-    {
-      "id": "cdd4d63f294a747eecb2f377a0003aa063f169b03147859540f9532620c8904f",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "익스트랙션에 호러 섞었다…로얄크로우 '웨이스트 더 폴른'",
-      "url": "https://n.news.naver.com/article/001/0016277504?type=journalists",
-      "published_at": "2026-08-28T20:31:06+09:00",
-      "sent_at": "2026-08-28T20:46:12.898222+09:00"
-    },
-    {
       "id": "1de0e1a6bfd14f6a7706ccb593ef96cd5af0cc1b39289ea5a97ca89e8f0ccbf2",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -523,5 +505,5 @@
       "sent_at": "2026-09-04T18:03:39.492201+09:00"
     }
   ],
-  "last_run_at": "2026-09-04T11:41:02.045639+00:00"
+  "last_run_at": "2026-09-04T11:46:23.441948+00:00"
 }
