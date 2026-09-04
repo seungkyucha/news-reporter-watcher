@@ -1,24 +1,6 @@
 {
   "sent": [
     {
-      "id": "fb23ff783dbf300184202a86094be5b694449401910f74ec6d5fc794d9a5c462",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "[아시안게임] 메달 기대주 ⑬리그오브레전드 '페이커' 이상혁",
-      "url": "https://n.news.naver.com/article/001/0016277657?type=journalists",
-      "published_at": "2026-08-29T07:30:02+09:00",
-      "sent_at": "2026-08-29T07:43:14.439897+09:00"
-    },
-    {
-      "id": "6059c967bcc98b53243adc76f704cc461d0c05b5e4e29cf8454d3993307a70e7",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "[아시안게임] ⑬ LoL은 2연패, 배그는 첫 금…e스포츠 출격",
-      "url": "https://n.news.naver.com/article/001/0016277656?type=journalists",
-      "published_at": "2026-08-29T07:30:02+09:00",
-      "sent_at": "2026-08-29T07:43:16.862246+09:00"
-    },
-    {
       "id": "e491f82b33d20180f9f3e3294aa592ef0273f0a0ecc8abb387d160ccffb8dd59",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -496,5 +478,5 @@
       "sent_at": "2026-09-04T18:03:39.492201+09:00"
     }
   ],
-  "last_run_at": "2026-09-04T22:42:20.081429+00:00"
+  "last_run_at": "2026-09-04T22:47:24.774297+00:00"
 }
