@@ -449,7 +449,25 @@
       "url": "https://n.news.naver.com/article/030/0003463559?type=journalists",
       "published_at": "2026-09-04T11:11:15+09:00",
       "sent_at": "2026-09-04T11:26:57.027677+09:00"
+    },
+    {
+      "id": "3a80d32a4303222d941fff0937a30f52fbe6d6861bffdf3bd65d6308ec7a426c",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "크래프톤 5민랩, 신작 '세계허구관리연맹: WPCA' 첫 공개... 서울 배경 3인 협동 헌팅 액션",
+      "url": "https://n.news.naver.com/article/030/0003463583?type=journalists",
+      "published_at": "2026-09-04T12:04:14+09:00",
+      "sent_at": "2026-09-04T12:12:45.503105+09:00"
+    },
+    {
+      "id": "a67843af2cedddc2fd37ecb75c01ff53ca4fa8d5d655c4704e1ac1f001163f56",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "크래프톤 '프로젝트 제타', 2차 글로벌 테스트... 게임스컴 이어 이용자 검증",
+      "url": "https://n.news.naver.com/article/030/0003463578?type=journalists",
+      "published_at": "2026-09-04T11:59:09+09:00",
+      "sent_at": "2026-09-04T12:12:47.923886+09:00"
     }
   ],
-  "last_run_at": "2026-09-04T03:07:35.868277+00:00"
+  "last_run_at": "2026-09-04T03:12:40.263806+00:00"
 }
