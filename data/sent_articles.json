@@ -467,7 +467,34 @@
       "url": "https://n.news.naver.com/article/030/0003463578?type=journalists",
       "published_at": "2026-09-04T11:59:09+09:00",
       "sent_at": "2026-09-04T12:12:47.923886+09:00"
+    },
+    {
+      "id": "df352fed0b56bf34635d1acd076d8cec9ddc404d5d3d304058a5e4fbe06ad059",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "넷마블, TGS 2026 출품작 3종 특설 사이트 오픈... 시연·무대 프로그램 공개",
+      "url": "https://n.news.naver.com/article/030/0003463586?type=journalists",
+      "published_at": "2026-09-04T12:11:09+09:00",
+      "sent_at": "2026-09-04T12:23:00.210958+09:00"
+    },
+    {
+      "id": "3f6383d85176c9bba354721226fdb109891f6d16e3454d41276b85b26f445977",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "스마일게이트 스토브, '스페셜포스 리마스터' 사전예약 시작",
+      "url": "https://n.news.naver.com/article/030/0003463585?type=journalists",
+      "published_at": "2026-09-04T12:09:09+09:00",
+      "sent_at": "2026-09-04T12:23:02.680960+09:00"
+    },
+    {
+      "id": "cfd1d25840e9abdb13844d655bdafbf372de6afd6ec409b3d6981a56c1b753b6",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "데브시스터즈 '쿠키런 카드 게임', 내년 1월 유럽 진출",
+      "url": "https://n.news.naver.com/article/030/0003463584?type=journalists",
+      "published_at": "2026-09-04T12:07:14+09:00",
+      "sent_at": "2026-09-04T12:23:05.035943+09:00"
     }
   ],
-  "last_run_at": "2026-09-04T03:17:51.008701+00:00"
+  "last_run_at": "2026-09-04T03:22:55.614501+00:00"
 }
