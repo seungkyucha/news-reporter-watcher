@@ -404,7 +404,16 @@
       "url": "https://news.mtn.co.kr/news-detail/2026090309502443275",
       "published_at": "Thu, 03 Sep 2026 13:24:00 +0900",
       "sent_at": "2026-09-03T13:29:29.110527+09:00"
+    },
+    {
+      "id": "eeeccb5583c37791488a06b8cc84767c4ba79b1f3892379e78defe4ad512c646",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "펄어비스, '붉은사막' 출시 반년 만에 초대형 DLC... 바다·건설로 세계 확장",
+      "url": "https://n.news.naver.com/article/030/0003463468?type=journalists",
+      "published_at": "2026-09-04T08:55:11+09:00",
+      "sent_at": "2026-09-04T09:04:16.220045+09:00"
     }
   ],
-  "last_run_at": "2026-09-03T23:59:06.271514+00:00"
+  "last_run_at": "2026-09-04T00:04:11.660549+00:00"
 }
