@@ -440,7 +440,16 @@
       "url": "https://n.news.naver.com/article/001/0016289497?type=journalists",
       "published_at": "2026-09-04T09:39:15+09:00",
       "sent_at": "2026-09-04T09:55:15.367393+09:00"
+    },
+    {
+      "id": "7000ff2ebc1c207844e0b25ef2d65b8535efefcdda6c17accced4540a29efc2b",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "문체부, K콘텐츠에 1.8조 투입... 게임 대작 키우고 OTT 종속 낮춘다",
+      "url": "https://n.news.naver.com/article/030/0003463559?type=journalists",
+      "published_at": "2026-09-04T11:11:15+09:00",
+      "sent_at": "2026-09-04T11:26:57.027677+09:00"
     }
   ],
-  "last_run_at": "2026-09-04T02:21:47.715753+00:00"
+  "last_run_at": "2026-09-04T02:26:52.126066+00:00"
 }
