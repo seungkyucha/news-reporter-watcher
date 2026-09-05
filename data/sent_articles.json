@@ -476,7 +476,16 @@
       "url": "https://n.news.naver.com/article/001/0016291546?type=journalists",
       "published_at": "2026-09-05T11:00:01+09:00",
       "sent_at": "2026-09-05T11:15:39.102785+09:00"
+    },
+    {
+      "id": "7a271e77f894530c10bdfd1b00a3ab9632123071230f62964a5b85e530fa1dfe",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "디펜딩 챔피언 젠지, 한화생명 꺾고 LCK 결승 진출",
+      "url": "https://n.news.naver.com/article/001/0016291916?type=journalists",
+      "published_at": "2026-09-05T20:59:11+09:00",
+      "sent_at": "2026-09-05T21:15:19.590426+09:00"
     }
   ],
-  "last_run_at": "2026-09-05T12:10:09.788385+00:00"
+  "last_run_at": "2026-09-05T12:15:14.376071+00:00"
 }
