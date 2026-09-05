@@ -476,7 +476,16 @@
       "url": "https://n.news.naver.com/article/001/0016290934?type=journalists",
       "published_at": "2026-09-04T17:51:24+09:00",
       "sent_at": "2026-09-04T18:03:39.492201+09:00"
+    },
+    {
+      "id": "12dbe0a8dd8748549bf0e39c2f162dcc7cfbea32f89dbe4a8aa993467d067bcb",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "[게임위드인] 총 대신 낚싯대 든다…한중일 '힐링 게임' 격돌",
+      "url": "https://n.news.naver.com/article/001/0016291546?type=journalists",
+      "published_at": "2026-09-05T11:00:01+09:00",
+      "sent_at": "2026-09-05T11:15:39.102785+09:00"
     }
   ],
-  "last_run_at": "2026-09-05T02:10:29.166593+00:00"
+  "last_run_at": "2026-09-05T02:15:34.142998+00:00"
 }
