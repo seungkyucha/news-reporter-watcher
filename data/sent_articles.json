@@ -1,15 +1,6 @@
 {
   "sent": [
     {
-      "id": "e491f82b33d20180f9f3e3294aa592ef0273f0a0ecc8abb387d160ccffb8dd59",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "[게임위드인] 게임스컴 달군 중일 신작전쟁…한국도 존재감",
-      "url": "https://n.news.naver.com/article/001/0016277767?type=journalists",
-      "published_at": "2026-08-29T11:00:00+09:00",
-      "sent_at": "2026-08-29T11:16:57.058440+09:00"
-    },
-    {
       "id": "a078f086ac3e1900d5a5c6f2cafb33f46ad7ef9b75ea0cd426c601185d4868d7",
       "reporter": "박정은",
       "press": "전자신문",
@@ -487,5 +478,5 @@
       "sent_at": "2026-09-05T11:15:39.102785+09:00"
     }
   ],
-  "last_run_at": "2026-09-05T02:15:34.142998+00:00"
+  "last_run_at": "2026-09-05T02:20:42.302035+00:00"
 }
