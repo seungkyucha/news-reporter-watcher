@@ -494,7 +494,16 @@
       "url": "https://n.news.naver.com/article/001/0016292159?type=journalists",
       "published_at": "2026-09-06T09:14:38+09:00",
       "sent_at": "2026-09-06T09:22:24.980279+09:00"
+    },
+    {
+      "id": "da8fd6c3eccb586f81040303f6caea993be2830dbd21b428176a51c57dce8a6a",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "퍼블리싱 넘어 공동개발로... K게임, 일본서 만드는 글로벌 신작",
+      "url": "https://n.news.naver.com/article/030/0003463868?type=journalists",
+      "published_at": "2026-09-06T10:31:12+09:00",
+      "sent_at": "2026-09-06T10:43:37.645267+09:00"
     }
   ],
-  "last_run_at": "2026-09-06T01:38:28.474823+00:00"
+  "last_run_at": "2026-09-06T01:43:33.319090+00:00"
 }
