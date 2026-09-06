@@ -503,7 +503,16 @@
       "url": "https://n.news.naver.com/article/001/0016292400?type=journalists",
       "published_at": "2026-09-06T13:00:44+09:00",
       "sent_at": "2026-09-06T13:15:57.822317+09:00"
+    },
+    {
+      "id": "f12bda18902d3af5a103ebdf2d2000e91788b1002d26c4acb6c2f534a51dde34",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "불법 프로그램 ·대리게임 적발 매년 1만건…수사의뢰는 0.5%",
+      "url": "https://n.news.naver.com/article/001/0016293125?type=journalists",
+      "published_at": "2026-09-07T07:12:00+09:00",
+      "sent_at": "2026-09-07T07:23:39.985083+09:00"
     }
   ],
-  "last_run_at": "2026-09-06T22:18:30.226129+00:00"
+  "last_run_at": "2026-09-06T22:23:34.703249+00:00"
 }
