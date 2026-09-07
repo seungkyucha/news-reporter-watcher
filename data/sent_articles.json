@@ -503,7 +503,16 @@
       "url": "https://n.news.naver.com/article/001/0016293125?type=journalists",
       "published_at": "2026-09-07T07:12:00+09:00",
       "sent_at": "2026-09-07T07:23:39.985083+09:00"
+    },
+    {
+      "id": "15e0a4b6495105890eb7f1102aa4e64936c9974384657b679341c67ecd95c77d",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "장병규 크래프톤 의장, 모디 인도 총리 만나…투자 확대",
+      "url": "https://n.news.naver.com/article/001/0016293419?type=journalists",
+      "published_at": "2026-09-07T09:24:25+09:00",
+      "sent_at": "2026-09-07T09:35:47.845093+09:00"
     }
   ],
-  "last_run_at": "2026-09-07T00:30:38.049724+00:00"
+  "last_run_at": "2026-09-07T00:35:42.636848+00:00"
 }
