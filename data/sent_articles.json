@@ -494,7 +494,16 @@
       "url": "https://n.news.naver.com/article/001/0016293419?type=journalists",
       "published_at": "2026-09-07T09:24:25+09:00",
       "sent_at": "2026-09-07T09:35:47.845093+09:00"
+    },
+    {
+      "id": "2440759d4ef3c149a451d0f661b3231efe1b37361bcbd487f6897446469199c8",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "아시안게임 앞둔 LoL 대표팀, 부산서 미국·베트남과 실전 점검",
+      "url": "https://n.news.naver.com/article/001/0016293706?type=journalists",
+      "published_at": "2026-09-07T10:23:41+09:00",
+      "sent_at": "2026-09-07T10:36:57.610938+09:00"
     }
   ],
-  "last_run_at": "2026-09-07T01:31:48.101428+00:00"
+  "last_run_at": "2026-09-07T01:36:52.666788+00:00"
 }
