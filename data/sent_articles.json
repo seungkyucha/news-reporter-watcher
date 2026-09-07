@@ -503,7 +503,16 @@
       "url": "https://n.news.naver.com/article/001/0016293706?type=journalists",
       "published_at": "2026-09-07T10:23:41+09:00",
       "sent_at": "2026-09-07T10:36:57.610938+09:00"
+    },
+    {
+      "id": "3abd5ac4f4908bafd30a419a750533c779c9dda34be88a98c62a179e0237a2ef",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "넥슨 '메이플 어택', 올해의 브랜드 대상…게임 밖 IP 확장",
+      "url": "https://n.news.naver.com/article/001/0016293841?type=journalists",
+      "published_at": "2026-09-07T10:52:23+09:00",
+      "sent_at": "2026-09-07T11:02:24.581135+09:00"
     }
   ],
-  "last_run_at": "2026-09-07T01:57:14.430652+00:00"
+  "last_run_at": "2026-09-07T02:02:19.524737+00:00"
 }
