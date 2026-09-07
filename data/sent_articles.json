@@ -476,7 +476,16 @@
       "url": "https://n.news.naver.com/article/030/0003464343?type=journalists",
       "published_at": "2026-09-07T14:16:26+09:00",
       "sent_at": "2026-09-07T14:36:04.037371+09:00"
+    },
+    {
+      "id": "e8a5dffb61641238e757e735c48783393baef880f6a1119b652e1b2425e1ad36",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "게임과 AI를 '디지털 놀이터'로... “통제보다 교육·활용 중심으로”",
+      "url": "https://n.news.naver.com/article/030/0003464486?type=journalists",
+      "published_at": "2026-09-07T18:29:11+09:00",
+      "sent_at": "2026-09-07T18:45:10.756736+09:00"
     }
   ],
-  "last_run_at": "2026-09-07T09:40:01.654796+00:00"
+  "last_run_at": "2026-09-07T09:45:06.440763+00:00"
 }
