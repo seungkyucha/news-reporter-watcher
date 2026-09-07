@@ -467,7 +467,25 @@
       "url": "https://n.news.naver.com/article/001/0016294487?type=journalists",
       "published_at": "2026-09-07T14:01:26+09:00",
       "sent_at": "2026-09-07T14:15:37.074816+09:00"
+    },
+    {
+      "id": "7da6b9ee37306893abc8d6bb5ef84ff75282225b271a113380e1481ad375acf7",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "넥슨 '마비노기 이터니티' 첫 알파 테스트... 엔진 교체 완성도 점검",
+      "url": "https://n.news.naver.com/article/030/0003464339?type=journalists",
+      "published_at": "2026-09-07T14:13:20+09:00",
+      "sent_at": "2026-09-07T14:25:49.381860+09:00"
+    },
+    {
+      "id": "4d34958c4532face1fb5a23e785b116b713c6d10b59ba66f9bbedefd2c315742",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "불법 스트리밍 '주소 차단' 넘어 송출 원천 막는다... 셋톱박스 추적 제도화 제안",
+      "url": "https://n.news.naver.com/article/030/0003464329?type=journalists",
+      "published_at": "2026-09-07T14:10:25+09:00",
+      "sent_at": "2026-09-07T14:25:52.132021+09:00"
     }
   ],
-  "last_run_at": "2026-09-07T05:20:39.805208+00:00"
+  "last_run_at": "2026-09-07T05:25:44.438587+00:00"
 }
