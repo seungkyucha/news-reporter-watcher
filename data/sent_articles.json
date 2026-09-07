@@ -485,7 +485,16 @@
       "url": "https://n.news.naver.com/article/030/0003464329?type=journalists",
       "published_at": "2026-09-07T14:10:25+09:00",
       "sent_at": "2026-09-07T14:25:52.132021+09:00"
+    },
+    {
+      "id": "e05cec9b3ba055d6acc464fbf27393d7697cd030ac3fa0ee38fc09a1e56852dc",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "엔씨 '아스트라에 오라티오', TGS서 첫 시연... 단독 부스 출격",
+      "url": "https://n.news.naver.com/article/030/0003464343?type=journalists",
+      "published_at": "2026-09-07T14:16:26+09:00",
+      "sent_at": "2026-09-07T14:36:04.037371+09:00"
     }
   ],
-  "last_run_at": "2026-09-07T05:30:55.379521+00:00"
+  "last_run_at": "2026-09-07T05:35:59.865300+00:00"
 }
