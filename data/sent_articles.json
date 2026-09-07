@@ -521,7 +521,16 @@
       "url": "https://n.news.naver.com/article/030/0003464238?type=journalists",
       "published_at": "2026-09-07T11:38:18+09:00",
       "sent_at": "2026-09-07T11:53:13.423789+09:00"
+    },
+    {
+      "id": "8621cd4e4b3a64d27357cb11ae6e8a27e42c5a3ca87f3289bc2e21f02eceaf9a",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "크래프톤 장병규 의장, 모디 인도 총리 회담... 현지 투자 5억달러로 확대",
+      "url": "https://n.news.naver.com/article/030/0003464242?type=journalists",
+      "published_at": "2026-09-07T11:49:15+09:00",
+      "sent_at": "2026-09-07T11:58:21.258883+09:00"
     }
   ],
-  "last_run_at": "2026-09-07T02:53:08.789826+00:00"
+  "last_run_at": "2026-09-07T02:58:16.709826+00:00"
 }
