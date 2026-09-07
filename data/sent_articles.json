@@ -530,7 +530,16 @@
       "url": "https://n.news.naver.com/article/030/0003464242?type=journalists",
       "published_at": "2026-09-07T11:49:15+09:00",
       "sent_at": "2026-09-07T11:58:21.258883+09:00"
+    },
+    {
+      "id": "2284711a7ba12f86725f12bcf40728ed3bae00c0fd205f577352be763875fe93",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "카카오게임즈 '아키에이지 S: 자유의 해협' 첫 공개... 내년 2분기 글로벌 출시",
+      "url": "https://n.news.naver.com/article/030/0003464252?type=journalists",
+      "published_at": "2026-09-07T12:01:27+09:00",
+      "sent_at": "2026-09-07T12:13:38.794157+09:00"
     }
   ],
-  "last_run_at": "2026-09-07T03:08:29.312625+00:00"
+  "last_run_at": "2026-09-07T03:13:34.065077+00:00"
 }
