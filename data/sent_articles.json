@@ -458,7 +458,16 @@
       "url": "https://n.news.naver.com/article/030/0003464257?type=journalists",
       "published_at": "2026-09-07T12:20:18+09:00",
       "sent_at": "2026-09-07T12:34:01.131065+09:00"
+    },
+    {
+      "id": "33478f3889113b9fd919652d732c7b0f2c063f0b684f38e628bd1b58b5b7c0ed",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "엔씨 신작 '아스트라에 오라티오', 도쿄게임쇼서 첫 시연",
+      "url": "https://n.news.naver.com/article/001/0016294487?type=journalists",
+      "published_at": "2026-09-07T14:01:26+09:00",
+      "sent_at": "2026-09-07T14:15:37.074816+09:00"
     }
   ],
-  "last_run_at": "2026-09-07T05:10:27.716538+00:00"
+  "last_run_at": "2026-09-07T05:15:32.352134+00:00"
 }
