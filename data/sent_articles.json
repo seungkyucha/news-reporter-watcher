@@ -485,7 +485,16 @@
       "url": "https://n.news.naver.com/article/001/0016296231?type=journalists",
       "published_at": "2026-09-08T09:55:48+09:00",
       "sent_at": "2026-09-08T10:13:13.002908+09:00"
+    },
+    {
+      "id": "479691f9305fd55a187e7614585b65b65c8195fa21fbe684684fd25d0d019fee",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "아이즈엔터테인먼트, 차상훈 전 카카오엔터 부사장 영입",
+      "url": "https://n.news.naver.com/article/001/0016296267?type=journalists",
+      "published_at": "2026-09-08T10:07:22+09:00",
+      "sent_at": "2026-09-08T10:23:25.844432+09:00"
     }
   ],
-  "last_run_at": "2026-09-08T01:18:15.869996+00:00"
+  "last_run_at": "2026-09-08T01:23:20.902751+00:00"
 }
