@@ -503,7 +503,16 @@
       "url": "https://n.news.naver.com/article/030/0003464818?type=journalists",
       "published_at": "2026-09-08T15:44:20+09:00",
       "sent_at": "2026-09-08T15:53:54.518086+09:00"
+    },
+    {
+      "id": "90d822d7f0fbcb886d3783faef2fcd05e2f5aa47e5b1ac55c12f2304381bca7f",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "한·프랑스, 영화·영상산업에 각각 8000억원 투자... 글로벌 공동제작 확대",
+      "url": "https://n.news.naver.com/article/030/0003464824?type=journalists",
+      "published_at": "2026-09-08T15:54:09+09:00",
+      "sent_at": "2026-09-08T16:04:19.277868+09:00"
     }
   ],
-  "last_run_at": "2026-09-08T06:58:58.097851+00:00"
+  "last_run_at": "2026-09-08T07:04:14.513239+00:00"
 }
