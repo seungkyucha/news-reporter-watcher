@@ -494,7 +494,25 @@
       "url": "https://n.news.naver.com/article/001/0016296267?type=journalists",
       "published_at": "2026-09-08T10:07:22+09:00",
       "sent_at": "2026-09-08T10:23:25.844432+09:00"
+    },
+    {
+      "id": "eabb23b2bb5f664f4f2c136a4481e8ffe0d24cbf0de99422d8d25a53d587859d",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "마브렉스 웹3 신작 '픽셀 테이머즈', 애플 앱스토어 인기 1위",
+      "url": "https://n.news.naver.com/article/030/0003464630?type=journalists",
+      "published_at": "2026-09-08T10:23:11+09:00",
+      "sent_at": "2026-09-08T10:33:38.196982+09:00"
+    },
+    {
+      "id": "57af2ae938af6386c2a6d5e6fcfd6e1870b5dd2e147b5f16c19c2384cbe211af",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "크래프톤 '배틀그라운드', 애니메이션 '주술회전'과 협업",
+      "url": "https://n.news.naver.com/article/030/0003464627?type=journalists",
+      "published_at": "2026-09-08T10:21:11+09:00",
+      "sent_at": "2026-09-08T10:33:40.838360+09:00"
     }
   ],
-  "last_run_at": "2026-09-08T01:28:28.638523+00:00"
+  "last_run_at": "2026-09-08T01:33:33.395535+00:00"
 }
