@@ -539,7 +539,16 @@
       "url": "https://news.mtn.co.kr/news-detail/2026090817551489486",
       "published_at": "Tue, 08 Sep 2026 18:26:00 +0900",
       "sent_at": "2026-09-08T18:36:54.673800+09:00"
+    },
+    {
+      "id": "d6c5232d3cc917bf7d64d6451e5c25b6008fe9e210a4abfcad67f73d2063ad97",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "'젤다의 전설' 실사 영화, 내년 4월 30일 개봉",
+      "url": "https://n.news.naver.com/article/001/0016298511?type=journalists",
+      "published_at": "2026-09-09T05:48:38+09:00",
+      "sent_at": "2026-09-09T06:06:13.753350+09:00"
     }
   ],
-  "last_run_at": "2026-09-08T21:01:03.680365+00:00"
+  "last_run_at": "2026-09-08T21:06:09.105653+00:00"
 }
