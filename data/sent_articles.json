@@ -521,7 +521,16 @@
       "url": "https://n.news.naver.com/article/030/0003464829?type=journalists",
       "published_at": "2026-09-08T15:58:16+09:00",
       "sent_at": "2026-09-08T16:14:31.523544+09:00"
+    },
+    {
+      "id": "1eed956f4ed677e27b013c71110ddb978faed849bd886e872954c09944a58a0b",
+      "reporter": "서정근",
+      "press": "MTN",
+      "title": "[단독]넥슨 '듀랑고 월드' 개발 중단...'듀랑고' IP 부활 좌절",
+      "url": "https://news.mtn.co.kr/news-detail/2026090815552132327",
+      "published_at": "Tue, 08 Sep 2026 16:14:00 +0900",
+      "sent_at": "2026-09-08T16:24:42.211544+09:00"
     }
   ],
-  "last_run_at": "2026-09-08T07:19:34.532061+00:00"
+  "last_run_at": "2026-09-08T07:24:39.060597+00:00"
 }
