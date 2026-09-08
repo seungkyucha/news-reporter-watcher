@@ -485,7 +485,16 @@
       "url": "https://n.news.naver.com/article/001/0016297181?type=journalists",
       "published_at": "2026-09-08T14:09:44+09:00",
       "sent_at": "2026-09-08T14:22:25.905736+09:00"
+    },
+    {
+      "id": "96d3fb2b94cea979d4be760f7ecb3a3112770370f6ee9d35406dc79cf4eb75d2",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "모경종號 민주당 3기 게임특위 출범 채비... 게임법·세액공제 성과 시험대",
+      "url": "https://n.news.naver.com/article/030/0003464798?type=journalists",
+      "published_at": "2026-09-08T15:09:13+09:00",
+      "sent_at": "2026-09-08T15:23:23.396044+09:00"
     }
   ],
-  "last_run_at": "2026-09-08T06:18:14.886707+00:00"
+  "last_run_at": "2026-09-08T06:23:19.236858+00:00"
 }
