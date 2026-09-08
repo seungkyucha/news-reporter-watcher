@@ -530,7 +530,16 @@
       "url": "https://news.mtn.co.kr/news-detail/2026090815552132327",
       "published_at": "Tue, 08 Sep 2026 16:14:00 +0900",
       "sent_at": "2026-09-08T16:24:42.211544+09:00"
+    },
+    {
+      "id": "fc7c523a25ae9ad4a9e8cdfd01d0e51816eac69dd9dad632c1d56db64998b8c7",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "넥슨게임즈, '듀랑고 후속작' 프로젝트 DX 개발 취소",
+      "url": "https://n.news.naver.com/article/001/0016297820?type=journalists",
+      "published_at": "2026-09-08T16:24:40+09:00",
+      "sent_at": "2026-09-08T16:34:57.427882+09:00"
     }
   ],
-  "last_run_at": "2026-09-08T07:29:46.926040+00:00"
+  "last_run_at": "2026-09-08T07:34:52.686816+00:00"
 }
