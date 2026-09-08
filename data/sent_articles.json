@@ -467,7 +467,25 @@
       "url": "https://n.news.naver.com/article/001/0016296161?type=journalists",
       "published_at": "2026-09-08T09:45:13+09:00",
       "sent_at": "2026-09-08T10:02:57.201158+09:00"
+    },
+    {
+      "id": "bfb0b49445db5c43445bb06bba762223bb5b4f2c0a4880c9359c8e7104d53f85",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "크래프톤 '배틀그라운드', 인기 애니 '주술회전'과 협업",
+      "url": "https://n.news.naver.com/article/001/0016296240?type=journalists",
+      "published_at": "2026-09-08T09:58:56+09:00",
+      "sent_at": "2026-09-08T10:13:10.021021+09:00"
+    },
+    {
+      "id": "5abeb8fde051c05de51a2313e145ac30a721f6b2150b4a0a1d674991b5a22467",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "[AI픽] NHN 게임·AI 해커톤 대상작 \"AI로 95% 개발\"",
+      "url": "https://n.news.naver.com/article/001/0016296231?type=journalists",
+      "published_at": "2026-09-08T09:55:48+09:00",
+      "sent_at": "2026-09-08T10:13:13.002908+09:00"
     }
   ],
-  "last_run_at": "2026-09-08T01:08:00.343131+00:00"
+  "last_run_at": "2026-09-08T01:13:04.961989+00:00"
 }
