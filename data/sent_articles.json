@@ -458,7 +458,16 @@
       "url": "https://n.news.naver.com/article/030/0003464486?type=journalists",
       "published_at": "2026-09-07T18:29:11+09:00",
       "sent_at": "2026-09-07T18:45:10.756736+09:00"
+    },
+    {
+      "id": "ce61b7f4a8beddb3e976109b7018b0d4e5b21a2f60272a751313a829038c1bc1",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "어린이 작가가 만든 보드게임 '어서오세냥'…펀딩 목표 달성",
+      "url": "https://n.news.naver.com/article/001/0016296161?type=journalists",
+      "published_at": "2026-09-08T09:45:13+09:00",
+      "sent_at": "2026-09-08T10:02:57.201158+09:00"
     }
   ],
-  "last_run_at": "2026-09-08T00:57:47.162481+00:00"
+  "last_run_at": "2026-09-08T01:02:52.206313+00:00"
 }
