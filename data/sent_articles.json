@@ -512,7 +512,16 @@
       "url": "https://n.news.naver.com/article/001/0016297121?type=journalists",
       "published_at": "2026-09-08T13:51:40+09:00",
       "sent_at": "2026-09-08T14:07:09.805490+09:00"
+    },
+    {
+      "id": "1f2cdbadd7653a417b096cd658c83540bb6463703a905998d509f3810c6eca44",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "크래프톤 장병규 \"시행착오 극복하려는 의지 비전에 담았다\"",
+      "url": "https://n.news.naver.com/article/001/0016297181?type=journalists",
+      "published_at": "2026-09-08T14:09:44+09:00",
+      "sent_at": "2026-09-08T14:22:25.905736+09:00"
     }
   ],
-  "last_run_at": "2026-09-08T05:17:16.853258+00:00"
+  "last_run_at": "2026-09-08T05:22:21.291141+00:00"
 }
