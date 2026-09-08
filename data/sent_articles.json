@@ -530,7 +530,16 @@
       "url": "https://n.news.naver.com/article/001/0016297820?type=journalists",
       "published_at": "2026-09-08T16:24:40+09:00",
       "sent_at": "2026-09-08T16:34:57.427882+09:00"
+    },
+    {
+      "id": "8a831d91b1f3f68f33f40eb98001b2fdd1f348c43b990932d3d66b4736eac9c6",
+      "reporter": "서정근",
+      "press": "MTN",
+      "title": "[단독]카카오게임즈, 아키에이지·아키에이지S IP, 392억원에 인수",
+      "url": "https://news.mtn.co.kr/news-detail/2026090817551489486",
+      "published_at": "Tue, 08 Sep 2026 18:26:00 +0900",
+      "sent_at": "2026-09-08T18:36:54.673800+09:00"
     }
   ],
-  "last_run_at": "2026-09-08T09:31:47.378285+00:00"
+  "last_run_at": "2026-09-08T09:36:51.798543+00:00"
 }
