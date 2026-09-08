@@ -503,7 +503,16 @@
       "url": "https://n.news.naver.com/article/030/0003464627?type=journalists",
       "published_at": "2026-09-08T10:21:11+09:00",
       "sent_at": "2026-09-08T10:33:40.838360+09:00"
+    },
+    {
+      "id": "6055fcad55a7227fe67f792ae39705fbc9981562e7e2536c0eb0d6ed41088ee5",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "인스터, FMV 게임 '야근하다가 미녀와 갇혀버렸습니다' 공개",
+      "url": "https://n.news.naver.com/article/001/0016297121?type=journalists",
+      "published_at": "2026-09-08T13:51:40+09:00",
+      "sent_at": "2026-09-08T14:07:09.805490+09:00"
     }
   ],
-  "last_run_at": "2026-09-08T05:01:58.729563+00:00"
+  "last_run_at": "2026-09-08T05:07:03.619639+00:00"
 }
