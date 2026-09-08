@@ -494,7 +494,16 @@
       "url": "https://n.news.naver.com/article/030/0003464798?type=journalists",
       "published_at": "2026-09-08T15:09:13+09:00",
       "sent_at": "2026-09-08T15:23:23.396044+09:00"
+    },
+    {
+      "id": "f6a112f82144e05051087b066373b4a643d5c2af3407020d2bd50aff1b0eb871",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "동국대 한류융합학술원, '한류인프라리포트' 창간... 서울아레나 집중 분석",
+      "url": "https://n.news.naver.com/article/030/0003464818?type=journalists",
+      "published_at": "2026-09-08T15:44:20+09:00",
+      "sent_at": "2026-09-08T15:53:54.518086+09:00"
     }
   ],
-  "last_run_at": "2026-09-08T06:48:44.621529+00:00"
+  "last_run_at": "2026-09-08T06:53:49.873822+00:00"
 }
