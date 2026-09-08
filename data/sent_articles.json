@@ -1,15 +1,6 @@
 {
   "sent": [
     {
-      "id": "e058bc1c64b9ed3a5188379794922eabebeece19f50bf879556d4daa4fe8fd1d",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "[AI픽] NC AI, '바르코 사운드' 출시…AI 에이전트가 소리 만든다",
-      "url": "https://n.news.naver.com/article/001/0016284130?type=journalists",
-      "published_at": "2026-09-02T08:26:47+09:00",
-      "sent_at": "2026-09-02T08:45:34.204464+09:00"
-    },
-    {
       "id": "3c99ac68c62b7d21e80c88ca25b57e6b706bbc580cf1c7a2c754ee3b80af99fc",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -550,5 +541,5 @@
       "sent_at": "2026-09-09T06:06:13.753350+09:00"
     }
   ],
-  "last_run_at": "2026-09-08T23:43:52.640219+00:00"
+  "last_run_at": "2026-09-08T23:48:57.439900+00:00"
 }
