@@ -548,7 +548,16 @@
       "url": "https://n.news.naver.com/article/030/0003465115?type=journalists",
       "published_at": "2026-09-09T11:28:23+09:00",
       "sent_at": "2026-09-09T11:47:07.158525+09:00"
+    },
+    {
+      "id": "a8016ce37ac33803e99127c9f27e9343c98bba76da50b836f7b9aa8a33641d5b",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "카카오게임즈 '도깨비의세계', 10월 8일 출시... 한국적 세계관 앞세운 2.5D MMORPG",
+      "url": "https://n.news.naver.com/article/030/0003465122?type=journalists",
+      "published_at": "2026-09-09T11:37:11+09:00",
+      "sent_at": "2026-09-09T11:57:21.242309+09:00"
     }
   ],
-  "last_run_at": "2026-09-09T02:52:10.877920+00:00"
+  "last_run_at": "2026-09-09T02:57:16.052922+00:00"
 }
