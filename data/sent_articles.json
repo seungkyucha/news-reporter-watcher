@@ -539,7 +539,16 @@
       "url": "https://n.news.naver.com/article/001/0016298511?type=journalists",
       "published_at": "2026-09-09T05:48:38+09:00",
       "sent_at": "2026-09-09T06:06:13.753350+09:00"
+    },
+    {
+      "id": "7de1906382221fc9fade66ebc2983267d99ab1a268c7577009ec41b58ec2e32c",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "네오위즈, 웹보드 게임과 '타짜: 벨제붑의 노래' 협업",
+      "url": "https://n.news.naver.com/article/001/0016298914?type=journalists",
+      "published_at": "2026-09-09T09:39:31+09:00",
+      "sent_at": "2026-09-09T09:55:12.638429+09:00"
     }
   ],
-  "last_run_at": "2026-09-09T00:49:59.901145+00:00"
+  "last_run_at": "2026-09-09T00:55:07.058754+00:00"
 }
