@@ -656,7 +656,16 @@
       "url": "https://n.news.naver.com/article/030/0003465345?type=journalists",
       "published_at": "2026-09-09T18:14:10+09:00",
       "sent_at": "2026-09-09T18:24:28.720520+09:00"
+    },
+    {
+      "id": "ee36613f637c3274676bc869c2e8369feea0235e9afc8f05aa1423cd709499ee",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "넥슨재단, '바람의나라' 30주년 맞아 신진예술가 지원…경복궁서 전통공예 전시",
+      "url": "https://n.news.naver.com/article/030/0003465346?type=journalists",
+      "published_at": "2026-09-09T18:20:17+09:00",
+      "sent_at": "2026-09-09T18:34:41.580315+09:00"
     }
   ],
-  "last_run_at": "2026-09-09T09:29:31.932638+00:00"
+  "last_run_at": "2026-09-09T09:34:36.958622+00:00"
 }
