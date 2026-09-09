@@ -539,7 +539,16 @@
       "url": "https://n.news.naver.com/article/001/0016299082?type=journalists",
       "published_at": "2026-09-09T10:19:41+09:00",
       "sent_at": "2026-09-09T10:35:55.304951+09:00"
+    },
+    {
+      "id": "bf04f7378ea1f125a0275a3407afdc16e311e8fe008eeebd0b113137bc8c802f",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "한국저작권보호원, K콘텐츠 해외 불법유통 19만여건 삭제... 웹툰이 68%",
+      "url": "https://n.news.naver.com/article/030/0003465115?type=journalists",
+      "published_at": "2026-09-09T11:28:23+09:00",
+      "sent_at": "2026-09-09T11:47:07.158525+09:00"
     }
   ],
-  "last_run_at": "2026-09-09T02:41:57.990221+00:00"
+  "last_run_at": "2026-09-09T02:47:02.808548+00:00"
 }
