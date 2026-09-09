@@ -620,7 +620,16 @@
       "url": "https://n.news.naver.com/article/001/0016299931?type=journalists",
       "published_at": "2026-09-09T13:54:55+09:00",
       "sent_at": "2026-09-09T14:04:58.159390+09:00"
+    },
+    {
+      "id": "0eaf04637655ff92f23a23f354723c43e612f1e45e6f02ce22f8a8fc8d20457f",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "카카오게임즈 '도깨비의세계' 10월 8일 정식 출시",
+      "url": "https://n.news.naver.com/article/001/0016299944?type=journalists",
+      "published_at": "2026-09-09T13:57:05+09:00",
+      "sent_at": "2026-09-09T14:15:11.912967+09:00"
     }
   ],
-  "last_run_at": "2026-09-09T05:10:00.815387+00:00"
+  "last_run_at": "2026-09-09T05:15:05.844909+00:00"
 }
