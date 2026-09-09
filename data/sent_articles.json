@@ -611,7 +611,16 @@
       "url": "https://n.news.naver.com/article/030/0003465131?type=journalists",
       "published_at": "2026-09-09T12:22:16+09:00",
       "sent_at": "2026-09-09T12:33:15.688430+09:00"
+    },
+    {
+      "id": "c7137aeee0176e25c0fff38379366719c4fc8389868fcb9ba43f513a5c13a952",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "GTA 6 열풍 벌써 뜨겁다…PS5 프로 품귀에 웃돈까지",
+      "url": "https://n.news.naver.com/article/001/0016299931?type=journalists",
+      "published_at": "2026-09-09T13:54:55+09:00",
+      "sent_at": "2026-09-09T14:04:58.159390+09:00"
     }
   ],
-  "last_run_at": "2026-09-09T04:59:48.104897+00:00"
+  "last_run_at": "2026-09-09T05:04:52.696085+00:00"
 }
