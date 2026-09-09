@@ -638,7 +638,16 @@
       "url": "https://n.news.naver.com/article/001/0016300469?type=journalists",
       "published_at": "2026-09-09T15:41:51+09:00",
       "sent_at": "2026-09-09T15:56:57.168866+09:00"
+    },
+    {
+      "id": "4031c3cd619a2f0d1c0d6c963a2a203b4b4e852b851374531669b8ae980653cd",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "'2.5조 재산분할' 권혁빈 전처 측 \"재판부 판단 감사\"",
+      "url": "https://n.news.naver.com/article/001/0016300882?type=journalists",
+      "published_at": "2026-09-09T17:44:44+09:00",
+      "sent_at": "2026-09-09T17:53:56.758921+09:00"
     }
   ],
-  "last_run_at": "2026-09-09T08:48:46.717112+00:00"
+  "last_run_at": "2026-09-09T08:53:51.453141+00:00"
 }
