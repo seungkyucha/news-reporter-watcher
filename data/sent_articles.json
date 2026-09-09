@@ -1,15 +1,6 @@
 {
   "sent": [
     {
-      "id": "ad4f8f8b0e7d2db0485f0f6568fe2cfdf1cf90a9f8e4ee275eae7b7cdf3c28e0",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "엔비디아 DLSS 5 나온다…AI가 게임 화면 실시간 재구성",
-      "url": "https://n.news.naver.com/article/001/0016285501?type=journalists",
-      "published_at": "2026-09-02T14:32:12+09:00",
-      "sent_at": "2026-09-02T14:46:26.751137+09:00"
-    },
-    {
       "id": "ec4a182be3174aaa414ff113734e32c95c68af9aed02c84f09ddf56b4918010f",
       "reporter": "박정은",
       "press": "전자신문",
@@ -631,5 +622,5 @@
       "sent_at": "2026-09-09T14:35:33.175369+09:00"
     }
   ],
-  "last_run_at": "2026-09-09T05:45:41.144826+00:00"
+  "last_run_at": "2026-09-09T05:50:45.783475+00:00"
 }
