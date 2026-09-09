@@ -1,15 +1,6 @@
 {
   "sent": [
     {
-      "id": "3c99ac68c62b7d21e80c88ca25b57e6b706bbc580cf1c7a2c754ee3b80af99fc",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "NHN플레이아트, 8년 만에 도쿄게임쇼 출격…게임 7종 공개",
-      "url": "https://n.news.naver.com/article/001/0016284471?type=journalists",
-      "published_at": "2026-09-02T10:01:56+09:00",
-      "sent_at": "2026-09-02T10:16:58.389615+09:00"
-    },
-    {
       "id": "534ad70e59deeba2da44408a336deb27fdd152f6f0161d52d5cab2be577b7fa7",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -550,5 +541,5 @@
       "sent_at": "2026-09-09T09:55:12.638429+09:00"
     }
   ],
-  "last_run_at": "2026-09-09T01:15:29.854006+00:00"
+  "last_run_at": "2026-09-09T01:20:34.815065+00:00"
 }
