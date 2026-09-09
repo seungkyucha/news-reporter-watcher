@@ -647,7 +647,16 @@
       "url": "https://n.news.naver.com/article/001/0016300882?type=journalists",
       "published_at": "2026-09-09T17:44:44+09:00",
       "sent_at": "2026-09-09T17:53:56.758921+09:00"
+    },
+    {
+      "id": "9b30484bde5b45e5d49735272ab74ec26d96bd37e2c589e385ddf2c6f02ccf53",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "닌텐도, '젤다의 전설 시간의 오카리나' 풀 리메이크 11월 출시",
+      "url": "https://n.news.naver.com/article/030/0003465345?type=journalists",
+      "published_at": "2026-09-09T18:14:10+09:00",
+      "sent_at": "2026-09-09T18:24:28.720520+09:00"
     }
   ],
-  "last_run_at": "2026-09-09T09:19:19.477547+00:00"
+  "last_run_at": "2026-09-09T09:24:23.697317+00:00"
 }
