@@ -620,7 +620,16 @@
       "url": "https://n.news.naver.com/article/001/0016299944?type=journalists",
       "published_at": "2026-09-09T13:57:05+09:00",
       "sent_at": "2026-09-09T14:15:11.912967+09:00"
+    },
+    {
+      "id": "2c613f6a77ad429203394dceac6f597635cbaaa6777b46e13a5d57ad9f73b865",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "[1보] 법원 “스마일게이트 권혁빈 이혼…주식 35% 재산 분할”",
+      "url": "https://n.news.naver.com/article/030/0003465196?type=journalists",
+      "published_at": "2026-09-09T14:22:27+09:00",
+      "sent_at": "2026-09-09T14:35:33.175369+09:00"
     }
   ],
-  "last_run_at": "2026-09-09T05:30:23.995898+00:00"
+  "last_run_at": "2026-09-09T05:35:28.706977+00:00"
 }
