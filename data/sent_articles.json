@@ -629,7 +629,16 @@
       "url": "https://n.news.naver.com/article/030/0003465263?type=journalists",
       "published_at": "2026-09-09T15:19:13+09:00",
       "sent_at": "2026-09-09T15:36:34.058783+09:00"
+    },
+    {
+      "id": "48e40cef355f2fa2aa02fa00f09d9deac52988cd16985d45cf6ac1da716ae4af",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "권혁빈 지분 100%→65%…스마일게이트 지배구조 어떻게 바뀌나",
+      "url": "https://n.news.naver.com/article/001/0016300469?type=journalists",
+      "published_at": "2026-09-09T15:41:51+09:00",
+      "sent_at": "2026-09-09T15:56:57.168866+09:00"
     }
   ],
-  "last_run_at": "2026-09-09T06:51:46.632696+00:00"
+  "last_run_at": "2026-09-09T06:56:51.810577+00:00"
 }
