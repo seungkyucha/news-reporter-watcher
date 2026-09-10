@@ -638,7 +638,16 @@
       "url": "https://n.news.naver.com/article/001/0016301869?type=journalists",
       "published_at": "2026-09-10T10:30:02+09:00",
       "sent_at": "2026-09-10T10:40:56.564227+09:00"
+    },
+    {
+      "id": "529d0a460b5f45c71087259921f55408e6bc37fe1cad996016f8cc1ab4f775b2",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "슈퍼패스트, 성수동에 IP 복합문화 거점…'슈퍼패스트 서울숲' 첫 공개",
+      "url": "https://n.news.naver.com/article/030/0003465524?type=journalists",
+      "published_at": "2026-09-10T11:45:10+09:00",
+      "sent_at": "2026-09-10T11:57:05.836350+09:00"
     }
   ],
-  "last_run_at": "2026-09-10T02:51:57.289592+00:00"
+  "last_run_at": "2026-09-10T02:57:01.643545+00:00"
 }
