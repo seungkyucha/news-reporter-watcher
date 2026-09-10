@@ -638,7 +638,25 @@
       "url": "https://n.news.naver.com/article/030/0003465346?type=journalists",
       "published_at": "2026-09-09T18:20:17+09:00",
       "sent_at": "2026-09-09T18:34:41.580315+09:00"
+    },
+    {
+      "id": "61444e86d042cc0022c73b083361b709f451e1c29c86e2f1f9c07757a6477683",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "현대차 '아반떼 N', 넷이즈 레이싱 e스포츠 달린다",
+      "url": "https://n.news.naver.com/article/001/0016301625?type=journalists",
+      "published_at": "2026-09-10T09:40:28+09:00",
+      "sent_at": "2026-09-10T09:54:49.997794+09:00"
+    },
+    {
+      "id": "550a67945c3310960af1f06afc1b0bdacd268fffe17f8bd3e4f777be66e4637d",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "슈퍼패스트, 서울숲 사옥 첫 개방…게임·아트·뷰티 한자리에",
+      "url": "https://n.news.naver.com/article/001/0016301611?type=journalists",
+      "published_at": "2026-09-10T09:36:55+09:00",
+      "sent_at": "2026-09-10T09:54:52.544831+09:00"
     }
   ],
-  "last_run_at": "2026-09-10T00:49:41.202691+00:00"
+  "last_run_at": "2026-09-10T00:54:45.743087+00:00"
 }
