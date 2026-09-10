@@ -773,7 +773,16 @@
       "url": "https://n.news.naver.com/article/001/0016302880?type=journalists",
       "published_at": "2026-09-10T15:15:15+09:00",
       "sent_at": "2026-09-10T15:36:22.460699+09:00"
+    },
+    {
+      "id": "c704271fe1a54268c8ba8bba41806d85067314ea18e6ba4a5957beecc4b907f6",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "스마일게이트, '크로스파이어' 국제대회 결승전 중국서 개최",
+      "url": "https://n.news.naver.com/article/001/0016303435?type=journalists",
+      "published_at": "2026-09-10T17:46:40+09:00",
+      "sent_at": "2026-09-10T18:03:52.333840+09:00"
     }
   ],
-  "last_run_at": "2026-09-10T08:58:41.668660+00:00"
+  "last_run_at": "2026-09-10T09:03:46.691737+00:00"
 }
