@@ -728,7 +728,16 @@
       "url": "https://n.news.naver.com/article/030/0003465533?type=journalists",
       "published_at": "2026-09-10T11:57:10+09:00",
       "sent_at": "2026-09-10T12:17:53.792988+09:00"
+    },
+    {
+      "id": "03f135c4b1e096a60bdbeeb6dceeb62537b5c19966513d09467563259b380294",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "스마일게이트 퓨처랩, AI 영화 창작자 키운다... 우수작 BIKY 상영",
+      "url": "https://n.news.naver.com/article/030/0003465550?type=journalists",
+      "published_at": "2026-09-10T12:11:11+09:00",
+      "sent_at": "2026-09-10T12:23:01.523038+09:00"
     }
   ],
-  "last_run_at": "2026-09-10T03:17:36.712955+00:00"
+  "last_run_at": "2026-09-10T03:22:57.134050+00:00"
 }
