@@ -746,7 +746,16 @@
       "url": "https://n.news.naver.com/article/030/0003465562?type=journalists",
       "published_at": "2026-09-10T13:14:11+09:00",
       "sent_at": "2026-09-10T13:23:59.492454+09:00"
+    },
+    {
+      "id": "1235e93c6d4d2b142e0c6889578c1b0aee7b3a74d8259f3ada21b53cb1b224b7",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "엔씨 '리밋 제로 브레이커스' 프론티어 테스트 시작",
+      "url": "https://n.news.naver.com/article/001/0016302730?type=journalists",
+      "published_at": "2026-09-10T14:49:52+09:00",
+      "sent_at": "2026-09-10T15:05:46.823380+09:00"
     }
   ],
-  "last_run_at": "2026-09-10T06:00:37.715115+00:00"
+  "last_run_at": "2026-09-10T06:05:41.923053+00:00"
 }
