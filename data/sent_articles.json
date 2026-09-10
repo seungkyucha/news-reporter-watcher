@@ -764,7 +764,16 @@
       "url": "https://n.news.naver.com/article/001/0016302786?type=journalists",
       "published_at": "2026-09-10T14:58:01+09:00",
       "sent_at": "2026-09-10T15:15:59.982480+09:00"
+    },
+    {
+      "id": "f1366e859ebcbde6f7f451269fd537e1dc9c663b0253fa51deaa21368da7a74b",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "스마일게이트, MMORPG '이클립스: 더 어웨이크닝' 정식 출시",
+      "url": "https://n.news.naver.com/article/001/0016302880?type=journalists",
+      "published_at": "2026-09-10T15:15:15+09:00",
+      "sent_at": "2026-09-10T15:36:22.460699+09:00"
     }
   ],
-  "last_run_at": "2026-09-10T06:31:13.027447+00:00"
+  "last_run_at": "2026-09-10T06:36:17.735419+00:00"
 }
