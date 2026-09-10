@@ -755,7 +755,16 @@
       "url": "https://n.news.naver.com/article/001/0016302730?type=journalists",
       "published_at": "2026-09-10T14:49:52+09:00",
       "sent_at": "2026-09-10T15:05:46.823380+09:00"
+    },
+    {
+      "id": "98ead1689efe3e9a4f7bf7833290403f2c4e22db9192e92394fb0ce3754bda50",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "[AI픽] AI 에이전트가 게임 대신 해준다…넥슨, 'AI 커넥터' 공개",
+      "url": "https://n.news.naver.com/article/001/0016302786?type=journalists",
+      "published_at": "2026-09-10T14:58:01+09:00",
+      "sent_at": "2026-09-10T15:15:59.982480+09:00"
     }
   ],
-  "last_run_at": "2026-09-10T06:10:49.837326+00:00"
+  "last_run_at": "2026-09-10T06:15:54.706733+00:00"
 }
