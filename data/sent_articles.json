@@ -737,7 +737,25 @@
       "url": "https://n.news.naver.com/article/030/0003465550?type=journalists",
       "published_at": "2026-09-10T12:11:11+09:00",
       "sent_at": "2026-09-10T12:23:01.523038+09:00"
+    },
+    {
+      "id": "8c0b338fb35e5cefaa6161b140331b2ee61bbc151f965f0d487c4baea6b6066b",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "K방송영상 2030년 30조 산업으로... 제작사 IP·토종 OTT 키운다",
+      "url": "https://n.news.naver.com/article/030/0003465563?type=journalists",
+      "published_at": "2026-09-10T13:15:11+09:00",
+      "sent_at": "2026-09-10T13:23:56.993522+09:00"
+    },
+    {
+      "id": "c8a82f16c570ddec921ce108430cfd82989cde6c5f1b45f388530f951ff43b2a",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "스마일게이트 신작 '이클립스' 출격... 'MMOLite'로 MMORPG 시장 도전",
+      "url": "https://n.news.naver.com/article/030/0003465562?type=journalists",
+      "published_at": "2026-09-10T13:14:11+09:00",
+      "sent_at": "2026-09-10T13:23:59.492454+09:00"
     }
   ],
-  "last_run_at": "2026-09-10T04:18:49.232449+00:00"
+  "last_run_at": "2026-09-10T04:23:53.307307+00:00"
 }
