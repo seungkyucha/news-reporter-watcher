@@ -674,7 +674,61 @@
       "url": "https://n.news.naver.com/article/030/0003465528?type=journalists",
       "published_at": "2026-09-10T11:53:10+09:00",
       "sent_at": "2026-09-10T12:07:23.866605+09:00"
+    },
+    {
+      "id": "5e573e1360150553d53ffdb7a5e035afed7ecd53e4c861176fbb24be6b040810",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "아이템매니아, '이클립스' 거래 연계 기부... 수해 이재민에 최대 1억원 지원",
+      "url": "https://n.news.naver.com/article/030/0003465547?type=journalists",
+      "published_at": "2026-09-10T12:05:10+09:00",
+      "sent_at": "2026-09-10T12:17:40.704776+09:00"
+    },
+    {
+      "id": "a4fd42d7ca768f3d7bd523972b9b8a41fa544afa29f863dbac763e08883fd528",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "게임문화축제 'GXG 2026' 11일 개막... 판교서 공연·체험·코스프레",
+      "url": "https://n.news.naver.com/article/030/0003465546?type=journalists",
+      "published_at": "2026-09-10T12:04:17+09:00",
+      "sent_at": "2026-09-10T12:17:43.222081+09:00"
+    },
+    {
+      "id": "5b72e4e69df167623793a8fb05c8a90a93dec81b410769f2ff9216f6fb730728",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "넷이즈게임즈 '레이싱 마스터', 현대차와 e스포츠 대회... 아시아 최강자 DDP 집결",
+      "url": "https://n.news.naver.com/article/030/0003465545?type=journalists",
+      "published_at": "2026-09-10T12:02:17+09:00",
+      "sent_at": "2026-09-10T12:17:45.693867+09:00"
+    },
+    {
+      "id": "07ae1b220a0c2f663ecbd764dd580ef2d8d3f9f0a562164f5219262fce7505ac",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "유니티, 클로드 코드용 공식 플러그인 공개…AI 개발 워크플로 강화",
+      "url": "https://n.news.naver.com/article/030/0003465536?type=journalists",
+      "published_at": "2026-09-10T12:00:17+09:00",
+      "sent_at": "2026-09-10T12:17:48.459771+09:00"
+    },
+    {
+      "id": "c97c467980c6e1b3aafe3a2536122693ac741ef9f068c14edb91e7e9f785ebaf",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "시프트업 '스텔라 블레이드', 11월 6일 스위치2 출시... '베요네타'와 협업",
+      "url": "https://n.news.naver.com/article/030/0003465535?type=journalists",
+      "published_at": "2026-09-10T11:59:11+09:00",
+      "sent_at": "2026-09-10T12:17:51.290340+09:00"
+    },
+    {
+      "id": "307af76108706aab60877e6da5868859508e0efd5fe8499b774ddef0c133d148",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "카카오게임즈, 성남 아동·청소년 대상 '찾아가는 프렌즈게임 랜드' 개최",
+      "url": "https://n.news.naver.com/article/030/0003465533?type=journalists",
+      "published_at": "2026-09-10T11:57:10+09:00",
+      "sent_at": "2026-09-10T12:17:53.792988+09:00"
     }
   ],
-  "last_run_at": "2026-09-10T03:12:32.605374+00:00"
+  "last_run_at": "2026-09-10T03:17:36.712955+00:00"
 }
