@@ -728,7 +728,43 @@
       "url": "https://n.news.naver.com/article/030/0003465992?type=journalists",
       "published_at": "2026-09-11T15:07:14+09:00",
       "sent_at": "2026-09-11T15:25:49.304043+09:00"
+    },
+    {
+      "id": "395e58ed3ceac1728dc9e04edbee8f4e3edc2770b3f45fdbc9cc88c35fcd80b8",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "넷마블 엠엔비, '쿵야 레스토랑즈' 로블록스 게임 공모전... 총상금 1500만원",
+      "url": "https://n.news.naver.com/article/030/0003466001?type=journalists",
+      "published_at": "2026-09-11T15:24:18+09:00",
+      "sent_at": "2026-09-11T15:36:01.874716+09:00"
+    },
+    {
+      "id": "131469520d992af8a1f464ae713ccd01ab503bedee63192146657072ee25317c",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "라이엇게임즈·KeSPA, LCK 공인 에이전트 26명 발표... 신규 합격률 33%",
+      "url": "https://n.news.naver.com/article/030/0003466000?type=journalists",
+      "published_at": "2026-09-11T15:22:17+09:00",
+      "sent_at": "2026-09-11T15:36:04.141846+09:00"
+    },
+    {
+      "id": "98f42469775d1f5125ef2294afea0ff202ec2ad1c1eac78b3ca4e9c5f265807c",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "그리프라인 '명일방주: 엔드필드', 삼성전자와 협업... 부천서 팝업스토어",
+      "url": "https://n.news.naver.com/article/030/0003465997?type=journalists",
+      "published_at": "2026-09-11T15:20:17+09:00",
+      "sent_at": "2026-09-11T15:36:06.470387+09:00"
+    },
+    {
+      "id": "b9bc93c51afa9c2649768129580fce1b2464918a3907b3eb8a98046801dc9e4e",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "엔씨, TGS서 삼성전자와 협업... '아스트라에 오라티오' 갤럭시 S26 울트라로 시연",
+      "url": "https://n.news.naver.com/article/030/0003465995?type=journalists",
+      "published_at": "2026-09-11T15:16:14+09:00",
+      "sent_at": "2026-09-11T15:36:09.068156+09:00"
     }
   ],
-  "last_run_at": "2026-09-11T06:30:52.652421+00:00"
+  "last_run_at": "2026-09-11T06:35:57.946464+00:00"
 }
