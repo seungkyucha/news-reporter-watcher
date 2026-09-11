@@ -1,15 +1,6 @@
 {
   "sent": [
     {
-      "id": "0010512f2d1d19bd8f3ed642198f8f8db82b68ab31c2e18b8fedeea3ab5032df",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "PUBG 모바일 국가대표, 아시안게임 앞두고 두 차례 평가전",
-      "url": "https://n.news.naver.com/article/001/0016290439?type=journalists",
-      "published_at": "2026-09-04T14:45:20+09:00",
-      "sent_at": "2026-09-04T15:05:40.676135+09:00"
-    },
-    {
       "id": "dd18432e6e0064da301cb3c15251886157607e4d8d3ee8436797d55c5e8effbe",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -721,5 +712,5 @@
       "sent_at": "2026-09-11T14:45:05.641091+09:00"
     }
   ],
-  "last_run_at": "2026-09-11T06:05:22.998022+00:00"
+  "last_run_at": "2026-09-11T06:10:27.242325+00:00"
 }
