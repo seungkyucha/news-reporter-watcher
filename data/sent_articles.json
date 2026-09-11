@@ -764,7 +764,16 @@
       "url": "https://n.news.naver.com/article/030/0003465995?type=journalists",
       "published_at": "2026-09-11T15:16:14+09:00",
       "sent_at": "2026-09-11T15:36:09.068156+09:00"
+    },
+    {
+      "id": "72addbbc787f1d6883cd18d842b8eba675dee8ee5149daa9b47eaf144cbc894e",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "[게임스냅] 넥슨, '메이플스토리 이스케이프' 방탈출 카페 오픈",
+      "url": "https://n.news.naver.com/article/001/0016305308?type=journalists",
+      "published_at": "2026-09-11T16:44:03+09:00",
+      "sent_at": "2026-09-11T16:52:36.206808+09:00"
     }
   ],
-  "last_run_at": "2026-09-11T07:47:27.469365+00:00"
+  "last_run_at": "2026-09-11T07:52:31.844515+00:00"
 }
