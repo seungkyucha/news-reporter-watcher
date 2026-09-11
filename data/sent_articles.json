@@ -746,7 +746,25 @@
       "url": "https://n.news.naver.com/article/001/0016303435?type=journalists",
       "published_at": "2026-09-10T17:46:40+09:00",
       "sent_at": "2026-09-10T18:03:52.333840+09:00"
+    },
+    {
+      "id": "15f997f8bea666e74bbac42f1a99bfc6f595f2a9eade94222991391fbcf13169",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "엔씨·삼성, 도쿄게임쇼서 손잡는다…게임·3D 전시 협업",
+      "url": "https://n.news.naver.com/article/001/0016304218?type=journalists",
+      "published_at": "2026-09-11T10:19:40+09:00",
+      "sent_at": "2026-09-11T10:35:55.091313+09:00"
+    },
+    {
+      "id": "61d773a5ceec3c84074a95fb378fa3205cea9aa9ba6b677300bc44e959c77737",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "SOOP, 블리자드 신작 행사 '블리즈컨 2026' 생중계",
+      "url": "https://n.news.naver.com/article/001/0016304208?type=journalists",
+      "published_at": "2026-09-11T10:16:45+09:00",
+      "sent_at": "2026-09-11T10:35:58.223592+09:00"
     }
   ],
-  "last_run_at": "2026-09-11T01:30:43.174841+00:00"
+  "last_run_at": "2026-09-11T01:35:48.192888+00:00"
 }
