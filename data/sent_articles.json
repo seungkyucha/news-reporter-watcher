@@ -719,7 +719,16 @@
       "url": "https://n.news.naver.com/article/001/0016304448?type=journalists",
       "published_at": "2026-09-11T11:30:28+09:00",
       "sent_at": "2026-09-11T11:42:16.725937+09:00"
+    },
+    {
+      "id": "46c1b1a45576a3a381513413cf568cda6d56ea21b91f6ba783cdf60993ff45bb",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "[게임스냅] 크래프톤·네오플, 대한민국 일자리 으뜸기업 선정(종합)",
+      "url": "https://n.news.naver.com/article/001/0016304891?type=journalists",
+      "published_at": "2026-09-11T14:34:57+09:00",
+      "sent_at": "2026-09-11T14:45:05.641091+09:00"
     }
   ],
-  "last_run_at": "2026-09-11T05:39:56.725405+00:00"
+  "last_run_at": "2026-09-11T05:45:01.072583+00:00"
 }
