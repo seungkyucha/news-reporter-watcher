@@ -1,15 +1,6 @@
 {
   "sent": [
     {
-      "id": "271ba147f40bcced549bac3a51a9917d17a3b4bf8371cdf9d5f871d1d265c7da",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "title": "조이시티 '프리스타일 풋볼 2', 북미 게임쇼 팍스 웨스트 출격",
-      "url": "https://n.news.naver.com/article/030/0003463643?type=journalists",
-      "published_at": "2026-09-04T14:28:20+09:00",
-      "sent_at": "2026-09-04T14:45:18.622012+09:00"
-    },
-    {
       "id": "0010512f2d1d19bd8f3ed642198f8f8db82b68ab31c2e18b8fedeea3ab5032df",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -730,5 +721,5 @@
       "sent_at": "2026-09-11T14:45:05.641091+09:00"
     }
   ],
-  "last_run_at": "2026-09-11T05:45:01.072583+00:00"
+  "last_run_at": "2026-09-11T05:50:08.824737+00:00"
 }
