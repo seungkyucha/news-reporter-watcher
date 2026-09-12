@@ -791,7 +791,16 @@
       "url": "https://n.news.naver.com/article/001/0016306065?type=journalists",
       "published_at": "2026-09-12T18:47:17+09:00",
       "sent_at": "2026-09-12T19:04:44.874117+09:00"
+    },
+    {
+      "id": "c5693cdf531d7cb421f1fe278a292f6fda4e9dfd32dc0eb78fe02029e4b0c035",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "'스타크래프트', 슈팅 게임으로 돌아온다…2030년 신작 공개",
+      "url": "https://n.news.naver.com/article/001/0016306171?type=journalists",
+      "published_at": "2026-09-13T03:37:19+09:00",
+      "sent_at": "2026-09-13T03:53:43.877586+09:00"
     }
   ],
-  "last_run_at": "2026-09-12T18:48:33.889711+00:00"
+  "last_run_at": "2026-09-12T18:53:38.797936+00:00"
 }
