@@ -764,7 +764,16 @@
       "url": "https://n.news.naver.com/article/001/0016305308?type=journalists",
       "published_at": "2026-09-11T16:44:03+09:00",
       "sent_at": "2026-09-11T16:52:36.206808+09:00"
+    },
+    {
+      "id": "cadee70a4d16f4772e3b3895476ff29e97a7648d0fc8fc70701e81ee5560252f",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "스타크래프트 후속작 공개하나…블리즈컨 2026에 쏟아지는 관심",
+      "url": "https://n.news.naver.com/article/001/0016305862?type=journalists",
+      "published_at": "2026-09-12T10:25:03+09:00",
+      "sent_at": "2026-09-12T10:40:47.678929+09:00"
     }
   ],
-  "last_run_at": "2026-09-12T01:35:36.469745+00:00"
+  "last_run_at": "2026-09-12T01:40:41.256612+00:00"
 }
