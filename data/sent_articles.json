@@ -1,15 +1,6 @@
 {
   "sent": [
     {
-      "id": "12dbe0a8dd8748549bf0e39c2f162dcc7cfbea32f89dbe4a8aa993467d067bcb",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "[게임위드인] 총 대신 낚싯대 든다…한중일 '힐링 게임' 격돌",
-      "url": "https://n.news.naver.com/article/001/0016291546?type=journalists",
-      "published_at": "2026-09-05T11:00:01+09:00",
-      "sent_at": "2026-09-05T11:15:39.102785+09:00"
-    },
-    {
       "id": "7a271e77f894530c10bdfd1b00a3ab9632123071230f62964a5b85e530fa1dfe",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -773,7 +764,16 @@
       "url": "https://n.news.naver.com/article/001/0016305862?type=journalists",
       "published_at": "2026-09-12T10:25:03+09:00",
       "sent_at": "2026-09-12T10:40:47.678929+09:00"
+    },
+    {
+      "id": "ca32c94d6e7b1ffcce46271afe22c7f7f5738c164c357dbdaf4e21fc794a2a72",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "[게임위드인] 판 키우는 크래프톤 vs 집중하는 넥슨…누가 웃을까",
+      "url": "https://n.news.naver.com/article/001/0016305871?type=journalists",
+      "published_at": "2026-09-12T11:00:01+09:00",
+      "sent_at": "2026-09-12T11:16:26.781972+09:00"
     }
   ],
-  "last_run_at": "2026-09-12T02:11:16.286924+00:00"
+  "last_run_at": "2026-09-12T02:16:20.886932+00:00"
 }
