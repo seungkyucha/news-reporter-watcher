@@ -782,7 +782,25 @@
       "url": "https://n.news.naver.com/article/001/0016306025?type=journalists",
       "published_at": "2026-09-12T18:14:14+09:00",
       "sent_at": "2026-09-12T18:24:00.201254+09:00"
+    },
+    {
+      "id": "4df45351bb93a05a3688a32a1241a0394103da624f5bfbe4986b425611ecaadd",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "LCK 결승 코앞서 미끄러진 T1…페이커 \"월즈서 더 좋은 경기력\"",
+      "url": "https://n.news.naver.com/article/001/0016306067?type=journalists",
+      "published_at": "2026-09-12T18:50:21+09:00",
+      "sent_at": "2026-09-12T19:04:42.120470+09:00"
+    },
+    {
+      "id": "04192b93c14228e8f0e8d98723acbaad5a35a7a6df6f37bd5330a41998db7846",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "T1 꺾고 LCK 결승 진출한 한화생명 제우스 \"3:1로 우승하겠다\"",
+      "url": "https://n.news.naver.com/article/001/0016306065?type=journalists",
+      "published_at": "2026-09-12T18:47:17+09:00",
+      "sent_at": "2026-09-12T19:04:44.874117+09:00"
     }
   ],
-  "last_run_at": "2026-09-12T09:59:31.162346+00:00"
+  "last_run_at": "2026-09-12T10:04:37.350351+00:00"
 }
