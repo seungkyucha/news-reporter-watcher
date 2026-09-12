@@ -773,7 +773,16 @@
       "url": "https://n.news.naver.com/article/001/0016305871?type=journalists",
       "published_at": "2026-09-12T11:00:01+09:00",
       "sent_at": "2026-09-12T11:16:26.781972+09:00"
+    },
+    {
+      "id": "416f58b4390ff863470fc3c4cdf7e6970920318be3a7c663467944a5017f891c",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "한화생명, T1에 3:1 승…LCK 결승서 젠지와 리매치 성사",
+      "url": "https://n.news.naver.com/article/001/0016306025?type=journalists",
+      "published_at": "2026-09-12T18:14:14+09:00",
+      "sent_at": "2026-09-12T18:24:00.201254+09:00"
     }
   ],
-  "last_run_at": "2026-09-12T09:18:51.055867+00:00"
+  "last_run_at": "2026-09-12T09:23:55.331851+00:00"
 }
