@@ -809,7 +809,16 @@
       "url": "https://n.news.naver.com/article/001/0016306177?type=journalists",
       "published_at": "2026-09-13T04:11:30+09:00",
       "sent_at": "2026-09-13T04:24:14.738850+09:00"
+    },
+    {
+      "id": "b6da85545bc7fc26f72c1578aa87c82f2b06645d2b095e70e36060401ba490d6",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "'스타' 슈팅게임·'디아블로Ⅴ'…초대형 신작으로 채운 블리즈컨(종합)",
+      "url": "https://n.news.naver.com/article/001/0016306183?type=journalists",
+      "published_at": "2026-09-13T04:47:33+09:00",
+      "sent_at": "2026-09-13T05:04:55.107934+09:00"
     }
   ],
-  "last_run_at": "2026-09-12T19:59:45.401532+00:00"
+  "last_run_at": "2026-09-12T20:04:49.717076+00:00"
 }
