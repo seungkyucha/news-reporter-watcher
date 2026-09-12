@@ -800,7 +800,16 @@
       "url": "https://n.news.naver.com/article/001/0016306171?type=journalists",
       "published_at": "2026-09-13T03:37:19+09:00",
       "sent_at": "2026-09-13T03:53:43.877586+09:00"
+    },
+    {
+      "id": "ed3ef9e34d130eb7e9944d3b0f7b5d3d97534fb1f224d2b4e04f5ba1debbb7f4",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "30주년 맞은 게임 '디아블로' 차기작…'디아블로 V' 2029년 출시",
+      "url": "https://n.news.naver.com/article/001/0016306177?type=journalists",
+      "published_at": "2026-09-13T04:11:30+09:00",
+      "sent_at": "2026-09-13T04:24:14.738850+09:00"
     }
   ],
-  "last_run_at": "2026-09-12T19:19:04.859224+00:00"
+  "last_run_at": "2026-09-12T19:24:09.638967+00:00"
 }
