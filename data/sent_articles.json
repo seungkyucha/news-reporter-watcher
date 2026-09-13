@@ -818,7 +818,34 @@
       "url": "https://n.news.naver.com/article/001/0016307306?type=journalists",
       "published_at": "2026-09-13T18:11:26+09:00",
       "sent_at": "2026-09-13T18:23:52.833475+09:00"
+    },
+    {
+      "id": "d1bc78a294449ca6f7db12efd0c323d6f8ff379a4a877e498f957e6faf6a1328",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "얼싸 안고 환호하는 젠지",
+      "url": "https://n.news.naver.com/article/001/0016307350?type=journalists",
+      "published_at": "2026-09-13T18:34:09+09:00",
+      "sent_at": "2026-09-13T18:44:44.125849+09:00"
+    },
+    {
+      "id": "bff3aaddbb8212fea3a55131ed2a052501acac084f70b3380d15d70a754a8141",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "트로피 들어올리는 '2연속 우승' 젠지",
+      "url": "https://n.news.naver.com/article/001/0016307343?type=journalists",
+      "published_at": "2026-09-13T18:33:24+09:00",
+      "sent_at": "2026-09-13T18:44:46.631857+09:00"
+    },
+    {
+      "id": "b06305474bb0a603d43b869e33a7bd4e850c4304419530832e804912b4632cbb",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "한화생명 카나비 \"젠지 만날 때마다 급해져…약점 보완하겠다\"",
+      "url": "https://n.news.naver.com/article/001/0016307328?type=journalists",
+      "published_at": "2026-09-13T18:28:35+09:00",
+      "sent_at": "2026-09-13T18:44:49.163294+09:00"
     }
   ],
-  "last_run_at": "2026-09-13T09:39:34.393611+00:00"
+  "last_run_at": "2026-09-13T09:44:39.249595+00:00"
 }
