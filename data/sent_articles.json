@@ -800,7 +800,16 @@
       "url": "https://n.news.naver.com/article/030/0003466168?type=journalists",
       "published_at": "2026-09-13T11:28:17+09:00",
       "sent_at": "2026-09-13T11:46:33.713243+09:00"
+    },
+    {
+      "id": "e2df64b2fc03637c8b5f8c26d293ba68e6444ac7266f4c7fb45986ed2ae1ac06",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "젠지, 결승전서 한화생명 꺾고 2026 LCK 왕좌 수성",
+      "url": "https://n.news.naver.com/article/001/0016307279?type=journalists",
+      "published_at": "2026-09-13T17:47:36+09:00",
+      "sent_at": "2026-09-13T18:02:33.028803+09:00"
     }
   ],
-  "last_run_at": "2026-09-13T08:57:24.174835+00:00"
+  "last_run_at": "2026-09-13T09:02:28.388750+00:00"
 }
