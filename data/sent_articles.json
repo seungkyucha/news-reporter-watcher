@@ -809,7 +809,16 @@
       "url": "https://n.news.naver.com/article/001/0016306183?type=journalists",
       "published_at": "2026-09-13T04:47:33+09:00",
       "sent_at": "2026-09-13T05:04:55.107934+09:00"
+    },
+    {
+      "id": "a7d6ed1c23f7f53251e493e64ac81fe5794307f7d604d10ab4a39a28470d3b9a",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "판교 뒤흔든 게임문화축제 GXG... 게임·음악·서브컬처 한자리에",
+      "url": "https://n.news.naver.com/article/030/0003466147?type=journalists",
+      "published_at": "2026-09-13T09:38:14+09:00",
+      "sent_at": "2026-09-13T09:54:45.897479+09:00"
     }
   ],
-  "last_run_at": "2026-09-13T00:49:36.613816+00:00"
+  "last_run_at": "2026-09-13T00:54:40.991520+00:00"
 }
