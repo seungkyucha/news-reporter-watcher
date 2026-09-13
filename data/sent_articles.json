@@ -809,7 +809,16 @@
       "url": "https://n.news.naver.com/article/030/0003466147?type=journalists",
       "published_at": "2026-09-13T09:38:14+09:00",
       "sent_at": "2026-09-13T09:54:45.897479+09:00"
+    },
+    {
+      "id": "d1f8f300231d1f3d0d2d525dbc60161889cb60a444686a25b269543234ef25c0",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "블리자드, 2030년 '스타크래프트' 신작 출격... 장수 IP 부활 본격화",
+      "url": "https://n.news.naver.com/article/030/0003466168?type=journalists",
+      "published_at": "2026-09-13T11:28:17+09:00",
+      "sent_at": "2026-09-13T11:46:33.713243+09:00"
     }
   ],
-  "last_run_at": "2026-09-13T02:41:24.116375+00:00"
+  "last_run_at": "2026-09-13T02:46:28.620520+00:00"
 }
