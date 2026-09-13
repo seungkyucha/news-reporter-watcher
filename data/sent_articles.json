@@ -1,24 +1,6 @@
 {
   "sent": [
     {
-      "id": "515f9d844db79e6a9dc3b36f3120a20b8185feaad7e973108ab776fb42c5980f",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "우주청·UN, AI로 우주전파재난 대응 모색…25개국 전문가 집결",
-      "url": "https://n.news.naver.com/article/001/0016292401?type=journalists",
-      "published_at": "2026-09-06T13:04:21+09:00",
-      "sent_at": "2026-09-06T13:15:55.346050+09:00"
-    },
-    {
-      "id": "0fcaa13bf15db6fb5cf06d221b7667d794837a4d9ac86242184af6e1f939f663",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "AAM으로 조난자 구조…인하대, 로봇항공기 대회 대상",
-      "url": "https://n.news.naver.com/article/001/0016292400?type=journalists",
-      "published_at": "2026-09-06T13:00:44+09:00",
-      "sent_at": "2026-09-06T13:15:57.822317+09:00"
-    },
-    {
       "id": "f12bda18902d3af5a103ebdf2d2000e91788b1002d26c4acb6c2f534a51dde34",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -820,5 +802,5 @@
       "sent_at": "2026-09-13T11:46:33.713243+09:00"
     }
   ],
-  "last_run_at": "2026-09-13T04:12:49.775191+00:00"
+  "last_run_at": "2026-09-13T04:17:54.647605+00:00"
 }
