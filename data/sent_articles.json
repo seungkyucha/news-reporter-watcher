@@ -863,7 +863,16 @@
       "url": "https://n.news.naver.com/article/001/0016307359?type=journalists",
       "published_at": "2026-09-13T18:35:08+09:00",
       "sent_at": "2026-09-13T18:55:10.971475+09:00"
+    },
+    {
+      "id": "336a4db19e3eb4fbae9231c71965a329afddb016832afcf099d78bfb509b2162",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "'2연속 LCK 왕좌' 젠지 \"올해 월드챔피언십 꼭 우승하겠다\"",
+      "url": "https://n.news.naver.com/article/001/0016307482?type=journalists",
+      "published_at": "2026-09-13T20:14:35+09:00",
+      "sent_at": "2026-09-13T20:21:35.739954+09:00"
     }
   ],
-  "last_run_at": "2026-09-13T11:16:26.425789+00:00"
+  "last_run_at": "2026-09-13T11:21:31.005926+00:00"
 }
