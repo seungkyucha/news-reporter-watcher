@@ -1,15 +1,6 @@
 {
   "sent": [
     {
-      "id": "2b11c03984af039e1bc15c1c9d0f7670c171cf215e985e5b9f4d72ac80d116a1",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "KT, 불꽃축제 인파 속 5G '전용망' 가동…CCTV 실시간 관제",
-      "url": "https://n.news.naver.com/article/001/0016292159?type=journalists",
-      "published_at": "2026-09-06T09:14:38+09:00",
-      "sent_at": "2026-09-06T09:22:24.980279+09:00"
-    },
-    {
       "id": "da8fd6c3eccb586f81040303f6caea993be2830dbd21b428176a51c57dce8a6a",
       "reporter": "박정은",
       "press": "전자신문",
@@ -820,5 +811,5 @@
       "sent_at": "2026-09-13T05:04:55.107934+09:00"
     }
   ],
-  "last_run_at": "2026-09-13T00:19:09.396598+00:00"
+  "last_run_at": "2026-09-13T00:24:13.839835+00:00"
 }
