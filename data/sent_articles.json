@@ -845,7 +845,25 @@
       "url": "https://n.news.naver.com/article/001/0016307328?type=journalists",
       "published_at": "2026-09-13T18:28:35+09:00",
       "sent_at": "2026-09-13T18:44:49.163294+09:00"
+    },
+    {
+      "id": "eaba9230a36aac08303bb21d86811ec094a410d3b42e02ca986d685faf66ef88",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "트로피 들어올리는 '2연속 우승' 젠지",
+      "url": "https://n.news.naver.com/article/001/0016307362?type=journalists",
+      "published_at": "2026-09-13T18:35:49+09:00",
+      "sent_at": "2026-09-13T18:55:08.199502+09:00"
+    },
+    {
+      "id": "e4efc38457d7ea953584f55c1baa0b241b5682b8e2c24505009051496c1853ec",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "우승 트로피 들어올리는 룰러",
+      "url": "https://n.news.naver.com/article/001/0016307359?type=journalists",
+      "published_at": "2026-09-13T18:35:08+09:00",
+      "sent_at": "2026-09-13T18:55:10.971475+09:00"
     }
   ],
-  "last_run_at": "2026-09-13T09:49:52.315192+00:00"
+  "last_run_at": "2026-09-13T09:55:02.921926+00:00"
 }
