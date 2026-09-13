@@ -809,7 +809,16 @@
       "url": "https://n.news.naver.com/article/001/0016307279?type=journalists",
       "published_at": "2026-09-13T17:47:36+09:00",
       "sent_at": "2026-09-13T18:02:33.028803+09:00"
+    },
+    {
+      "id": "0e3bc1d70601e4adf544cded5d42166e18c297109a2fa4c91cd88d2b4ad0db94",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "젠지, 한화생명 꺾고 LCK 2연패…통산 7번째 왕좌(종합)",
+      "url": "https://n.news.naver.com/article/001/0016307306?type=journalists",
+      "published_at": "2026-09-13T18:11:26+09:00",
+      "sent_at": "2026-09-13T18:23:52.833475+09:00"
     }
   ],
-  "last_run_at": "2026-09-13T09:18:18.341984+00:00"
+  "last_run_at": "2026-09-13T09:23:48.412695+00:00"
 }
