@@ -854,7 +854,16 @@
       "url": "https://n.news.naver.com/article/001/0016307482?type=journalists",
       "published_at": "2026-09-13T20:14:35+09:00",
       "sent_at": "2026-09-13T20:21:35.739954+09:00"
+    },
+    {
+      "id": "96c01a159fbb46863834ad14af7958a9a6f39ff527f226d097f35cc13ce15954",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "넥슨게임즈, '우치' 개발에 한국관광공사 관광 데이터 쓴다",
+      "url": "https://n.news.naver.com/article/001/0016308017?type=journalists",
+      "published_at": "2026-09-14T09:31:24+09:00",
+      "sent_at": "2026-09-14T09:44:48.287378+09:00"
     }
   ],
-  "last_run_at": "2026-09-14T00:39:24.737415+00:00"
+  "last_run_at": "2026-09-14T00:44:43.539183+00:00"
 }
