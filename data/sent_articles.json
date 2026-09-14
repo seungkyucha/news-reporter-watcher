@@ -809,7 +809,16 @@
       "url": "https://n.news.naver.com/article/030/0003466539?type=journalists",
       "published_at": "2026-09-14T14:50:15+09:00",
       "sent_at": "2026-09-14T15:05:21.039974+09:00"
+    },
+    {
+      "id": "107766bbf288dee13dd7b51d261a6e858b3d1902b678484fd458a38a908d7199",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "넥슨·넷마블·엔씨·스마일게이트, 도쿄게임쇼서 신작 선보인다",
+      "url": "https://n.news.naver.com/article/001/0016310387?type=journalists",
+      "published_at": "2026-09-15T07:30:00+09:00",
+      "sent_at": "2026-09-15T07:42:56.073406+09:00"
     }
   ],
-  "last_run_at": "2026-09-14T22:37:45.689122+00:00"
+  "last_run_at": "2026-09-14T22:42:50.637518+00:00"
 }
