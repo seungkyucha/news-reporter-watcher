@@ -863,7 +863,16 @@
       "url": "https://n.news.naver.com/article/001/0016308212?type=journalists",
       "published_at": "2026-09-14T10:15:28+09:00",
       "sent_at": "2026-09-14T10:35:43.658598+09:00"
+    },
+    {
+      "id": "141a3757445918a297d87d5312300bfca1bf86ae5dd49e37875505ab80bd3b07",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "위메이드 새 최대주주 컨소시엄에 中 킹넷 합류... 중국·IP 사업 확대",
+      "url": "https://n.news.naver.com/article/030/0003466401?type=journalists",
+      "published_at": "2026-09-14T11:05:11+09:00",
+      "sent_at": "2026-09-14T11:16:25.602256+09:00"
     }
   ],
-  "last_run_at": "2026-09-14T02:11:15.699668+00:00"
+  "last_run_at": "2026-09-14T02:16:20.595037+00:00"
 }
