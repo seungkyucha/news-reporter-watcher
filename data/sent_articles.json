@@ -863,7 +863,16 @@
       "url": "https://n.news.naver.com/article/001/0016308017?type=journalists",
       "published_at": "2026-09-14T09:31:24+09:00",
       "sent_at": "2026-09-14T09:44:48.287378+09:00"
+    },
+    {
+      "id": "7f18d07b93fa70188f627c65a0fbd83cce3fd3f01c067031b4411a7211a93535",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "SOOP 플레이디, 허익서 총괄 디렉터 영입…4개 본부 체제 구축",
+      "url": "https://n.news.naver.com/article/001/0016308085?type=journalists",
+      "published_at": "2026-09-14T09:50:31+09:00",
+      "sent_at": "2026-09-14T10:05:11.210960+09:00"
     }
   ],
-  "last_run_at": "2026-09-14T01:00:01.045785+00:00"
+  "last_run_at": "2026-09-14T01:05:06.333299+00:00"
 }
