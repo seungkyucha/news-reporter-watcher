@@ -872,7 +872,16 @@
       "url": "https://n.news.naver.com/article/001/0016308085?type=journalists",
       "published_at": "2026-09-14T09:50:31+09:00",
       "sent_at": "2026-09-14T10:05:11.210960+09:00"
+    },
+    {
+      "id": "0f77096192f8151aadc23f132a3c1b60ac17291ac70992df25ef0b970f1db8d3",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "title": "위메이드 최대주주 바뀐다…'미르2 소송전' 킹넷도 참여",
+      "url": "https://n.news.naver.com/article/001/0016308212?type=journalists",
+      "published_at": "2026-09-14T10:15:28+09:00",
+      "sent_at": "2026-09-14T10:35:43.658598+09:00"
     }
   ],
-  "last_run_at": "2026-09-14T01:30:33.466470+00:00"
+  "last_run_at": "2026-09-14T01:35:38.285487+00:00"
 }
