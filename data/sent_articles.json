@@ -935,7 +935,17 @@
       "url": "https://n.news.naver.com/article/030/0003467122?type=journalists",
       "published_at": "2026-09-15T19:04:16+09:00",
       "sent_at": "2026-09-15T19:16:09.463468+09:00"
+    },
+    {
+      "id": "c1d27155ac858b90216356c0966dd5388e71a15955bef3cf88568e8273e86576",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "네오위즈, 니혼 팔콤과 '영웅전설3 하얀마녀' IP 계약",
+      "url": "https://n.news.naver.com/article/001/0016313453?type=journalists",
+      "published_at": "2026-09-16T08:44:33+09:00",
+      "sent_at": "2026-09-16T08:55:26.396943+09:00"
     }
   ],
-  "last_run_at": "2026-09-15T23:50:17.167877+00:00"
+  "last_run_at": "2026-09-15T23:55:21.624255+00:00"
 }
