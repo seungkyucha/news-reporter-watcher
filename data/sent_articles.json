@@ -926,7 +926,25 @@
       "url": "https://n.news.naver.com/article/030/0003466948?type=journalists",
       "published_at": "2026-09-15T14:18:12+09:00",
       "sent_at": "2026-09-15T14:35:26.326258+09:00"
+    },
+    {
+      "id": "dd1333f967bf2edf3bc122a8f834cd8189ddb3baf7cff2ca8650a0f4e9489e93",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "엔씨, 마이크로소프트와 '아이온2' 글로벌 서비스 협력 강화",
+      "url": "https://n.news.naver.com/article/030/0003466960?type=journalists",
+      "published_at": "2026-09-15T14:35:12+09:00",
+      "sent_at": "2026-09-15T14:40:33.728163+09:00"
+    },
+    {
+      "id": "cb39d48d780869961711b3c351acd53dc294ab8551ae15f56a0f14d8ee35b956",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "트리노드, TGS 2026서 신작 '포코머지' 첫 공개... 일본 시장 공략",
+      "url": "https://n.news.naver.com/article/030/0003466957?type=journalists",
+      "published_at": "2026-09-15T14:32:14+09:00",
+      "sent_at": "2026-09-15T14:40:36.306628+09:00"
     }
   ],
-  "last_run_at": "2026-09-15T05:35:19.405760+00:00"
+  "last_run_at": "2026-09-15T05:40:29.358284+00:00"
 }
