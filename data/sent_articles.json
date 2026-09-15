@@ -935,7 +935,16 @@
       "url": "https://n.news.naver.com/article/030/0003467037?type=journalists",
       "published_at": "2026-09-15T16:19:15+09:00",
       "sent_at": "2026-09-15T16:32:59.729513+09:00"
+    },
+    {
+      "id": "d33088023f0187cd0adfa2f97d07520051aab9195588a1b40af6b846ac1fc773",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "라인게임즈, 300억원 유상증자 철회... “라인야후·룽고 소송과 무관”",
+      "url": "https://n.news.naver.com/article/030/0003467122?type=journalists",
+      "published_at": "2026-09-15T19:04:16+09:00",
+      "sent_at": "2026-09-15T19:16:09.463468+09:00"
     }
   ],
-  "last_run_at": "2026-09-15T10:10:59.688599+00:00"
+  "last_run_at": "2026-09-15T10:16:04.677409+00:00"
 }
