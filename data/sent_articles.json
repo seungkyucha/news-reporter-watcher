@@ -935,7 +935,25 @@
       "url": "https://n.news.naver.com/article/030/0003466964?type=journalists",
       "published_at": "2026-09-15T14:37:18+09:00",
       "sent_at": "2026-09-15T14:56:00.902579+09:00"
+    },
+    {
+      "id": "c9ac1d45ef24ee48e9e4c8132f47fde083de72ee45c226d7473d880d3a221123",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "카카오게임즈, 미투온 980억원에 인수... 글로벌 캐주얼 게임 확대",
+      "url": "https://n.news.naver.com/article/030/0003467042?type=journalists",
+      "published_at": "2026-09-15T16:22:20+09:00",
+      "sent_at": "2026-09-15T16:32:57.065533+09:00"
+    },
+    {
+      "id": "92bcad9650d11c33a14f457e7e54427a5df40990c3bc156898f2b2cc28327876",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "[올해의 우수게임] 프론티어 부문 투핸즈게임즈 '골프 슈퍼 크루'",
+      "url": "https://n.news.naver.com/article/030/0003467037?type=journalists",
+      "published_at": "2026-09-15T16:19:15+09:00",
+      "sent_at": "2026-09-15T16:32:59.729513+09:00"
     }
   ],
-  "last_run_at": "2026-09-15T07:27:47.527753+00:00"
+  "last_run_at": "2026-09-15T07:32:52.479716+00:00"
 }
