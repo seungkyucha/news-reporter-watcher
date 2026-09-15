@@ -908,7 +908,25 @@
       "url": "https://n.news.naver.com/article/030/0003466922?type=journalists",
       "published_at": "2026-09-15T14:01:12+09:00",
       "sent_at": "2026-09-15T14:15:02.077510+09:00"
+    },
+    {
+      "id": "0911e84886c44ca53c987d06484fd5386d17f7b66c67b1c38656a3189822d714",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "콘텐츠 11개 협·단체 뭉쳤다... 2030년 'K콘텐츠 220조' 비전 제시",
+      "url": "https://n.news.naver.com/article/030/0003466949?type=journalists",
+      "published_at": "2026-09-15T14:21:12+09:00",
+      "sent_at": "2026-09-15T14:35:23.920312+09:00"
+    },
+    {
+      "id": "a9a13c7d05419c165b39a8651ce1c5001f2a13466e720cbab7a33caf0c231315",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "30년 만에 새 출발 '올해의 우수게임'... 첫 수상작 16종 선정",
+      "url": "https://n.news.naver.com/article/030/0003466948?type=journalists",
+      "published_at": "2026-09-15T14:18:12+09:00",
+      "sent_at": "2026-09-15T14:35:26.326258+09:00"
     }
   ],
-  "last_run_at": "2026-09-15T05:30:14.813990+00:00"
+  "last_run_at": "2026-09-15T05:35:19.405760+00:00"
 }
