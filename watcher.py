@@ -8,8 +8,12 @@ GitHub Actions에서 5분 간격으로 실행되어,
 환경변수:
   NAVER_CLIENT_ID      네이버 개발자 센터 Client ID
   NAVER_CLIENT_SECRET  네이버 개발자 센터 Client Secret
-  TELEGRAM_BOT_TOKEN   BotFather로 발급받은 봇 토큰
-  TELEGRAM_CHAT_ID     알림을 받을 채팅방/채널 ID
+  TELEGRAM_BOT_TOKEN   BotFather로 발급받은 봇 토큰(기본 채널)
+  TELEGRAM_CHAT_ID     알림을 받을 채팅방/채널 ID(기본 채널, 쉼표 구분 다중 가능)
+  TELEGRAM_CHANNELS    (선택) 기자별로 다른 봇/채팅방으로 보내기 위한 이름표 채널 목록(JSON 객체).
+                       예: {"seo":{"bot_token":"...","chat_id":"-100...","reporters":["서정근"]}}
+                       "reporters" 에 적힌 기자(또는 REPORTERS 항목의 "extra_channels" 로 이 키를
+                       가리키는 기자)의 기사는 기본 채널에 더해 그 채널로도 함께 전송한다.
   REPORTERS            감시할 기자 목록(JSON 배열, 한 줄)
 """
 
@@ -128,6 +132,15 @@ def load_reporters(raw: str) -> list[dict[str, Any]]:
         include_keywords = [str(k).strip() for k in item.get("include_keywords", []) if str(k).strip()]
         exclude_keywords = [str(k).strip() for k in item.get("exclude_keywords", []) if str(k).strip()]
         journalist = parse_journalist(item.get("naver_journalist", ""))
+        # 추가 알림 채널 이름표(문자열 또는 배열). 기본 채널에는 항상 보내고,
+        # 여기 적힌 TELEGRAM_CHANNELS 항목으로도 '추가로' 함께 보낸다.
+        extra_field = item.get("extra_channels", item.get("extra_channel", []))
+        if isinstance(extra_field, str):
+            extra_channels = [extra_field.strip()] if extra_field.strip() else []
+        elif isinstance(extra_field, list):
+            extra_channels = [str(c).strip() for c in extra_field if str(c).strip()]
+        else:
+            raise SystemExit(f"[ERROR] REPORTERS[{idx}].extra_channels 는 문자열 또는 배열이어야 합니다.")
 
         # 검색 모드라면(기자ID 없음) 검색어가 비지 않도록 name 또는 include_keywords 가
         # 하나는 필요하다. 기자ID 모드는 ID 로 직접 가져오므로 이 제약이 없다.
@@ -166,6 +179,7 @@ def load_reporters(raw: str) -> list[dict[str, Any]]:
             "domains": domains,
             "include_keywords": include_keywords,
             "exclude_keywords": exclude_keywords,
+            "extra_channels": extra_channels,
         })
     return cleaned
 
@@ -563,35 +577,166 @@ def send_line(message: str, channel_access_token: str, target_id: str) -> bool:
         return False
 
 
-def build_notifiers() -> list[tuple[str, Any]]:
-    """환경변수에 설정된 알림 채널을 (이름, 전송함수) 목록으로 만든다.
+Notifier = tuple[str, Any]  # (표시 이름, message -> bool 전송함수)
 
-    - 텔레그램: TELEGRAM_BOT_TOKEN + TELEGRAM_CHAT_ID 가 모두 있을 때.
-      TELEGRAM_CHAT_ID 는 쉼표로 여러 대상(그룹/채널/DM)을 지정할 수 있다.
-      예: "-1004371006208,-1001234567890"
-    - 라인:     LINE_CHANNEL_ACCESS_TOKEN + LINE_GROUP_ID 가 모두 있을 때
-    하나도 없으면 오류로 종료한다. 각 전송함수는 message 를 받아 성공 여부를 반환.
+
+def make_notifiers(
+    tg_token: str,
+    tg_chat_ids: str,
+    line_token: str = "",
+    line_group: str = "",
+    prefix: str = "",
+) -> list[Notifier]:
+    """토큰/대상 값으로 (이름, 전송함수) 목록을 만든다. 값이 비면 해당 항목은 생략.
+
+    tg_chat_ids 는 쉼표로 여러 대상(그룹/채널/DM)을 지정할 수 있다.
+    예: "-1004371006208,-1001234567890"
+    prefix 는 로그 표시용 이름표(예: "seo:") — 기본 채널은 빈 문자열.
     """
-    notifiers: list[tuple[str, Any]] = []
+    notifiers: list[Notifier] = []
 
-    tg_token = os.environ.get("TELEGRAM_BOT_TOKEN", "").strip()
-    tg_chats = [c.strip() for c in os.environ.get("TELEGRAM_CHAT_ID", "").split(",") if c.strip()]
+    tg_token = (tg_token or "").strip()
+    tg_chats = [c.strip() for c in (tg_chat_ids or "").split(",") if c.strip()]
     if tg_token and tg_chats:
         for chat in tg_chats:
-            label = "Telegram" if len(tg_chats) == 1 else f"Telegram({chat})"
-            notifiers.append((label, lambda m, c=chat: send_telegram(m, tg_token, c)))
+            label = f"{prefix}Telegram" if len(tg_chats) == 1 else f"{prefix}Telegram({chat})"
+            notifiers.append((label, lambda m, c=chat, t=tg_token: send_telegram(m, t, c)))
 
-    line_token = os.environ.get("LINE_CHANNEL_ACCESS_TOKEN", "").strip()
-    line_group = os.environ.get("LINE_GROUP_ID", "").strip()
+    line_token = (line_token or "").strip()
+    line_group = (line_group or "").strip()
     if line_token and line_group:
-        notifiers.append(("LINE", lambda m: send_line(m, line_token, line_group)))
+        notifiers.append((f"{prefix}LINE", lambda m, t=line_token, g=line_group: send_line(m, t, g)))
 
+    return notifiers
+
+
+def build_notifiers() -> list[Notifier]:
+    """기본 알림 채널(환경변수 TELEGRAM_*/LINE_*)의 전송함수 목록을 만든다.
+
+    - 텔레그램: TELEGRAM_BOT_TOKEN + TELEGRAM_CHAT_ID 가 모두 있을 때.
+    - 라인:     LINE_CHANNEL_ACCESS_TOKEN + LINE_GROUP_ID 가 모두 있을 때
+    하나도 없으면 오류로 종료한다(모든 기자의 기사는 항상 기본 채널로 나간다).
+    """
+    notifiers = make_notifiers(
+        os.environ.get("TELEGRAM_BOT_TOKEN", ""),
+        os.environ.get("TELEGRAM_CHAT_ID", ""),
+        os.environ.get("LINE_CHANNEL_ACCESS_TOKEN", ""),
+        os.environ.get("LINE_GROUP_ID", ""),
+    )
     if not notifiers:
         raise SystemExit(
             "[ERROR] 알림 채널이 없습니다. (TELEGRAM_BOT_TOKEN+TELEGRAM_CHAT_ID) 또는 "
             "(LINE_CHANNEL_ACCESS_TOKEN+LINE_GROUP_ID) 중 하나 이상을 설정하세요."
         )
     return notifiers
+
+
+def load_channels(raw: str) -> dict[str, dict[str, Any]]:
+    """TELEGRAM_CHANNELS(JSON 객체) 를 파싱해 이름표별 {notifiers, reporters} 로 만든다.
+
+    형식:
+      {
+        "seo":  {"bot_token": "712...:AAH...", "chat_id": "-1001234567890",
+                 "reporters": ["서정근"]},
+        "desk": {"bot_token": "...", "chat_id": "-100111,-100222",
+                 "line_token": "...", "line_group_id": "C..."}
+      }
+    기자와 채널을 잇는 방법은 두 가지이며 둘 다 쓸 수 있다(합집합):
+      - 채널 쪽 "reporters": 기자 이름(name) 또는 표시 라벨(label) 목록. REPORTERS 를 안 고쳐도 된다.
+      - REPORTERS 항목 쪽 "extra_channels": 채널 이름표 목록.
+    어느 쪽이든 매칭된 기자의 기사는 기본 채널에 더해 해당 채널로도 함께 전송된다.
+    비어 있으면 빈 dict. 형식 오류나 토큰/대상이 빈 항목은 오류로 종료한다(조용히 누락되지 않도록).
+    """
+    raw = (raw or "").strip()
+    if not raw:
+        return {}
+    try:
+        data = json.loads(raw)
+    except json.JSONDecodeError as e:
+        raise SystemExit(
+            f"[ERROR] TELEGRAM_CHANNELS JSON 파싱 실패: {e.msg} (line {e.lineno}, col {e.colno})"
+        )
+    if not isinstance(data, dict):
+        raise SystemExit('[ERROR] TELEGRAM_CHANNELS 는 JSON 객체여야 합니다. 예: {"seo":{"bot_token":"...","chat_id":"..."}}')
+
+    channels: dict[str, dict[str, Any]] = {}
+    for key, cfg in data.items():
+        name = str(key).strip()
+        if not name:
+            raise SystemExit("[ERROR] TELEGRAM_CHANNELS 의 채널 이름(키)이 비어 있습니다.")
+        if not isinstance(cfg, dict):
+            raise SystemExit(f"[ERROR] TELEGRAM_CHANNELS['{name}'] 은 객체여야 합니다.")
+        rep_field = cfg.get("reporters", [])
+        if isinstance(rep_field, str):
+            rep_names = [rep_field.strip()] if rep_field.strip() else []
+        elif isinstance(rep_field, list):
+            rep_names = [str(x).strip() for x in rep_field if str(x).strip()]
+        else:
+            raise SystemExit(f"[ERROR] TELEGRAM_CHANNELS['{name}'].reporters 는 문자열 또는 배열이어야 합니다.")
+        notifiers = make_notifiers(
+            str(cfg.get("bot_token", "") or ""),
+            str(cfg.get("chat_id", "") or ""),
+            str(cfg.get("line_token", "") or ""),
+            str(cfg.get("line_group_id", "") or ""),
+            prefix=f"{name}:",
+        )
+        if not notifiers:
+            raise SystemExit(
+                f"[ERROR] TELEGRAM_CHANNELS['{name}'] 에 유효한 대상이 없습니다. "
+                "bot_token+chat_id (또는 line_token+line_group_id) 를 채우세요."
+            )
+        channels[name] = {"notifiers": notifiers, "reporters": rep_names}
+    return channels
+
+
+def resolve_notifiers(reporters: list[dict[str, Any]]) -> list[list[Notifier]]:
+    """기자별 전송함수 목록을 reporters 와 같은 순서로 돌려준다.
+
+    모든 기자는 기본 채널(TELEGRAM_*/LINE_*)로 보내고, 다음 중 하나로 연결된
+    TELEGRAM_CHANNELS 항목이 있으면 그 채널로도 '추가로' 보낸다.
+      - 채널의 "reporters" 에 기자 name 또는 label 이 들어 있음
+      - 기자의 "extra_channels" 에 채널 이름표가 들어 있음
+    가리키는 채널/기자가 없으면(오타 등) 시작 시점에 오류로 종료한다.
+    각 기자의 실제 추가 채널 목록은 r["extra_channels"] 에 다시 채워 넣는다(로그/이력용).
+    """
+    default = build_notifiers()
+    channels = load_channels(os.environ.get("TELEGRAM_CHANNELS", ""))
+
+    # 채널 쪽 reporters 가 실제 기자를 가리키는지 검증(오타로 조용히 빠지지 않도록).
+    known_names = {r["name"] for r in reporters if r.get("name")} | {r["label"] for r in reporters}
+    for key, ch in channels.items():
+        for rep in ch["reporters"]:
+            if rep not in known_names:
+                raise SystemExit(
+                    f"[ERROR] TELEGRAM_CHANNELS['{key}'].reporters 의 '{rep}' 에 해당하는 기자가 REPORTERS 에 없습니다. "
+                    f"기자 목록: {', '.join(sorted(known_names))}"
+                )
+
+    per_reporter: list[list[Notifier]] = []
+    for r in reporters:
+        keys: list[str] = []
+        for key in r.get("extra_channels", []):
+            if key not in channels:
+                known = ", ".join(sorted(channels)) or "(없음)"
+                raise SystemExit(
+                    f"[ERROR] '{r['label']}' 의 extra_channels '{key}' 가 TELEGRAM_CHANNELS 에 없습니다. "
+                    f"정의된 채널: {known}"
+                )
+            keys.append(key)
+        for key, ch in channels.items():
+            if key not in keys and (r.get("name") in ch["reporters"] or r["label"] in ch["reporters"]):
+                keys.append(key)
+
+        r["extra_channels"] = keys
+        notifiers = list(default)
+        for key in keys:
+            notifiers.extend(channels[key]["notifiers"])
+        per_reporter.append(notifiers)
+    return per_reporter
+
+
+def describe_notifiers(notifiers: list[Notifier]) -> str:
+    return ", ".join(name for name, _ in notifiers)
 
 
 # ---------------------------------------------------------------------------
@@ -602,8 +747,21 @@ def selftest() -> int:
     """SELFTEST 환경변수가 있으면, 설정된 모든 알림 채널로 테스트 메시지를 보내고
     채널별 성공 여부를 출력한 뒤 종료한다(LINE/텔레그램 연동 진단용)."""
     print(f"[SELFTEST] === 알림 채널 자가진단: {datetime.now(KST).isoformat()} ===")
-    notifiers = build_notifiers()
-    print(f"[SELFTEST] 감지된 채널: {', '.join(name for name, _ in notifiers)}")
+    # 기본 채널 + TELEGRAM_CHANNELS 의 이름표 채널 전부에 테스트 메시지를 보낸다.
+    notifiers: list[Notifier] = []
+    try:
+        notifiers.extend(build_notifiers())
+    except SystemExit as e:
+        print(f"[SELFTEST] 기본 채널 오류: {e}")
+    try:
+        for name, chan in load_channels(os.environ.get("TELEGRAM_CHANNELS", "")).items():
+            notifiers.extend(chan["notifiers"])
+    except SystemExit as e:
+        print(f"[SELFTEST] TELEGRAM_CHANNELS 오류: {e}")
+    if not notifiers:
+        print("[SELFTEST] 감지된 채널이 없습니다(TELEGRAM_*/LINE_*/TELEGRAM_CHANNELS 미설정).")
+    else:
+        print(f"[SELFTEST] 감지된 채널: {describe_notifiers(notifiers)}")
     msg = f"[자가진단] 워치맨 알림 테스트 — {datetime.now(KST).strftime('%Y-%m-%d %H:%M')} KST. 이 메시지가 보이면 해당 채널 연동 정상."
     for name, fn in notifiers:
         ok = fn(msg)
@@ -615,6 +773,13 @@ def selftest() -> int:
         naver_id = os.environ.get("NAVER_CLIENT_ID", "").strip()
         naver_secret = os.environ.get("NAVER_CLIENT_SECRET", "").strip()
         print(f"[SELFTEST] 기자 {len(reporters)}명: {', '.join(r['label'] for r in reporters)}")
+        # 기자 → 채널 매핑 점검(없는 채널을 가리키면 여기서 오류 메시지가 나온다).
+        try:
+            for r, ns in zip(reporters, resolve_notifiers(reporters)):
+                extra = f" (+{', '.join(r['extra_channels'])})" if r.get("extra_channels") else ""
+                print(f"[SELFTEST]   {r['label']} → 기본 채널{extra} [{describe_notifiers(ns)}]")
+        except SystemExit as e:
+            print(f"[SELFTEST] 채널 매핑 오류: {e}")
         for r in reporters:
             if r.get("journalist"):
                 arts = fetch_journalist_articles(r["journalist"])
@@ -640,10 +805,13 @@ def main() -> int:
     naver_secret = env_required("NAVER_CLIENT_SECRET")
     reporters_raw = env_required("REPORTERS")
 
-    notifiers = build_notifiers()
-    print(f"[INFO] 알림 채널: {', '.join(name for name, _ in notifiers)}")
-
     reporters = load_reporters(reporters_raw)
+    # 기자별 알림 채널: 모두 기본 채널 + extra_channels 로 지정한 TELEGRAM_CHANNELS 항목 추가.
+    notifiers_per_reporter = resolve_notifiers(reporters)
+    print(f"[INFO] 기본 알림 채널: {describe_notifiers(build_notifiers())}")
+    for r, ns in zip(reporters, notifiers_per_reporter):
+        if r.get("extra_channels"):
+            print(f"[INFO] '{r['label']}' 추가 채널: {', '.join(r['extra_channels'])} → 전송 대상 [{describe_notifiers(ns)}]")
     print(f"[INFO] {len(reporters)}명의 기자 감시 시작")
 
     sent_data = load_sent()
@@ -672,7 +840,7 @@ def main() -> int:
     total_old = 0
     total_offsite = 0
 
-    for reporter in reporters:
+    for reporter, notifiers in zip(reporters, notifiers_per_reporter):
         journalist = reporter.get("journalist")
         if journalist:
             print(f"[INFO] '{reporter['label']}' 기자페이지: {journalist['oid']}/{journalist['jid']}")
@@ -730,6 +898,7 @@ def main() -> int:
                 "id": aid,
                 "reporter": reporter["label"],
                 "press": reporter.get("press", ""),
+                "extra_channels": reporter.get("extra_channels", []),
                 "title": article["title"],
                 "url": url,
                 "published_at": article.get("pubDate", ""),
