@@ -773,7 +773,16 @@
       "url": "https://news.mtn.co.kr/news-detail/2026091510183532488",
       "published_at": "Tue, 15 Sep 2026 12:54:00 +0900",
       "sent_at": "2026-09-15T12:58:10.826536+09:00"
+    },
+    {
+      "id": "cbf90d70eb080ac8813762ac74c2a04bad5a4e40a4792d937fe363a3584e64a9",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "[올해의 우수게임] 프론티어 부문 클래게임즈 '열혈강호: 화룡전'",
+      "url": "https://n.news.naver.com/article/030/0003466917?type=journalists",
+      "published_at": "2026-09-15T13:42:15+09:00",
+      "sent_at": "2026-09-15T13:54:04.304616+09:00"
     }
   ],
-  "last_run_at": "2026-09-15T04:48:55.297117+00:00"
+  "last_run_at": "2026-09-15T04:53:59.635881+00:00"
 }
