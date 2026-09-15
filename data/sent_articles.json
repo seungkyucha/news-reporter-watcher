@@ -773,7 +773,151 @@
       "url": "https://n.news.naver.com/article/030/0003466917?type=journalists",
       "published_at": "2026-09-15T13:42:15+09:00",
       "sent_at": "2026-09-15T13:54:04.304616+09:00"
+    },
+    {
+      "id": "e96b490dd413c0b56b85854b47a0ed9182e0280340ad6a31f8f8cb115baedcde",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "[올해의 우수게임] 기능성게임 부문 초이스 '한강'",
+      "url": "https://n.news.naver.com/article/030/0003466939?type=journalists",
+      "published_at": "2026-09-15T14:01:48+09:00",
+      "sent_at": "2026-09-15T14:14:25.351791+09:00"
+    },
+    {
+      "id": "b7bbebda07e3b628f7de54f5bc4c824f36dd62bfd9fadd3eae6c57d9fd6688fa",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "[올해의 우수게임] 블록버스터 부문 넷마블몬스터 '몬길: 스타다이브'",
+      "url": "https://n.news.naver.com/article/030/0003466938?type=journalists",
+      "published_at": "2026-09-15T14:01:46+09:00",
+      "sent_at": "2026-09-15T14:14:27.707827+09:00"
+    },
+    {
+      "id": "807fcb390757df71072641759b72b674714b0d8c6282e7da33ef7f68fb525ea2",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "[올해의 우수게임] 인디게임 부문 아르까 '컬러스위퍼'",
+      "url": "https://n.news.naver.com/article/030/0003466937?type=journalists",
+      "published_at": "2026-09-15T14:01:44+09:00",
+      "sent_at": "2026-09-15T14:14:30.089821+09:00"
+    },
+    {
+      "id": "2fa16a6683f060182788d01d1349513228976d005305293f12318ad22223fc0b",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "[올해의 우수게임]총평",
+      "url": "https://n.news.naver.com/article/030/0003466936?type=journalists",
+      "published_at": "2026-09-15T14:01:42+09:00",
+      "sent_at": "2026-09-15T14:14:32.437056+09:00"
+    },
+    {
+      "id": "640d85b31a0d1d02773f55c0c1c7e47cad6564f3829758a00d1ba87d6e6c747d",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "[올해의 우수게임] 인디게임 부문 팀 테트라포드 '스테퍼 레트로: 초능력 추리 퀘스트'",
+      "url": "https://n.news.naver.com/article/030/0003466935?type=journalists",
+      "published_at": "2026-09-15T14:01:40+09:00",
+      "sent_at": "2026-09-15T14:14:34.929439+09:00"
+    },
+    {
+      "id": "25eba3eb87df0fb729f17884cb590ac6231b58ca896fa66e553f719b84c6a1fc",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "[올해의 우수게임] 프론티어 부문 오션드라이브스튜디오 '로스트 아이돌론스: 베일 오브 더 위치'",
+      "url": "https://n.news.naver.com/article/030/0003466934?type=journalists",
+      "published_at": "2026-09-15T14:01:38+09:00",
+      "sent_at": "2026-09-15T14:14:37.271466+09:00"
+    },
+    {
+      "id": "0cb9abc5c1aff48e1dc3686ec6b7913119a54777deada1e6614be031dbb90774",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "[올해의 우수게임] 블록버스터 부문 넷마블엔투 '스톤에이지 키우기'",
+      "url": "https://n.news.naver.com/article/030/0003466933?type=journalists",
+      "published_at": "2026-09-15T14:01:36+09:00",
+      "sent_at": "2026-09-15T14:14:39.658012+09:00"
+    },
+    {
+      "id": "bcd6e19aa2f058d0140b27d93558597374ec9146052aa4f9364f9ed61b8eb44d",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "[올해의 우수게임] 인디게임 부문 에이아이엑스랩 '골목길: 귀흔'",
+      "url": "https://n.news.naver.com/article/030/0003466932?type=journalists",
+      "published_at": "2026-09-15T14:01:34+09:00",
+      "sent_at": "2026-09-15T14:14:42.044090+09:00"
+    },
+    {
+      "id": "db48f0432c7eae541c287fe7b75df8d70bfc9af9ad38abc8757e3033ba25151a",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "[올해의 우수게임] 기능성게임 부문 더브릭스게임즈 '봄이 돌아온 학교'",
+      "url": "https://n.news.naver.com/article/030/0003466931?type=journalists",
+      "published_at": "2026-09-15T14:01:32+09:00",
+      "sent_at": "2026-09-15T14:14:44.670806+09:00"
+    },
+    {
+      "id": "4ec87ca381ad305ff33237c1cb011c38d565f60ce4b94e588769800b7f65364f",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "[올해의 우수게임] 프론티어 부문 어썸피스 '이세카이 게이트'",
+      "url": "https://n.news.naver.com/article/030/0003466930?type=journalists",
+      "published_at": "2026-09-15T14:01:29+09:00",
+      "sent_at": "2026-09-15T14:14:47.405832+09:00"
+    },
+    {
+      "id": "dc3fe0a2c342eb300f9487fd868b1bc0b9083b4e2b17bf4f0b1dbc4d1529ff97",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "[올해의 우수게임] 기능성게임 부문 다이빙스튜디오 '그날의 신문'",
+      "url": "https://n.news.naver.com/article/030/0003466929?type=journalists",
+      "published_at": "2026-09-15T14:01:27+09:00",
+      "sent_at": "2026-09-15T14:14:49.790202+09:00"
+    },
+    {
+      "id": "bc8e8f657a4452dac1238848886990c3dbe00616cc0fddb9c2788215399aebb2",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "[올해의 우수게임] 인디게임 부문 스튜디오두달 '솔라테리아'",
+      "url": "https://n.news.naver.com/article/030/0003466927?type=journalists",
+      "published_at": "2026-09-15T14:01:23+09:00",
+      "sent_at": "2026-09-15T14:14:52.213170+09:00"
+    },
+    {
+      "id": "cb3ff70fa23b41d8223d130731934257e2e180b5959f0599defb0cb6e577b7f4",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "[올해의 우수게임] 블록버스터 부문 넷마블에프엔씨 '일곱 개의 대죄: 오리진'",
+      "url": "https://n.news.naver.com/article/030/0003466926?type=journalists",
+      "published_at": "2026-09-15T14:01:21+09:00",
+      "sent_at": "2026-09-15T14:14:54.693691+09:00"
+    },
+    {
+      "id": "1dde9bede4ee939e101c8d04199828c27da57075a812ef671138d04ddb591941",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "[올해의 우수게임] 인디게임 부문 팀호레이 '세피리아'",
+      "url": "https://n.news.naver.com/article/030/0003466925?type=journalists",
+      "published_at": "2026-09-15T14:01:19+09:00",
+      "sent_at": "2026-09-15T14:14:57.148633+09:00"
+    },
+    {
+      "id": "00cfd0b6090b2cc8ebe6642e4c2f541451edd14485787e3313b4eee2497d5629",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "[올해의 우수게임] 기능성게임 부문 만두게임즈 '캐치스케치'",
+      "url": "https://n.news.naver.com/article/030/0003466924?type=journalists",
+      "published_at": "2026-09-15T14:01:16+09:00",
+      "sent_at": "2026-09-15T14:14:59.627782+09:00"
+    },
+    {
+      "id": "141504aa9d7492db24540bbe4c02b41466ba625b2b6c86ffe42da253bbf3b8bc",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "[올해의 우수게임] 인디게임 부문 크니브스튜디오 '스타더스트: 별과 마녀'",
+      "url": "https://n.news.naver.com/article/030/0003466922?type=journalists",
+      "published_at": "2026-09-15T14:01:12+09:00",
+      "sent_at": "2026-09-15T14:15:02.077510+09:00"
     }
   ],
-  "last_run_at": "2026-09-15T05:09:16.045864+00:00"
+  "last_run_at": "2026-09-15T05:14:21.074812+00:00"
 }
