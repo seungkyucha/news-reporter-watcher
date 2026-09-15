@@ -764,7 +764,16 @@
       "url": "https://n.news.naver.com/article/001/0016310387?type=journalists",
       "published_at": "2026-09-15T07:30:00+09:00",
       "sent_at": "2026-09-15T07:42:56.073406+09:00"
+    },
+    {
+      "id": "e6129fcd8843c96a883dbc39ec85e3ed1388e3d1d7e3cc19a751d8725bb11656",
+      "reporter": "서정근",
+      "press": "MTN",
+      "title": "[단독]'부활' 카트라이더, 제작 리더십 교체...조재윤 디렉터, 오버워치...",
+      "url": "https://news.mtn.co.kr/news-detail/2026091510183532488",
+      "published_at": "Tue, 15 Sep 2026 12:54:00 +0900",
+      "sent_at": "2026-09-15T12:58:10.826536+09:00"
     }
   ],
-  "last_run_at": "2026-09-15T03:53:02.631418+00:00"
+  "last_run_at": "2026-09-15T03:58:07.892495+00:00"
 }
