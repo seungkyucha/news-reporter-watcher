@@ -944,7 +944,43 @@
       "url": "https://n.news.naver.com/article/030/0003466957?type=journalists",
       "published_at": "2026-09-15T14:32:14+09:00",
       "sent_at": "2026-09-15T14:40:36.306628+09:00"
+    },
+    {
+      "id": "6cdbc53dc347a550f603f634fef56d92250fdfeda31e1b527f76734149590044",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "넷마블조정선수단, 전국장애인체육대회서 금 11개 등 메달 15개",
+      "url": "https://n.news.naver.com/article/030/0003466971?type=journalists",
+      "published_at": "2026-09-15T14:42:17+09:00",
+      "sent_at": "2026-09-15T14:55:53.535054+09:00"
+    },
+    {
+      "id": "3cbda284d00eadfdc8462ced620cb8ca85e4eb409c79d17caaccc50e5648cc7d",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "펄어비스 '검은사막', 네덜란드 한국문화축제 참가.. '아침의 나라' 선봬",
+      "url": "https://n.news.naver.com/article/030/0003466969?type=journalists",
+      "published_at": "2026-09-15T14:41:12+09:00",
+      "sent_at": "2026-09-15T14:55:56.012638+09:00"
+    },
+    {
+      "id": "cd99b11228b5c5de4c279a300c7dc7bad9a7eb5fbe30894db869b021d208be43",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "컴투스홀딩스 '아레스' 글로벌 출시... 싱글 액션 RPG로 재편",
+      "url": "https://n.news.naver.com/article/030/0003466965?type=journalists",
+      "published_at": "2026-09-15T14:39:12+09:00",
+      "sent_at": "2026-09-15T14:55:58.527321+09:00"
+    },
+    {
+      "id": "ebba9d73f35a9b557aeb22c734e5c6e2bb85fcb0cdf1cfbc56989b0f1d07f714",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "title": "스마일게이트 '이클립스', 양대 앱마켓 매출 1위",
+      "url": "https://n.news.naver.com/article/030/0003466964?type=journalists",
+      "published_at": "2026-09-15T14:37:18+09:00",
+      "sent_at": "2026-09-15T14:56:00.902579+09:00"
     }
   ],
-  "last_run_at": "2026-09-15T05:50:44.534987+00:00"
+  "last_run_at": "2026-09-15T05:55:49.001048+00:00"
 }
