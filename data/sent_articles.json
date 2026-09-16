@@ -1,15 +1,6 @@
 {
   "sent": [
     {
-      "id": "c7137aeee0176e25c0fff38379366719c4fc8389868fcb9ba43f513a5c13a952",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "GTA 6 열풍 벌써 뜨겁다…PS5 프로 품귀에 웃돈까지",
-      "url": "https://n.news.naver.com/article/001/0016299931?type=journalists",
-      "published_at": "2026-09-09T13:54:55+09:00",
-      "sent_at": "2026-09-09T14:04:58.159390+09:00"
-    },
-    {
       "id": "0eaf04637655ff92f23a23f354723c43e612f1e45e6f02ce22f8a8fc8d20457f",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -875,7 +866,27 @@
       "url": "https://n.news.naver.com/article/030/0003467326?type=journalists",
       "published_at": "2026-09-16T11:58:17+09:00",
       "sent_at": "2026-09-16T12:13:36.045596+09:00"
+    },
+    {
+      "id": "918fedee0efcbae6b43c1c6589ef743e56d72fc38a39ee188ef7a6a2a4977c9d",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "네오위즈, 니혼 팔콤 '영웅전설3 하얀마녀' 신작 개발... PC·콘솔로 글로벌 공략",
+      "url": "https://n.news.naver.com/article/030/0003467359?type=journalists",
+      "published_at": "2026-09-16T13:54:11+09:00",
+      "sent_at": "2026-09-16T14:05:21.602026+09:00"
+    },
+    {
+      "id": "c05e6be433b736ca367cf09e4099f03565c79473c2f40c2cf65616150dab77ea",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "라인게임즈 'QUIET', 스팀 플레이테스트에 글로벌 이용자 35만명 신청",
+      "url": "https://n.news.naver.com/article/030/0003467352?type=journalists",
+      "published_at": "2026-09-16T13:46:20+09:00",
+      "sent_at": "2026-09-16T14:05:24.383083+09:00"
     }
   ],
-  "last_run_at": "2026-09-16T05:00:11.456395+00:00"
+  "last_run_at": "2026-09-16T05:05:16.039834+00:00"
 }
