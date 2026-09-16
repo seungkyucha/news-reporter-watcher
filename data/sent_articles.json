@@ -1,15 +1,6 @@
 {
   "sent": [
     {
-      "id": "7de1906382221fc9fade66ebc2983267d99ab1a268c7577009ec41b58ec2e32c",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "네오위즈, 웹보드 게임과 '타짜: 벨제붑의 노래' 협업",
-      "url": "https://n.news.naver.com/article/001/0016298914?type=journalists",
-      "published_at": "2026-09-09T09:39:31+09:00",
-      "sent_at": "2026-09-09T09:55:12.638429+09:00"
-    },
-    {
       "id": "d201cc96b5262ebe7f2330870fd8a959630a4cb93222e5331f14d8735ee2ad56",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -945,7 +936,17 @@
       "url": "https://n.news.naver.com/article/001/0016313453?type=journalists",
       "published_at": "2026-09-16T08:44:33+09:00",
       "sent_at": "2026-09-16T08:55:26.396943+09:00"
+    },
+    {
+      "id": "57d84bc5bd8cc353b31da7ce0f2b9b3dee8836a627fbe38556a6380138a8a872",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "NHN클라우드·고려대, '국방 AI 지휘체계' 공동 개발",
+      "url": "https://n.news.naver.com/article/001/0016313633?type=journalists",
+      "published_at": "2026-09-16T09:41:06+09:00",
+      "sent_at": "2026-09-16T09:56:20.965010+09:00"
     }
   ],
-  "last_run_at": "2026-09-16T00:51:12.233284+00:00"
+  "last_run_at": "2026-09-16T00:56:16.310711+00:00"
 }
