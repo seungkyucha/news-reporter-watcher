@@ -1,15 +1,6 @@
 {
   "sent": [
     {
-      "id": "8ca9524f56f4046e06ae7f6b36e10f2be0e78820ae5e026822db8cf0ae0cecab",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "title": "넥슨, '템빨' IP 신작 MMORPG 연내 출시... '오버기어드' 티저 공개",
-      "url": "https://n.news.naver.com/article/030/0003465125?type=journalists",
-      "published_at": "2026-09-09T11:53:11+09:00",
-      "sent_at": "2026-09-09T12:07:34.236067+09:00"
-    },
-    {
       "id": "4c61f638a4fc4f17ef0c6fded01c34d4f4eb5c49f4f56824851c32ce1eb110d0",
       "reporter": "박정은",
       "press": "전자신문",
@@ -921,5 +912,5 @@
       "sent_at": "2026-09-16T09:56:20.965010+09:00"
     }
   ],
-  "last_run_at": "2026-09-16T03:03:21.320672+00:00"
+  "last_run_at": "2026-09-16T03:08:26.499216+00:00"
 }
