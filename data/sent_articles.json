@@ -850,7 +850,17 @@
       "url": "https://n.news.naver.com/article/030/0003467352?type=journalists",
       "published_at": "2026-09-16T13:46:20+09:00",
       "sent_at": "2026-09-16T14:05:24.383083+09:00"
+    },
+    {
+      "id": "7b65d7b87f35324c9da5162fcdbf61ac4d54e82fb2f28ae46c4d8c225e289727",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "넵튠, 라인야후와 손잡고 라인 미니앱에 게임 출시",
+      "url": "https://n.news.naver.com/article/001/0016315707?type=journalists",
+      "published_at": "2026-09-16T16:35:41+09:00",
+      "sent_at": "2026-09-16T16:53:04.626891+09:00"
     }
   ],
-  "last_run_at": "2026-09-16T07:47:53.893472+00:00"
+  "last_run_at": "2026-09-16T07:52:59.862829+00:00"
 }
