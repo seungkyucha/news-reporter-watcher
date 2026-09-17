@@ -793,7 +793,27 @@
       "url": "https://n.news.naver.com/article/001/0016318415?type=journalists",
       "published_at": "2026-09-17T15:22:16+09:00",
       "sent_at": "2026-09-17T15:36:49.350140+09:00"
+    },
+    {
+      "id": "ab6bf437e6a80877482b08a4df770fb33b123daafb3c2222ea59502715bff7fa",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "북적이는 도쿄게임쇼 2026",
+      "url": "https://n.news.naver.com/article/001/0016318452?type=journalists",
+      "published_at": "2026-09-17T15:26:13+09:00",
+      "sent_at": "2026-09-17T15:47:01.623728+09:00"
+    },
+    {
+      "id": "ebb237631baf923cbacdbf8684d7ef6e995ae7cf199627db3a95a592d3155027",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "스마일게이트 '미래시' 부스",
+      "url": "https://n.news.naver.com/article/001/0016318441?type=journalists",
+      "published_at": "2026-09-17T15:25:34+09:00",
+      "sent_at": "2026-09-17T15:47:04.002314+09:00"
     }
   ],
-  "last_run_at": "2026-09-17T06:41:51.956978+00:00"
+  "last_run_at": "2026-09-17T06:46:56.699060+00:00"
 }
