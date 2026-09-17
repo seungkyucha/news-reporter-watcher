@@ -1,24 +1,6 @@
 {
   "sent": [
     {
-      "id": "8c0b338fb35e5cefaa6161b140331b2ee61bbc151f965f0d487c4baea6b6066b",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "title": "K방송영상 2030년 30조 산업으로... 제작사 IP·토종 OTT 키운다",
-      "url": "https://n.news.naver.com/article/030/0003465563?type=journalists",
-      "published_at": "2026-09-10T13:15:11+09:00",
-      "sent_at": "2026-09-10T13:23:56.993522+09:00"
-    },
-    {
-      "id": "c8a82f16c570ddec921ce108430cfd82989cde6c5f1b45f388530f951ff43b2a",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "title": "스마일게이트 신작 '이클립스' 출격... 'MMOLite'로 MMORPG 시장 도전",
-      "url": "https://n.news.naver.com/article/030/0003465562?type=journalists",
-      "published_at": "2026-09-10T13:14:11+09:00",
-      "sent_at": "2026-09-10T13:23:59.492454+09:00"
-    },
-    {
       "id": "1235e93c6d4d2b142e0c6889578c1b0aee7b3a74d8259f3ada21b53cb1b224b7",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -730,5 +712,5 @@
       "sent_at": "2026-09-17T11:42:28.160235+09:00"
     }
   ],
-  "last_run_at": "2026-09-17T04:18:55.328112+00:00"
+  "last_run_at": "2026-09-17T04:24:16.270392+00:00"
 }
