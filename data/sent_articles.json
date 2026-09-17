@@ -712,7 +712,37 @@
       "url": "https://n.news.naver.com/article/030/0003467929?type=journalists",
       "published_at": "2026-09-17T15:03:20+09:00",
       "sent_at": "2026-09-17T15:16:04.804002+09:00"
+    },
+    {
+      "id": "428132077cfb02d9d71ee67aff9690133627e0f9e238c6acdc2e431523b06a98",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "[TGS 2026]넥슨 '파레이돌리아' 첫 시연... “돌아가고 싶은 이세계”",
+      "url": "https://n.news.naver.com/article/030/0003467934?type=journalists",
+      "published_at": "2026-09-17T15:11:12+09:00",
+      "sent_at": "2026-09-17T15:26:17.395836+09:00"
+    },
+    {
+      "id": "83d47eb9c92ecb23b664d829a2fb59a9d35c0972bb78f8584d7625ae41cfb846",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "K게임 127개사 도쿄 집결…TGS를 새 장르 개척 전초기지로",
+      "url": "https://n.news.naver.com/article/030/0003467931?type=journalists",
+      "published_at": "2026-09-17T15:06:13+09:00",
+      "sent_at": "2026-09-17T15:26:19.863953+09:00"
+    },
+    {
+      "id": "673c3f2beeca4a35a1815c9e11bddcd43c069ee98b8dca90dda534dac3aaddee",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "K게임, 도쿄게임쇼 '큰손' 됐다…참가사 2.5배 급증",
+      "url": "https://n.news.naver.com/article/001/0016318362?type=journalists",
+      "published_at": "2026-09-17T15:11:06+09:00",
+      "sent_at": "2026-09-17T15:26:22.724817+09:00"
     }
   ],
-  "last_run_at": "2026-09-17T06:21:07.729558+00:00"
+  "last_run_at": "2026-09-17T06:26:12.700403+00:00"
 }
