@@ -825,7 +825,17 @@
       "url": "https://n.news.naver.com/article/001/0016316490?type=journalists",
       "published_at": "2026-09-17T09:00:04+09:00",
       "sent_at": "2026-09-17T09:15:04.781683+09:00"
+    },
+    {
+      "id": "19420f218fa9e0c03e4b03eeb29135457826282aa21e2706219e9c647d594fd1",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "[해보니] \"이세계 홈스테이\"…넥슨게임즈 야심작 '파레이돌리아'",
+      "url": "https://n.news.naver.com/article/001/0016316838?type=journalists",
+      "published_at": "2026-09-17T10:00:06+09:00",
+      "sent_at": "2026-09-17T10:16:04.966880+09:00"
     }
   ],
-  "last_run_at": "2026-09-17T01:10:55.200301+00:00"
+  "last_run_at": "2026-09-17T01:15:59.611301+00:00"
 }
