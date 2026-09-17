@@ -833,7 +833,17 @@
       "url": "https://n.news.naver.com/article/001/0016315707?type=journalists",
       "published_at": "2026-09-16T16:35:41+09:00",
       "sent_at": "2026-09-16T16:53:04.626891+09:00"
+    },
+    {
+      "id": "aedfca1aa9bffcc5b0f406d22cd75f4672d47f656fb59cb037470e7d02d8f82c",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "[해보니] 엔씨의 일본 서브컬처 승부수 '아스트라에 오라티오'",
+      "url": "https://n.news.naver.com/article/001/0016316490?type=journalists",
+      "published_at": "2026-09-17T09:00:04+09:00",
+      "sent_at": "2026-09-17T09:15:04.781683+09:00"
     }
   ],
-  "last_run_at": "2026-09-17T00:09:54.188199+00:00"
+  "last_run_at": "2026-09-17T00:14:59.123794+00:00"
 }
