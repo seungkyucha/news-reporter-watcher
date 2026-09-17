@@ -1,15 +1,6 @@
 {
   "sent": [
     {
-      "id": "f1366e859ebcbde6f7f451269fd537e1dc9c663b0253fa51deaa21368da7a74b",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "스마일게이트, MMORPG '이클립스: 더 어웨이크닝' 정식 출시",
-      "url": "https://n.news.naver.com/article/001/0016302880?type=journalists",
-      "published_at": "2026-09-10T15:15:15+09:00",
-      "sent_at": "2026-09-10T15:36:22.460699+09:00"
-    },
-    {
       "id": "c704271fe1a54268c8ba8bba41806d85067314ea18e6ba4a5957beecc4b907f6",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -742,7 +733,67 @@
       "url": "https://n.news.naver.com/article/001/0016318362?type=journalists",
       "published_at": "2026-09-17T15:11:06+09:00",
       "sent_at": "2026-09-17T15:26:22.724817+09:00"
+    },
+    {
+      "id": "6f45a53c824a05508e1d63729c5ceef196f8f341781f0f8e451a484b15c9b926",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "인파 몰린 넷마블 부스",
+      "url": "https://n.news.naver.com/article/001/0016318427?type=journalists",
+      "published_at": "2026-09-17T15:24:36+09:00",
+      "sent_at": "2026-09-17T15:36:36.468812+09:00"
+    },
+    {
+      "id": "245229d4cc5995d584c4ba7962ff75fb982f407c3df61f4f2577df9b29ec565f",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "엔씨 '아스트라에 오라티오' 부스",
+      "url": "https://n.news.naver.com/article/001/0016318425?type=journalists",
+      "published_at": "2026-09-17T15:24:18+09:00",
+      "sent_at": "2026-09-17T15:36:39.209402+09:00"
+    },
+    {
+      "id": "5c84606ce0883ac49ea24abc246936228ba0b35c383b88dd7906b216445588c0",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "넥슨 '마비노기 모바일' 부스",
+      "url": "https://n.news.naver.com/article/001/0016318424?type=journalists",
+      "published_at": "2026-09-17T15:24:00+09:00",
+      "sent_at": "2026-09-17T15:36:42.102994+09:00"
+    },
+    {
+      "id": "c12a9da5c0527fb412690fa87f3e31e9ea3b6d50160d6a4223e3faa277e5b08d",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "넥슨 '파레이돌리아' 부스",
+      "url": "https://n.news.naver.com/article/001/0016318421?type=journalists",
+      "published_at": "2026-09-17T15:23:39+09:00",
+      "sent_at": "2026-09-17T15:36:44.517970+09:00"
+    },
+    {
+      "id": "3deb7727aaa604c116aaf5f72aa2e476e47e6b216c5a85c3271921ba5287b60f",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "북적이는 도쿄게임쇼 2026",
+      "url": "https://n.news.naver.com/article/001/0016318417?type=journalists",
+      "published_at": "2026-09-17T15:22:56+09:00",
+      "sent_at": "2026-09-17T15:36:46.839742+09:00"
+    },
+    {
+      "id": "992d1cb28b7c810fe4d1bcca9e330537bcffd3a3def62c32c7a69886033ce4e2",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "도쿄게임쇼 2026",
+      "url": "https://n.news.naver.com/article/001/0016318415?type=journalists",
+      "published_at": "2026-09-17T15:22:16+09:00",
+      "sent_at": "2026-09-17T15:36:49.350140+09:00"
     }
   ],
-  "last_run_at": "2026-09-17T06:31:25.182772+00:00"
+  "last_run_at": "2026-09-17T06:36:30.597524+00:00"
 }
