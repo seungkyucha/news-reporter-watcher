@@ -1,15 +1,6 @@
 {
   "sent": [
     {
-      "id": "1235e93c6d4d2b142e0c6889578c1b0aee7b3a74d8259f3ada21b53cb1b224b7",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "title": "엔씨 '리밋 제로 브레이커스' 프론티어 테스트 시작",
-      "url": "https://n.news.naver.com/article/001/0016302730?type=journalists",
-      "published_at": "2026-09-10T14:49:52+09:00",
-      "sent_at": "2026-09-10T15:05:46.823380+09:00"
-    },
-    {
       "id": "98ead1689efe3e9a4f7bf7833290403f2c4e22db9192e92394fb0ce3754bda50",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -710,7 +701,17 @@
       "url": "https://n.news.naver.com/article/001/0016317320?type=journalists",
       "published_at": "2026-09-17T11:25:24+09:00",
       "sent_at": "2026-09-17T11:42:28.160235+09:00"
+    },
+    {
+      "id": "50e39a3eeca68698bfa97e3f659c2e2b1a6eacae2ee24f0c4622a1cdeb1dfd9a",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "[TGS 2026]도쿄 달군 'IP 팬덤 전쟁'... 日 장수작 맞서 K게임 새 얼굴 부상",
+      "url": "https://n.news.naver.com/article/030/0003467913?type=journalists",
+      "published_at": "2026-09-17T14:53:12+09:00",
+      "sent_at": "2026-09-17T15:05:51.633219+09:00"
     }
   ],
-  "last_run_at": "2026-09-17T06:00:42.734342+00:00"
+  "last_run_at": "2026-09-17T06:05:47.022081+00:00"
 }
