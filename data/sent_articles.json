@@ -916,7 +916,17 @@
       "url": "https://n.news.naver.com/article/030/0003468279?type=journalists",
       "published_at": "2026-09-18T14:46:17+09:00",
       "sent_at": "2026-09-18T15:05:48.784358+09:00"
+    },
+    {
+      "id": "4543a8792d6696ba13c465d75588258186f533b46a481e01d0633fffbd4dda5e",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "넷마블 방준혁, 도쿄게임쇼 현장 점검…\"유저 목소리 살펴야\"",
+      "url": "https://n.news.naver.com/article/001/0016321103?type=journalists",
+      "published_at": "2026-09-18T15:35:54+09:00",
+      "sent_at": "2026-09-18T15:56:43.413356+09:00"
     }
   ],
-  "last_run_at": "2026-09-18T06:51:34.150676+00:00"
+  "last_run_at": "2026-09-18T06:56:38.668361+00:00"
 }
