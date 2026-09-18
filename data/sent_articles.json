@@ -939,7 +939,27 @@
       "url": "https://n.news.naver.com/article/030/0003468261?type=journalists",
       "published_at": "2026-09-18T13:52:19+09:00",
       "sent_at": "2026-09-18T14:04:30.082658+09:00"
+    },
+    {
+      "id": "7a3b294a85942c241f649dd96ebfe8291ca4978e33cecac337b750703093ea95",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "인터뷰하는 스마일게이트 백영훈 최고사업책임자(CBO) 겸 일본법인장",
+      "url": "https://n.news.naver.com/article/001/0016320770?type=journalists",
+      "published_at": "2026-09-18T14:01:37+09:00",
+      "sent_at": "2026-09-18T14:14:42.996884+09:00"
+    },
+    {
+      "id": "7c056dbfb193a37f5b5c23629cd7f922b44be12722b55dd9773fe6a544056156",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "스마일게이트 CBO \"향후 애니메이션 게임 라인업 비중 늘릴 것\"",
+      "url": "https://n.news.naver.com/article/001/0016320749?type=journalists",
+      "published_at": "2026-09-18T13:58:32+09:00",
+      "sent_at": "2026-09-18T14:14:45.374723+09:00"
     }
   ],
-  "last_run_at": "2026-09-18T05:09:33.188829+00:00"
+  "last_run_at": "2026-09-18T05:14:37.782693+00:00"
 }
