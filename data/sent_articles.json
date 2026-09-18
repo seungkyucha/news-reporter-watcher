@@ -919,7 +919,27 @@
       "url": "https://n.news.naver.com/article/030/0003468243?type=journalists",
       "published_at": "2026-09-18T13:08:15+09:00",
       "sent_at": "2026-09-18T13:23:46.206147+09:00"
+    },
+    {
+      "id": "5f42b016017fec01185654b7d2234b11bdfba6b809f9963085f7e612f29801ea",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "라이엇게임즈 '리프트바운드' 한국 출시... 2028년 글로벌 동시 전개 목표",
+      "url": "https://n.news.naver.com/article/030/0003468263?type=journalists",
+      "published_at": "2026-09-18T13:55:10+09:00",
+      "sent_at": "2026-09-18T14:04:27.696739+09:00"
+    },
+    {
+      "id": "fbf3518766dc1a5e1561cc155ea2ac27cc98f0bf6edc8bedcdec5765131af61e",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "NHN, 한일 공동개발 확대... '푸치포용' 넘어 글로벌 협업 모델로”[TGS 2026]",
+      "url": "https://n.news.naver.com/article/030/0003468261?type=journalists",
+      "published_at": "2026-09-18T13:52:19+09:00",
+      "sent_at": "2026-09-18T14:04:30.082658+09:00"
     }
   ],
-  "last_run_at": "2026-09-18T04:59:17.856186+00:00"
+  "last_run_at": "2026-09-18T05:04:22.473062+00:00"
 }
