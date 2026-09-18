@@ -959,7 +959,17 @@
       "url": "https://n.news.naver.com/article/001/0016320749?type=journalists",
       "published_at": "2026-09-18T13:58:32+09:00",
       "sent_at": "2026-09-18T14:14:45.374723+09:00"
+    },
+    {
+      "id": "43900c38af9afc8fec3d52b35542cc804fca6fcace4e9247326b4a297fe4c5dd",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "스마게 '데드 어카운트', 팀 로그라이트 승부... 게임성에 IP '깔맞춤'[TGS 2026]",
+      "url": "https://n.news.naver.com/article/030/0003468273?type=journalists",
+      "published_at": "2026-09-18T14:24:16+09:00",
+      "sent_at": "2026-09-18T14:35:05.843132+09:00"
     }
   ],
-  "last_run_at": "2026-09-18T05:29:56.847609+00:00"
+  "last_run_at": "2026-09-18T05:35:01.504133+00:00"
 }
