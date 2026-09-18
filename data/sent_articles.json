@@ -866,7 +866,27 @@
       "url": "https://n.news.naver.com/article/030/0003468197?type=journalists",
       "published_at": "2026-09-18T10:46:21+09:00",
       "sent_at": "2026-09-18T11:06:23.777116+09:00"
+    },
+    {
+      "id": "4f661b04ecb18bda2d862a0e8454e68fefdc5ff859dacdea4f8bb7ca618ed2a7",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "넵튠, 도쿄게임쇼서 H5 게임 이식 기술 공개…글로벌 플랫폼 공략[TGS 2026]",
+      "url": "https://n.news.naver.com/article/030/0003468207?type=journalists",
+      "published_at": "2026-09-18T11:01:15+09:00",
+      "sent_at": "2026-09-18T11:16:35.298117+09:00"
+    },
+    {
+      "id": "3a4f1e773d751a8179294185cb891ca5cd4f0e4aa92c349bb43e8fc67a20e6f1",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "NHN 게임대표 \"한일 개발 협업 확대…잘하는 분야에 집중\"",
+      "url": "https://n.news.naver.com/article/001/0016320049?type=journalists",
+      "published_at": "2026-09-18T10:57:27+09:00",
+      "sent_at": "2026-09-18T11:16:38.524067+09:00"
     }
   ],
-  "last_run_at": "2026-09-18T02:11:26.804834+00:00"
+  "last_run_at": "2026-09-18T02:16:31.144738+00:00"
 }
