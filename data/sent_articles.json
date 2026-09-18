@@ -814,7 +814,37 @@
       "url": "https://n.news.naver.com/article/001/0016319199?type=journalists",
       "published_at": "2026-09-17T19:05:00+09:00",
       "sent_at": "2026-09-17T19:15:31.905826+09:00"
+    },
+    {
+      "id": "81502b6e7966f64ffcd7dd14603afce34250e157de7f9864918f17c3105b4b8c",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "TGS 찾은 '나혼렙 카르마'…\"반복할수록 깊어지는 액션\"",
+      "url": "https://n.news.naver.com/article/001/0016319595?type=journalists",
+      "published_at": "2026-09-18T09:00:18+09:00",
+      "sent_at": "2026-09-18T09:14:10.361342+09:00"
+    },
+    {
+      "id": "aad0dff8b3f8696781bfd71b3dec2bb84e6740f25964b107dc04271d4739182e",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "넷마블 '샹그릴라 프론티어' \"언제 어디서나 원작 세계로\"",
+      "url": "https://n.news.naver.com/article/001/0016319593?type=journalists",
+      "published_at": "2026-09-18T09:00:16+09:00",
+      "sent_at": "2026-09-18T09:14:12.822449+09:00"
+    },
+    {
+      "id": "487ed0d375e71ccc719460f66fa902a968eff8f986970ab9de071b6e5311f55e",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "[만나보니] '데드 어카운트' 제작진 \"쇼츠로 떠난 게이머 잡겠다\"",
+      "url": "https://n.news.naver.com/article/001/0016319584?type=journalists",
+      "published_at": "2026-09-18T09:00:02+09:00",
+      "sent_at": "2026-09-18T09:14:15.280636+09:00"
     }
   ],
-  "last_run_at": "2026-09-18T00:09:00.303498+00:00"
+  "last_run_at": "2026-09-18T00:14:04.976031+00:00"
 }
