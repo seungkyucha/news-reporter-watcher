@@ -844,7 +844,17 @@
       "url": "https://n.news.naver.com/article/001/0016319584?type=journalists",
       "published_at": "2026-09-18T09:00:02+09:00",
       "sent_at": "2026-09-18T09:14:15.280636+09:00"
+    },
+    {
+      "id": "f83872a4ac315e31737f4243c5f501cefc9a1e32194c3b2200c6bc08a61a85e2",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "스튜디오BBB, '모노웨이브' 정식 출시",
+      "url": "https://n.news.naver.com/article/001/0016319698?type=journalists",
+      "published_at": "2026-09-18T09:25:24+09:00",
+      "sent_at": "2026-09-18T09:45:00.058192+09:00"
     }
   ],
-  "last_run_at": "2026-09-18T00:39:49.857670+00:00"
+  "last_run_at": "2026-09-18T00:44:54.270960+00:00"
 }
