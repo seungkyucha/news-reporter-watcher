@@ -899,7 +899,17 @@
       "url": "https://n.news.naver.com/article/030/0003468223?type=journalists",
       "published_at": "2026-09-18T11:32:19+09:00",
       "sent_at": "2026-09-18T11:47:13.181724+09:00"
+    },
+    {
+      "id": "18bdec0e665a21e7a0b27d6666a539ac3c6eb6ebfc7b414d4b731a6bd063ff7f",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "게임문화재단, 보호자 게임리터러시 콘텐츠 시즌2 공개",
+      "url": "https://n.news.naver.com/article/030/0003468229?type=journalists",
+      "published_at": "2026-09-18T11:45:09+09:00",
+      "sent_at": "2026-09-18T11:57:25.923676+09:00"
     }
   ],
-  "last_run_at": "2026-09-18T02:52:16.375375+00:00"
+  "last_run_at": "2026-09-18T02:57:20.965440+00:00"
 }
