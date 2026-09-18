@@ -886,7 +886,19 @@
       "url": "https://n.news.naver.com/article/001/0016320049?type=journalists",
       "published_at": "2026-09-18T10:57:27+09:00",
       "sent_at": "2026-09-18T11:16:38.524067+09:00"
+    },
+    {
+      "id": "ee665dbd2adadb49ab09a5c56cfded638d0f30d951ea1dd169ee099e5ff2977c",
+      "reporter": "서정근",
+      "press": "MTN",
+      "extra_channels": [
+        "seo"
+      ],
+      "title": "[단독]네오플 '던파' 현직자, 아이템 '쌀먹' 거래하다 징계 해고",
+      "url": "https://news.mtn.co.kr/news-detail/2026091810032729198",
+      "published_at": "Fri, 18 Sep 2026 11:14:00 +0900",
+      "sent_at": "2026-09-18T11:21:46.012302+09:00"
     }
   ],
-  "last_run_at": "2026-09-18T02:16:31.144738+00:00"
+  "last_run_at": "2026-09-18T02:21:41.060506+00:00"
 }
