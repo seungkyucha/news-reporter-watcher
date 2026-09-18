@@ -854,7 +854,27 @@
       "url": "https://n.news.naver.com/article/001/0016319698?type=journalists",
       "published_at": "2026-09-18T09:25:24+09:00",
       "sent_at": "2026-09-18T09:45:00.058192+09:00"
+    },
+    {
+      "id": "e7f9c4776784432e00e13203a925ebdff6e80626e247f5402415166509515bef",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "컴투스, 도쿄게임쇼서 '가치아쿠타: 브레이크아웃' 타이틀 공개",
+      "url": "https://n.news.naver.com/article/001/0016319738?type=journalists",
+      "published_at": "2026-09-18T09:38:30+09:00",
+      "sent_at": "2026-09-18T09:55:13.078069+09:00"
+    },
+    {
+      "id": "a7ea80c439fdfa9e56be31d8b7357f6f2253c0ee19b9d246d1df58f57f97aff4",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "레드브릭하우스, 도쿄게임쇼서 '보이드 다이버' 출품",
+      "url": "https://n.news.naver.com/article/001/0016319735?type=journalists",
+      "published_at": "2026-09-18T09:37:26+09:00",
+      "sent_at": "2026-09-18T09:55:15.907726+09:00"
     }
   ],
-  "last_run_at": "2026-09-18T00:50:02.848256+00:00"
+  "last_run_at": "2026-09-18T00:55:07.600954+00:00"
 }
