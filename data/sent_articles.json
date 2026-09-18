@@ -909,7 +909,17 @@
       "url": "https://n.news.naver.com/article/030/0003468229?type=journalists",
       "published_at": "2026-09-18T11:45:09+09:00",
       "sent_at": "2026-09-18T11:57:25.923676+09:00"
+    },
+    {
+      "id": "d895da634f9fd549b8d9c3d95efbb73ac47a8f29ed2b82e61a55489558f0dca0",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "엑스박스, 신작 17종 공개... 네오위즈·넷마블 韓게임도 전면에[TGS 2026]",
+      "url": "https://n.news.naver.com/article/030/0003468243?type=journalists",
+      "published_at": "2026-09-18T13:08:15+09:00",
+      "sent_at": "2026-09-18T13:23:46.206147+09:00"
     }
   ],
-  "last_run_at": "2026-09-18T04:18:36.887655+00:00"
+  "last_run_at": "2026-09-18T04:23:41.301310+00:00"
 }
