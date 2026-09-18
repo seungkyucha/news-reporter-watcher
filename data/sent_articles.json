@@ -856,7 +856,17 @@
       "url": "https://n.news.naver.com/article/001/0016319735?type=journalists",
       "published_at": "2026-09-18T09:37:26+09:00",
       "sent_at": "2026-09-18T09:55:15.907726+09:00"
+    },
+    {
+      "id": "59d5a23ee0ff3aa2b4ddb098efb7e4d22b5178dc826787f03af2cfd2a1e5870b",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "넷마블, '니노쿠니' IP 신작 '블룸워커' 공개... 위시리스트 등록 개시[TGS 2026]",
+      "url": "https://n.news.naver.com/article/030/0003468197?type=journalists",
+      "published_at": "2026-09-18T10:46:21+09:00",
+      "sent_at": "2026-09-18T11:06:23.777116+09:00"
     }
   ],
-  "last_run_at": "2026-09-18T02:01:13.093849+00:00"
+  "last_run_at": "2026-09-18T02:06:17.899221+00:00"
 }
