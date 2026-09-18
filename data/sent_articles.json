@@ -927,7 +927,17 @@
       "url": "https://n.news.naver.com/article/030/0003468309?type=journalists",
       "published_at": "2026-09-18T16:01:16+09:00",
       "sent_at": "2026-09-18T16:17:03.929531+09:00"
+    },
+    {
+      "id": "63a380afbf745bbfd9284a312baa2b210025a1f2a59373f596de7d5e9c5ccc9f",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "레드브릭하우스 '보이드 다이버', TGS 출격... 개발진·가족까지 코스튬 홍보[TGS 2026]",
+      "url": "https://n.news.naver.com/article/030/0003468324?type=journalists",
+      "published_at": "2026-09-18T17:42:19+09:00",
+      "sent_at": "2026-09-18T17:53:38.057362+09:00"
     }
   ],
-  "last_run_at": "2026-09-18T08:48:29.376430+00:00"
+  "last_run_at": "2026-09-18T08:53:33.891734+00:00"
 }
