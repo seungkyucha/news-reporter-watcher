@@ -960,7 +960,17 @@
       "url": "https://n.news.naver.com/article/030/0003468273?type=journalists",
       "published_at": "2026-09-18T14:24:16+09:00",
       "sent_at": "2026-09-18T14:35:05.843132+09:00"
+    },
+    {
+      "id": "5b69273bc7222e6843822e30eea97a87d949ed8fe7706d79c02d571f2e26df83",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "스마게 “2~3년 내 애니 계열 게임 과반”... 日 시장 공략 확대[TGS 2026]",
+      "url": "https://n.news.naver.com/article/030/0003468279?type=journalists",
+      "published_at": "2026-09-18T14:46:17+09:00",
+      "sent_at": "2026-09-18T15:05:48.784358+09:00"
     }
   ],
-  "last_run_at": "2026-09-18T06:00:40.649017+00:00"
+  "last_run_at": "2026-09-18T06:05:44.950713+00:00"
 }
