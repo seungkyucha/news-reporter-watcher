@@ -1,24 +1,6 @@
 {
   "sent": [
     {
-      "id": "fffec4c8b9e435f9b7bbfbede7b681d3da53d7fac57b9f4be13d82357d1b58e8",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "title": "크래프톤·네오플·매드엔진, '일자리 으뜸기업' 선정... 게임업계 고용·복지 성과",
-      "url": "https://n.news.naver.com/article/030/0003465993?type=journalists",
-      "published_at": "2026-09-11T15:13:11+09:00",
-      "sent_at": "2026-09-11T15:25:46.866800+09:00"
-    },
-    {
-      "id": "0c8e0e6e6f79576f1f279830c481b9867174c930ba3facc78247ae39670adb2d",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "title": "넷마블, TGS 2026 출품작 3종 무대 라인업 공개... 17일 신작 정보 푼다",
-      "url": "https://n.news.naver.com/article/030/0003465992?type=journalists",
-      "published_at": "2026-09-11T15:07:14+09:00",
-      "sent_at": "2026-09-11T15:25:49.304043+09:00"
-    },
-    {
       "id": "395e58ed3ceac1728dc9e04edbee8f4e3edc2770b3f45fdbc9cc88c35fcd80b8",
       "reporter": "박정은",
       "press": "전자신문",
@@ -972,5 +954,5 @@
       "sent_at": "2026-09-18T15:05:48.784358+09:00"
     }
   ],
-  "last_run_at": "2026-09-18T06:21:06.629790+00:00"
+  "last_run_at": "2026-09-18T06:26:11.127842+00:00"
 }
