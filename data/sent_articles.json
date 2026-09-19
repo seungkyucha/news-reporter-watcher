@@ -959,7 +959,17 @@
       "url": "https://n.news.naver.com/article/030/0003468388?type=journalists",
       "published_at": "2026-09-19T13:51:09+09:00",
       "sent_at": "2026-09-19T14:04:10.602266+09:00"
+    },
+    {
+      "id": "a29b9d886cc38b9e6577497a60b819298856e9a17636f68140b511fa088f6194",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "넥슨·엔씨 서브컬처 신작에 日TGS 인파... 대기줄만 2시간 이상[TGS 2026]",
+      "url": "https://n.news.naver.com/article/030/0003468389?type=journalists",
+      "published_at": "2026-09-19T14:09:09+09:00",
+      "sent_at": "2026-09-19T14:24:35.731994+09:00"
     }
   ],
-  "last_run_at": "2026-09-19T05:19:25.953923+00:00"
+  "last_run_at": "2026-09-19T05:24:30.968922+00:00"
 }
