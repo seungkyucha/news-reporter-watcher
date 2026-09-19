@@ -939,7 +939,17 @@
       "url": "https://n.news.naver.com/article/001/0016322098?type=journalists",
       "published_at": "2026-09-19T11:00:00+09:00",
       "sent_at": "2026-09-19T11:16:18.650921+09:00"
+    },
+    {
+      "id": "c3d3a4c66e39ca35c5b4cc4652942ba751a92f10b359529537b320db788fe2c5",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "레드브릭하우스 '보이드 다이버', 내년 1월 출시... TGS서 글로벌 공략 시동[TGS 2026]",
+      "url": "https://n.news.naver.com/article/030/0003468387?type=journalists",
+      "published_at": "2026-09-19T12:43:09+09:00",
+      "sent_at": "2026-09-19T12:52:55.210632+09:00"
     }
   ],
-  "last_run_at": "2026-09-19T03:47:45.498163+00:00"
+  "last_run_at": "2026-09-19T03:52:50.224646+00:00"
 }
