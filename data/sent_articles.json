@@ -938,7 +938,17 @@
       "url": "https://n.news.naver.com/article/001/0016321978?type=journalists",
       "published_at": "2026-09-19T09:00:00+09:00",
       "sent_at": "2026-09-19T09:14:06.017403+09:00"
+    },
+    {
+      "id": "cfb84a6ebbccdefbe8df7d640d2cbe33605ad8da4f75245747ba9cab2e08ffda",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "[게임위드인] K게임의 도쿄게임쇼 키워드는…모바일·서브컬처",
+      "url": "https://n.news.naver.com/article/001/0016322098?type=journalists",
+      "published_at": "2026-09-19T11:00:00+09:00",
+      "sent_at": "2026-09-19T11:16:18.650921+09:00"
     }
   ],
-  "last_run_at": "2026-09-19T02:11:07.786490+00:00"
+  "last_run_at": "2026-09-19T02:16:12.904996+00:00"
 }
