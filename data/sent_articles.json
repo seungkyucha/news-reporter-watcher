@@ -937,7 +937,17 @@
       "url": "https://n.news.naver.com/article/030/0003468324?type=journalists",
       "published_at": "2026-09-18T17:42:19+09:00",
       "sent_at": "2026-09-18T17:53:38.057362+09:00"
+    },
+    {
+      "id": "f6d2b6c1e2ce9892a0561f0b84dcdc93f067358b67906b0c6e8aa2b894a4f801",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "'미래시' 제작진 \"예쁜 캐릭터 넘어 전투 재미까지 잡겠다\"",
+      "url": "https://n.news.naver.com/article/001/0016321978?type=journalists",
+      "published_at": "2026-09-19T09:00:00+09:00",
+      "sent_at": "2026-09-19T09:14:06.017403+09:00"
     }
   ],
-  "last_run_at": "2026-09-19T00:08:55.036206+00:00"
+  "last_run_at": "2026-09-19T00:13:59.765489+00:00"
 }
