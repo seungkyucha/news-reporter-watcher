@@ -949,7 +949,17 @@
       "url": "https://n.news.naver.com/article/030/0003468387?type=journalists",
       "published_at": "2026-09-19T12:43:09+09:00",
       "sent_at": "2026-09-19T12:52:55.210632+09:00"
+    },
+    {
+      "id": "7560335c85c79022d85422d664393caf1b8d3e4e0c589cbfa831d6d2cf0a6707",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "지스타, TGS서 '유미의 세포들'로 눈도장... 글로벌 게임쇼 협력 확대[TGS 2026]",
+      "url": "https://n.news.naver.com/article/030/0003468388?type=journalists",
+      "published_at": "2026-09-19T13:51:09+09:00",
+      "sent_at": "2026-09-19T14:04:10.602266+09:00"
     }
   ],
-  "last_run_at": "2026-09-19T04:59:01.417290+00:00"
+  "last_run_at": "2026-09-19T05:04:06.077956+00:00"
 }
