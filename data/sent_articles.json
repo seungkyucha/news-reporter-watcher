@@ -917,7 +917,17 @@
       "url": "https://n.news.naver.com/article/001/0016323859?type=journalists",
       "published_at": "2026-09-20T14:30:00+09:00",
       "sent_at": "2026-09-20T14:43:34.505186+09:00"
+    },
+    {
+      "id": "2a5239f7686f9bcceba1ade3a56b4161096e5e88ae2194c2e7f7237ff6c3cfb1",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "[창간기획]“기타 선생님도 게임 뚝딱”... AI가 허문 개발 장벽, 승부는 아이디어에서 갈렸다",
+      "url": "https://n.news.naver.com/article/030/0003468545?type=journalists",
+      "published_at": "2026-09-20T17:01:16+09:00",
+      "sent_at": "2026-09-20T17:16:00.465276+09:00"
     }
   ],
-  "last_run_at": "2026-09-20T08:10:50.775151+00:00"
+  "last_run_at": "2026-09-20T08:15:56.062040+00:00"
 }
