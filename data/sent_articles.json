@@ -904,7 +904,17 @@
       "url": "https://n.news.naver.com/article/001/0016324445?type=journalists",
       "published_at": "2026-09-20T18:27:10+09:00",
       "sent_at": "2026-09-20T18:43:04.668847+09:00"
+    },
+    {
+      "id": "163c251e434f15f65ab34dcee00562ee8e256b519478a15121bebb8c319e5191",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "베트남 선수 부정행위에 PUBG 대회 파행…한국팀 전원 보이콧",
+      "url": "https://n.news.naver.com/article/001/0016324536?type=journalists",
+      "published_at": "2026-09-20T19:40:32+09:00",
+      "sent_at": "2026-09-20T19:54:12.819526+09:00"
     }
   ],
-  "last_run_at": "2026-09-20T10:49:02.045018+00:00"
+  "last_run_at": "2026-09-20T10:54:07.434301+00:00"
 }
