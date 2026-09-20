@@ -906,7 +906,17 @@
       "url": "https://n.news.naver.com/article/030/0003468389?type=journalists",
       "published_at": "2026-09-19T14:09:09+09:00",
       "sent_at": "2026-09-19T14:24:35.731994+09:00"
+    },
+    {
+      "id": "40923e29353d1d9de0fc18439c5a1f26675c486695643eb628f3cc3f39330b05",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "K게임, 日TGS서 새 IP 가능성 확인... 현장 열기 '글로벌 흥행'으로",
+      "url": "https://n.news.naver.com/article/030/0003468449?type=journalists",
+      "published_at": "2026-09-20T09:56:13+09:00",
+      "sent_at": "2026-09-20T10:13:59.736445+09:00"
     }
   ],
-  "last_run_at": "2026-09-20T01:08:50.003218+00:00"
+  "last_run_at": "2026-09-20T01:13:54.772545+00:00"
 }
