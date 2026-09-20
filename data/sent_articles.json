@@ -929,7 +929,17 @@
       "url": "https://n.news.naver.com/article/030/0003468557?type=journalists",
       "published_at": "2026-09-20T18:11:11+09:00",
       "sent_at": "2026-09-20T18:22:33.762232+09:00"
+    },
+    {
+      "id": "f901a03c37f965a3cf037149dcc900bf96fcd0aac402655bf9213b09cd0828e1",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "[TGS 2026]김형태 “스텔라 블레이드, 스위치2로 이용자 접점 확대... 멀티플랫폼 긍정 검토”",
+      "url": "https://n.news.naver.com/article/030/0003468559?type=journalists",
+      "published_at": "2026-09-20T18:22:12+09:00",
+      "sent_at": "2026-09-20T18:32:46.686502+09:00"
     }
   ],
-  "last_run_at": "2026-09-20T09:27:37.175233+00:00"
+  "last_run_at": "2026-09-20T09:32:41.679218+00:00"
 }
