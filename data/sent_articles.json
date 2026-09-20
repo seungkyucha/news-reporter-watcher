@@ -939,7 +939,17 @@
       "url": "https://n.news.naver.com/article/030/0003468559?type=journalists",
       "published_at": "2026-09-20T18:22:12+09:00",
       "sent_at": "2026-09-20T18:32:46.686502+09:00"
+    },
+    {
+      "id": "f01cc115254467b3275deb72fb1634be286b7571ed5c6cc114fbf6a404894fcd",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "문체장관, 도쿄게임쇼 찾아…\"K게임 성장 돕겠다\"",
+      "url": "https://n.news.naver.com/article/001/0016324445?type=journalists",
+      "published_at": "2026-09-20T18:27:10+09:00",
+      "sent_at": "2026-09-20T18:43:04.668847+09:00"
     }
   ],
-  "last_run_at": "2026-09-20T09:37:49.550349+00:00"
+  "last_run_at": "2026-09-20T09:42:54.240807+00:00"
 }
