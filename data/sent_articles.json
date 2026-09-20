@@ -905,7 +905,17 @@
       "url": "https://n.news.naver.com/article/001/0016324536?type=journalists",
       "published_at": "2026-09-20T19:40:32+09:00",
       "sent_at": "2026-09-20T19:54:12.819526+09:00"
+    },
+    {
+      "id": "619218e3fd624a96d9455726a69aa31921c89898aa3efae74a24334251d57742",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "베트남 선수 '방플' 논란에 PUBG 대회 취소…\"재발 방지책 마련\"(종합)",
+      "url": "https://n.news.naver.com/article/001/0016324676?type=journalists",
+      "published_at": "2026-09-20T21:31:45+09:00",
+      "sent_at": "2026-09-20T21:46:00.773244+09:00"
     }
   ],
-  "last_run_at": "2026-09-20T12:40:50.843432+00:00"
+  "last_run_at": "2026-09-20T12:45:55.506366+00:00"
 }
