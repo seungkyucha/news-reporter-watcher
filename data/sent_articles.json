@@ -917,7 +917,17 @@
       "url": "https://n.news.naver.com/article/001/0016325344?type=journalists",
       "published_at": "2026-09-21T09:57:43+09:00",
       "sent_at": "2026-09-21T10:12:59.026509+09:00"
+    },
+    {
+      "id": "be86a336d4fe805e7daae8ec38785c7b408f07cb5732e4a97b44b3a24d227398",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "[AI픽] AI 캐릭터 채팅앱은 게임일까…\"단순 분류 어려워\"",
+      "url": "https://n.news.naver.com/article/001/0016325451?type=journalists",
+      "published_at": "2026-09-21T10:21:48+09:00",
+      "sent_at": "2026-09-21T10:33:21.057642+09:00"
     }
   ],
-  "last_run_at": "2026-09-21T01:28:11.095602+00:00"
+  "last_run_at": "2026-09-21T01:33:16.023072+00:00"
 }
