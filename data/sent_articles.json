@@ -931,7 +931,17 @@
       "url": "https://news.mtn.co.kr/news-detail/2026092109565128524",
       "published_at": "Mon, 21 Sep 2026 11:14:00 +0900",
       "sent_at": "2026-09-21T11:24:14.390153+09:00"
+    },
+    {
+      "id": "761170d4bd960835847b28a3ea1228751b0380d8a8a34c7c11f1e359a410a23d",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "크래프톤, 고교생 게임개발 지원 '베터그라운드' 성료... 6개국 66명 참여",
+      "url": "https://n.news.naver.com/article/030/0003468738?type=journalists",
+      "published_at": "2026-09-21T11:22:14+09:00",
+      "sent_at": "2026-09-21T11:34:27.716579+09:00"
     }
   ],
-  "last_run_at": "2026-09-21T02:29:18.867574+00:00"
+  "last_run_at": "2026-09-21T02:34:23.403802+00:00"
 }
