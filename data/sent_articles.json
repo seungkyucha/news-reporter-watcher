@@ -1023,7 +1023,17 @@
       "url": "https://n.news.naver.com/article/030/0003468900?type=journalists",
       "published_at": "2026-09-21T14:26:10+09:00",
       "sent_at": "2026-09-21T14:43:03.703604+09:00"
+    },
+    {
+      "id": "303464d370fbcafd06070085d52a7a32fb5943694a716ac59109fae1cdf6a706",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "인기 스트리머 총출동…SOOP, '오버워치 멸망전' 개최",
+      "url": "https://n.news.naver.com/article/001/0016326626?type=journalists",
+      "published_at": "2026-09-21T14:58:48+09:00",
+      "sent_at": "2026-09-21T15:13:32.739070+09:00"
     }
   ],
-  "last_run_at": "2026-09-21T06:08:24.296854+00:00"
+  "last_run_at": "2026-09-21T06:13:28.255349+00:00"
 }
