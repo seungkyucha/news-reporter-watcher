@@ -919,7 +919,19 @@
       "url": "https://n.news.naver.com/article/001/0016325713?type=journalists",
       "published_at": "2026-09-21T11:00:05+09:00",
       "sent_at": "2026-09-21T11:14:01.385422+09:00"
+    },
+    {
+      "id": "5cb33152c68cbf9af2d4f44b220711fb1f5bc27163b573b0951228dfdf4b3a57",
+      "reporter": "서정근",
+      "press": "MTN",
+      "extra_channels": [
+        "seo"
+      ],
+      "title": "[단독]더블유게임즈, 권고사직 거부자 격리 수용했던 '워 룸' 해산",
+      "url": "https://news.mtn.co.kr/news-detail/2026092109565128524",
+      "published_at": "Mon, 21 Sep 2026 11:14:00 +0900",
+      "sent_at": "2026-09-21T11:24:14.390153+09:00"
     }
   ],
-  "last_run_at": "2026-09-21T02:19:04.311550+00:00"
+  "last_run_at": "2026-09-21T02:24:09.690895+00:00"
 }
