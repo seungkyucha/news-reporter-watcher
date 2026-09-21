@@ -1044,7 +1044,17 @@
       "url": "https://n.news.naver.com/article/030/0003468956?type=journalists",
       "published_at": "2026-09-21T15:41:11+09:00",
       "sent_at": "2026-09-21T15:49:08.397332+09:00"
+    },
+    {
+      "id": "eaf7795fee78d0e8dcfc64fef877d75215ee2cea529a5994d14a1f40c5399bf0",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "[만나보니] 최주현 \"다크앤다커 1.0에 정진…논란 넘어 신뢰 회복할 것\"",
+      "url": "https://n.news.naver.com/article/001/0016328224?type=journalists",
+      "published_at": "2026-09-22T07:45:00+09:00",
+      "sent_at": "2026-09-22T07:55:38.147394+09:00"
     }
   ],
-  "last_run_at": "2026-09-21T22:50:27.578377+00:00"
+  "last_run_at": "2026-09-21T22:55:32.635808+00:00"
 }
