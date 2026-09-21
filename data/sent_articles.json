@@ -907,7 +907,17 @@
       "url": "https://n.news.naver.com/article/001/0016325309?type=journalists",
       "published_at": "2026-09-21T09:45:57+09:00",
       "sent_at": "2026-09-21T10:02:46.281904+09:00"
+    },
+    {
+      "id": "3097e67d4899cf36d5facb4ca7640e26f4cc0683276c265491fa87e4a20cc026",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "엔씨·국립국악원, '아리랑' 현대적으로 다시 빚었다",
+      "url": "https://n.news.naver.com/article/001/0016325344?type=journalists",
+      "published_at": "2026-09-21T09:57:43+09:00",
+      "sent_at": "2026-09-21T10:12:59.026509+09:00"
     }
   ],
-  "last_run_at": "2026-09-21T01:07:49.324958+00:00"
+  "last_run_at": "2026-09-21T01:12:54.052914+00:00"
 }
