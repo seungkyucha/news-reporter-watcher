@@ -1033,7 +1033,17 @@
       "url": "https://n.news.naver.com/article/001/0016326626?type=journalists",
       "published_at": "2026-09-21T14:58:48+09:00",
       "sent_at": "2026-09-21T15:13:32.739070+09:00"
+    },
+    {
+      "id": "b51faaaab3aff4e9c31409fdd989c5328219c1bed9e7a61665250be2394014fe",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "[아시안게임] LoL 대표팀, 평가전 전승…금빛 담금질",
+      "url": "https://n.news.naver.com/article/001/0016326720?type=journalists",
+      "published_at": "2026-09-21T15:10:01+09:00",
+      "sent_at": "2026-09-21T15:23:44.756626+09:00"
     }
   ],
-  "last_run_at": "2026-09-21T06:18:35.929647+00:00"
+  "last_run_at": "2026-09-21T06:23:40.455885+00:00"
 }
