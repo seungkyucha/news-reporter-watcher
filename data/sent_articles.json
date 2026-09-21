@@ -1002,7 +1002,37 @@
       "url": "https://n.news.naver.com/article/030/0003468888?type=journalists",
       "published_at": "2026-09-21T14:19:11+09:00",
       "sent_at": "2026-09-21T14:32:44.959489+09:00"
+    },
+    {
+      "id": "fdd7c368fef6fbf73f339e9a26ca92b5928fa7f1a1aa41980a125d2526e499bc",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "韓 LoL 대표팀, 아시안게임 최종 점검... 미국·베트남 평가전 승리",
+      "url": "https://n.news.naver.com/article/030/0003468906?type=journalists",
+      "published_at": "2026-09-21T14:30:11+09:00",
+      "sent_at": "2026-09-21T14:42:58.788881+09:00"
+    },
+    {
+      "id": "033be568a9f14821fc2c8ed4308e91de246b455e71e0139b4a647955f1d24fe9",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "카카오게임즈 '도깨비의세계', 라이브 시연회…게임 경제 구조 공개",
+      "url": "https://n.news.naver.com/article/030/0003468902?type=journalists",
+      "published_at": "2026-09-21T14:28:13+09:00",
+      "sent_at": "2026-09-21T14:43:01.311347+09:00"
+    },
+    {
+      "id": "c774db9f63a86f6074e75340888edd611c10194261940a908ef6c5d7f72eee30",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "라인게임즈, 협동 SF 호러 신작 'CODE EXIT' 스팀 플레이테스트 진행",
+      "url": "https://n.news.naver.com/article/030/0003468900?type=journalists",
+      "published_at": "2026-09-21T14:26:10+09:00",
+      "sent_at": "2026-09-21T14:43:03.703604+09:00"
     }
   ],
-  "last_run_at": "2026-09-21T05:37:48.284491+00:00"
+  "last_run_at": "2026-09-21T05:42:52.620467+00:00"
 }
