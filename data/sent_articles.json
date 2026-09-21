@@ -918,7 +918,17 @@
       "url": "https://n.news.naver.com/article/001/0016325451?type=journalists",
       "published_at": "2026-09-21T10:21:48+09:00",
       "sent_at": "2026-09-21T10:33:21.057642+09:00"
+    },
+    {
+      "id": "f2ef2681220118ce88f65bd687e6da06d9c65e2ecd2329db397b25bdd36a12ce",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "[해보니] 감성적인 도트로 그려낸 마법 학교의 일상 '위치브룩'",
+      "url": "https://n.news.naver.com/article/001/0016325713?type=journalists",
+      "published_at": "2026-09-21T11:00:05+09:00",
+      "sent_at": "2026-09-21T11:14:01.385422+09:00"
     }
   ],
-  "last_run_at": "2026-09-21T02:08:51.628660+00:00"
+  "last_run_at": "2026-09-21T02:13:55.981567+00:00"
 }
