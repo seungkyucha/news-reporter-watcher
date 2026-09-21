@@ -952,7 +952,17 @@
       "url": "https://n.news.naver.com/article/030/0003468745?type=journalists",
       "published_at": "2026-09-21T11:28:12+09:00",
       "sent_at": "2026-09-21T11:44:43.417429+09:00"
+    },
+    {
+      "id": "362a3878b7817fe1e85372380e4c163ccf5de1fe63ae7dda41894cc466fb6f8f",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "[창간기획]크래프톤, 게임 넘어 피지컬 AI까지…'AI 퍼스트' 기업 전환 가속",
+      "url": "https://n.news.naver.com/article/030/0003468806?type=journalists",
+      "published_at": "2026-09-21T12:03:54+09:00",
+      "sent_at": "2026-09-21T12:15:16.833259+09:00"
     }
   ],
-  "last_run_at": "2026-09-21T03:10:06.739494+00:00"
+  "last_run_at": "2026-09-21T03:15:11.861789+00:00"
 }
