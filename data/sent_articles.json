@@ -972,7 +972,37 @@
       "url": "https://n.news.naver.com/article/030/0003468874?type=journalists",
       "published_at": "2026-09-21T14:03:13+09:00",
       "sent_at": "2026-09-21T14:17:24.106381+09:00"
+    },
+    {
+      "id": "9068929f88b6b606851746fee5d77878ac1bd5f552cc32aeb424fad82142ff1a",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "펄어비스, 인디게임 글로벌 진출 지원 '빅잼' 5주년…44개사 해외 무대 진출",
+      "url": "https://n.news.naver.com/article/030/0003468896?type=journalists",
+      "published_at": "2026-09-21T14:24:13+09:00",
+      "sent_at": "2026-09-21T14:32:39.967794+09:00"
+    },
+    {
+      "id": "4655600fff1498df6180c05cb50e53bb2c939728ba7e632a78a4b8f463e811ae",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "엔씨 '아스트라에 오라티오', TGS 조기 폐막 대응... 온라인 상영회 진행",
+      "url": "https://n.news.naver.com/article/030/0003468893?type=journalists",
+      "published_at": "2026-09-21T14:22:19+09:00",
+      "sent_at": "2026-09-21T14:32:42.525869+09:00"
+    },
+    {
+      "id": "90e2e5ea0b30cd63f7a7b183529decfb79b9e1a6899af01785e41df105d14fab",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "넥슨, 홍대에 '메이플스토리' 방탈출 카페 오픈... 게임 속 지역 현실로",
+      "url": "https://n.news.naver.com/article/030/0003468888?type=journalists",
+      "published_at": "2026-09-21T14:19:11+09:00",
+      "sent_at": "2026-09-21T14:32:44.959489+09:00"
     }
   ],
-  "last_run_at": "2026-09-21T05:27:31.491075+00:00"
+  "last_run_at": "2026-09-21T05:32:36.037231+00:00"
 }
