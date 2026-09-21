@@ -906,7 +906,17 @@
       "url": "https://n.news.naver.com/article/001/0016324676?type=journalists",
       "published_at": "2026-09-20T21:31:45+09:00",
       "sent_at": "2026-09-20T21:46:00.773244+09:00"
+    },
+    {
+      "id": "43be61c56e1805f39b2f471ce47b51cdff3255a24d501359e734d62ac0c41a44",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "네오위즈, 'DJMAX 리스펙트 V' 오프라인 공연 10월 개최",
+      "url": "https://n.news.naver.com/article/001/0016325309?type=journalists",
+      "published_at": "2026-09-21T09:45:57+09:00",
+      "sent_at": "2026-09-21T10:02:46.281904+09:00"
     }
   ],
-  "last_run_at": "2026-09-21T00:57:35.882080+00:00"
+  "last_run_at": "2026-09-21T01:02:40.327067+00:00"
 }
