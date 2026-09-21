@@ -962,7 +962,17 @@
       "url": "https://n.news.naver.com/article/030/0003468806?type=journalists",
       "published_at": "2026-09-21T12:03:54+09:00",
       "sent_at": "2026-09-21T12:15:16.833259+09:00"
+    },
+    {
+      "id": "0fb94df4ca7e7e847f459f71e4835b86dda95f111687f2df862b6469e315e679",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "'PUBG 아시아 스타즈' 공정성 논란에 조기 종료... 크래프톤 재발 방지책 마련",
+      "url": "https://n.news.naver.com/article/030/0003468874?type=journalists",
+      "published_at": "2026-09-21T14:03:13+09:00",
+      "sent_at": "2026-09-21T14:17:24.106381+09:00"
     }
   ],
-  "last_run_at": "2026-09-21T05:12:15.493575+00:00"
+  "last_run_at": "2026-09-21T05:17:19.978907+00:00"
 }
