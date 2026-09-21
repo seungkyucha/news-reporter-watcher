@@ -932,7 +932,27 @@
       "url": "https://n.news.naver.com/article/030/0003468738?type=journalists",
       "published_at": "2026-09-21T11:22:14+09:00",
       "sent_at": "2026-09-21T11:34:27.716579+09:00"
+    },
+    {
+      "id": "90b7f2bca5b2e2983726f239ad4c3cf00b3101d6c369eff5ad68d451475b166e",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "네오위즈 '디제이맥스 리스펙트 V', 10월 오프라인 공연 개최",
+      "url": "https://n.news.naver.com/article/030/0003468747?type=journalists",
+      "published_at": "2026-09-21T11:31:09+09:00",
+      "sent_at": "2026-09-21T11:44:40.815540+09:00"
+    },
+    {
+      "id": "f0dfe23c60420c7a4b58b9940e6aff0694f2bdd69b82258ad64a4ab8508e8c47",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "엔씨, 국립국악원과 전통민요 재해석... 사운드트랙 '정' 무료 공개",
+      "url": "https://n.news.naver.com/article/030/0003468745?type=journalists",
+      "published_at": "2026-09-21T11:28:12+09:00",
+      "sent_at": "2026-09-21T11:44:43.417429+09:00"
     }
   ],
-  "last_run_at": "2026-09-21T02:39:31.154860+00:00"
+  "last_run_at": "2026-09-21T02:44:35.863546+00:00"
 }
