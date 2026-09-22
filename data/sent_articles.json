@@ -1104,7 +1104,17 @@
       "url": "https://n.news.naver.com/article/001/0016328913?type=journalists",
       "published_at": "2026-09-22T10:49:57+09:00",
       "sent_at": "2026-09-22T11:04:03.779531+09:00"
+    },
+    {
+      "id": "19520d4e9149a8be61dfae91f8989d9f9e4cc1d160d4fdec26ff5e0b6e0e7bf4",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "카카오게임즈-SM엔터 합작 '슴미니즈' 11월 서비스 종료",
+      "url": "https://n.news.naver.com/article/001/0016329324?type=journalists",
+      "published_at": "2026-09-22T12:17:02+09:00",
+      "sent_at": "2026-09-22T12:35:31.270832+09:00"
     }
   ],
-  "last_run_at": "2026-09-22T03:30:21.853219+00:00"
+  "last_run_at": "2026-09-22T03:35:26.457718+00:00"
 }
