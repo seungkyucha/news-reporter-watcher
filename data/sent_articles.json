@@ -1094,7 +1094,17 @@
       "url": "https://n.news.naver.com/article/001/0016328836?type=journalists",
       "published_at": "2026-09-22T10:33:40+09:00",
       "sent_at": "2026-09-22T10:43:42.427274+09:00"
+    },
+    {
+      "id": "5a3ceef6405db86973a26fade69b08bdfbfc1cc389e8105b0e2a2a0bea8502a2",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "블랙핑크 리사가 디자인한 한정판 PS5 컨트롤러 나온다",
+      "url": "https://n.news.naver.com/article/001/0016328913?type=journalists",
+      "published_at": "2026-09-22T10:49:57+09:00",
+      "sent_at": "2026-09-22T11:04:03.779531+09:00"
     }
   ],
-  "last_run_at": "2026-09-22T01:58:54.706558+00:00"
+  "last_run_at": "2026-09-22T02:03:59.091840+00:00"
 }
