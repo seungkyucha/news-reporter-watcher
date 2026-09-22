@@ -1084,7 +1084,17 @@
       "url": "https://n.news.naver.com/article/001/0016328607?type=journalists",
       "published_at": "2026-09-22T09:51:56+09:00",
       "sent_at": "2026-09-22T10:03:01.183234+09:00"
+    },
+    {
+      "id": "49e20bdf42495f2455e260f37aff00643ef0f2bf52276e07e539beacd9049db7",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "카카오게임즈 개인정보 추가 유출…피해 총 243명",
+      "url": "https://n.news.naver.com/article/001/0016328836?type=journalists",
+      "published_at": "2026-09-22T10:33:40+09:00",
+      "sent_at": "2026-09-22T10:43:42.427274+09:00"
     }
   ],
-  "last_run_at": "2026-09-22T01:38:33.612674+00:00"
+  "last_run_at": "2026-09-22T01:43:38.196898+00:00"
 }
