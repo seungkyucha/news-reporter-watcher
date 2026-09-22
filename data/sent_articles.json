@@ -1106,7 +1106,47 @@
       "url": "https://n.news.naver.com/article/030/0003469330?type=journalists",
       "published_at": "2026-09-22T12:33:09+09:00",
       "sent_at": "2026-09-22T12:45:43.283662+09:00"
+    },
+    {
+      "id": "fde714bcbb9de15de345bd4a814b71729ca13b2c1aa661e6cc43c064adf031c0",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "웹젠 '디펜스 게임의 폭군이 되었다: LAST STAGE', 지스타서 첫 시연",
+      "url": "https://n.news.naver.com/article/030/0003469374?type=journalists",
+      "published_at": "2026-09-22T13:53:10+09:00",
+      "sent_at": "2026-09-22T14:07:00.799039+09:00"
+    },
+    {
+      "id": "722dc60ab950b9a340742f4c080157fbbad6d27ca8c87a8570cb42be64f2cee5",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "크래프톤, 인도 게임 인큐베이터 4기 모집... 개발 후반 프로젝트까지 지원 확대",
+      "url": "https://n.news.naver.com/article/030/0003469371?type=journalists",
+      "published_at": "2026-09-22T13:51:10+09:00",
+      "sent_at": "2026-09-22T14:07:03.556479+09:00"
+    },
+    {
+      "id": "7031956a97123f1d340c142dcd554bcf1513bdb02db5947df19ff7f46999666c",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "NC문화재단, '대한민국 사회적가치 페스타' 참여…AAC 포용기술 알린다",
+      "url": "https://n.news.naver.com/article/030/0003469370?type=journalists",
+      "published_at": "2026-09-22T13:49:17+09:00",
+      "sent_at": "2026-09-22T14:07:06.402005+09:00"
+    },
+    {
+      "id": "adc4cce2a4e7b604097ea863a59db0da24b6b871553260e99b606a0993e3a384",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "손안에 들어온 '데이브 더 다이버'... 폴더블 대화면에서도 블루홀 '손맛' 그대로",
+      "url": "https://n.news.naver.com/article/030/0003469369?type=journalists",
+      "published_at": "2026-09-22T13:49:14+09:00",
+      "sent_at": "2026-09-22T14:07:09.176604+09:00"
     }
   ],
-  "last_run_at": "2026-09-22T05:01:51.886191+00:00"
+  "last_run_at": "2026-09-22T05:06:56.345670+00:00"
 }
