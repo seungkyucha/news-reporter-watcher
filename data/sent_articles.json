@@ -1054,7 +1054,27 @@
       "url": "https://n.news.naver.com/article/001/0016328224?type=journalists",
       "published_at": "2026-09-22T07:45:00+09:00",
       "sent_at": "2026-09-22T07:55:38.147394+09:00"
+    },
+    {
+      "id": "2e9d8803b666da0482948af961cd7d4760e7f1b3d0056be402dd9c704143be15",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "크래프톤, 베트남 선수 부정행위 징계…\"운영 실패 사과\"",
+      "url": "https://n.news.naver.com/article/001/0016328569?type=journalists",
+      "published_at": "2026-09-22T09:42:08+09:00",
+      "sent_at": "2026-09-22T09:52:46.106030+09:00"
+    },
+    {
+      "id": "84d386801584d5d8dd12be4380a07fca7f6107ec6054182b1728c4391c5a31a7",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "쿠키런에 마이멜로디·쿠로미 뜬다…산리오와 협업",
+      "url": "https://n.news.naver.com/article/001/0016328555?type=journalists",
+      "published_at": "2026-09-22T09:38:10+09:00",
+      "sent_at": "2026-09-22T09:52:48.788231+09:00"
     }
   ],
-  "last_run_at": "2026-09-22T00:47:36.426939+00:00"
+  "last_run_at": "2026-09-22T00:52:41.555368+00:00"
 }
