@@ -1114,7 +1114,17 @@
       "url": "https://n.news.naver.com/article/001/0016329324?type=journalists",
       "published_at": "2026-09-22T12:17:02+09:00",
       "sent_at": "2026-09-22T12:35:31.270832+09:00"
+    },
+    {
+      "id": "86bb0c286de94b651859b187e2eff6ab3cb370aafcc91dddb82d896064733a09",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "율촌·서울시e스포츠협회, e스포츠 법률지원 맞손... 선수·종사자 권익 보호 강화",
+      "url": "https://n.news.naver.com/article/030/0003469330?type=journalists",
+      "published_at": "2026-09-22T12:33:09+09:00",
+      "sent_at": "2026-09-22T12:45:43.283662+09:00"
     }
   ],
-  "last_run_at": "2026-09-22T03:40:34.380336+00:00"
+  "last_run_at": "2026-09-22T03:45:39.142758+00:00"
 }
