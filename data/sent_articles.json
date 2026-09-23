@@ -1,26 +1,6 @@
 {
   "sent": [
     {
-      "id": "918fedee0efcbae6b43c1c6589ef743e56d72fc38a39ee188ef7a6a2a4977c9d",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "extra_channels": [],
-      "title": "네오위즈, 니혼 팔콤 '영웅전설3 하얀마녀' 신작 개발... PC·콘솔로 글로벌 공략",
-      "url": "https://n.news.naver.com/article/030/0003467359?type=journalists",
-      "published_at": "2026-09-16T13:54:11+09:00",
-      "sent_at": "2026-09-16T14:05:21.602026+09:00"
-    },
-    {
-      "id": "c05e6be433b736ca367cf09e4099f03565c79473c2f40c2cf65616150dab77ea",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "extra_channels": [],
-      "title": "라인게임즈 'QUIET', 스팀 플레이테스트에 글로벌 이용자 35만명 신청",
-      "url": "https://n.news.naver.com/article/030/0003467352?type=journalists",
-      "published_at": "2026-09-16T13:46:20+09:00",
-      "sent_at": "2026-09-16T14:05:24.383083+09:00"
-    },
-    {
       "id": "7b65d7b87f35324c9da5162fcdbf61ac4d54e82fb2f28ae46c4d8c225e289727",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -913,7 +893,17 @@
       "url": "https://n.news.naver.com/article/001/0016332686?type=journalists",
       "published_at": "2026-09-23T13:38:03+09:00",
       "sent_at": "2026-09-23T13:56:03.203438+09:00"
+    },
+    {
+      "id": "f2e9f4d6e8cac949c2fa03bbbc6d57f1862cf020ff154887cff0b40336ca7bcc",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "[아시안게임] 초박빙 레이스…김영찬, e스포츠 그란투리스모7 동메달(종합)",
+      "url": "https://n.news.naver.com/article/001/0016332755?type=journalists",
+      "published_at": "2026-09-23T13:53:19+09:00",
+      "sent_at": "2026-09-23T14:06:15.298904+09:00"
     }
   ],
-  "last_run_at": "2026-09-23T05:01:05.766091+00:00"
+  "last_run_at": "2026-09-23T05:06:10.472265+00:00"
 }
