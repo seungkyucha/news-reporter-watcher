@@ -903,7 +903,17 @@
       "url": "https://n.news.naver.com/article/001/0016331801?type=journalists",
       "published_at": "2026-09-23T10:15:54+09:00",
       "sent_at": "2026-09-23T10:32:33.537208+09:00"
+    },
+    {
+      "id": "53952e1d7debbc902dfbefbaf74807ee93a5ac82a99a6195ce6b7b37abce5c9d",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "[아시안게임] 김영찬, e스포츠 그란투리스모7서 동메달",
+      "url": "https://n.news.naver.com/article/001/0016332686?type=journalists",
+      "published_at": "2026-09-23T13:38:03+09:00",
+      "sent_at": "2026-09-23T13:56:03.203438+09:00"
     }
   ],
-  "last_run_at": "2026-09-23T04:50:52.496007+00:00"
+  "last_run_at": "2026-09-23T04:55:57.921794+00:00"
 }
