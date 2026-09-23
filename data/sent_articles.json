@@ -913,7 +913,17 @@
       "url": "https://n.news.naver.com/article/030/0003469791?type=journalists",
       "published_at": "2026-09-23T19:15:11+09:00",
       "sent_at": "2026-09-23T19:27:01.067293+09:00"
+    },
+    {
+      "id": "738a3a623ff6ccbad7e84c39584f9280237da5deab12d887cc4819a7842a1148",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "권혁빈 이혼소송 2심 가나…스마일게이트 지분 35%가 쟁점",
+      "url": "https://n.news.naver.com/article/001/0016334297?type=journalists",
+      "published_at": "2026-09-24T07:35:00+09:00",
+      "sent_at": "2026-09-24T07:44:49.437173+09:00"
     }
   ],
-  "last_run_at": "2026-09-23T22:39:39.497207+00:00"
+  "last_run_at": "2026-09-23T22:44:44.774112+00:00"
 }
