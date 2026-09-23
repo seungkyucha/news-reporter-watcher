@@ -903,7 +903,17 @@
       "url": "https://n.news.naver.com/article/001/0016332755?type=journalists",
       "published_at": "2026-09-23T13:53:19+09:00",
       "sent_at": "2026-09-23T14:06:15.298904+09:00"
+    },
+    {
+      "id": "59535b35d5dfa2128ef2932b3611be711b2e0c60ed4d6e129e06d1c9bc4f3527",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "엔씨 '아스트라에 오라티오' 내달 2일 글로벌 비공개 베타테스트",
+      "url": "https://n.news.naver.com/article/001/0016333049?type=journalists",
+      "published_at": "2026-09-23T15:02:05+09:00",
+      "sent_at": "2026-09-23T15:12:20.361506+09:00"
     }
   ],
-  "last_run_at": "2026-09-23T06:07:10.415080+00:00"
+  "last_run_at": "2026-09-23T06:12:14.898755+00:00"
 }
