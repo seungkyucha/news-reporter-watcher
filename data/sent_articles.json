@@ -903,7 +903,17 @@
       "url": "https://n.news.naver.com/article/001/0016329739?type=journalists",
       "published_at": "2026-09-22T14:24:04+09:00",
       "sent_at": "2026-09-22T14:37:46.011383+09:00"
+    },
+    {
+      "id": "dd5a86e31517f6feea98e93dc11cdfa3acefab74b127981ab9a07ab6ed55e004",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "[아시안게임] 라이엇게임즈, LoL 대표팀 응원 캠페인…결승전 뷰잉파티",
+      "url": "https://n.news.naver.com/article/001/0016331801?type=journalists",
+      "published_at": "2026-09-23T10:15:54+09:00",
+      "sent_at": "2026-09-23T10:32:33.537208+09:00"
     }
   ],
-  "last_run_at": "2026-09-23T01:27:23.129311+00:00"
+  "last_run_at": "2026-09-23T01:32:28.461928+00:00"
 }
