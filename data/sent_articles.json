@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "57d84bc5bd8cc353b31da7ce0f2b9b3dee8836a627fbe38556a6380138a8a872",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "extra_channels": [],
-      "title": "NHN클라우드·고려대, '국방 AI 지휘체계' 공동 개발",
-      "url": "https://n.news.naver.com/article/001/0016313633?type=journalists",
-      "published_at": "2026-09-16T09:41:06+09:00",
-      "sent_at": "2026-09-16T09:56:20.965010+09:00"
-    },
-    {
       "id": "fd79a6d74f0b7376ad282f1471dfacb5691db91dca2d96b234f7ada6c7cf8427",
       "reporter": "박정은",
       "press": "전자신문",
@@ -915,5 +905,5 @@
       "sent_at": "2026-09-22T14:37:46.011383+09:00"
     }
   ],
-  "last_run_at": "2026-09-23T00:51:53.403539+00:00"
+  "last_run_at": "2026-09-23T00:56:57.746494+00:00"
 }
