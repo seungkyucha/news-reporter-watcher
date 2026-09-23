@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "fd79a6d74f0b7376ad282f1471dfacb5691db91dca2d96b234f7ada6c7cf8427",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "extra_channels": [],
-      "title": "드림에이지 '아키텍트', 아시아 9개 지역 통합 리전 오픈",
-      "url": "https://n.news.naver.com/article/030/0003467326?type=journalists",
-      "published_at": "2026-09-16T11:58:17+09:00",
-      "sent_at": "2026-09-16T12:13:36.045596+09:00"
-    },
-    {
       "id": "918fedee0efcbae6b43c1c6589ef743e56d72fc38a39ee188ef7a6a2a4977c9d",
       "reporter": "박정은",
       "press": "전자신문",
@@ -915,5 +905,5 @@
       "sent_at": "2026-09-23T10:32:33.537208+09:00"
     }
   ],
-  "last_run_at": "2026-09-23T03:09:20.140945+00:00"
+  "last_run_at": "2026-09-23T03:14:24.828315+00:00"
 }
