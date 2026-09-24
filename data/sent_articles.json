@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "1506e75cc814b5753a3921ee71c09f2cf1f96ee0df6f8aa316dd7a46cd42a3af",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "extra_channels": [],
-      "title": "'아스트라에 오라티오' 제작진 \"턴제 전투와 실시간 융합 추구\"",
-      "url": "https://n.news.naver.com/article/001/0016317320?type=journalists",
-      "published_at": "2026-09-17T11:25:24+09:00",
-      "sent_at": "2026-09-17T11:42:28.160235+09:00"
-    },
-    {
       "id": "50e39a3eeca68698bfa97e3f659c2e2b1a6eacae2ee24f0c4622a1cdeb1dfd9a",
       "reporter": "박정은",
       "press": "전자신문",
@@ -905,5 +895,5 @@
       "sent_at": "2026-09-24T07:44:49.437173+09:00"
     }
   ],
-  "last_run_at": "2026-09-24T02:38:30.733849+00:00"
+  "last_run_at": "2026-09-24T02:43:35.291810+00:00"
 }
