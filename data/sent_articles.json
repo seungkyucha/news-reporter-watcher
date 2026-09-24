@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "a769d4a418fadb44ac9dd06481ca4735707ef1209d35cc1a7551e25e7fe403af",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "extra_channels": [],
-      "title": "'모던워페어4' 제작진 \"K컬처 인기가 게임 배경 설정 계기\"",
-      "url": "https://n.news.naver.com/article/001/0016319199?type=journalists",
-      "published_at": "2026-09-17T19:05:00+09:00",
-      "sent_at": "2026-09-17T19:15:31.905826+09:00"
-    },
-    {
       "id": "81502b6e7966f64ffcd7dd14603afce34250e157de7f9864918f17c3105b4b8c",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -765,5 +755,5 @@
       "sent_at": "2026-09-24T07:44:49.437173+09:00"
     }
   ],
-  "last_run_at": "2026-09-24T10:11:13.145654+00:00"
+  "last_run_at": "2026-09-24T10:16:17.397316+00:00"
 }
