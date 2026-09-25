@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "f98cd95ffe7bd4b9ef3a2b4a7d3d123e5b96feae5b2b7ec23d1a633fe8c5c7ae",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "extra_channels": [],
-      "title": "네오위즈 '셰이프 오브 드림즈', 콘솔로 확장... 누적 판매 150만장",
-      "url": "https://n.news.naver.com/article/030/0003468223?type=journalists",
-      "published_at": "2026-09-18T11:32:19+09:00",
-      "sent_at": "2026-09-18T11:47:13.181724+09:00"
-    },
-    {
       "id": "18bdec0e665a21e7a0b27d6666a539ac3c6eb6ebfc7b414d4b731a6bd063ff7f",
       "reporter": "박정은",
       "press": "전자신문",
@@ -653,5 +643,5 @@
       "sent_at": "2026-09-24T07:44:49.437173+09:00"
     }
   ],
-  "last_run_at": "2026-09-25T02:43:50.285854+00:00"
+  "last_run_at": "2026-09-25T02:48:55.199478+00:00"
 }
