@@ -521,7 +521,17 @@
       "url": "https://n.news.naver.com/article/001/0016334297?type=journalists",
       "published_at": "2026-09-24T07:35:00+09:00",
       "sent_at": "2026-09-24T07:44:49.437173+09:00"
+    },
+    {
+      "id": "82c877c064a400157586a31ba39ce8f819de70dd69db226c0f3677b2be37875b",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "[게임위드인] AI가 고전게임도 최신작처럼…DLSS 5, 게임체인저 될까",
+      "url": "https://n.news.naver.com/article/001/0016336843?type=journalists",
+      "published_at": "2026-09-26T11:00:02+09:00",
+      "sent_at": "2026-09-26T11:15:50.886289+09:00"
     }
   ],
-  "last_run_at": "2026-09-26T02:10:41.414461+00:00"
+  "last_run_at": "2026-09-26T02:15:45.742944+00:00"
 }
