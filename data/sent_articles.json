@@ -501,7 +501,17 @@
       "url": "https://n.news.naver.com/article/001/0016336935?type=journalists",
       "published_at": "2026-09-26T12:56:31+09:00",
       "sent_at": "2026-09-26T13:12:30.181687+09:00"
+    },
+    {
+      "id": "b93a29457a9a78c7a98484aa3cb1307ed4fbaad46ea64d95b0168fdaefda4845",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "조계원 “10대 도박 5년 새 급증”... 병영까지 이어지는 중독 문제",
+      "url": "https://n.news.naver.com/article/030/0003469956?type=journalists",
+      "published_at": "2026-09-26T14:27:09+09:00",
+      "sent_at": "2026-09-26T14:44:09.932915+09:00"
     }
   ],
-  "last_run_at": "2026-09-26T05:38:57.323280+00:00"
+  "last_run_at": "2026-09-26T05:44:01.700401+00:00"
 }
