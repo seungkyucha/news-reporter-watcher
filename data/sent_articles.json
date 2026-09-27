@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "e911eaf80302849e98fe7f8fdfad78aaf113f95249efffc70b6c64e8b9f92790",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "extra_channels": [],
-      "title": "김형태 \"시프트업 게임, 우리가 직접 판다…AI 영상은 죄송\"",
-      "url": "https://n.news.naver.com/article/001/0016323859?type=journalists",
-      "published_at": "2026-09-20T14:30:00+09:00",
-      "sent_at": "2026-09-20T14:43:34.505186+09:00"
-    },
-    {
       "id": "2a5239f7686f9bcceba1ade3a56b4161096e5e88ae2194c2e7f7237ff6c3cfb1",
       "reporter": "박정은",
       "press": "전자신문",
@@ -563,5 +553,5 @@
       "sent_at": "2026-09-27T11:23:37.226181+09:00"
     }
   ],
-  "last_run_at": "2026-09-27T05:41:27.371182+00:00"
+  "last_run_at": "2026-09-27T05:46:31.854843+00:00"
 }
