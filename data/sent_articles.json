@@ -491,7 +491,17 @@
       "url": "https://n.news.naver.com/article/030/0003470032?type=journalists",
       "published_at": "2026-09-27T11:13:11+09:00",
       "sent_at": "2026-09-27T11:23:37.226181+09:00"
+    },
+    {
+      "id": "69814c9183b91a5328a6ad6840d539330b200860145817544c89872f40b10a79",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "[아시안게임] '포켓몬 유나이트' 동메달…e스포츠 메달 4개로 늘어",
+      "url": "https://n.news.naver.com/article/001/0016339081?type=journalists",
+      "published_at": "2026-09-27T20:35:57+09:00",
+      "sent_at": "2026-09-27T20:52:24.285835+09:00"
     }
   ],
-  "last_run_at": "2026-09-27T11:47:11.952642+00:00"
+  "last_run_at": "2026-09-27T11:52:17.076077+00:00"
 }
