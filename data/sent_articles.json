@@ -551,7 +551,17 @@
       "url": "https://n.news.naver.com/article/030/0003470018?type=journalists",
       "published_at": "2026-09-27T10:06:16+09:00",
       "sent_at": "2026-09-27T10:22:43.021025+09:00"
+    },
+    {
+      "id": "1956199bfb9ed201beb0639b43f9f01dde4a4ec787ff985ab78aef7ae0185738",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "한국 e스포츠, 아이치-나고야 AG 첫 금메달... 대전격투 2연패",
+      "url": "https://n.news.naver.com/article/030/0003470032?type=journalists",
+      "published_at": "2026-09-27T11:13:11+09:00",
+      "sent_at": "2026-09-27T11:23:37.226181+09:00"
     }
   ],
-  "last_run_at": "2026-09-27T02:18:28.723924+00:00"
+  "last_run_at": "2026-09-27T02:23:33.341093+00:00"
 }
