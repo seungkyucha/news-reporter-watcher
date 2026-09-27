@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "8426d7733de3d9050192bd08a9d41f62ba78da6c13c78bc46b4634f4c548ceee",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "extra_channels": [],
-      "title": "[TGS 2026]이재정 “게임, 불효자에서 효자산업으로... 게임법 개정 성과 내겠다”",
-      "url": "https://n.news.naver.com/article/030/0003468557?type=journalists",
-      "published_at": "2026-09-20T18:11:11+09:00",
-      "sent_at": "2026-09-20T18:22:33.762232+09:00"
-    },
-    {
       "id": "f901a03c37f965a3cf037149dcc900bf96fcd0aac402655bf9213b09cd0828e1",
       "reporter": "박정은",
       "press": "전자신문",
@@ -533,5 +523,5 @@
       "sent_at": "2026-09-27T11:23:37.226181+09:00"
     }
   ],
-  "last_run_at": "2026-09-27T09:19:50.695560+00:00"
+  "last_run_at": "2026-09-27T09:24:54.925344+00:00"
 }
