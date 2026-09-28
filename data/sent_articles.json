@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "3097e67d4899cf36d5facb4ca7640e26f4cc0683276c265491fa87e4a20cc026",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "extra_channels": [],
-      "title": "엔씨·국립국악원, '아리랑' 현대적으로 다시 빚었다",
-      "url": "https://n.news.naver.com/article/001/0016325344?type=journalists",
-      "published_at": "2026-09-21T09:57:43+09:00",
-      "sent_at": "2026-09-21T10:12:59.026509+09:00"
-    },
-    {
       "id": "be86a336d4fe805e7daae8ec38785c7b408f07cb5732e4a97b44b3a24d227398",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -491,7 +481,17 @@
       "url": "https://n.news.naver.com/article/001/0016339849?type=journalists",
       "published_at": "2026-09-28T09:51:02+09:00",
       "sent_at": "2026-09-28T10:05:39.889214+09:00"
+    },
+    {
+      "id": "b15908b862688c64a0bdaa62f6337ea77747598af4a7fbb64c5b04fca406cf71",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "유니티, '메타 VR 글래스' 개발 환경 지원... 퀘스트 타이틀 확장 돕는다",
+      "url": "https://n.news.naver.com/article/030/0003470226?type=journalists",
+      "published_at": "2026-09-28T10:01:13+09:00",
+      "sent_at": "2026-09-28T10:15:52.213383+09:00"
     }
   ],
-  "last_run_at": "2026-09-28T01:10:43.188262+00:00"
+  "last_run_at": "2026-09-28T01:15:47.961471+00:00"
 }
