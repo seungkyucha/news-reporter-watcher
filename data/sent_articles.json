@@ -469,7 +469,17 @@
       "url": "https://n.news.naver.com/article/030/0003470420?type=journalists",
       "published_at": "2026-09-28T15:28:18+09:00",
       "sent_at": "2026-09-28T15:46:58.343957+09:00"
+    },
+    {
+      "id": "f16dc7d128ba0264d28b47ff931191414115633aeef2493e2ded2ac23065441c",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "권혁빈 스마일게이트 CVO, 이혼·재산분할 1심 판결에 항소",
+      "url": "https://n.news.naver.com/article/030/0003470496?type=journalists",
+      "published_at": "2026-09-28T19:06:12+09:00",
+      "sent_at": "2026-09-28T19:25:41.974715+09:00"
     }
   ],
-  "last_run_at": "2026-09-28T10:20:33.109068+00:00"
+  "last_run_at": "2026-09-28T10:25:37.941688+00:00"
 }
