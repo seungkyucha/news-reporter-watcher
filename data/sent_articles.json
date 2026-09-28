@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "4a8cf14deac717b7356e1969ed65541ff3aeed3b408594d5708fea2927fb6ea0",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "extra_channels": [],
-      "title": "콘진원, 김도일 신임 부원장 임명",
-      "url": "https://n.news.naver.com/article/030/0003468956?type=journalists",
-      "published_at": "2026-09-21T15:41:11+09:00",
-      "sent_at": "2026-09-21T15:49:08.397332+09:00"
-    },
-    {
       "id": "eaf7795fee78d0e8dcfc64fef877d75215ee2cea529a5994d14a1f40c5399bf0",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -481,5 +471,5 @@
       "sent_at": "2026-09-28T15:46:58.343957+09:00"
     }
   ],
-  "last_run_at": "2026-09-28T06:46:53.923238+00:00"
+  "last_run_at": "2026-09-28T06:52:01.836614+00:00"
 }
