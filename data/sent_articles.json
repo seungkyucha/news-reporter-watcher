@@ -489,7 +489,17 @@
       "url": "https://n.news.naver.com/article/001/0016341878?type=journalists",
       "published_at": "2026-09-28T19:27:06+09:00",
       "sent_at": "2026-09-28T19:46:05.729293+09:00"
+    },
+    {
+      "id": "b8c674a486644e1865ca9413ae798ccd1382e6cedeae86e7e3af439ccdda7dac",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "[해보니] 쉽지만 핵앤슬래시 맛은 살렸다…'마인크래프트 던전스 2'",
+      "url": "https://n.news.naver.com/article/001/0016342063?type=journalists",
+      "published_at": "2026-09-28T22:00:00+09:00",
+      "sent_at": "2026-09-28T22:13:43.229506+09:00"
     }
   ],
-  "last_run_at": "2026-09-28T13:08:33.067557+00:00"
+  "last_run_at": "2026-09-28T13:13:37.941710+00:00"
 }
