@@ -479,7 +479,17 @@
       "url": "https://n.news.naver.com/article/030/0003470496?type=journalists",
       "published_at": "2026-09-28T19:06:12+09:00",
       "sent_at": "2026-09-28T19:25:41.974715+09:00"
+    },
+    {
+      "id": "4de05d7fff8b194fc187626466ee85e30051c8329acad02823e427893d529247",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "'2.5조 재산분할' 권혁빈, 이혼소송 항소…\"가정 유지 원해\"",
+      "url": "https://n.news.naver.com/article/001/0016341878?type=journalists",
+      "published_at": "2026-09-28T19:27:06+09:00",
+      "sent_at": "2026-09-28T19:46:05.729293+09:00"
     }
   ],
-  "last_run_at": "2026-09-28T10:40:55.201369+00:00"
+  "last_run_at": "2026-09-28T10:45:59.544382+00:00"
 }
