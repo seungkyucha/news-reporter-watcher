@@ -479,7 +479,27 @@
       "url": "https://n.news.naver.com/article/030/0003470304?type=journalists",
       "published_at": "2026-09-28T12:03:10+09:00",
       "sent_at": "2026-09-28T12:13:13.813938+09:00"
+    },
+    {
+      "id": "1e854928879eabc32958f2934796ce1976ef95ac7ae5e4150c4802e1afde1a92",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "라이엇게임즈, 공군과 TFT 대회 '에어포스컵' 연다",
+      "url": "https://n.news.naver.com/article/001/0016340684?type=journalists",
+      "published_at": "2026-09-28T13:34:57+09:00",
+      "sent_at": "2026-09-28T13:44:40.813242+09:00"
+    },
+    {
+      "id": "e74f3fa0b671d5ba70c6db08ddf861ca522f8c95507c8db40ac748a42e43cb8e",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "호요버스, 게임 이용자와 함께 조성한 '원신 숲' 오픈",
+      "url": "https://n.news.naver.com/article/001/0016340681?type=journalists",
+      "published_at": "2026-09-28T13:32:22+09:00",
+      "sent_at": "2026-09-28T13:44:43.334215+09:00"
     }
   ],
-  "last_run_at": "2026-09-28T04:39:30.893666+00:00"
+  "last_run_at": "2026-09-28T04:44:35.153075+00:00"
 }
