@@ -1,18 +1,6 @@
 {
   "sent": [
     {
-      "id": "5cb33152c68cbf9af2d4f44b220711fb1f5bc27163b573b0951228dfdf4b3a57",
-      "reporter": "서정근",
-      "press": "MTN",
-      "extra_channels": [
-        "seo"
-      ],
-      "title": "[단독]더블유게임즈, 권고사직 거부자 격리 수용했던 '워 룸' 해산",
-      "url": "https://news.mtn.co.kr/news-detail/2026092109565128524",
-      "published_at": "Mon, 21 Sep 2026 11:14:00 +0900",
-      "sent_at": "2026-09-21T11:24:14.390153+09:00"
-    },
-    {
       "id": "761170d4bd960835847b28a3ea1228751b0380d8a8a34c7c11f1e359a410a23d",
       "reporter": "박정은",
       "press": "전자신문",
@@ -471,7 +459,17 @@
       "url": "https://n.news.naver.com/article/030/0003470226?type=journalists",
       "published_at": "2026-09-28T10:01:13+09:00",
       "sent_at": "2026-09-28T10:15:52.213383+09:00"
+    },
+    {
+      "id": "3d58690fe4ef2d61739e26ff9ac460c65b34f00af8438f9a7ade33c5b1456812",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "라인게임즈, 협동 호러 신작 'CODE EXIT' 스팀 플레이테스트 시작",
+      "url": "https://n.news.naver.com/article/030/0003470275?type=journalists",
+      "published_at": "2026-09-28T11:13:12+09:00",
+      "sent_at": "2026-09-28T11:27:02.388969+09:00"
     }
   ],
-  "last_run_at": "2026-09-28T02:21:52.884150+00:00"
+  "last_run_at": "2026-09-28T02:26:57.771900+00:00"
 }
