@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "761170d4bd960835847b28a3ea1228751b0380d8a8a34c7c11f1e359a410a23d",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "extra_channels": [],
-      "title": "크래프톤, 고교생 게임개발 지원 '베터그라운드' 성료... 6개국 66명 참여",
-      "url": "https://n.news.naver.com/article/030/0003468738?type=journalists",
-      "published_at": "2026-09-21T11:22:14+09:00",
-      "sent_at": "2026-09-21T11:34:27.716579+09:00"
-    },
-    {
       "id": "90b7f2bca5b2e2983726f239ad4c3cf00b3101d6c369eff5ad68d451475b166e",
       "reporter": "박정은",
       "press": "전자신문",
@@ -469,7 +459,27 @@
       "url": "https://n.news.naver.com/article/030/0003470275?type=journalists",
       "published_at": "2026-09-28T11:13:12+09:00",
       "sent_at": "2026-09-28T11:27:02.388969+09:00"
+    },
+    {
+      "id": "67128976345c2db10b259362d49cf51bb14e1abb21df4639857b9ca1a2e2fd82",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "“옵트아웃 집단소송, 위헌 소지·기업 부담 우려”... 율촌 세미나서 신중론",
+      "url": "https://n.news.naver.com/article/030/0003470281?type=journalists",
+      "published_at": "2026-09-28T11:23:10+09:00",
+      "sent_at": "2026-09-28T11:37:28.968964+09:00"
+    },
+    {
+      "id": "9cd66460f9c082ec4d2f074c4170e9c5f96bb5321dfe24aa794e37717cd073bd",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "호요버스 '붕괴: 스타레일', 메가MGC커피와 협업…한정 굿즈·테마 음료 선봬",
+      "url": "https://n.news.naver.com/article/030/0003470277?type=journalists",
+      "published_at": "2026-09-28T11:17:10+09:00",
+      "sent_at": "2026-09-28T11:37:31.862667+09:00"
     }
   ],
-  "last_run_at": "2026-09-28T02:32:06.262035+00:00"
+  "last_run_at": "2026-09-28T02:37:23.784296+00:00"
 }
