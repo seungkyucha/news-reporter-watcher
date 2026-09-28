@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "43be61c56e1805f39b2f471ce47b51cdff3255a24d501359e734d62ac0c41a44",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "extra_channels": [],
-      "title": "네오위즈, 'DJMAX 리스펙트 V' 오프라인 공연 10월 개최",
-      "url": "https://n.news.naver.com/article/001/0016325309?type=journalists",
-      "published_at": "2026-09-21T09:45:57+09:00",
-      "sent_at": "2026-09-21T10:02:46.281904+09:00"
-    },
-    {
       "id": "3097e67d4899cf36d5facb4ca7640e26f4cc0683276c265491fa87e4a20cc026",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -491,7 +481,17 @@
       "url": "https://n.news.naver.com/article/001/0016339081?type=journalists",
       "published_at": "2026-09-27T20:35:57+09:00",
       "sent_at": "2026-09-27T20:52:24.285835+09:00"
+    },
+    {
+      "id": "e625660bc42fb67e0bf8287bf38c27fb79098ee15768519eae0d92c4b5007d26",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "골든 조이스틱 어워드 후보에 '붉은사막·아크 레이더스'",
+      "url": "https://n.news.naver.com/article/001/0016339849?type=journalists",
+      "published_at": "2026-09-28T09:51:02+09:00",
+      "sent_at": "2026-09-28T10:05:39.889214+09:00"
     }
   ],
-  "last_run_at": "2026-09-28T01:00:30.657439+00:00"
+  "last_run_at": "2026-09-28T01:05:34.956919+00:00"
 }
