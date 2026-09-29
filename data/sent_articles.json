@@ -439,7 +439,17 @@
       "url": "https://n.news.naver.com/article/001/0016343965?type=journalists",
       "published_at": "2026-09-29T15:04:47+09:00",
       "sent_at": "2026-09-29T15:16:05.418790+09:00"
+    },
+    {
+      "id": "6b27b616d3476929738b109ac256f69482bb731d6438e901472bf938a612305a",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "[아시안게임] '배틀그라운드 모바일' 아쉽게 메달 놓친 한국…종합 6위",
+      "url": "https://n.news.naver.com/article/001/0016344176?type=journalists",
+      "published_at": "2026-09-29T15:33:56+09:00",
+      "sent_at": "2026-09-29T15:41:27.357203+09:00"
     }
   ],
-  "last_run_at": "2026-09-29T06:36:19.255429+00:00"
+  "last_run_at": "2026-09-29T06:41:23.111529+00:00"
 }
