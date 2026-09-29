@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "dfceba262da527d37b59cbac3f6593d2bc70b0fb2f94a0249d50ace0cf874670",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "extra_channels": [],
-      "title": "웹젠, 지스타서 '디펜스 게임의 폭군이 되었다' 시연",
-      "url": "https://n.news.naver.com/article/001/0016328607?type=journalists",
-      "published_at": "2026-09-22T09:51:56+09:00",
-      "sent_at": "2026-09-22T10:03:01.183234+09:00"
-    },
-    {
       "id": "49e20bdf42495f2455e260f37aff00643ef0f2bf52276e07e539beacd9049db7",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -491,5 +481,5 @@
       "sent_at": "2026-09-29T09:30:22.030047+09:00"
     }
   ],
-  "last_run_at": "2026-09-29T01:00:48.925264+00:00"
+  "last_run_at": "2026-09-29T01:05:53.604546+00:00"
 }
