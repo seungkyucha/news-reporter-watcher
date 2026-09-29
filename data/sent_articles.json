@@ -469,7 +469,17 @@
       "url": "https://n.news.naver.com/article/001/0016342882?type=journalists",
       "published_at": "2026-09-29T10:40:49+09:00",
       "sent_at": "2026-09-29T10:56:54.982206+09:00"
+    },
+    {
+      "id": "ee1b396c916d70956d75e885b27f0d679229748d3e34a393f3ec2547965973e1",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "지스타2026, 글로벌 대작·인디·e스포츠까지 확장... 전시장 구성 공개",
+      "url": "https://n.news.naver.com/article/030/0003470668?type=journalists",
+      "published_at": "2026-09-29T13:03:10+09:00",
+      "sent_at": "2026-09-29T13:14:20.852076+09:00"
     }
   ],
-  "last_run_at": "2026-09-29T04:09:12.474465+00:00"
+  "last_run_at": "2026-09-29T04:14:16.838952+00:00"
 }
