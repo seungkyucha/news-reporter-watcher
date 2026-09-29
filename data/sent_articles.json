@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "cc16de91f7d948614788ec8cb33f1d492088ca4016b8f570f190782c9abd292e",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "extra_channels": [],
-      "title": "카카오게임즈, 퀘이사존과 '크로노 오디세이' 최적화 협력",
-      "url": "https://n.news.naver.com/article/001/0016329739?type=journalists",
-      "published_at": "2026-09-22T14:24:04+09:00",
-      "sent_at": "2026-09-22T14:37:46.011383+09:00"
-    },
-    {
       "id": "dd5a86e31517f6feea98e93dc11cdfa3acefab74b127981ab9a07ab6ed55e004",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -441,5 +431,5 @@
       "sent_at": "2026-09-29T14:15:13.190467+09:00"
     }
   ],
-  "last_run_at": "2026-09-29T05:35:27.121927+00:00"
+  "last_run_at": "2026-09-29T05:40:30.797569+00:00"
 }
