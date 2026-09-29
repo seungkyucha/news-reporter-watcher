@@ -479,7 +479,17 @@
       "url": "https://n.news.naver.com/article/030/0003470553?type=journalists",
       "published_at": "2026-09-29T09:21:13+09:00",
       "sent_at": "2026-09-29T09:30:22.030047+09:00"
+    },
+    {
+      "id": "60b266a87fcd31a6db0d3f36cd0d6f2976598467117ea2f406b3bb7806402cac",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "[부고] 안승준(넷마블 정책팀장)씨 장모상",
+      "url": "https://n.news.naver.com/article/001/0016342657?type=journalists",
+      "published_at": "2026-09-29T09:56:39+09:00",
+      "sent_at": "2026-09-29T10:11:03.856008+09:00"
     }
   ],
-  "last_run_at": "2026-09-29T01:05:53.604546+00:00"
+  "last_run_at": "2026-09-29T01:10:58.787066+00:00"
 }
