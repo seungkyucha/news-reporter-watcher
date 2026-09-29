@@ -449,7 +449,17 @@
       "url": "https://n.news.naver.com/article/001/0016344176?type=journalists",
       "published_at": "2026-09-29T15:33:56+09:00",
       "sent_at": "2026-09-29T15:41:27.357203+09:00"
+    },
+    {
+      "id": "e60f53a7c92da3c833ba86fea81d6a479b2fe3e1580a908a8cdb9378836aaa31",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "게임 , 피지컬 AI로 산업 경계 넓힌다... “AI 시대 창작·저작권 기준 함께 세워야”",
+      "url": "https://n.news.naver.com/article/030/0003470832?type=journalists",
+      "published_at": "2026-09-29T17:14:19+09:00",
+      "sent_at": "2026-09-29T17:22:57.575067+09:00"
     }
   ],
-  "last_run_at": "2026-09-29T08:17:47.849511+00:00"
+  "last_run_at": "2026-09-29T08:22:53.896118+00:00"
 }
