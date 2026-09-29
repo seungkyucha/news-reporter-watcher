@@ -489,7 +489,17 @@
       "url": "https://n.news.naver.com/article/001/0016342063?type=journalists",
       "published_at": "2026-09-28T22:00:00+09:00",
       "sent_at": "2026-09-28T22:13:43.229506+09:00"
+    },
+    {
+      "id": "96ce10f14632ecf0905f451fc880ef42a5215759f215796c14102f0afbd3b4bf",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "원스토어, AI 게임 유통 문턱 낮춘다... 전용관 모든 개발자에 개방",
+      "url": "https://n.news.naver.com/article/030/0003470550?type=journalists",
+      "published_at": "2026-09-29T09:15:13+09:00",
+      "sent_at": "2026-09-29T09:25:14.490225+09:00"
     }
   ],
-  "last_run_at": "2026-09-29T00:20:04.695305+00:00"
+  "last_run_at": "2026-09-29T00:25:09.797183+00:00"
 }
