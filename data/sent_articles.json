@@ -439,7 +439,17 @@
       "url": "https://n.news.naver.com/article/030/0003470668?type=journalists",
       "published_at": "2026-09-29T13:03:10+09:00",
       "sent_at": "2026-09-29T13:14:20.852076+09:00"
+    },
+    {
+      "id": "8fe350c2165427f24cf209b8afa7a822a53564e861565605244e1caf45181fc4",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "지스타 2026 라인업 공개…일본·중국·유럽 게임사 대거 참전",
+      "url": "https://n.news.naver.com/article/001/0016343513?type=journalists",
+      "published_at": "2026-09-29T13:56:41+09:00",
+      "sent_at": "2026-09-29T14:15:13.190467+09:00"
     }
   ],
-  "last_run_at": "2026-09-29T05:10:03.892475+00:00"
+  "last_run_at": "2026-09-29T05:15:08.660470+00:00"
 }
