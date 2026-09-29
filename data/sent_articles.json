@@ -429,7 +429,17 @@
       "url": "https://n.news.naver.com/article/001/0016343513?type=journalists",
       "published_at": "2026-09-29T13:56:41+09:00",
       "sent_at": "2026-09-29T14:15:13.190467+09:00"
+    },
+    {
+      "id": "b11c472f60a13da75aa32a48e79a56223dc867a8bc4c1c6af67f397d5e26376e",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "넥써쓰, 원스토어 완전 자회사 편입 추진…주식교환 결의",
+      "url": "https://n.news.naver.com/article/001/0016343965?type=journalists",
+      "published_at": "2026-09-29T15:04:47+09:00",
+      "sent_at": "2026-09-29T15:16:05.418790+09:00"
     }
   ],
-  "last_run_at": "2026-09-29T06:10:56.911478+00:00"
+  "last_run_at": "2026-09-29T06:16:00.781114+00:00"
 }
