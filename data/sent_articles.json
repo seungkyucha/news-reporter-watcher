@@ -579,7 +579,17 @@
       "url": "https://n.news.naver.com/article/030/0003471209?type=journalists",
       "published_at": "2026-09-30T14:49:10+09:00",
       "sent_at": "2026-09-30T15:05:18.053522+09:00"
+    },
+    {
+      "id": "73dc12b102adef3ae0069536b93c9b1750201edc03aecbb0f5e8246823a4dee9",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "컴투스플랫폼, AI 특화 게임 백엔드 플랫폼 '하이브 액실' 출시",
+      "url": "https://n.news.naver.com/article/001/0016347315?type=journalists",
+      "published_at": "2026-09-30T15:09:33+09:00",
+      "sent_at": "2026-09-30T15:25:39.860934+09:00"
     }
   ],
-  "last_run_at": "2026-09-30T06:20:30.029219+00:00"
+  "last_run_at": "2026-09-30T06:25:35.112364+00:00"
 }
