@@ -559,7 +559,27 @@
       "url": "https://n.news.naver.com/article/030/0003471174?type=journalists",
       "published_at": "2026-09-30T14:09:16+09:00",
       "sent_at": "2026-09-30T14:24:31.391009+09:00"
+    },
+    {
+      "id": "9e3852a641955d89e82180dfead847b1d8e8c9ae18eeb6a4f14058b4ebafdc27",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "“게임이용장애 질병코드화, 어떤 증거에서 판단 바꿀지 먼저 정해야”",
+      "url": "https://n.news.naver.com/article/030/0003471187?type=journalists",
+      "published_at": "2026-09-30T14:18:17+09:00",
+      "sent_at": "2026-09-30T14:34:43.527952+09:00"
+    },
+    {
+      "id": "f5cec0248795738eabe15f1f39aa9bbb2fa5f04c9f9b64152194635d5fa4bcca",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "레드아이스스튜디오, 컴투스엔 지분 4.5% 취득",
+      "url": "https://n.news.naver.com/article/001/0016347034?type=journalists",
+      "published_at": "2026-09-30T14:23:11+09:00",
+      "sent_at": "2026-09-30T14:34:46.474112+09:00"
     }
   ],
-  "last_run_at": "2026-09-30T05:29:34.879942+00:00"
+  "last_run_at": "2026-09-30T05:34:39.706963+00:00"
 }
