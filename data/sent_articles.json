@@ -629,7 +629,17 @@
       "url": "https://n.news.naver.com/article/001/0016348072?type=journalists",
       "published_at": "2026-09-30T17:17:26+09:00",
       "sent_at": "2026-09-30T17:32:40.801089+09:00"
+    },
+    {
+      "id": "3aa1902ef12389b2ebf1fa021c14ca9cfa6f0e82af362050e08f8fb38a7ba52f",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "위메이드 노조 출범... “대주주 변경 따른 구조조정·고용불안 대응”",
+      "url": "https://n.news.naver.com/article/030/0003471336?type=journalists",
+      "published_at": "2026-09-30T17:53:12+09:00",
+      "sent_at": "2026-09-30T18:03:08.616863+09:00"
     }
   ],
-  "last_run_at": "2026-09-30T08:58:00.952760+00:00"
+  "last_run_at": "2026-09-30T09:03:04.617164+00:00"
 }
