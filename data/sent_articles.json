@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "f2e9f4d6e8cac949c2fa03bbbc6d57f1862cf020ff154887cff0b40336ca7bcc",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "extra_channels": [],
-      "title": "[아시안게임] 초박빙 레이스…김영찬, e스포츠 그란투리스모7 동메달(종합)",
-      "url": "https://n.news.naver.com/article/001/0016332755?type=journalists",
-      "published_at": "2026-09-23T13:53:19+09:00",
-      "sent_at": "2026-09-23T14:06:15.298904+09:00"
-    },
-    {
       "id": "59535b35d5dfa2128ef2932b3611be711b2e0c60ed4d6e129e06d1c9bc4f3527",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -541,5 +531,5 @@
       "sent_at": "2026-09-30T11:31:35.902847+09:00"
     }
   ],
-  "last_run_at": "2026-09-30T05:04:06.389044+00:00"
+  "last_run_at": "2026-09-30T05:09:10.351581+00:00"
 }
