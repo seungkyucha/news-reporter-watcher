@@ -619,7 +619,17 @@
       "url": "https://n.news.naver.com/article/030/0003471311?type=journalists",
       "published_at": "2026-09-30T16:22:17+09:00",
       "sent_at": "2026-09-30T16:36:49.936098+09:00"
+    },
+    {
+      "id": "972cf2afa8accd7c2cf2d1fa953d569a20a80333864fda6c65782f06188a567b",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "'중국 자본에 매각' 위메이드 노조 설립…\"구조조정 거부\"",
+      "url": "https://n.news.naver.com/article/001/0016348072?type=journalists",
+      "published_at": "2026-09-30T17:17:26+09:00",
+      "sent_at": "2026-09-30T17:32:40.801089+09:00"
     }
   ],
-  "last_run_at": "2026-09-30T08:27:31.443759+00:00"
+  "last_run_at": "2026-09-30T08:32:36.007334+00:00"
 }
