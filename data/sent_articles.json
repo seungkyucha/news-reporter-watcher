@@ -539,7 +539,27 @@
       "url": "https://n.news.naver.com/article/030/0003471166?type=journalists",
       "published_at": "2026-09-30T14:05:10+09:00",
       "sent_at": "2026-09-30T14:14:17.941969+09:00"
+    },
+    {
+      "id": "8ccd9a4c483b74638babe67e2eba8fdde942fd748bfa794f3cd8d29d94b8a3ea",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "레드아이스스튜디오, 컴투스엔 지분 4.5% 취득... 웹툰 IP에 XR 접목",
+      "url": "https://n.news.naver.com/article/030/0003471180?type=journalists",
+      "published_at": "2026-09-30T14:13:12+09:00",
+      "sent_at": "2026-09-30T14:24:28.814817+09:00"
+    },
+    {
+      "id": "dcf86a2290ada8a97a08b4209ac8d2b49077dab6fe255a3398fea120f45d129c",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "크래프톤 PUBG, 美 팝컬처 축제 '콤플렉스콘 2026' 참가... 머신 건 켈리와 협업",
+      "url": "https://n.news.naver.com/article/030/0003471174?type=journalists",
+      "published_at": "2026-09-30T14:09:16+09:00",
+      "sent_at": "2026-09-30T14:24:31.391009+09:00"
     }
   ],
-  "last_run_at": "2026-09-30T05:19:20.877971+00:00"
+  "last_run_at": "2026-09-30T05:24:24.612708+00:00"
 }
