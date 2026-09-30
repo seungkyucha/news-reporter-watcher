@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "59535b35d5dfa2128ef2932b3611be711b2e0c60ed4d6e129e06d1c9bc4f3527",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "extra_channels": [],
-      "title": "엔씨 '아스트라에 오라티오' 내달 2일 글로벌 비공개 베타테스트",
-      "url": "https://n.news.naver.com/article/001/0016333049?type=journalists",
-      "published_at": "2026-09-23T15:02:05+09:00",
-      "sent_at": "2026-09-23T15:12:20.361506+09:00"
-    },
-    {
       "id": "dd1589ed709660c4c8709e9ac0ca057ec7592f136ddce8e4077ffdee8b839ccd",
       "reporter": "박정은",
       "press": "전자신문",
@@ -591,5 +581,5 @@
       "sent_at": "2026-09-30T15:05:18.053522+09:00"
     }
   ],
-  "last_run_at": "2026-09-30T06:10:21.764286+00:00"
+  "last_run_at": "2026-09-30T06:15:25.989516+00:00"
 }
