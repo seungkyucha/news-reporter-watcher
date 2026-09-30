@@ -629,7 +629,17 @@
       "url": "https://n.news.naver.com/article/030/0003471336?type=journalists",
       "published_at": "2026-09-30T17:53:12+09:00",
       "sent_at": "2026-09-30T18:03:08.616863+09:00"
+    },
+    {
+      "id": "4d2882df3a4def7bf2fbbd87583d3d9ccc168081a6286e8aa9240f8242f7d36e",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "펄어비스, 붉은사막 첫 DLC 10월 30일로 조정... 장기 흥행 위한 완성도 승부",
+      "url": "https://n.news.naver.com/article/030/0003471348?type=journalists",
+      "published_at": "2026-09-30T20:19:13+09:00",
+      "sent_at": "2026-09-30T20:35:42.783297+09:00"
     }
   ],
-  "last_run_at": "2026-09-30T11:30:33.374865+00:00"
+  "last_run_at": "2026-09-30T11:35:38.224743+00:00"
 }
