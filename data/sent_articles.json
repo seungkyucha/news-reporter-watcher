@@ -499,7 +499,17 @@
       "url": "https://n.news.naver.com/article/001/0016345624?type=journalists",
       "published_at": "2026-09-30T09:38:08+09:00",
       "sent_at": "2026-09-30T09:54:47.635080+09:00"
+    },
+    {
+      "id": "211072a60912f164926f82effaa87a59afc2fd2d52e142724c40f6f08d343da7",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "CDPR, '더 위쳐 3: 와일드 헌트 - 리마스터' 출시... 기존 이용자 무료 업그레이드",
+      "url": "https://n.news.naver.com/article/030/0003470992?type=journalists",
+      "published_at": "2026-09-30T09:57:12+09:00",
+      "sent_at": "2026-09-30T10:15:10.388328+09:00"
     }
   ],
-  "last_run_at": "2026-09-30T01:09:59.776498+00:00"
+  "last_run_at": "2026-09-30T01:15:04.876088+00:00"
 }
