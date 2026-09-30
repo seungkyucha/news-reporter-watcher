@@ -469,7 +469,37 @@
       "url": "https://n.news.naver.com/article/030/0003470952?type=journalists",
       "published_at": "2026-09-30T09:33:10+09:00",
       "sent_at": "2026-09-30T09:44:28.891788+09:00"
+    },
+    {
+      "id": "3b5ca5c0ef939b885b7a4fbf67b3d39a14a49d49601368ccdb967b6607e13ca0",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "코나미 '사일런트 힐: 타운폴' 출시... 시리즈 첫 1인칭 시점 도입",
+      "url": "https://n.news.naver.com/article/030/0003470960?type=journalists",
+      "published_at": "2026-09-30T09:39:12+09:00",
+      "sent_at": "2026-09-30T09:54:41.899007+09:00"
+    },
+    {
+      "id": "26da54b70cb1bcb7ae90e1fed497c1ec10b20d2ecf02d214ac2653ade1df39b4",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "하이퍼센트, 중기부 TIPS 선정... 게임 운영 AI 'GameOps AI' 개발",
+      "url": "https://n.news.naver.com/article/030/0003470958?type=journalists",
+      "published_at": "2026-09-30T09:36:23+09:00",
+      "sent_at": "2026-09-30T09:54:44.457845+09:00"
+    },
+    {
+      "id": "95f6890ebcb31b32c83bb69d02296b68e2e3418301b8153a34cf0f52700310f4",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "네오위즈, 'DJMAX 리스펙트 V' 첫 아트북 출시",
+      "url": "https://n.news.naver.com/article/001/0016345624?type=journalists",
+      "published_at": "2026-09-30T09:38:08+09:00",
+      "sent_at": "2026-09-30T09:54:47.635080+09:00"
     }
   ],
-  "last_run_at": "2026-09-30T00:49:32.663667+00:00"
+  "last_run_at": "2026-09-30T00:54:37.365703+00:00"
 }
