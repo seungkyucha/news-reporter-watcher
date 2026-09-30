@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "dd1589ed709660c4c8709e9ac0ca057ec7592f136ddce8e4077ffdee8b839ccd",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "extra_channels": [],
-      "title": "크래프톤, 'PUBG 아시아 스타즈' 논란 수습... 선수 영구 제재·피해자 보호 나서",
-      "url": "https://n.news.naver.com/article/030/0003469791?type=journalists",
-      "published_at": "2026-09-23T19:15:11+09:00",
-      "sent_at": "2026-09-23T19:27:01.067293+09:00"
-    },
-    {
       "id": "738a3a623ff6ccbad7e84c39584f9280237da5deab12d887cc4819a7842a1148",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -641,5 +631,5 @@
       "sent_at": "2026-09-30T18:03:08.616863+09:00"
     }
   ],
-  "last_run_at": "2026-09-30T10:24:32.623972+00:00"
+  "last_run_at": "2026-09-30T10:29:37.188252+00:00"
 }
