@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "dd5a86e31517f6feea98e93dc11cdfa3acefab74b127981ab9a07ab6ed55e004",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "extra_channels": [],
-      "title": "[아시안게임] 라이엇게임즈, LoL 대표팀 응원 캠페인…결승전 뷰잉파티",
-      "url": "https://n.news.naver.com/article/001/0016331801?type=journalists",
-      "published_at": "2026-09-23T10:15:54+09:00",
-      "sent_at": "2026-09-23T10:32:33.537208+09:00"
-    },
-    {
       "id": "53952e1d7debbc902dfbefbaf74807ee93a5ac82a99a6195ce6b7b37abce5c9d",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -519,7 +509,37 @@
       "url": "https://n.news.naver.com/article/001/0016345814?type=journalists",
       "published_at": "2026-09-30T10:14:20+09:00",
       "sent_at": "2026-09-30T10:25:23.889134+09:00"
+    },
+    {
+      "id": "bb58ef4a91b987b9524c7bc6a2804b65a3c53613aa5955a45b1758da1d77e8de",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "검증된 IP 해외로, 신규 IP는 국내서... K게임 10월 대전",
+      "url": "https://n.news.naver.com/article/030/0003471026?type=journalists",
+      "published_at": "2026-09-30T10:21:10+09:00",
+      "sent_at": "2026-09-30T10:35:35.876516+09:00"
+    },
+    {
+      "id": "fdca4f860c82255fb01bcaf51e3853f44869f541aaf4916cb6b7913b2ab36791",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "페이커의 3연속 우승 여정…월즈 주제곡 10월 9일 공개",
+      "url": "https://n.news.naver.com/article/001/0016345850?type=journalists",
+      "published_at": "2026-09-30T10:23:37+09:00",
+      "sent_at": "2026-09-30T10:35:38.793397+09:00"
+    },
+    {
+      "id": "66f856ea26cd35d693757d58ca35d15462708cbe53b90dd4ff2e55f77abc81f8",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "크래프톤, 미국 '콤플렉스콘 2026' 참가…PUBG 협업 선보여",
+      "url": "https://n.news.naver.com/article/001/0016345819?type=journalists",
+      "published_at": "2026-09-30T10:16:28+09:00",
+      "sent_at": "2026-09-30T10:35:41.248948+09:00"
     }
   ],
-  "last_run_at": "2026-09-30T01:30:26.674468+00:00"
+  "last_run_at": "2026-09-30T01:35:31.382054+00:00"
 }
