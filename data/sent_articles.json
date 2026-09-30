@@ -589,7 +589,17 @@
       "url": "https://n.news.naver.com/article/001/0016347315?type=journalists",
       "published_at": "2026-09-30T15:09:33+09:00",
       "sent_at": "2026-09-30T15:25:39.860934+09:00"
+    },
+    {
+      "id": "2ccb83e45414042947cefbdf800fdc3e119d3e9b1f6e42a5f425d30a11f1ea78",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "[아시안게임] 한국 LoL, 3전 전승으로 준결승행…페이커도 출격(종합)",
+      "url": "https://n.news.naver.com/article/001/0016347506?type=journalists",
+      "published_at": "2026-09-30T15:34:20+09:00",
+      "sent_at": "2026-09-30T15:45:59.755336+09:00"
     }
   ],
-  "last_run_at": "2026-09-30T06:40:50.763845+00:00"
+  "last_run_at": "2026-09-30T06:45:55.201004+00:00"
 }
