@@ -709,7 +709,17 @@
       "url": "https://n.news.naver.com/article/030/0003471636?type=journalists",
       "published_at": "2026-10-01T13:09:09+09:00",
       "sent_at": "2026-10-01T13:27:04.662202+09:00"
+    },
+    {
+      "id": "c026490d1c6b8407fe210ee8c2ab2e42d75e4482d86b262c98d053a42570b49c",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "[人사이트] 황재호 민트로켓 대표 “한국 게임 하면 민트로켓' 듣고 싶다”",
+      "url": "https://n.news.naver.com/article/030/0003471676?type=journalists",
+      "published_at": "2026-10-01T14:01:12+09:00",
+      "sent_at": "2026-10-01T14:12:42.894887+09:00"
     }
   ],
-  "last_run_at": "2026-10-01T05:07:34.929119+00:00"
+  "last_run_at": "2026-10-01T05:12:38.782124+00:00"
 }
