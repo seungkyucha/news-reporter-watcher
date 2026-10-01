@@ -689,7 +689,17 @@
       "url": "https://n.news.naver.com/article/030/0003471540?type=journalists",
       "published_at": "2026-10-01T10:53:12+09:00",
       "sent_at": "2026-10-01T11:05:08.124543+09:00"
+    },
+    {
+      "id": "13a4caf55ee1f0d40f6663dd1e25ef1c6455ac647fcd347b41208609c839fcf9",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "[단독]스마일게이트 '미래시', 지스타서 만난다... 구글 플레이 부스서 시연",
+      "url": "https://n.news.naver.com/article/030/0003471634?type=journalists",
+      "published_at": "2026-10-01T13:04:14+09:00",
+      "sent_at": "2026-10-01T13:16:53.035662+09:00"
     }
   ],
-  "last_run_at": "2026-10-01T04:11:45.352531+00:00"
+  "last_run_at": "2026-10-01T04:16:48.846700+00:00"
 }
