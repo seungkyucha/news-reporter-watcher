@@ -699,7 +699,17 @@
       "url": "https://n.news.naver.com/article/030/0003471634?type=journalists",
       "published_at": "2026-10-01T13:04:14+09:00",
       "sent_at": "2026-10-01T13:16:53.035662+09:00"
+    },
+    {
+      "id": "858b90caec12d9bdf6882bb41f78d748a811ba669730587cf95c571414dd4d2c",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "“가정 유지” 권혁빈 vs “2.5조원에서 더달라”  배우자 …스마게 지분전쟁 2라운드",
+      "url": "https://n.news.naver.com/article/030/0003471636?type=journalists",
+      "published_at": "2026-10-01T13:09:09+09:00",
+      "sent_at": "2026-10-01T13:27:04.662202+09:00"
     }
   ],
-  "last_run_at": "2026-10-01T04:21:55.952552+00:00"
+  "last_run_at": "2026-10-01T04:27:00.384391+00:00"
 }
