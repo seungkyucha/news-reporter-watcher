@@ -669,7 +669,17 @@
       "url": "https://n.news.naver.com/article/001/0016349445?type=journalists",
       "published_at": "2026-10-01T10:22:38+09:00",
       "sent_at": "2026-10-01T10:34:37.598269+09:00"
+    },
+    {
+      "id": "02ca6e3b4dd7e34bc2c05ff3c05dd7c6f4772f39786fe72b4226062ae3669051",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "3주년 맞은 '트릭컬 리바이브', 구글 매출 4위... 서비스 최고 기록",
+      "url": "https://n.news.naver.com/article/030/0003471528?type=journalists",
+      "published_at": "2026-10-01T10:44:12+09:00",
+      "sent_at": "2026-10-01T10:54:55.389348+09:00"
     }
   ],
-  "last_run_at": "2026-10-01T01:49:47.617399+00:00"
+  "last_run_at": "2026-10-01T01:54:51.444457+00:00"
 }
