@@ -769,7 +769,17 @@
       "url": "https://n.news.naver.com/article/030/0003471789?type=journalists",
       "published_at": "2026-10-01T16:11:12+09:00",
       "sent_at": "2026-10-01T16:25:06.396572+09:00"
+    },
+    {
+      "id": "8d924bf866d44820d8affa944f9ea9722e0f9664d2ef3f1ed1d76c22ae9f2457",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "해외 게임사도 이용자 보호 의무…위반 땐 국내 서비스 제한",
+      "url": "https://n.news.naver.com/article/001/0016351380?type=journalists",
+      "published_at": "2026-10-01T16:18:14+09:00",
+      "sent_at": "2026-10-01T16:35:20.156770+09:00"
     }
   ],
-  "last_run_at": "2026-10-01T07:30:09.145541+00:00"
+  "last_run_at": "2026-10-01T07:35:13.813617+00:00"
 }
