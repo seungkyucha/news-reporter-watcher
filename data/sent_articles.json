@@ -659,7 +659,17 @@
       "url": "https://n.news.naver.com/article/001/0016349134?type=journalists",
       "published_at": "2026-10-01T09:36:48+09:00",
       "sent_at": "2026-10-01T09:53:42.325451+09:00"
+    },
+    {
+      "id": "75e66de3b0d1034797a64ef525fe023a9ee4bfd1bffd5c959e16c4bf5dc5eb11",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "넥슨, MMORPG '템빨: 오버기어드' 사전 등록 시작",
+      "url": "https://n.news.naver.com/article/001/0016349445?type=journalists",
+      "published_at": "2026-10-01T10:22:38+09:00",
+      "sent_at": "2026-10-01T10:34:37.598269+09:00"
     }
   ],
-  "last_run_at": "2026-10-01T01:29:29.139613+00:00"
+  "last_run_at": "2026-10-01T01:34:33.400838+00:00"
 }
