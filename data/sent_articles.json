@@ -679,7 +679,17 @@
       "url": "https://n.news.naver.com/article/030/0003471528?type=journalists",
       "published_at": "2026-10-01T10:44:12+09:00",
       "sent_at": "2026-10-01T10:54:55.389348+09:00"
+    },
+    {
+      "id": "5cdd33b4eefc25af6a5b165a8e26672604905bb27b1ee2bfaf425e74a3df1f72",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "조이시티 '3on3 프리스타일', 중국 판호 획득…현지 서비스 준비",
+      "url": "https://n.news.naver.com/article/030/0003471540?type=journalists",
+      "published_at": "2026-10-01T10:53:12+09:00",
+      "sent_at": "2026-10-01T11:05:08.124543+09:00"
     }
   ],
-  "last_run_at": "2026-10-01T01:59:58.691589+00:00"
+  "last_run_at": "2026-10-01T02:05:04.281075+00:00"
 }
