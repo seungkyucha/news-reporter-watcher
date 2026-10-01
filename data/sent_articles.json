@@ -779,7 +779,17 @@
       "url": "https://n.news.naver.com/article/001/0016351380?type=journalists",
       "published_at": "2026-10-01T16:18:14+09:00",
       "sent_at": "2026-10-01T16:35:20.156770+09:00"
+    },
+    {
+      "id": "6ec9898a5c65986441c2f4e0040be00869c62bf0bc0cc75ce7e35d6bdb68f865",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "해외 게임사 규제 강화했는데... 국내 게임사도 '이용자 불만처리' 의무 신설",
+      "url": "https://n.news.naver.com/article/030/0003471803?type=journalists",
+      "published_at": "2026-10-01T16:41:17+09:00",
+      "sent_at": "2026-10-01T16:55:41.677013+09:00"
     }
   ],
-  "last_run_at": "2026-10-01T07:50:32.326099+00:00"
+  "last_run_at": "2026-10-01T07:55:36.833030+00:00"
 }
