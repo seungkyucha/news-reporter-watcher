@@ -739,7 +739,37 @@
       "url": "https://n.news.naver.com/article/001/0016351107?type=journalists",
       "published_at": "2026-10-01T15:35:44+09:00",
       "sent_at": "2026-10-01T15:54:30.933423+09:00"
+    },
+    {
+      "id": "e5d762836872ad28717cbc901c9fa8c4b6001995b9523927bd612adee9a5edd4",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "넥슨, 신작 MMORPG '템빨: 오버기어드' 사전등록 시작",
+      "url": "https://n.news.naver.com/article/030/0003471794?type=journalists",
+      "published_at": "2026-10-01T16:15:09+09:00",
+      "sent_at": "2026-10-01T16:25:00.931363+09:00"
+    },
+    {
+      "id": "6e492235f6ca291c4d248cdd7ea76f28621df67a39335f21687dffe419211b68",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "드림에이지 '퍼즐 세븐틴', 신규 콘텐츠 '다함께 셉식당' 업데이트",
+      "url": "https://n.news.naver.com/article/030/0003471791?type=journalists",
+      "published_at": "2026-10-01T16:13:15+09:00",
+      "sent_at": "2026-10-01T16:25:03.730958+09:00"
+    },
+    {
+      "id": "0aec4204ae19215d96417412d79cd4c462b7ba314b25752316c702c5e8036a67",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "한국문화정보원, 'AI 페스타 2026' 참가…AI·문화정보 융합 서비스 공개",
+      "url": "https://n.news.naver.com/article/030/0003471789?type=journalists",
+      "published_at": "2026-10-01T16:11:12+09:00",
+      "sent_at": "2026-10-01T16:25:06.396572+09:00"
     }
   ],
-  "last_run_at": "2026-10-01T07:19:50.925816+00:00"
+  "last_run_at": "2026-10-01T07:24:56.156834+00:00"
 }
