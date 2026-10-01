@@ -639,7 +639,27 @@
       "url": "https://n.news.naver.com/article/001/0016349102?type=journalists",
       "published_at": "2026-10-01T09:31:45+09:00",
       "sent_at": "2026-10-01T09:43:27.267884+09:00"
+    },
+    {
+      "id": "48106d4c751c7a5d13b984bb23f49d87b7213f2e725dd36045cb362ed010f7d8",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "조이시티, '3on3 프리스타일' 중국 판호 획득…서비스 준비",
+      "url": "https://n.news.naver.com/article/001/0016349136?type=journalists",
+      "published_at": "2026-10-01T09:37:07+09:00",
+      "sent_at": "2026-10-01T09:53:39.782324+09:00"
+    },
+    {
+      "id": "b35a4b73e54980f9d3f5ebe784be263aa4ef32d2f4699b38350c2f25fe49d6d2",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "엔씨 '아이온2' 글로벌 얼리 액세스…스팀서 판매 1위 달성",
+      "url": "https://n.news.naver.com/article/001/0016349134?type=journalists",
+      "published_at": "2026-10-01T09:36:48+09:00",
+      "sent_at": "2026-10-01T09:53:42.325451+09:00"
     }
   ],
-  "last_run_at": "2026-10-01T00:48:30.119263+00:00"
+  "last_run_at": "2026-10-01T00:53:34.263499+00:00"
 }
