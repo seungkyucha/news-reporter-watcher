@@ -719,7 +719,17 @@
       "url": "https://n.news.naver.com/article/030/0003471676?type=journalists",
       "published_at": "2026-10-01T14:01:12+09:00",
       "sent_at": "2026-10-01T14:12:42.894887+09:00"
+    },
+    {
+      "id": "2389a4661c0228ef004ad2c5c8a2a8e4a0acdffc2ba9eb586b268281dd0804d3",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "[아시안게임] 한국 LoL, 사우디에 완승…대만과 결승전",
+      "url": "https://n.news.naver.com/article/001/0016350922?type=journalists",
+      "published_at": "2026-10-01T15:19:09+09:00",
+      "sent_at": "2026-10-01T15:34:09.611857+09:00"
     }
   ],
-  "last_run_at": "2026-10-01T06:28:58.929505+00:00"
+  "last_run_at": "2026-10-01T06:34:04.025905+00:00"
 }
