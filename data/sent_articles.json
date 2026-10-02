@@ -799,7 +799,17 @@
       "url": "https://n.news.naver.com/article/001/0016352776?type=journalists",
       "published_at": "2026-10-02T10:03:01+09:00",
       "sent_at": "2026-10-02T10:17:04.440580+09:00"
+    },
+    {
+      "id": "eb1c9ce09ddc9a4cbc9f100fc3a80681354c96f3b563efb452dd665d278423a7",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "웹젠, 2026 하반기 채용연계형 인턴 뽑는다",
+      "url": "https://n.news.naver.com/article/001/0016352820?type=journalists",
+      "published_at": "2026-10-02T10:16:59+09:00",
+      "sent_at": "2026-10-02T10:32:18.984869+09:00"
     }
   ],
-  "last_run_at": "2026-10-02T01:27:10.571974+00:00"
+  "last_run_at": "2026-10-02T01:32:14.542752+00:00"
 }
