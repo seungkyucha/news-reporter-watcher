@@ -869,7 +869,17 @@
       "url": "https://n.news.naver.com/article/030/0003472016?type=journalists",
       "published_at": "2026-10-02T14:26:20+09:00",
       "sent_at": "2026-10-02T14:46:25.769803+09:00"
+    },
+    {
+      "id": "09d2d780266cdc7ef26ab3c75714ed4abcafefc572d4675ca504f61aaff0f10f",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "3년째 일산 찾은 '호요랜드'... 3만4000장 매진, 게임 밖으로 나온 호요버스 세계관",
+      "url": "https://n.news.naver.com/article/030/0003472021?type=journalists",
+      "published_at": "2026-10-02T14:40:14+09:00",
+      "sent_at": "2026-10-02T14:56:37.945293+09:00"
     }
   ],
-  "last_run_at": "2026-10-02T05:51:28.926326+00:00"
+  "last_run_at": "2026-10-02T05:56:33.114314+00:00"
 }
