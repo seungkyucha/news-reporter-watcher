@@ -819,7 +819,17 @@
       "url": "https://n.news.naver.com/article/001/0016352958?type=journalists",
       "published_at": "2026-10-02T10:50:03+09:00",
       "sent_at": "2026-10-02T11:02:45.044063+09:00"
+    },
+    {
+      "id": "014b4406e18e2eb3dd7b816a475d9aeb41c6612baea0f7348064215b0675a6f9",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "게임위, 확률형 아이템 표시의무 위반 해외게임 '영혼 인도자' 국내 유통 제한 예고",
+      "url": "https://n.news.naver.com/article/030/0003471965?type=journalists",
+      "published_at": "2026-10-02T11:55:10+09:00",
+      "sent_at": "2026-10-02T12:03:51.850465+09:00"
     }
   ],
-  "last_run_at": "2026-10-02T02:58:42.795855+00:00"
+  "last_run_at": "2026-10-02T03:03:47.410933+00:00"
 }
