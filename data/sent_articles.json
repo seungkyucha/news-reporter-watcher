@@ -789,7 +789,17 @@
       "url": "https://n.news.naver.com/article/030/0003471803?type=journalists",
       "published_at": "2026-10-01T16:41:17+09:00",
       "sent_at": "2026-10-01T16:55:41.677013+09:00"
+    },
+    {
+      "id": "97b26e6e410d17f6770c18a701c126e4d2eeacb00c4b0a758f7991373d2e17c4",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "크릿벤처스, '오딘' 개발진 출신 제이드래곤게임즈에 투자",
+      "url": "https://n.news.naver.com/article/001/0016352776?type=journalists",
+      "published_at": "2026-10-02T10:03:01+09:00",
+      "sent_at": "2026-10-02T10:17:04.440580+09:00"
     }
   ],
-  "last_run_at": "2026-10-02T01:11:55.763267+00:00"
+  "last_run_at": "2026-10-02T01:16:59.722798+00:00"
 }
