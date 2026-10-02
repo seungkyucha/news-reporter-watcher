@@ -849,7 +849,17 @@
       "url": "https://n.news.naver.com/article/030/0003471969?type=journalists",
       "published_at": "2026-10-02T11:59:12+09:00",
       "sent_at": "2026-10-02T12:14:06.044980+09:00"
+    },
+    {
+      "id": "6169c0bc524c0d340d13583428daf933432251046bfec767c63c31bf1712efe4",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "조 마쉬 T1 대표 “e스포츠, 아시안게임서 빠진다면 잘못된 결정”",
+      "url": "https://n.news.naver.com/article/030/0003471988?type=journalists",
+      "published_at": "2026-10-02T12:44:10+09:00",
+      "sent_at": "2026-10-02T12:49:41.604071+09:00"
     }
   ],
-  "last_run_at": "2026-10-02T03:44:32.271584+00:00"
+  "last_run_at": "2026-10-02T03:49:36.594224+00:00"
 }
