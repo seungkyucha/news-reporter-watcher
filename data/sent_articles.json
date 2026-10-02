@@ -809,7 +809,17 @@
       "url": "https://n.news.naver.com/article/001/0016352820?type=journalists",
       "published_at": "2026-10-02T10:16:59+09:00",
       "sent_at": "2026-10-02T10:32:18.984869+09:00"
+    },
+    {
+      "id": "b2e9f67eb31a35d8cceab1b2e2972a094e73b96230cf9d3548aee5e497d9082a",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "[가보니] 원신·젠레스존제로 팬에 킨텍스 들썩…호요랜드 3만4천장 매진",
+      "url": "https://n.news.naver.com/article/001/0016352958?type=journalists",
+      "published_at": "2026-10-02T10:50:03+09:00",
+      "sent_at": "2026-10-02T11:02:45.044063+09:00"
     }
   ],
-  "last_run_at": "2026-10-02T01:57:36.407081+00:00"
+  "last_run_at": "2026-10-02T02:02:40.326617+00:00"
 }
