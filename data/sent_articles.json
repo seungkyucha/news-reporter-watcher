@@ -879,7 +879,27 @@
       "url": "https://n.news.naver.com/article/030/0003472021?type=journalists",
       "published_at": "2026-10-02T14:40:14+09:00",
       "sent_at": "2026-10-02T14:56:37.945293+09:00"
+    },
+    {
+      "id": "ecf2965c238cd4a90b144c2fa528119f5776dc1befc9c54b0bb2e7c6defd979c",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "[아시안게임] LoL 대표팀, 대만 꺾고 아시안게임 2연속 제패(종합)",
+      "url": "https://n.news.naver.com/article/001/0016354035?type=journalists",
+      "published_at": "2026-10-02T15:32:59+09:00",
+      "sent_at": "2026-10-02T15:42:23.617947+09:00"
+    },
+    {
+      "id": "a2d9131030e6e04289733cd489765efa7d78abdd2ffe31c937d72873fa0d560f",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "[1보] LoL 대표팀, 대만 꺾고 아시안게임 금메달…무실 세트 제패",
+      "url": "https://n.news.naver.com/article/001/0016354010?type=journalists",
+      "published_at": "2026-10-02T15:26:28+09:00",
+      "sent_at": "2026-10-02T15:42:25.947019+09:00"
     }
   ],
-  "last_run_at": "2026-10-02T06:37:12.075258+00:00"
+  "last_run_at": "2026-10-02T06:42:16.377638+00:00"
 }
