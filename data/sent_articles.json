@@ -899,7 +899,27 @@
       "url": "https://n.news.naver.com/article/001/0016354010?type=journalists",
       "published_at": "2026-10-02T15:26:28+09:00",
       "sent_at": "2026-10-02T15:42:25.947019+09:00"
+    },
+    {
+      "id": "a7f00db383d973cb7cbfb838b091148dba871ccf747a2387542b04e5345f393e",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "익스릭스, '오리온 블루' 플레이테스트…11월 출시",
+      "url": "https://n.news.naver.com/article/001/0016354413?type=journalists",
+      "published_at": "2026-10-02T16:58:32+09:00",
+      "sent_at": "2026-10-02T17:14:03.477572+09:00"
+    },
+    {
+      "id": "48020c83e10fd9c6aad5a0b804da571e4fe3c25cbb2ccdc749bc8d6471ad0e13",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "확률형 아이템 표시 위반하고 '연락두절'…중국 게임사 행정처분",
+      "url": "https://n.news.naver.com/article/001/0016354411?type=journalists",
+      "published_at": "2026-10-02T16:57:37+09:00",
+      "sent_at": "2026-10-02T17:14:05.914329+09:00"
     }
   ],
-  "last_run_at": "2026-10-02T08:08:53.695661+00:00"
+  "last_run_at": "2026-10-02T08:13:58.205484+00:00"
 }
