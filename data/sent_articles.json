@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "a7229843c47cee18c08b3a4f891dd53fd814eede13a6e28b8c97b10625cf1f17",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "extra_channels": [],
-      "title": "[아시안게임] 강동신, '신동' 구리하라에 석패…'뿌요뿌요' 은메달",
-      "url": "https://n.news.naver.com/article/001/0016336935?type=journalists",
-      "published_at": "2026-09-26T12:56:31+09:00",
-      "sent_at": "2026-09-26T13:12:30.181687+09:00"
-    },
-    {
       "id": "b93a29457a9a78c7a98484aa3cb1307ed4fbaad46ea64d95b0168fdaefda4845",
       "reporter": "박정은",
       "press": "전자신문",
@@ -921,5 +911,5 @@
       "sent_at": "2026-10-03T11:16:07.107896+09:00"
     }
   ],
-  "last_run_at": "2026-10-03T04:08:00.192818+00:00"
+  "last_run_at": "2026-10-03T04:13:05.716978+00:00"
 }
