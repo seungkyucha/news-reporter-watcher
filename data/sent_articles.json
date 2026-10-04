@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "8cac10b9e3eedd77a0b722450ec57c49002ba606d8cb3004da266ba3768d28c8",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "extra_channels": [],
-      "title": "셧다운제는 폐지됐는데 '부모 인증'은 그대로... 게임법 개정안 국회서 지연",
-      "url": "https://n.news.naver.com/article/030/0003470018?type=journalists",
-      "published_at": "2026-09-27T10:06:16+09:00",
-      "sent_at": "2026-09-27T10:22:43.021025+09:00"
-    },
-    {
       "id": "1956199bfb9ed201beb0639b43f9f01dde4a4ec787ff985ab78aef7ae0185738",
       "reporter": "박정은",
       "press": "전자신문",
@@ -861,5 +851,5 @@
       "sent_at": "2026-10-03T11:16:07.107896+09:00"
     }
   ],
-  "last_run_at": "2026-10-04T01:21:14.222196+00:00"
+  "last_run_at": "2026-10-04T01:26:19.896515+00:00"
 }
