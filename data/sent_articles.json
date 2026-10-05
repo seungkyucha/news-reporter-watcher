@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "ad24d5c367bdc1cfd9cc3d840229dd71e84eebe9eb507e512ad599b46ea5ec55",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "extra_channels": [],
-      "title": "[알림] 2026 대한민국 게임대상 후보작 모집",
-      "url": "https://n.news.naver.com/article/030/0003470391?type=journalists",
-      "published_at": "2026-09-28T14:20:11+09:00",
-      "sent_at": "2026-09-28T14:35:37.878290+09:00"
-    },
-    {
       "id": "f5f7e4bb1d05095dddd24fed9adc7729cff53bd0605730888ed8c5ea3f376880",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -731,5 +721,5 @@
       "sent_at": "2026-10-05T12:44:42.852235+09:00"
     }
   ],
-  "last_run_at": "2026-10-05T05:31:02.069723+00:00"
+  "last_run_at": "2026-10-05T05:36:05.841025+00:00"
 }
