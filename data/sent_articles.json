@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "62a65394c1696c855986ae002c641124ccda881d593c9ec8ac6ab3f0b33341fd",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "extra_channels": [],
-      "title": "크래프톤 AI '펍지 엘라이' 베타 평가 공개... 대화는 호평, 전투 실력은 과제",
-      "url": "https://n.news.naver.com/article/030/0003470385?type=journalists",
-      "published_at": "2026-09-28T14:10:10+09:00",
-      "sent_at": "2026-09-28T14:25:25.592006+09:00"
-    },
-    {
       "id": "ad24d5c367bdc1cfd9cc3d840229dd71e84eebe9eb507e512ad599b46ea5ec55",
       "reporter": "박정은",
       "press": "전자신문",
@@ -741,5 +731,5 @@
       "sent_at": "2026-10-05T12:44:42.852235+09:00"
     }
   ],
-  "last_run_at": "2026-10-05T05:20:54.700745+00:00"
+  "last_run_at": "2026-10-05T05:25:58.353819+00:00"
 }
