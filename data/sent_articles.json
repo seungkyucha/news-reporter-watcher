@@ -1,26 +1,6 @@
 {
   "sent": [
     {
-      "id": "67128976345c2db10b259362d49cf51bb14e1abb21df4639857b9ca1a2e2fd82",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "extra_channels": [],
-      "title": "“옵트아웃 집단소송, 위헌 소지·기업 부담 우려”... 율촌 세미나서 신중론",
-      "url": "https://n.news.naver.com/article/030/0003470281?type=journalists",
-      "published_at": "2026-09-28T11:23:10+09:00",
-      "sent_at": "2026-09-28T11:37:28.968964+09:00"
-    },
-    {
-      "id": "9cd66460f9c082ec4d2f074c4170e9c5f96bb5321dfe24aa794e37717cd073bd",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "extra_channels": [],
-      "title": "호요버스 '붕괴: 스타레일', 메가MGC커피와 협업…한정 굿즈·테마 음료 선봬",
-      "url": "https://n.news.naver.com/article/030/0003470277?type=journalists",
-      "published_at": "2026-09-28T11:17:10+09:00",
-      "sent_at": "2026-09-28T11:37:31.862667+09:00"
-    },
-    {
       "id": "d8a92e394a287e7cd1307737bc74208ca003eb36b58f6194dfbd87f98adbd3a8",
       "reporter": "박정은",
       "press": "전자신문",
@@ -801,5 +781,5 @@
       "sent_at": "2026-10-03T11:16:07.107896+09:00"
     }
   ],
-  "last_run_at": "2026-10-05T02:33:45.951708+00:00"
+  "last_run_at": "2026-10-05T02:38:49.959354+00:00"
 }
