@@ -749,7 +749,17 @@
       "url": "https://n.news.naver.com/article/001/0016355266?type=journalists",
       "published_at": "2026-10-03T11:00:01+09:00",
       "sent_at": "2026-10-03T11:16:07.107896+09:00"
+    },
+    {
+      "id": "50ae035f1959e55f0967b2cd3f5c3e66152db989cbd8e1d441d239d231c59d8c",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "엔씨 '아이온2' 글로벌 정식 출시... 얼리액세스 동접 17만명",
+      "url": "https://n.news.naver.com/article/030/0003472296?type=journalists",
+      "published_at": "2026-10-05T12:33:11+09:00",
+      "sent_at": "2026-10-05T12:44:42.852235+09:00"
     }
   ],
-  "last_run_at": "2026-10-05T03:39:34.572954+00:00"
+  "last_run_at": "2026-10-05T03:44:38.441680+00:00"
 }
