@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "d8a92e394a287e7cd1307737bc74208ca003eb36b58f6194dfbd87f98adbd3a8",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "extra_channels": [],
-      "title": "컴투스 'SWC2026' 유럽 컵서 MALIGNANT 우승... 첫 월드 파이널 진출",
-      "url": "https://n.news.naver.com/article/030/0003470285?type=journalists",
-      "published_at": "2026-09-28T11:26:17+09:00",
-      "sent_at": "2026-09-28T11:42:39.342474+09:00"
-    },
-    {
       "id": "a978478fa1925e3346f2eeb2a6dfc0d58f0a18ca34194585b570d4f937369c8c",
       "reporter": "박정은",
       "press": "전자신문",
@@ -781,5 +771,5 @@
       "sent_at": "2026-10-03T11:16:07.107896+09:00"
     }
   ],
-  "last_run_at": "2026-10-05T02:38:49.959354+00:00"
+  "last_run_at": "2026-10-05T02:43:53.561525+00:00"
 }
