@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "3d58690fe4ef2d61739e26ff9ac460c65b34f00af8438f9a7ade33c5b1456812",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "extra_channels": [],
-      "title": "라인게임즈, 협동 호러 신작 'CODE EXIT' 스팀 플레이테스트 시작",
-      "url": "https://n.news.naver.com/article/030/0003470275?type=journalists",
-      "published_at": "2026-09-28T11:13:12+09:00",
-      "sent_at": "2026-09-28T11:27:02.388969+09:00"
-    },
-    {
       "id": "67128976345c2db10b259362d49cf51bb14e1abb21df4639857b9ca1a2e2fd82",
       "reporter": "박정은",
       "press": "전자신문",
@@ -811,5 +801,5 @@
       "sent_at": "2026-10-03T11:16:07.107896+09:00"
     }
   ],
-  "last_run_at": "2026-10-05T02:23:37.597813+00:00"
+  "last_run_at": "2026-10-05T02:28:42.343041+00:00"
 }
