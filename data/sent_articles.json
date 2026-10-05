@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "b15908b862688c64a0bdaa62f6337ea77747598af4a7fbb64c5b04fca406cf71",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "extra_channels": [],
-      "title": "유니티, '메타 VR 글래스' 개발 환경 지원... 퀘스트 타이틀 확장 돕는다",
-      "url": "https://n.news.naver.com/article/030/0003470226?type=journalists",
-      "published_at": "2026-09-28T10:01:13+09:00",
-      "sent_at": "2026-09-28T10:15:52.213383+09:00"
-    },
-    {
       "id": "3d58690fe4ef2d61739e26ff9ac460c65b34f00af8438f9a7ade33c5b1456812",
       "reporter": "박정은",
       "press": "전자신문",
@@ -821,5 +811,5 @@
       "sent_at": "2026-10-03T11:16:07.107896+09:00"
     }
   ],
-  "last_run_at": "2026-10-05T01:12:27.815328+00:00"
+  "last_run_at": "2026-10-05T01:17:31.745995+00:00"
 }
