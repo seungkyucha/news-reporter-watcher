@@ -1,26 +1,6 @@
 {
   "sent": [
     {
-      "id": "a978478fa1925e3346f2eeb2a6dfc0d58f0a18ca34194585b570d4f937369c8c",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "extra_channels": [],
-      "title": "라이엇 게임즈 TFT, 공군과 첫 '에어 포스 컵' 개최",
-      "url": "https://n.news.naver.com/article/030/0003470305?type=journalists",
-      "published_at": "2026-09-28T12:04:12+09:00",
-      "sent_at": "2026-09-28T12:13:11.407158+09:00"
-    },
-    {
-      "id": "8572e169454808ee1ef08461b0eb5510025627b6c90af100107c192ad58cbb60",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "extra_channels": [],
-      "title": "한국 e스포츠, 아이치-나고야 AG 네 번째 메달…포켓몬 유나이트 동메달",
-      "url": "https://n.news.naver.com/article/030/0003470304?type=journalists",
-      "published_at": "2026-09-28T12:03:10+09:00",
-      "sent_at": "2026-09-28T12:13:13.813938+09:00"
-    },
-    {
       "id": "1e854928879eabc32958f2934796ce1976ef95ac7ae5e4150c4802e1afde1a92",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -771,5 +751,5 @@
       "sent_at": "2026-10-03T11:16:07.107896+09:00"
     }
   ],
-  "last_run_at": "2026-10-05T03:09:12.226627+00:00"
+  "last_run_at": "2026-10-05T03:14:16.135187+00:00"
 }
