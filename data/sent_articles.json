@@ -1,36 +1,6 @@
 {
   "sent": [
     {
-      "id": "3400ed9c6429dbb3dbda46f74f93993a49256f7659a05bfcba1f13c3b4f640ce",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "extra_channels": [],
-      "title": "넥슨 '아크 레이더스', 10월 8일 대규모 업데이트... 신규 설원 맵 추가",
-      "url": "https://n.news.naver.com/article/030/0003470418?type=journalists",
-      "published_at": "2026-09-28T15:15:12+09:00",
-      "sent_at": "2026-09-28T15:26:31.571658+09:00"
-    },
-    {
-      "id": "b1b53f11ca3c32d908f6145581776bb0c9fe559fda22d61723479cececcb9f47",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "extra_channels": [],
-      "title": "호요버스 '원신', 양화한강공원에 '원신 숲' 조성... 이용자 53만명 참여",
-      "url": "https://n.news.naver.com/article/030/0003470417?type=journalists",
-      "published_at": "2026-09-28T15:13:12+09:00",
-      "sent_at": "2026-09-28T15:26:34.046671+09:00"
-    },
-    {
-      "id": "e7f09dfdc3edd64091ad5e9de351e5c165c1e2a4ba36c88b39532ca77f271735",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "extra_channels": [],
-      "title": "[아시안게임] 한국, 배틀그라운드 모바일 1일차 6위",
-      "url": "https://n.news.naver.com/article/001/0016341118?type=journalists",
-      "published_at": "2026-09-28T15:10:32+09:00",
-      "sent_at": "2026-09-28T15:26:37.344060+09:00"
-    },
-    {
       "id": "e3e2e73b5a99110a7e3a266f25aeaf27cabf6836c369835f3eea3c48bd91d6f6",
       "reporter": "박정은",
       "press": "전자신문",
@@ -711,5 +681,5 @@
       "sent_at": "2026-10-05T12:44:42.852235+09:00"
     }
   ],
-  "last_run_at": "2026-10-05T06:21:39.820546+00:00"
+  "last_run_at": "2026-10-05T06:26:43.664078+00:00"
 }
