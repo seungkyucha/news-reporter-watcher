@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "f5f7e4bb1d05095dddd24fed9adc7729cff53bd0605730888ed8c5ea3f376880",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "extra_channels": [],
-      "title": "올해 최고의 게임은?…대한민국 게임대상 후보 접수 시작",
-      "url": "https://n.news.naver.com/article/001/0016340941?type=journalists",
-      "published_at": "2026-09-28T14:37:02+09:00",
-      "sent_at": "2026-09-28T14:56:00.744119+09:00"
-    },
-    {
       "id": "3400ed9c6429dbb3dbda46f74f93993a49256f7659a05bfcba1f13c3b4f640ce",
       "reporter": "박정은",
       "press": "전자신문",
@@ -721,5 +711,5 @@
       "sent_at": "2026-10-05T12:44:42.852235+09:00"
     }
   ],
-  "last_run_at": "2026-10-05T05:51:17.784214+00:00"
+  "last_run_at": "2026-10-05T05:56:21.526165+00:00"
 }
