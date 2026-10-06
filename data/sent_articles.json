@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "2613edca01ce0ecd3806763b526eb4bcd8ec4a603c173e641012fcdd4ee0934f",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "extra_channels": [],
-      "title": "[AI픽] 원스토어, AI 게임 전용관 모든 개발자에 개방",
-      "url": "https://n.news.naver.com/article/001/0016342766?type=journalists",
-      "published_at": "2026-09-29T10:22:08+09:00",
-      "sent_at": "2026-09-29T10:36:31.681529+09:00"
-    },
-    {
       "id": "70848c0307742bf21f49022f3e7631bf8e70c2768f80c1ee2c0df8c70ee8a010",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -611,5 +601,5 @@
       "sent_at": "2026-10-05T12:44:42.852235+09:00"
     }
   ],
-  "last_run_at": "2026-10-06T01:35:01.118504+00:00"
+  "last_run_at": "2026-10-06T01:40:06.019374+00:00"
 }
