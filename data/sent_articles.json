@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "fa72188b10764307a95eca84faa0665470d5e9282334a4aeb9d69d3ff7b72fd2",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "extra_channels": [],
-      "title": "앵커노드, 신민균 전 카카오 수석부사장 전략 고문 영입",
-      "url": "https://n.news.naver.com/article/030/0003470553?type=journalists",
-      "published_at": "2026-09-29T09:21:13+09:00",
-      "sent_at": "2026-09-29T09:30:22.030047+09:00"
-    },
-    {
       "id": "60b266a87fcd31a6db0d3f36cd0d6f2976598467117ea2f406b3bb7806402cac",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -631,5 +621,5 @@
       "sent_at": "2026-10-05T12:44:42.852235+09:00"
     }
   ],
-  "last_run_at": "2026-10-06T00:29:01.905746+00:00"
+  "last_run_at": "2026-10-06T00:34:06.112521+00:00"
 }
