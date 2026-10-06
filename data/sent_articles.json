@@ -639,7 +639,17 @@
       "url": "https://n.news.naver.com/article/030/0003472564?type=journalists",
       "published_at": "2026-10-06T13:18:16+09:00",
       "sent_at": "2026-10-06T13:33:38.192320+09:00"
+    },
+    {
+      "id": "09e1e45321129525d682a6c39911c767e446ec2fccc5fa7e0ffb71eadb986137",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "법정기관 만든 지 1년여 만에 통폐합…문화정보원 AI·데이터 전문성 어디로",
+      "url": "https://n.news.naver.com/article/030/0003472592?type=journalists",
+      "published_at": "2026-10-06T13:47:12+09:00",
+      "sent_at": "2026-10-06T14:04:11.386172+09:00"
     }
   ],
-  "last_run_at": "2026-10-06T04:59:02.284675+00:00"
+  "last_run_at": "2026-10-06T05:04:06.799853+00:00"
 }
