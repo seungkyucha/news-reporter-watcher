@@ -599,7 +599,47 @@
       "url": "https://n.news.naver.com/article/030/0003472461?type=journalists",
       "published_at": "2026-10-06T10:26:14+09:00",
       "sent_at": "2026-10-06T10:45:15.908823+09:00"
+    },
+    {
+      "id": "3b2801e93926b9808f3d9ebaffbc460c890d316ce4e8cb549f5d610a4c46d0b9",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "크래프톤 네온 자이언트 '디 어센트', 닌텐도 스위치2 출시... 얼티밋 에디션 사전예약",
+      "url": "https://n.news.naver.com/article/030/0003472552?type=journalists",
+      "published_at": "2026-10-06T12:52:17+09:00",
+      "sent_at": "2026-10-06T13:02:55.913437+09:00"
+    },
+    {
+      "id": "265f83fb57f7eff81bd264ee262c9ba6c77850fc2f03673786e745790c0ccdaf",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "2026 LoL 월드 챔피언십 16일 개막... LCK, 5연속 우승 도전",
+      "url": "https://n.news.naver.com/article/030/0003472551?type=journalists",
+      "published_at": "2026-10-06T12:51:11+09:00",
+      "sent_at": "2026-10-06T13:02:58.490974+09:00"
+    },
+    {
+      "id": "4dbf11bf80c1d28961893a8a6024b09074eb28acac1171659f6d7b65c991668b",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "넥슨, '아크 레이더스·더 파이널스' 영화·TV로 확장…체르닌 엔터와 맞손",
+      "url": "https://n.news.naver.com/article/030/0003472550?type=journalists",
+      "published_at": "2026-10-06T12:48:17+09:00",
+      "sent_at": "2026-10-06T13:03:01.198262+09:00"
+    },
+    {
+      "id": "f207d355ecaa10aff9db0fc07c9ad991edae5db8a12ad9b5fff29c125aee1670",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "한국 e스포츠, 아이치-나고야 AG서 금 2·은 1·동 2... 총 5개 메달",
+      "url": "https://n.news.naver.com/article/030/0003472549?type=journalists",
+      "published_at": "2026-10-06T12:47:11+09:00",
+      "sent_at": "2026-10-06T13:03:03.645287+09:00"
     }
   ],
-  "last_run_at": "2026-10-06T03:57:45.222004+00:00"
+  "last_run_at": "2026-10-06T04:02:50.084457+00:00"
 }
