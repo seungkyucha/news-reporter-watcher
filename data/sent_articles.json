@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "c988835bcc2b049ab9dc13cfba6d359bff6a90c1e0231a35f5c36cfe78d73dce",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "extra_channels": [],
-      "title": "CDPR, '더 위쳐 3: 와일드 헌트' 리마스터 출시",
-      "url": "https://n.news.naver.com/article/001/0016346213?type=journalists",
-      "published_at": "2026-09-30T11:17:24+09:00",
-      "sent_at": "2026-09-30T11:31:35.902847+09:00"
-    },
-    {
       "id": "6b684f099c96ea4038af0aeaddf88932b877d0a06038d42191a05ca9d9bf2842",
       "reporter": "박정은",
       "press": "전자신문",
@@ -531,5 +521,5 @@
       "sent_at": "2026-10-06T14:24:35.274793+09:00"
     }
   ],
-  "last_run_at": "2026-10-07T02:27:55.372302+00:00"
+  "last_run_at": "2026-10-07T02:32:59.717026+00:00"
 }
