@@ -1,26 +1,6 @@
 {
   "sent": [
     {
-      "id": "9e3852a641955d89e82180dfead847b1d8e8c9ae18eeb6a4f14058b4ebafdc27",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "extra_channels": [],
-      "title": "“게임이용장애 질병코드화, 어떤 증거에서 판단 바꿀지 먼저 정해야”",
-      "url": "https://n.news.naver.com/article/030/0003471187?type=journalists",
-      "published_at": "2026-09-30T14:18:17+09:00",
-      "sent_at": "2026-09-30T14:34:43.527952+09:00"
-    },
-    {
-      "id": "f5cec0248795738eabe15f1f39aa9bbb2fa5f04c9f9b64152194635d5fa4bcca",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "extra_channels": [],
-      "title": "레드아이스스튜디오, 컴투스엔 지분 4.5% 취득",
-      "url": "https://n.news.naver.com/article/001/0016347034?type=journalists",
-      "published_at": "2026-09-30T14:23:11+09:00",
-      "sent_at": "2026-09-30T14:34:46.474112+09:00"
-    },
-    {
       "id": "ec113923cda0c2f9d2d56758486e8969bc1f2daecc1ed028a6c6c55dc6a1af18",
       "reporter": "박정은",
       "press": "전자신문",
@@ -509,7 +489,17 @@
       "url": "https://n.news.naver.com/article/030/0003473001?type=journalists",
       "published_at": "2026-10-07T12:57:14+09:00",
       "sent_at": "2026-10-07T13:14:40.688331+09:00"
+    },
+    {
+      "id": "76afb5b124908c60d1359e083a1bfd2c56f37804991a23e7d4264ed2c110556d",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "카카오게임즈 '도깨비의세계' 8일 출격... 신작 공세 첫발, 분위기 반전 노린다",
+      "url": "https://n.news.naver.com/article/030/0003473081?type=journalists",
+      "published_at": "2026-10-07T14:25:10+09:00",
+      "sent_at": "2026-10-07T14:36:21.913305+09:00"
     }
   ],
-  "last_run_at": "2026-10-07T05:31:12.180479+00:00"
+  "last_run_at": "2026-10-07T05:36:17.221139+00:00"
 }
