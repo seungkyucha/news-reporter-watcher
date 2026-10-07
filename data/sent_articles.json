@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "2f20f8bd2fb492bd04abef962656c4e698abbf88eaea364b968a8947bf287679",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "extra_channels": [],
-      "title": "컴투스플랫폼, AI 특화 게임 백엔드 '하이브 액실' 출시... 자연어로 연동 코드 작성",
-      "url": "https://n.news.naver.com/article/030/0003471311?type=journalists",
-      "published_at": "2026-09-30T16:22:17+09:00",
-      "sent_at": "2026-09-30T16:36:49.936098+09:00"
-    },
-    {
       "id": "972cf2afa8accd7c2cf2d1fa953d569a20a80333864fda6c65782f06188a567b",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -461,5 +451,5 @@
       "sent_at": "2026-10-07T14:36:21.913305+09:00"
     }
   ],
-  "last_run_at": "2026-10-07T07:33:23.354946+00:00"
+  "last_run_at": "2026-10-07T07:38:28.834770+00:00"
 }
