@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "ec113923cda0c2f9d2d56758486e8969bc1f2daecc1ed028a6c6c55dc6a1af18",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "extra_channels": [],
-      "title": "'아이온2' 글로벌 얼리액세스 개시... 엔씨, 국내 흥행 공식 해외서도 통할까",
-      "url": "https://n.news.naver.com/article/030/0003471209?type=journalists",
-      "published_at": "2026-09-30T14:49:10+09:00",
-      "sent_at": "2026-09-30T15:05:18.053522+09:00"
-    },
-    {
       "id": "73dc12b102adef3ae0069536b93c9b1750201edc03aecbb0f5e8246823a4dee9",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -501,5 +491,5 @@
       "sent_at": "2026-10-07T14:36:21.913305+09:00"
     }
   ],
-  "last_run_at": "2026-10-07T06:01:47.469835+00:00"
+  "last_run_at": "2026-10-07T06:06:52.053347+00:00"
 }
