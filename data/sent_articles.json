@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "08a92972f56d501c7e17501ca93d9e3a6a68e271a3ef395c5235605cb3b077a5",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "extra_channels": [],
-      "title": "EA 'FC 27' 글로벌 출시…신규 소셜 모드 '더 그라운즈' 추가",
-      "url": "https://n.news.naver.com/article/030/0003470952?type=journalists",
-      "published_at": "2026-09-30T09:33:10+09:00",
-      "sent_at": "2026-09-30T09:44:28.891788+09:00"
-    },
-    {
       "id": "3b5ca5c0ef939b885b7a4fbf67b3d39a14a49d49601368ccdb967b6607e13ca0",
       "reporter": "박정은",
       "press": "전자신문",
@@ -621,5 +611,5 @@
       "sent_at": "2026-10-06T14:24:35.274793+09:00"
     }
   ],
-  "last_run_at": "2026-10-07T00:41:19.180491+00:00"
+  "last_run_at": "2026-10-07T00:46:24.018843+00:00"
 }
