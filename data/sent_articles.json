@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "055d259cfb48dd627abaeaec017ecfe91df25a4b07052ab12102e914493519aa",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "extra_channels": [],
-      "title": "태평양 강태욱 변호사, 개인정보보호위원장 표창 수상",
-      "url": "https://n.news.naver.com/article/030/0003471303?type=journalists",
-      "published_at": "2026-09-30T16:08:17+09:00",
-      "sent_at": "2026-09-30T16:26:38.456630+09:00"
-    },
-    {
       "id": "2f20f8bd2fb492bd04abef962656c4e698abbf88eaea364b968a8947bf287679",
       "reporter": "박정은",
       "press": "전자신문",
@@ -471,5 +461,5 @@
       "sent_at": "2026-10-07T14:36:21.913305+09:00"
     }
   ],
-  "last_run_at": "2026-10-07T07:23:12.079111+00:00"
+  "last_run_at": "2026-10-07T07:28:18.004977+00:00"
 }
