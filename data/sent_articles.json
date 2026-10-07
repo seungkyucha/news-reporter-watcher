@@ -529,7 +529,17 @@
       "url": "https://n.news.naver.com/article/030/0003472967?type=journalists",
       "published_at": "2026-10-07T11:44:17+09:00",
       "sent_at": "2026-10-07T11:53:23.482590+09:00"
+    },
+    {
+      "id": "53904e70424675026e4a5e76c93b2faee7f46c79f728bd421cfafe1bd87a6d2a",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "슈퍼패스트 오프문, 스팀 넥스트 페스트에 신작 3종 출품... 글로벌 이용자 공략",
+      "url": "https://n.news.naver.com/article/030/0003473001?type=journalists",
+      "published_at": "2026-10-07T12:57:14+09:00",
+      "sent_at": "2026-10-07T13:14:40.688331+09:00"
     }
   ],
-  "last_run_at": "2026-10-07T04:09:31.903160+00:00"
+  "last_run_at": "2026-10-07T04:14:36.524887+00:00"
 }
