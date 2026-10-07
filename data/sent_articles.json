@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "1a71e75282b89872a28229fb584c4db9a7a2efca4b03218a21990c63d3e06cf3",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "extra_channels": [],
-      "title": "[아시안게임] 제카 앞세운 한국 LoL, 대만 꺾고 첫 승",
-      "url": "https://n.news.naver.com/article/001/0016345814?type=journalists",
-      "published_at": "2026-09-30T10:14:20+09:00",
-      "sent_at": "2026-09-30T10:25:23.889134+09:00"
-    },
-    {
       "id": "bb58ef4a91b987b9524c7bc6a2804b65a3c53613aa5955a45b1758da1d77e8de",
       "reporter": "박정은",
       "press": "전자신문",
@@ -571,5 +561,5 @@
       "sent_at": "2026-10-06T14:24:35.274793+09:00"
     }
   ],
-  "last_run_at": "2026-10-07T01:21:56.065043+00:00"
+  "last_run_at": "2026-10-07T01:27:00.617680+00:00"
 }
