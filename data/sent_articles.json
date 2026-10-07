@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "6b684f099c96ea4038af0aeaddf88932b877d0a06038d42191a05ca9d9bf2842",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "extra_channels": [],
-      "title": "네오위즈, '디제이맥스 리스펙트 V' 첫 아트북 출시... 예스24 단독 예약판매",
-      "url": "https://n.news.naver.com/article/030/0003471166?type=journalists",
-      "published_at": "2026-09-30T14:05:10+09:00",
-      "sent_at": "2026-09-30T14:14:17.941969+09:00"
-    },
-    {
       "id": "8ccd9a4c483b74638babe67e2eba8fdde942fd748bfa794f3cd8d29d94b8a3ea",
       "reporter": "박정은",
       "press": "전자신문",
@@ -541,5 +531,5 @@
       "sent_at": "2026-10-07T13:14:40.688331+09:00"
     }
   ],
-  "last_run_at": "2026-10-07T05:10:51.157231+00:00"
+  "last_run_at": "2026-10-07T05:15:56.045155+00:00"
 }
