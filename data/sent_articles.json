@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "3474f8837b490d5086f7f20ffec51e09c46fe8048a41bf2f828919f477ccb8ba",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "extra_channels": [],
-      "title": "크래프톤, 익스트랙션 슈터 'PUBG: 블랙버짓' 개발 취소",
-      "url": "https://n.news.naver.com/article/001/0016351107?type=journalists",
-      "published_at": "2026-10-01T15:35:44+09:00",
-      "sent_at": "2026-10-01T15:54:30.933423+09:00"
-    },
-    {
       "id": "e5d762836872ad28717cbc901c9fa8c4b6001995b9523927bd612adee9a5edd4",
       "reporter": "박정은",
       "press": "전자신문",
@@ -401,5 +391,5 @@
       "sent_at": "2026-10-08T15:45:35.969392+09:00"
     }
   ],
-  "last_run_at": "2026-10-08T06:50:38.806347+00:00"
+  "last_run_at": "2026-10-08T06:55:43.231310+00:00"
 }
