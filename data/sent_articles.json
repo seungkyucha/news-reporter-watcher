@@ -359,7 +359,47 @@
       "url": "https://n.news.naver.com/article/030/0003473081?type=journalists",
       "published_at": "2026-10-07T14:25:10+09:00",
       "sent_at": "2026-10-07T14:36:21.913305+09:00"
+    },
+    {
+      "id": "2c5d1be28b7df039303d41075dc103fe90c25878dc9b24c8474144afc4237411",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "구글-유니티, AI 게임 제작 플랫폼 맞손... 자연어로 게임 만들고 글로벌 배포",
+      "url": "https://n.news.naver.com/article/030/0003473446?type=journalists",
+      "published_at": "2026-10-08T11:43:16+09:00",
+      "sent_at": "2026-10-08T11:56:11.735608+09:00"
+    },
+    {
+      "id": "3b786d3cf95943322f91876ac9738982c5a2e3e847751bf4c66701fe7e57bb50",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "슈퍼셀 '브롤스타즈', K팝 아이돌과 3주 릴레이 프로젝트 '주간 브롤돌' 진행",
+      "url": "https://n.news.naver.com/article/030/0003473444?type=journalists",
+      "published_at": "2026-10-08T11:40:12+09:00",
+      "sent_at": "2026-10-08T11:56:15.141638+09:00"
+    },
+    {
+      "id": "7fae12c48752b756dc0c4f51cfb51c975457431ea0d82f677c299fb8e3496137",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "넥스쳐 '마루는 강쥐' 카페 게임, 벌꿀 테마 '오~ 허니 마루' 업데이트",
+      "url": "https://n.news.naver.com/article/030/0003473443?type=journalists",
+      "published_at": "2026-10-08T11:39:13+09:00",
+      "sent_at": "2026-10-08T11:56:17.676517+09:00"
+    },
+    {
+      "id": "e0a915f39f1af5c04ba59fd1fe803eb2d7278f81108d79f1837a46d72a392b5b",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "위메이드커넥트 '메이크 드라마 : MAD' 글로벌 출시... 북미·유럽·대만 공략",
+      "url": "https://n.news.naver.com/article/030/0003473442?type=journalists",
+      "published_at": "2026-10-08T11:37:13+09:00",
+      "sent_at": "2026-10-08T11:56:20.676398+09:00"
     }
   ],
-  "last_run_at": "2026-10-08T02:51:01.253544+00:00"
+  "last_run_at": "2026-10-08T02:56:06.747920+00:00"
 }
