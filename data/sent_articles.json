@@ -409,7 +409,17 @@
       "url": "https://n.news.naver.com/article/001/0016342657?type=journalists",
       "published_at": "2026-10-08T23:59:59+09:00",
       "sent_at": "2026-10-08T12:22:01.679758+09:00"
+    },
+    {
+      "id": "0410a931564a96f031b2809d0461e68b241ebb630e47e0104df4d73f0db86e0f",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "드림에이지 '리듬하이브', 아일릿 앵콜 공연 연계 프로모션 진행",
+      "url": "https://n.news.naver.com/article/030/0003473456?type=journalists",
+      "published_at": "2026-10-08T12:24:13+09:00",
+      "sent_at": "2026-10-08T12:32:13.625075+09:00"
     }
   ],
-  "last_run_at": "2026-10-08T03:27:04.380241+00:00"
+  "last_run_at": "2026-10-08T03:32:08.688207+00:00"
 }
