@@ -1,36 +1,6 @@
 {
   "sent": [
     {
-      "id": "e5d762836872ad28717cbc901c9fa8c4b6001995b9523927bd612adee9a5edd4",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "extra_channels": [],
-      "title": "넥슨, 신작 MMORPG '템빨: 오버기어드' 사전등록 시작",
-      "url": "https://n.news.naver.com/article/030/0003471794?type=journalists",
-      "published_at": "2026-10-01T16:15:09+09:00",
-      "sent_at": "2026-10-01T16:25:00.931363+09:00"
-    },
-    {
-      "id": "6e492235f6ca291c4d248cdd7ea76f28621df67a39335f21687dffe419211b68",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "extra_channels": [],
-      "title": "드림에이지 '퍼즐 세븐틴', 신규 콘텐츠 '다함께 셉식당' 업데이트",
-      "url": "https://n.news.naver.com/article/030/0003471791?type=journalists",
-      "published_at": "2026-10-01T16:13:15+09:00",
-      "sent_at": "2026-10-01T16:25:03.730958+09:00"
-    },
-    {
-      "id": "0aec4204ae19215d96417412d79cd4c462b7ba314b25752316c702c5e8036a67",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "extra_channels": [],
-      "title": "한국문화정보원, 'AI 페스타 2026' 참가…AI·문화정보 융합 서비스 공개",
-      "url": "https://n.news.naver.com/article/030/0003471789?type=journalists",
-      "published_at": "2026-10-01T16:11:12+09:00",
-      "sent_at": "2026-10-01T16:25:06.396572+09:00"
-    },
-    {
       "id": "8d924bf866d44820d8affa944f9ea9722e0f9664d2ef3f1ed1d76c22ae9f2457",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -389,7 +359,17 @@
       "url": "https://n.news.naver.com/article/030/0003473540?type=journalists",
       "published_at": "2026-10-08T15:28:17+09:00",
       "sent_at": "2026-10-08T15:45:35.969392+09:00"
+    },
+    {
+      "id": "849cf7dc393267a9aac107ead31136dcecc5dcac1835ae42df05ea666d2078cc",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "크래프톤 'PUBG: 데드넷', 북미서 첫 CBT…콘솔 FPS 시장 공략",
+      "url": "https://n.news.naver.com/article/030/0003473557?type=journalists",
+      "published_at": "2026-10-08T16:10:11+09:00",
+      "sent_at": "2026-10-08T16:26:15.891158+09:00"
     }
   ],
-  "last_run_at": "2026-10-08T07:21:06.716567+00:00"
+  "last_run_at": "2026-10-08T07:26:10.956560+00:00"
 }
