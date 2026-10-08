@@ -419,7 +419,17 @@
       "url": "https://n.news.naver.com/article/030/0003473456?type=journalists",
       "published_at": "2026-10-08T12:24:13+09:00",
       "sent_at": "2026-10-08T12:32:13.625075+09:00"
+    },
+    {
+      "id": "d3ff18c70b1f9932abe1a55f3b7c057b98ea387a282ba9aa61564c34f6979238",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "'승리의 여신: 니케', 할로윈 맞이 'LITTLE WITCH TRICK' 업데이트",
+      "url": "https://n.news.naver.com/article/030/0003473458?type=journalists",
+      "published_at": "2026-10-08T23:59:59+09:00",
+      "sent_at": "2026-10-08T12:47:40.076621+09:00"
     }
   ],
-  "last_run_at": "2026-10-08T03:42:20.927775+00:00"
+  "last_run_at": "2026-10-08T03:47:25.672649+00:00"
 }
