@@ -209,7 +209,17 @@
       "url": "https://n.news.naver.com/article/030/0003473557?type=journalists",
       "published_at": "2026-10-08T16:10:11+09:00",
       "sent_at": "2026-10-08T16:26:15.891158+09:00"
+    },
+    {
+      "id": "c8e8d26d2c404797ff3302c67ca42b8b70cc4655e38352af9cd61f4c585669c0",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "GTA6, 국내 심의 막바지... 민간 등급분류 '현실화' 첫 잣대",
+      "url": "https://n.news.naver.com/article/030/0003473786?type=journalists",
+      "published_at": "2026-10-11T10:34:16+09:00",
+      "sent_at": "2026-10-11T10:47:01.182981+09:00"
     }
   ],
-  "last_run_at": "2026-10-11T01:41:52.283759+00:00"
+  "last_run_at": "2026-10-11T01:46:56.305267+00:00"
 }
