@@ -239,7 +239,17 @@
       "url": "https://n.news.naver.com/article/030/0003474064?type=journalists",
       "published_at": "2026-10-12T13:10:16+09:00",
       "sent_at": "2026-10-12T13:24:49.908694+09:00"
+    },
+    {
+      "id": "acc594f2c8e78ca1003e10efa2b069c71f06e1144fcd48b2d329b8168ef99170",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "게임업계 '프로모션 BJ' 고액 결제 논란... 김재원 \"게임도 '사재기 방지' 법개정 추진\"",
+      "url": "https://n.news.naver.com/article/030/0003474154?type=journalists",
+      "published_at": "2026-10-12T15:02:14+09:00",
+      "sent_at": "2026-10-12T15:16:39.097606+09:00"
     }
   ],
-  "last_run_at": "2026-10-12T06:11:30.916394+00:00"
+  "last_run_at": "2026-10-12T06:16:34.807419+00:00"
 }
