@@ -249,7 +249,17 @@
       "url": "https://n.news.naver.com/article/030/0003474154?type=journalists",
       "published_at": "2026-10-12T15:02:14+09:00",
       "sent_at": "2026-10-12T15:16:39.097606+09:00"
+    },
+    {
+      "id": "70121f9b35876fd785dcf1f8908e9837ada6a44be61e57f3021f3691a4b0fe41",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "AMD 경영진, 펄어비스 방문... '붉은사막' 기술 협력 확대 논의",
+      "url": "https://n.news.naver.com/article/030/0003474249?type=journalists",
+      "published_at": "2026-10-12T21:37:12+09:00",
+      "sent_at": "2026-10-12T21:54:10.735475+09:00"
     }
   ],
-  "last_run_at": "2026-10-12T12:49:00.727356+00:00"
+  "last_run_at": "2026-10-12T12:54:05.495779+00:00"
 }
