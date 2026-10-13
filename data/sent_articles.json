@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "8687d00e7a7a597b15d5ee1a660933a25d0b38c825069c627bff8e99c1096d70",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "extra_channels": [],
-      "title": "[ICT 시사용어] 월드 모델(World Model)",
-      "url": "https://n.news.naver.com/article/030/0003472614?type=journalists",
-      "published_at": "2026-10-06T14:13:12+09:00",
-      "sent_at": "2026-10-06T14:24:35.274793+09:00"
-    },
-    {
       "id": "7278a14ed5dd59c7e17ad9c8c03e555d13c20d1d6805e5b0743da7ec49b0fe9a",
       "reporter": "박정은",
       "press": "전자신문",
@@ -199,7 +189,17 @@
       "url": "https://n.news.naver.com/article/030/0003474323?type=journalists",
       "published_at": "2026-10-13T09:51:09+09:00",
       "sent_at": "2026-10-13T10:06:17.728550+09:00"
+    },
+    {
+      "id": "100cef2f6c3ac8f707d3a5abf73728661347faaad69588f62ce1d2f628a2668c",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "크래프톤, 역대 최대 신입채용…'AI 네이티브' 100명 이상 뽑는다",
+      "url": "https://n.news.naver.com/article/030/0003474485?type=journalists",
+      "published_at": "2026-10-13T14:07:11+09:00",
+      "sent_at": "2026-10-13T14:25:08.869135+09:00"
     }
   ],
-  "last_run_at": "2026-10-13T05:20:00.079189+00:00"
+  "last_run_at": "2026-10-13T05:25:04.618499+00:00"
 }
