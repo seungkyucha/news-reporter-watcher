@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "7c324fe90017851888d25c98cb58fee84ee55f5579d20f8c7d89f93c1ba2853f",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "extra_channels": [],
-      "title": "넵튠, 도트 어드벤처 RPG '바람의 흔적' 사전예약 시작",
-      "url": "https://n.news.naver.com/article/030/0003472461?type=journalists",
-      "published_at": "2026-10-06T10:26:14+09:00",
-      "sent_at": "2026-10-06T10:45:15.908823+09:00"
-    },
-    {
       "id": "3b2801e93926b9808f3d9ebaffbc460c890d316ce4e8cb549f5d610a4c46d0b9",
       "reporter": "박정은",
       "press": "전자신문",
@@ -271,5 +261,5 @@
       "sent_at": "2026-10-13T10:06:17.728550+09:00"
     }
   ],
-  "last_run_at": "2026-10-13T01:41:49.531584+00:00"
+  "last_run_at": "2026-10-13T01:46:53.885702+00:00"
 }
