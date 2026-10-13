@@ -219,7 +219,17 @@
       "url": "https://n.news.naver.com/article/030/0003474620?type=journalists",
       "published_at": "2026-10-13T16:02:24+09:00",
       "sent_at": "2026-10-13T16:17:02.164347+09:00"
+    },
+    {
+      "id": "dac201f049d78a79f31685bbd2d11ebfc7edfb7acc98cdea1851363f1a508069",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "지스타 2026, 푸드트럭 참가자 모집…18일까지 접수",
+      "url": "https://n.news.naver.com/article/030/0003474630?type=journalists",
+      "published_at": "2026-10-13T16:20:16+09:00",
+      "sent_at": "2026-10-13T16:37:25.165224+09:00"
     }
   ],
-  "last_run_at": "2026-10-13T07:32:15.570520+00:00"
+  "last_run_at": "2026-10-13T07:37:20.226019+00:00"
 }
