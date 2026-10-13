@@ -209,7 +209,17 @@
       "url": "https://n.news.naver.com/article/030/0003474503?type=journalists",
       "published_at": "2026-10-13T14:25:14+09:00",
       "sent_at": "2026-10-13T14:35:19.818222+09:00"
+    },
+    {
+      "id": "1890cc2d4bc8733d1f2d5764cbd8042da8ac7ef05fa261fef2516224e78b3588",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "엔씨 '아스트라에 오라티오', AGF 2026 메인 스폰서 참가... 150부스 규모",
+      "url": "https://n.news.naver.com/article/030/0003474620?type=journalists",
+      "published_at": "2026-10-13T16:02:24+09:00",
+      "sent_at": "2026-10-13T16:17:02.164347+09:00"
     }
   ],
-  "last_run_at": "2026-10-13T07:11:33.609237+00:00"
+  "last_run_at": "2026-10-13T07:16:57.525999+00:00"
 }
