@@ -259,7 +259,17 @@
       "url": "https://n.news.naver.com/article/030/0003474249?type=journalists",
       "published_at": "2026-10-12T21:37:12+09:00",
       "sent_at": "2026-10-12T21:54:10.735475+09:00"
+    },
+    {
+      "id": "3285513b5320a1f1381d5fa28841b37600fe21bf256dc8ee2adf9fa3a3e1b90c",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "넷이즈게임즈 '연운', 15일 신규 지역 '청주' 공개",
+      "url": "https://n.news.naver.com/article/030/0003474323?type=journalists",
+      "published_at": "2026-10-13T09:51:09+09:00",
+      "sent_at": "2026-10-13T10:06:17.728550+09:00"
     }
   ],
-  "last_run_at": "2026-10-13T01:01:08.267790+00:00"
+  "last_run_at": "2026-10-13T01:06:12.583958+00:00"
 }
