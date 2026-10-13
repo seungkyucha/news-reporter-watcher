@@ -199,7 +199,17 @@
       "url": "https://n.news.naver.com/article/030/0003474485?type=journalists",
       "published_at": "2026-10-13T14:07:11+09:00",
       "sent_at": "2026-10-13T14:25:08.869135+09:00"
+    },
+    {
+      "id": "b3d6d91ea09abb62f49942a34ef7ab7320a6a39858e34a0223398fc8ea7b5956",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "웹소설·웹툰 IP로 신작 승부... K게임 흥행 공식 바뀐다",
+      "url": "https://n.news.naver.com/article/030/0003474503?type=journalists",
+      "published_at": "2026-10-13T14:25:14+09:00",
+      "sent_at": "2026-10-13T14:35:19.818222+09:00"
     }
   ],
-  "last_run_at": "2026-10-13T05:30:11.721336+00:00"
+  "last_run_at": "2026-10-13T05:35:15.698629+00:00"
 }
