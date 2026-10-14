@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "7278a14ed5dd59c7e17ad9c8c03e555d13c20d1d6805e5b0743da7ec49b0fe9a",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "extra_channels": [],
-      "title": "“제출 의견 없다”던 문체부... 한국e스포츠협회는 '체육 정의 확대' 찬성 의견 냈다",
-      "url": "https://n.news.naver.com/article/030/0003472967?type=journalists",
-      "published_at": "2026-10-07T11:44:17+09:00",
-      "sent_at": "2026-10-07T11:53:23.482590+09:00"
-    },
-    {
       "id": "53904e70424675026e4a5e76c93b2faee7f46c79f728bd421cfafe1bd87a6d2a",
       "reporter": "박정은",
       "press": "전자신문",
@@ -291,5 +281,5 @@
       "sent_at": "2026-10-14T11:35:56.960665+09:00"
     }
   ],
-  "last_run_at": "2026-10-14T02:51:09.667498+00:00"
+  "last_run_at": "2026-10-14T02:56:13.839642+00:00"
 }
