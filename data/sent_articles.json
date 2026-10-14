@@ -239,7 +239,27 @@
       "url": "https://n.news.naver.com/article/001/0016375094?type=journalists",
       "published_at": "2026-10-14T09:44:38+09:00",
       "sent_at": "2026-10-14T09:53:50.281573+09:00"
+    },
+    {
+      "id": "53de61a0103e447ef3357ecf61a4369b3799b4a6fdea6ef5d5440d34e08b8e12",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "조이시티, '프리스타일 풋볼 2' 12월 3일 출시…사전 판매 시작",
+      "url": "https://n.news.naver.com/article/001/0016375292?type=journalists",
+      "published_at": "2026-10-14T10:22:40+09:00",
+      "sent_at": "2026-10-14T10:54:48.965496+09:00"
+    },
+    {
+      "id": "090f3b544b94c2724a5999662eab41eeeb93930c0b7a75d994a251adb82b1413",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "포켓몬코리아, 국립광주과학관과 '포켓몬 화석박물관' 개최",
+      "url": "https://n.news.naver.com/article/001/0016375289?type=journalists",
+      "published_at": "2026-10-14T10:22:25+09:00",
+      "sent_at": "2026-10-14T10:54:51.716869+09:00"
     }
   ],
-  "last_run_at": "2026-10-14T01:49:38.875517+00:00"
+  "last_run_at": "2026-10-14T01:54:43.789052+00:00"
 }
