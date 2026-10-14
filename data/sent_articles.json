@@ -279,7 +279,17 @@
       "url": "https://n.news.naver.com/article/030/0003474832?type=journalists",
       "published_at": "2026-10-14T23:59:59+09:00",
       "sent_at": "2026-10-14T11:15:34.344547+09:00"
+    },
+    {
+      "id": "646f4b389c046535db41935a31e28b9cf1da11e5c078a977cd09d6d7955da02d",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "콘솔게임 보안까지 뚫은 AI, 해적판 등장에 업계 '발칵'",
+      "url": "https://n.news.naver.com/article/001/0016375494?type=journalists",
+      "published_at": "2026-10-14T11:22:00+09:00",
+      "sent_at": "2026-10-14T11:35:56.960665+09:00"
     }
   ],
-  "last_run_at": "2026-10-14T02:30:46.244636+00:00"
+  "last_run_at": "2026-10-14T02:35:51.254524+00:00"
 }
