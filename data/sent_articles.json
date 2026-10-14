@@ -279,7 +279,17 @@
       "url": "https://n.news.naver.com/article/001/0016375998?type=journalists",
       "published_at": "2026-10-14T13:28:31+09:00",
       "sent_at": "2026-10-14T13:43:08.498952+09:00"
+    },
+    {
+      "id": "cb0f4e5ddc5a12d31241e76dfc3313ee5e1e88e59f7f4a00660476f5da967f3f",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "하반기 MMORPG 대전... 과금 부담 낮추고 새 IP·완성도로 승부",
+      "url": "https://n.news.naver.com/article/030/0003475062?type=journalists",
+      "published_at": "2026-10-14T15:57:11+09:00",
+      "sent_at": "2026-10-14T16:29:13.003862+09:00"
     }
   ],
-  "last_run_at": "2026-10-14T07:24:03.137405+00:00"
+  "last_run_at": "2026-10-14T07:29:07.409780+00:00"
 }
