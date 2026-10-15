@@ -309,7 +309,17 @@
       "url": "https://n.news.naver.com/article/030/0003475142?type=journalists",
       "published_at": "2026-10-14T23:59:59+09:00",
       "sent_at": "2026-10-14T18:16:00.940570+09:00"
+    },
+    {
+      "id": "aa22c52d60557b468adf3fb5a7298834f3288b6bc8729e20341ec9de6786b179",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "배틀그라운드에 벤틀리 뜬다…크래프톤, 럭셔리카 협업",
+      "url": "https://n.news.naver.com/article/001/0016378093?type=journalists",
+      "published_at": "2026-10-15T23:59:59+09:00",
+      "sent_at": "2026-10-15T09:46:00.201077+09:00"
     }
   ],
-  "last_run_at": "2026-10-15T00:40:41.785343+00:00"
+  "last_run_at": "2026-10-15T00:45:45.628490+00:00"
 }
