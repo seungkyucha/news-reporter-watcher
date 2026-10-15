@@ -329,7 +329,17 @@
       "url": "https://n.news.naver.com/article/001/0016379798?type=journalists",
       "published_at": "2026-10-15T16:25:02+09:00",
       "sent_at": "2026-10-15T16:32:52.716427+09:00"
+    },
+    {
+      "id": "f2fa13378fe499b5df1d534f2ff4a34d010a7e63bb70e43d36441117a53bc82b",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "'사이버펑크 엣지러너 2' 제작진 \"전작과 다른 새로운 도전\"",
+      "url": "https://n.news.naver.com/article/001/0016380076?type=journalists",
+      "published_at": "2026-10-15T23:59:59+09:00",
+      "sent_at": "2026-10-15T19:10:38.381802+09:00"
     }
   ],
-  "last_run_at": "2026-10-15T10:05:19.332846+00:00"
+  "last_run_at": "2026-10-15T10:10:23.458777+00:00"
 }
