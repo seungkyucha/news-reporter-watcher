@@ -329,7 +329,17 @@
       "url": "https://n.news.naver.com/article/001/0016378299?type=journalists",
       "published_at": "2026-10-15T10:23:22+09:00",
       "sent_at": "2026-10-15T10:31:38.001010+09:00"
+    },
+    {
+      "id": "11e2135f97f9b7ca1f86cb239dfb323b48c5a189234505f0c9362f0305b5bb51",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "LoL 월드 챔피언십 내일 개막…젠지·한화생명·T1·DK 출격",
+      "url": "https://n.news.naver.com/article/001/0016378391?type=journalists",
+      "published_at": "2026-10-15T23:59:59+09:00",
+      "sent_at": "2026-10-15T10:52:07.227195+09:00"
     }
   ],
-  "last_run_at": "2026-10-15T01:46:48.632911+00:00"
+  "last_run_at": "2026-10-15T01:51:52.478536+00:00"
 }
