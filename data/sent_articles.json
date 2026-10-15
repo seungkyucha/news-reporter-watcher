@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "3d527d522a4202c4cbf5ccffc313591c0ea2954c2e9f10d6ea8329fd8bfe633e",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "extra_channels": [],
-      "title": "크래프톤, 서울대와 월드모델 공동연구…게임 넘어 로보틱스로 AI 확장",
-      "url": "https://n.news.naver.com/article/030/0003473540?type=journalists",
-      "published_at": "2026-10-08T15:28:17+09:00",
-      "sent_at": "2026-10-08T15:45:35.969392+09:00"
-    },
-    {
       "id": "849cf7dc393267a9aac107ead31136dcecc5dcac1835ae42df05ea666d2078cc",
       "reporter": "박정은",
       "press": "전자신문",
@@ -341,5 +331,5 @@
       "sent_at": "2026-10-15T14:36:06.814644+09:00"
     }
   ],
-  "last_run_at": "2026-10-15T06:42:01.541503+00:00"
+  "last_run_at": "2026-10-15T06:47:05.912271+00:00"
 }
