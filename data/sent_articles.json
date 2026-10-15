@@ -319,7 +319,17 @@
       "url": "https://n.news.naver.com/article/030/0003475448?type=journalists",
       "published_at": "2026-10-15T13:57:09+09:00",
       "sent_at": "2026-10-15T14:15:42.195789+09:00"
+    },
+    {
+      "id": "143d8853b2fb09362f020141fcd25d2f4bb3c1dfa2a1c900173934598ba276c0",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "코나미, '캐슬바니아: 벨몬트의 저주' 출시",
+      "url": "https://n.news.naver.com/article/001/0016379140?type=journalists",
+      "published_at": "2026-10-15T14:17:33+09:00",
+      "sent_at": "2026-10-15T14:30:59.493212+09:00"
     }
   ],
-  "last_run_at": "2026-10-15T05:25:49.848344+00:00"
+  "last_run_at": "2026-10-15T05:30:54.410295+00:00"
 }
