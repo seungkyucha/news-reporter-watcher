@@ -329,7 +329,17 @@
       "url": "https://n.news.naver.com/article/001/0016379140?type=journalists",
       "published_at": "2026-10-15T14:17:33+09:00",
       "sent_at": "2026-10-15T14:30:59.493212+09:00"
+    },
+    {
+      "id": "50c1c36b7ed8c27d4ece6d59dea456ad169f981ae73a57fc79ec3ed2191055a8",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "지스타 한 달 앞으로... 캡콤 합류에 한중일 글로벌 신작 총집결",
+      "url": "https://n.news.naver.com/article/030/0003475462?type=journalists",
+      "published_at": "2026-10-15T14:18:12+09:00",
+      "sent_at": "2026-10-15T14:36:06.814644+09:00"
     }
   ],
-  "last_run_at": "2026-10-15T05:30:54.410295+00:00"
+  "last_run_at": "2026-10-15T05:36:01.656489+00:00"
 }
