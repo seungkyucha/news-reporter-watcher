@@ -339,7 +339,47 @@
       "url": "https://n.news.naver.com/article/001/0016378391?type=journalists",
       "published_at": "2026-10-15T23:59:59+09:00",
       "sent_at": "2026-10-15T10:52:07.227195+09:00"
+    },
+    {
+      "id": "24aec3811036963de35076eba5cd8f96d4949eec74081c1c1ac5b257c741906b",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "'월드 오브 워크래프트: 한밤', 12.1.5 업데이트... 신규 공격대·초대형 구렁 추가",
+      "url": "https://n.news.naver.com/article/030/0003475342?type=journalists",
+      "published_at": "2026-10-15T10:43:18+09:00",
+      "sent_at": "2026-10-15T10:57:14.155521+09:00"
+    },
+    {
+      "id": "99610cdb814aabab4cbf20807d22a8fa7648d502b8bee85896178043a6fb116b",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "2026 LoL 월드 챔피언십, 16일 개막... 플레이-인서 단 한 팀만 스위스 진출",
+      "url": "https://n.news.naver.com/article/030/0003475338?type=journalists",
+      "published_at": "2026-10-15T10:42:17+09:00",
+      "sent_at": "2026-10-15T10:57:17.018431+09:00"
+    },
+    {
+      "id": "8dea03fc98d39bbf8db8bf46cb9a0e63b5efa7a7f594d566e95a5052a01a00ae",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "컴투스 'SWC2026' 아시아퍼시픽 컵, 17일 방콕서 개최",
+      "url": "https://n.news.naver.com/article/030/0003475335?type=journalists",
+      "published_at": "2026-10-15T23:59:59+09:00",
+      "sent_at": "2026-10-15T10:57:29.524416+09:00"
+    },
+    {
+      "id": "e0d5722d3c08479b75d4058e0b4fb7dd19c01dd9b766387275522b4661f683d6",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "크래프톤 '배틀그라운드', 벤틀리와 컬래버... 스페셜 차량 스킨 3종 선봬",
+      "url": "https://n.news.naver.com/article/030/0003475329?type=journalists",
+      "published_at": "2026-10-15T23:59:59+09:00",
+      "sent_at": "2026-10-15T10:57:42.187695+09:00"
     }
   ],
-  "last_run_at": "2026-10-15T01:51:52.478536+00:00"
+  "last_run_at": "2026-10-15T01:57:09.813521+00:00"
 }
