@@ -319,7 +319,17 @@
       "url": "https://n.news.naver.com/article/001/0016378093?type=journalists",
       "published_at": "2026-10-15T23:59:59+09:00",
       "sent_at": "2026-10-15T09:46:00.201077+09:00"
+    },
+    {
+      "id": "d8fa254d0f07702aaf970578f8431a8034fd42e2c00cf2f69e104b0e4854ffc2",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "주머니에 쏙 들어간다…MS 엑스박스, '나노 컨트롤러' 출시",
+      "url": "https://n.news.naver.com/article/001/0016378299?type=journalists",
+      "published_at": "2026-10-15T10:23:22+09:00",
+      "sent_at": "2026-10-15T10:31:38.001010+09:00"
     }
   ],
-  "last_run_at": "2026-10-15T01:26:29.779358+00:00"
+  "last_run_at": "2026-10-15T01:31:33.431352+00:00"
 }
