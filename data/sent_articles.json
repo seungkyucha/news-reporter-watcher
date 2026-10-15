@@ -339,7 +339,17 @@
       "url": "https://n.news.naver.com/article/001/0016380076?type=journalists",
       "published_at": "2026-10-15T23:59:59+09:00",
       "sent_at": "2026-10-15T19:10:38.381802+09:00"
+    },
+    {
+      "id": "fb1150251357e1be1808ea1eaf1be2905808e067b04f9b2d1cdcba6f65f5150d",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "한국판 로블록스 나오나…스마일게이트, 게임 창작 플랫폼 개발",
+      "url": "https://n.news.naver.com/article/001/0016380374?type=journalists",
+      "published_at": "2026-10-16T07:15:01+09:00",
+      "sent_at": "2026-10-16T07:23:38.997548+09:00"
     }
   ],
-  "last_run_at": "2026-10-15T22:18:29.670575+00:00"
+  "last_run_at": "2026-10-15T22:23:33.901996+00:00"
 }
