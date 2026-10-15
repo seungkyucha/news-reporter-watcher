@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "849cf7dc393267a9aac107ead31136dcecc5dcac1835ae42df05ea666d2078cc",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "extra_channels": [],
-      "title": "크래프톤 'PUBG: 데드넷', 북미서 첫 CBT…콘솔 FPS 시장 공략",
-      "url": "https://n.news.naver.com/article/030/0003473557?type=journalists",
-      "published_at": "2026-10-08T16:10:11+09:00",
-      "sent_at": "2026-10-08T16:26:15.891158+09:00"
-    },
-    {
       "id": "c8e8d26d2c404797ff3302c67ca42b8b70cc4655e38352af9cd61f4c585669c0",
       "reporter": "박정은",
       "press": "전자신문",
@@ -331,5 +321,5 @@
       "sent_at": "2026-10-15T14:36:06.814644+09:00"
     }
   ],
-  "last_run_at": "2026-10-15T07:22:38.426106+00:00"
+  "last_run_at": "2026-10-15T07:27:43.120423+00:00"
 }
