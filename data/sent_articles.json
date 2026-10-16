@@ -449,7 +449,17 @@
       "url": "https://n.news.naver.com/article/001/0016381988?type=journalists",
       "published_at": "2026-10-16T23:59:59+09:00",
       "sent_at": "2026-10-16T17:13:42.473080+09:00"
+    },
+    {
+      "id": "7397781e8ca15ffea68a5ac91c28ab7a88e298d55f2127193a1f307a65d504f5",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "GTA6 국내 심의 통과... '청소년이용불가'로 11월 19일 출시 가능",
+      "url": "https://n.news.naver.com/article/030/0003475894?type=journalists",
+      "published_at": "2026-10-16T17:18:21+09:00",
+      "sent_at": "2026-10-16T17:28:58.531039+09:00"
     }
   ],
-  "last_run_at": "2026-10-16T08:23:49.807875+00:00"
+  "last_run_at": "2026-10-16T08:28:54.166020+00:00"
 }
