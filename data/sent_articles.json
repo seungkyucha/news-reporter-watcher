@@ -409,7 +409,37 @@
       "url": "https://n.news.naver.com/article/030/0003475784?type=journalists",
       "published_at": "2026-10-16T23:59:59+09:00",
       "sent_at": "2026-10-16T12:03:42.965800+09:00"
+    },
+    {
+      "id": "a06a5eb15a307de90de3e953927034a5804cf74db06180e77fd057b8b89519d8",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "넥슨 '메이플스토리M' 10주년 업데이트... 신규 스킬·지역 추가",
+      "url": "https://n.news.naver.com/article/030/0003475793?type=journalists",
+      "published_at": "2026-10-16T12:01:11+09:00",
+      "sent_at": "2026-10-16T12:13:54.141799+09:00"
+    },
+    {
+      "id": "65abd211efaba05d0129b982495d8cc49dccfdbfda5f8f51f0c5511c86f25ef2",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "오렌지플래닛, 하반기 스타트업 12개팀 선발... 헬스케어·피지컬 AI 포진",
+      "url": "https://n.news.naver.com/article/030/0003475791?type=journalists",
+      "published_at": "2026-10-16T23:59:59+09:00",
+      "sent_at": "2026-10-16T12:14:06.464552+09:00"
+    },
+    {
+      "id": "fa829e920d1ababe8211c6b86b9902e988130f8f2c80d132457516b1282a713a",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "라이엇 게임즈 '발로란트 챔피언스 투어' 올해 첫 마스터스, 서울서 개최",
+      "url": "https://n.news.naver.com/article/030/0003475789?type=journalists",
+      "published_at": "2026-10-16T23:59:59+09:00",
+      "sent_at": "2026-10-16T12:14:18.938748+09:00"
     }
   ],
-  "last_run_at": "2026-10-16T03:08:46.023581+00:00"
+  "last_run_at": "2026-10-16T03:13:49.787128+00:00"
 }
