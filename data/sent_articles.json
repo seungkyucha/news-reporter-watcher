@@ -459,7 +459,17 @@
       "url": "https://n.news.naver.com/article/030/0003475894?type=journalists",
       "published_at": "2026-10-16T17:18:21+09:00",
       "sent_at": "2026-10-16T17:28:58.531039+09:00"
+    },
+    {
+      "id": "28a283bc90149ed2ad710a7a7015c394a508e749249d5056037e5fdfab253248",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "[게임위드인] 혁신보단 익숙함…카카오게임즈 '도깨비의세계' 해보니",
+      "url": "https://n.news.naver.com/article/001/0016382601?type=journalists",
+      "published_at": "2026-10-17T23:59:59+09:00",
+      "sent_at": "2026-10-17T11:15:11.791787+09:00"
     }
   ],
-  "last_run_at": "2026-10-17T02:09:52.733694+00:00"
+  "last_run_at": "2026-10-17T02:14:56.752076+00:00"
 }
