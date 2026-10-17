@@ -479,7 +479,17 @@
       "url": "https://n.news.naver.com/article/001/0016382886?type=journalists",
       "published_at": "2026-10-17T15:59:43+09:00",
       "sent_at": "2026-10-17T16:14:50.446552+09:00"
+    },
+    {
+      "id": "c80eafa415ce083a53e12b155cf125c68d5804843945768bfdebe9fc5049027a",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "개막 인사하는 서수길 SOOP CVO",
+      "url": "https://n.news.naver.com/article/001/0016382899?type=journalists",
+      "published_at": "2026-10-17T16:14:55+09:00",
+      "sent_at": "2026-10-17T16:25:01.748908+09:00"
     }
   ],
-  "last_run_at": "2026-10-17T07:19:52.578359+00:00"
+  "last_run_at": "2026-10-17T07:24:56.690393+00:00"
 }
