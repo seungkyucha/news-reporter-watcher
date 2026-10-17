@@ -469,7 +469,17 @@
       "url": "https://n.news.naver.com/article/001/0016382601?type=journalists",
       "published_at": "2026-10-17T23:59:59+09:00",
       "sent_at": "2026-10-17T11:15:11.791787+09:00"
+    },
+    {
+      "id": "c8bf96dea2f6f7bfb1590b16b6296aeb691dcfffded6cd79c46f8a969eae914b",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "잠실 아이스링크 메운 스타크래프트 팬…ASL 시즌 22 개막",
+      "url": "https://n.news.naver.com/article/001/0016382886?type=journalists",
+      "published_at": "2026-10-17T15:59:43+09:00",
+      "sent_at": "2026-10-17T16:14:50.446552+09:00"
     }
   ],
-  "last_run_at": "2026-10-17T07:09:40.631651+00:00"
+  "last_run_at": "2026-10-17T07:14:44.808231+00:00"
 }
