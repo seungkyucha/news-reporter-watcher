@@ -539,7 +539,17 @@
       "url": "https://n.news.naver.com/article/001/0016383056?type=journalists",
       "published_at": "2026-10-17T18:09:38+09:00",
       "sent_at": "2026-10-17T18:27:12.592107+09:00"
+    },
+    {
+      "id": "3d73a0d93005d50b8e3e308d22a9953a82011aa42ba4a94a5f9bfe2fdc981fcc",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "김민철, ASL 22 우승…통산 5회 제패 대기록(종합)",
+      "url": "https://n.news.naver.com/article/001/0016383096?type=journalists",
+      "published_at": "2026-10-17T18:43:10+09:00",
+      "sent_at": "2026-10-17T18:52:36.623356+09:00"
     }
   ],
-  "last_run_at": "2026-10-17T09:47:27.755602+00:00"
+  "last_run_at": "2026-10-17T09:52:31.943651+00:00"
 }
