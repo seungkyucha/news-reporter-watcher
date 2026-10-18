@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "c8e8d26d2c404797ff3302c67ca42b8b70cc4655e38352af9cd61f4c585669c0",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "extra_channels": [],
-      "title": "GTA6, 국내 심의 막바지... 민간 등급분류 '현실화' 첫 잣대",
-      "url": "https://n.news.naver.com/article/030/0003473786?type=journalists",
-      "published_at": "2026-10-11T10:34:16+09:00",
-      "sent_at": "2026-10-11T10:47:01.182981+09:00"
-    },
-    {
       "id": "9c70856538cdc0a0da4e1fbc9bd752ad8ab6a55f23eff07c5bc67eea3f0b6a05",
       "reporter": "박정은",
       "press": "전자신문",
@@ -579,7 +569,17 @@
       "url": "https://n.news.naver.com/article/001/0016383109?type=journalists",
       "published_at": "2026-10-17T23:59:59+09:00",
       "sent_at": "2026-10-17T19:33:39.172703+09:00"
+    },
+    {
+      "id": "3397a3690717687ceb4d12472898d4544f2669d239337cfdad481f3ec3fb2a5a",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "비시니에프스키 주한폴란드 대사 “게임으로 韓 젊은층과 소통”... 지스타에 폴란드관 마련",
+      "url": "https://n.news.naver.com/article/030/0003476002?type=journalists",
+      "published_at": "2026-10-18T10:31:14+09:00",
+      "sent_at": "2026-10-18T10:47:21.563997+09:00"
     }
   ],
-  "last_run_at": "2026-10-18T01:42:13.323263+00:00"
+  "last_run_at": "2026-10-18T01:47:17.436883+00:00"
 }
