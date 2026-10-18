@@ -579,7 +579,17 @@
       "url": "https://n.news.naver.com/article/030/0003476002?type=journalists",
       "published_at": "2026-10-18T10:31:14+09:00",
       "sent_at": "2026-10-18T10:47:21.563997+09:00"
+    },
+    {
+      "id": "64f27ae139a7dc2833a187a47931709f577028c2890293ff527de98adb77cfed",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "LG U+, 순직 소방관 추모 러닝 행사…2천300명 모여",
+      "url": "https://n.news.naver.com/article/001/0016383522?type=journalists",
+      "published_at": "2026-10-18T11:05:24+09:00",
+      "sent_at": "2026-10-18T11:22:54.470069+09:00"
     }
   ],
-  "last_run_at": "2026-10-18T02:17:45.349012+00:00"
+  "last_run_at": "2026-10-18T02:22:49.430462+00:00"
 }
