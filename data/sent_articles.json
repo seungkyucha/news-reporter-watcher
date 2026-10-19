@@ -659,7 +659,17 @@
       "url": "https://n.news.naver.com/article/001/0016386273?type=journalists",
       "published_at": "2026-10-19T23:59:59+09:00",
       "sent_at": "2026-10-19T15:23:35.632028+09:00"
+    },
+    {
+      "id": "7a88ccafca9f3d38d35378742392964b2114c7ed143710fdf2a7b3d9b06879d0",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "네오위즈, '안녕서울: 이태원편' 스팀 넥스트 페스트 출품",
+      "url": "https://n.news.naver.com/article/001/0016387171?type=journalists",
+      "published_at": "2026-10-20T08:19:51+09:00",
+      "sent_at": "2026-10-20T08:36:04.748061+09:00"
     }
   ],
-  "last_run_at": "2026-10-19T23:30:54.705483+00:00"
+  "last_run_at": "2026-10-19T23:35:59.102651+00:00"
 }
