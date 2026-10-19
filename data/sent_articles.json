@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "70121f9b35876fd785dcf1f8908e9837ada6a44be61e57f3021f3691a4b0fe41",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "extra_channels": [],
-      "title": "AMD 경영진, 펄어비스 방문... '붉은사막' 기술 협력 확대 논의",
-      "url": "https://n.news.naver.com/article/030/0003474249?type=journalists",
-      "published_at": "2026-10-12T21:37:12+09:00",
-      "sent_at": "2026-10-12T21:54:10.735475+09:00"
-    },
-    {
       "id": "3285513b5320a1f1381d5fa28841b37600fe21bf256dc8ee2adf9fa3a3e1b90c",
       "reporter": "박정은",
       "press": "전자신문",
@@ -671,5 +661,5 @@
       "sent_at": "2026-10-19T15:23:35.632028+09:00"
     }
   ],
-  "last_run_at": "2026-10-19T12:49:10.331952+00:00"
+  "last_run_at": "2026-10-19T12:54:14.758646+00:00"
 }
