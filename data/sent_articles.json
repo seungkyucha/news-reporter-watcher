@@ -649,7 +649,17 @@
       "url": "https://n.news.naver.com/article/030/0003476359?type=journalists",
       "published_at": "2026-10-19T14:30:18+09:00",
       "sent_at": "2026-10-19T14:47:32.225715+09:00"
+    },
+    {
+      "id": "9f0ded2d639170f4e3511102dc5d2864ea7efeaa0def3d648b29fc9ada245f3e",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "한국이 전장이 된 '모던워페어4(사)'... 익숙한 골목에서 마주한 전쟁의 얼굴",
+      "url": "https://n.news.naver.com/article/030/0003476367?type=journalists",
+      "published_at": "2026-10-19T14:37:10+09:00",
+      "sent_at": "2026-10-19T14:52:39.819858+09:00"
     }
   ],
-  "last_run_at": "2026-10-19T05:47:25.249956+00:00"
+  "last_run_at": "2026-10-19T05:52:35.037187+00:00"
 }
