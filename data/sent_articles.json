@@ -659,7 +659,17 @@
       "url": "https://n.news.naver.com/article/030/0003476367?type=journalists",
       "published_at": "2026-10-19T14:37:10+09:00",
       "sent_at": "2026-10-19T14:52:39.819858+09:00"
+    },
+    {
+      "id": "41b48fb5efe5369b42d6c38c9c85c54ade69a3a63efe518231213b42b756beb0",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "엔씨, 모바일 캐주얼 퍼블리싱 신작 '행성파괴 냥냐냥' 출시",
+      "url": "https://n.news.naver.com/article/001/0016386172?type=journalists",
+      "published_at": "2026-10-19T14:47:18+09:00",
+      "sent_at": "2026-10-19T15:03:06.236570+09:00"
     }
   ],
-  "last_run_at": "2026-10-19T05:57:56.859327+00:00"
+  "last_run_at": "2026-10-19T06:03:01.321300+00:00"
 }
