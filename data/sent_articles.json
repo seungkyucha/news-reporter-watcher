@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "a15cf6f92874ce5a89ba9a9f7095646524c8bdb83ebf166a47d9de85ef97917c",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "extra_channels": [],
-      "title": "“합법 스포츠 예측게임”서 환전 영업... 정연욱 “88개 전수점검해야”",
-      "url": "https://n.news.naver.com/article/030/0003474064?type=journalists",
-      "published_at": "2026-10-12T13:10:16+09:00",
-      "sent_at": "2026-10-12T13:24:49.908694+09:00"
-    },
-    {
       "id": "acc594f2c8e78ca1003e10efa2b069c71f06e1144fcd48b2d329b8168ef99170",
       "reporter": "박정은",
       "press": "전자신문",
@@ -641,5 +631,5 @@
       "sent_at": "2026-10-19T11:24:38.348975+09:00"
     }
   ],
-  "last_run_at": "2026-10-19T04:21:12.532359+00:00"
+  "last_run_at": "2026-10-19T04:26:16.631946+00:00"
 }
