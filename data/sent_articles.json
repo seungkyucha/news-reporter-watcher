@@ -609,7 +609,17 @@
       "url": "https://n.news.naver.com/article/030/0003476065?type=journalists",
       "published_at": "2026-10-18T15:43:11+09:00",
       "sent_at": "2026-10-18T15:57:21.739558+09:00"
+    },
+    {
+      "id": "d3763d3515e6f03abd67ad79af82aa02aaee672a31415fdf500e6fb9585c833e",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "콘진원, '2026 콘솔게임 개발자 컨퍼런스' 개최... 위쳐·사이버펑크·림월드 개발진 만난다",
+      "url": "https://n.news.naver.com/article/030/0003476114?type=journalists",
+      "published_at": "2026-10-19T08:50:14+09:00",
+      "sent_at": "2026-10-19T09:07:15.327155+09:00"
     }
   ],
-  "last_run_at": "2026-10-19T00:02:05.480753+00:00"
+  "last_run_at": "2026-10-19T00:07:09.769743+00:00"
 }
