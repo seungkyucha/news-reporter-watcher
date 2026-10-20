@@ -749,7 +749,17 @@
       "url": "https://n.news.naver.com/article/030/0003476894?type=journalists",
       "published_at": "2026-10-20T16:31:13+09:00",
       "sent_at": "2026-10-20T16:44:49.079129+09:00"
+    },
+    {
+      "id": "71fb59ab305f3eb6f45599cef27954a524422d8b33f3e1da8efc81ff9733e50e",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "서브컬처 게임쇼 떠오른 AGF…엔씨·넥슨·스마일게이트 참가",
+      "url": "https://n.news.naver.com/article/001/0016389528?type=journalists",
+      "published_at": "2026-10-20T17:43:57+09:00",
+      "sent_at": "2026-10-20T17:55:53.779605+09:00"
     }
   ],
-  "last_run_at": "2026-10-20T08:50:43.683711+00:00"
+  "last_run_at": "2026-10-20T08:55:48.117049+00:00"
 }
