@@ -749,7 +749,17 @@
       "url": "https://n.news.naver.com/article/030/0003476783?type=journalists",
       "published_at": "2026-10-20T23:59:59+09:00",
       "sent_at": "2026-10-20T14:27:48.367636+09:00"
+    },
+    {
+      "id": "a7ee73ac24e23ccda39196ff2b6eaa2f3cb8230d97cea49dbd352ffdc7cf977e",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "동양풍 액션게임 '이나리', 인디크래프트 대상 수상",
+      "url": "https://n.news.naver.com/article/001/0016388794?type=journalists",
+      "published_at": "2026-10-20T14:49:45+09:00",
+      "sent_at": "2026-10-20T15:03:22.670061+09:00"
     }
   ],
-  "last_run_at": "2026-10-20T05:58:13.476952+00:00"
+  "last_run_at": "2026-10-20T06:03:17.508548+00:00"
 }
