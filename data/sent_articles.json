@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "9a96790484fb348f1ab73d91f106b0ab4cfe3bd0f6cc59407780da8ad37e2287",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "extra_channels": [],
-      "title": "위메이드, 서틱과 위믹스 3.0 보안 강화…최대 1만 달러 포상",
-      "url": "https://n.news.naver.com/article/001/0016375094?type=journalists",
-      "published_at": "2026-10-14T09:44:38+09:00",
-      "sent_at": "2026-10-14T09:53:50.281573+09:00"
-    },
-    {
       "id": "53de61a0103e447ef3357ecf61a4369b3799b4a6fdea6ef5d5440d34e08b8e12",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -771,5 +761,5 @@
       "sent_at": "2026-10-21T09:05:14.174657+09:00"
     }
   ],
-  "last_run_at": "2026-10-21T00:50:51.498572+00:00"
+  "last_run_at": "2026-10-21T00:55:55.869918+00:00"
 }
