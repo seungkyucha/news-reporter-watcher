@@ -1,26 +1,6 @@
 {
   "sent": [
     {
-      "id": "53dc5e833c8b8abf2fad2bff389106d00259a145c105b6865bc563d8b0e53792",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "extra_channels": [],
-      "title": "[AI픽] 크래프톤, 역대 최대 공채…\"AI 인재 100명 이상 선발\"",
-      "url": "https://n.news.naver.com/article/001/0016376005?type=journalists",
-      "published_at": "2026-10-14T13:30:42+09:00",
-      "sent_at": "2026-10-14T13:43:06.061576+09:00"
-    },
-    {
-      "id": "cae96d37fd7bcaea9fff1d4113edb341e082bd1377ee5173fef3e67ef270d6b5",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "extra_channels": [],
-      "title": "세가, '풋볼 매니저 27' 11월 출시…예약 판매 시작",
-      "url": "https://n.news.naver.com/article/001/0016375998?type=journalists",
-      "published_at": "2026-10-14T13:28:31+09:00",
-      "sent_at": "2026-10-14T13:43:08.498952+09:00"
-    },
-    {
       "id": "cb0f4e5ddc5a12d31241e76dfc3313ee5e1e88e59f7f4a00660476f5da967f3f",
       "reporter": "박정은",
       "press": "전자신문",
@@ -733,5 +713,5 @@
       "sent_at": "2026-10-21T11:27:35.017367+09:00"
     }
   ],
-  "last_run_at": "2026-10-21T04:39:24.833582+00:00"
+  "last_run_at": "2026-10-21T04:44:28.978352+00:00"
 }
