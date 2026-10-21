@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "a36cc7186b49300c861d75d634f05fb0a6feda886d56556965d1fe481b0f1691",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "extra_channels": [],
-      "title": "9천200억 위메이드 매각, 중국계 인수 12월로 연기",
-      "url": "https://n.news.naver.com/article/001/0016377182?type=journalists",
-      "published_at": "2026-10-14T17:42:41+09:00",
-      "sent_at": "2026-10-14T17:55:31.647201+09:00"
-    },
-    {
       "id": "a6bcbf0c2c41c6c95f0f88cbf7f2f1dccd16cc988c578aadbfe6ceb05835cad1",
       "reporter": "박정은",
       "press": "전자신문",
@@ -723,5 +713,5 @@
       "sent_at": "2026-10-21T15:36:30.929050+09:00"
     }
   ],
-  "last_run_at": "2026-10-21T08:53:27.354614+00:00"
+  "last_run_at": "2026-10-21T08:58:31.521152+00:00"
 }
