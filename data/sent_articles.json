@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "a6bcbf0c2c41c6c95f0f88cbf7f2f1dccd16cc988c578aadbfe6ceb05835cad1",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "extra_channels": [],
-      "title": "위메이드 9200억원 매각 '연말로'... 네오펄스 잔금 8280억원 지급 두 달 연기",
-      "url": "https://n.news.naver.com/article/030/0003475142?type=journalists",
-      "published_at": "2026-10-14T23:59:59+09:00",
-      "sent_at": "2026-10-14T18:16:00.940570+09:00"
-    },
-    {
       "id": "aa22c52d60557b468adf3fb5a7298834f3288b6bc8729e20341ec9de6786b179",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -713,5 +703,5 @@
       "sent_at": "2026-10-21T15:36:30.929050+09:00"
     }
   ],
-  "last_run_at": "2026-10-21T09:13:44.383108+00:00"
+  "last_run_at": "2026-10-21T09:18:48.684768+00:00"
 }
