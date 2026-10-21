@@ -1,26 +1,6 @@
 {
   "sent": [
     {
-      "id": "f3b86c1e682290fe50c1f77067bbbcf10b8714ad406c17b42fd3e355fca87f06",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "extra_channels": [],
-      "title": "원스토어, 리워드 '원다이아' 도입... 앱·게임 할인 혜택 확대",
-      "url": "https://n.news.naver.com/article/030/0003474842?type=journalists",
-      "published_at": "2026-10-14T23:59:59+09:00",
-      "sent_at": "2026-10-14T11:15:22.049855+09:00"
-    },
-    {
-      "id": "8da3a8bef7a535967a8d1b806a9269ccd9c16821f451ac016805bc29f36ce012",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "extra_channels": [],
-      "title": "카카오게임즈 '패스 오브 엑자일 2', 12월 12일 정식 출시... 2년 얼리 액세스 마무리",
-      "url": "https://n.news.naver.com/article/030/0003474832?type=journalists",
-      "published_at": "2026-10-14T23:59:59+09:00",
-      "sent_at": "2026-10-14T11:15:34.344547+09:00"
-    },
-    {
       "id": "646f4b389c046535db41935a31e28b9cf1da11e5c078a977cd09d6d7955da02d",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -751,5 +731,5 @@
       "sent_at": "2026-10-21T10:57:06.796820+09:00"
     }
   ],
-  "last_run_at": "2026-10-21T02:12:17.358682+00:00"
+  "last_run_at": "2026-10-21T02:17:21.534079+00:00"
 }
