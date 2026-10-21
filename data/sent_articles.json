@@ -729,7 +729,19 @@
       "url": "https://n.news.naver.com/article/001/0016390728?type=journalists",
       "published_at": "2026-10-21T10:42:03+09:00",
       "sent_at": "2026-10-21T10:57:06.796820+09:00"
+    },
+    {
+      "id": "1ac4c816f4784c255556c621269980ae0e97beb57694ab89b44c5c6e0b116dbd",
+      "reporter": "서정근",
+      "press": "MTN",
+      "extra_channels": [
+        "seo"
+      ],
+      "title": "[단독]넥슨 '프라시아 전기' 'EL' 개발총괄역 스마일게이트 합류",
+      "url": "https://news.mtn.co.kr/news-detail/2026102109433075124",
+      "published_at": "Wed, 21 Oct 2026 11:14:00 +0900",
+      "sent_at": "2026-10-21T11:27:35.017367+09:00"
     }
   ],
-  "last_run_at": "2026-10-21T02:22:26.839868+00:00"
+  "last_run_at": "2026-10-21T02:27:30.895177+00:00"
 }
