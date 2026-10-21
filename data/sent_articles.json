@@ -721,7 +721,17 @@
       "url": "https://n.news.naver.com/article/001/0016391626?type=journalists",
       "published_at": "2026-10-21T23:59:59+09:00",
       "sent_at": "2026-10-21T14:45:33.945270+09:00"
+    },
+    {
+      "id": "0453288f0490326f012186d0db4f2785bfd5843b3ed7439b7f4a210121e9fd26",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "경실련 \"구글·국내 게임사 5곳 회계부정 의혹\"…업계 반박",
+      "url": "https://n.news.naver.com/article/001/0016391918?type=journalists",
+      "published_at": "2026-10-21T15:22:45+09:00",
+      "sent_at": "2026-10-21T15:36:30.929050+09:00"
     }
   ],
-  "last_run_at": "2026-10-21T06:31:08.976414+00:00"
+  "last_run_at": "2026-10-21T06:36:25.242571+00:00"
 }
