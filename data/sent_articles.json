@@ -641,7 +641,17 @@
       "url": "https://n.news.naver.com/article/030/0003477667?type=journalists",
       "published_at": "2026-10-22T13:24:17+09:00",
       "sent_at": "2026-10-22T13:36:27.897526+09:00"
+    },
+    {
+      "id": "49f420e7ac47fc89598ce11346cb152443df449c90f87728bbbbfb0c4a3a47d2",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "엔씨-인터넷기업협회, 게임 스타트업 지스타 진출 지원 10년... 43개사와 상생 동행",
+      "url": "https://n.news.naver.com/article/030/0003477745?type=journalists",
+      "published_at": "2026-10-22T14:49:10+09:00",
+      "sent_at": "2026-10-22T15:02:35.942225+09:00"
     }
   ],
-  "last_run_at": "2026-10-22T05:57:27.821041+00:00"
+  "last_run_at": "2026-10-22T06:02:31.381109+00:00"
 }
