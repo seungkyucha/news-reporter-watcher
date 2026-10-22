@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "62e4e8da111f7913e9935b1e6db9d750ce7a77928b2d4446d48dca5fc48fce0f",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "extra_channels": [],
-      "title": "폴란드 대사 \"한국 게임시장 중요…지스타서 협력 확대 기대\"",
-      "url": "https://n.news.naver.com/article/001/0016379798?type=journalists",
-      "published_at": "2026-10-15T16:25:02+09:00",
-      "sent_at": "2026-10-15T16:32:52.716427+09:00"
-    },
-    {
       "id": "f2fa13378fe499b5df1d534f2ff4a34d010a7e63bb70e43d36441117a53bc82b",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -653,5 +643,5 @@
       "sent_at": "2026-10-22T15:02:35.942225+09:00"
     }
   ],
-  "last_run_at": "2026-10-22T07:28:43.615626+00:00"
+  "last_run_at": "2026-10-22T07:33:47.502617+00:00"
 }
