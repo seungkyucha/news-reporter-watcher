@@ -661,7 +661,17 @@
       "url": "https://n.news.naver.com/article/001/0016393386?type=journalists",
       "published_at": "2026-10-22T23:59:59+09:00",
       "sent_at": "2026-10-22T10:33:47.285904+09:00"
+    },
+    {
+      "id": "e1703e9ba9a067b389a019ec8f3b22a3f0cdd6640f039a08d66ba92dfec7bead",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "콘진원, 스웨덴 게임 컨퍼런스서 K인디 북유럽 진출 지원.. 107억원 수출 상담",
+      "url": "https://n.news.naver.com/article/030/0003477667?type=journalists",
+      "published_at": "2026-10-22T13:24:17+09:00",
+      "sent_at": "2026-10-22T13:36:27.897526+09:00"
     }
   ],
-  "last_run_at": "2026-10-22T04:31:19.762935+00:00"
+  "last_run_at": "2026-10-22T04:36:23.718139+00:00"
 }
