@@ -701,7 +701,17 @@
       "url": "https://n.news.naver.com/article/001/0016392953?type=journalists",
       "published_at": "2026-10-22T08:57:19+09:00",
       "sent_at": "2026-10-22T09:12:30.712768+09:00"
+    },
+    {
+      "id": "fa37363fab16fe8a74cddfc57263f8baf1845b69a3f7d57e549dd04ab50c2f4b",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "전국 바둑 고수 모여라…NHN, '한게임 바둑 페스티벌' 개최",
+      "url": "https://n.news.naver.com/article/001/0016393222?type=journalists",
+      "published_at": "2026-10-22T09:54:12+09:00",
+      "sent_at": "2026-10-22T10:03:11.580784+09:00"
     }
   ],
-  "last_run_at": "2026-10-22T00:58:03.573986+00:00"
+  "last_run_at": "2026-10-22T01:03:07.019658+00:00"
 }
