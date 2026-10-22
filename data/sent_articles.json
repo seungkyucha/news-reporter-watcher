@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "d8fa254d0f07702aaf970578f8431a8034fd42e2c00cf2f69e104b0e4854ffc2",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "extra_channels": [],
-      "title": "주머니에 쏙 들어간다…MS 엑스박스, '나노 컨트롤러' 출시",
-      "url": "https://n.news.naver.com/article/001/0016378299?type=journalists",
-      "published_at": "2026-10-15T10:23:22+09:00",
-      "sent_at": "2026-10-15T10:31:38.001010+09:00"
-    },
-    {
       "id": "11e2135f97f9b7ca1f86cb239dfb323b48c5a189234505f0c9362f0305b5bb51",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -711,7 +701,17 @@
       "url": "https://n.news.naver.com/article/001/0016393222?type=journalists",
       "published_at": "2026-10-22T09:54:12+09:00",
       "sent_at": "2026-10-22T10:03:11.580784+09:00"
+    },
+    {
+      "id": "24088badb68d9ca468362d8ddaf27fff290ac5fe3b2c8d77048d37905d261922",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "K/DA가 편의점·백화점에 뜬다…라이엇게임즈 협업 행사",
+      "url": "https://n.news.naver.com/article/001/0016393386?type=journalists",
+      "published_at": "2026-10-22T23:59:59+09:00",
+      "sent_at": "2026-10-22T10:33:47.285904+09:00"
     }
   ],
-  "last_run_at": "2026-10-22T01:28:28.816653+00:00"
+  "last_run_at": "2026-10-22T01:33:32.912517+00:00"
 }
