@@ -1,36 +1,6 @@
 {
   "sent": [
     {
-      "id": "8ac2068a93ac936c16892fcddc3dd8f1c212d25b65ddebcbc7cb3084acc8a32f",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "extra_channels": [],
-      "title": "넥슨 'N커넥트' 시즌1 시작... 치지직·SOOP 통합 운영",
-      "url": "https://n.news.naver.com/article/030/0003475787?type=journalists",
-      "published_at": "2026-10-16T23:59:59+09:00",
-      "sent_at": "2026-10-16T12:03:18.222782+09:00"
-    },
-    {
-      "id": "bd3ec25f7412ce0a6bfd91f55578d9250bf87212d97388974ee2c09abdd2ae0d",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "extra_channels": [],
-      "title": "메이저나인 '아우터플레인', 일본 구글 플레이 인기 1위... 사전예약 20만명 돌파",
-      "url": "https://n.news.naver.com/article/030/0003475786?type=journalists",
-      "published_at": "2026-10-16T23:59:59+09:00",
-      "sent_at": "2026-10-16T12:03:30.454955+09:00"
-    },
-    {
-      "id": "860d36e353273976d65a1ebe65c0c91a30cead02302ad3cd84e634903ce121f5",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "extra_channels": [],
-      "title": "배틀그라운드 모바일 'PMPS 2026 시즌2' 결승, 17~18일 대전서 개최",
-      "url": "https://n.news.naver.com/article/030/0003475784?type=journalists",
-      "published_at": "2026-10-16T23:59:59+09:00",
-      "sent_at": "2026-10-16T12:03:42.965800+09:00"
-    },
-    {
       "id": "a06a5eb15a307de90de3e953927034a5804cf74db06180e77fd057b8b89519d8",
       "reporter": "박정은",
       "press": "전자신문",
@@ -613,5 +583,5 @@
       "sent_at": "2026-10-23T09:45:41.258558+09:00"
     }
   ],
-  "last_run_at": "2026-10-23T03:02:25.998240+00:00"
+  "last_run_at": "2026-10-23T03:07:29.672811+00:00"
 }
