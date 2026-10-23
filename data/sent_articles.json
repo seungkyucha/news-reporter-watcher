@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "6622ccb4a347884de5e3860b8139157afe10def8b08b03a747a55ac0c594dbcc",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "extra_channels": [],
-      "title": "GTA 6, 청소년이용불가로 등급분류 통과…11월 출시 '파란불'",
-      "url": "https://n.news.naver.com/article/001/0016381988?type=journalists",
-      "published_at": "2026-10-16T23:59:59+09:00",
-      "sent_at": "2026-10-16T17:13:42.473080+09:00"
-    },
-    {
       "id": "7397781e8ca15ffea68a5ac91c28ab7a88e298d55f2127193a1f307a65d504f5",
       "reporter": "박정은",
       "press": "전자신문",
@@ -603,5 +593,5 @@
       "sent_at": "2026-10-23T16:47:06.219925+09:00"
     }
   ],
-  "last_run_at": "2026-10-23T08:12:27.168463+00:00"
+  "last_run_at": "2026-10-23T08:17:31.659291+00:00"
 }
