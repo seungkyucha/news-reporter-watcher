@@ -1,26 +1,6 @@
 {
   "sent": [
     {
-      "id": "d2145287f1fdb4f5f81d667631cd6a6cf80c1da70bf1bafc5ce1c8d205b9574b",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "extra_channels": [],
-      "title": "치지직·SOOP 아우른다…넥슨, 'N커넥트' 통합 페이지 오픈",
-      "url": "https://n.news.naver.com/article/001/0016380865?type=journalists",
-      "published_at": "2026-10-16T10:50:27+09:00",
-      "sent_at": "2026-10-16T11:02:04.081355+09:00"
-    },
-    {
-      "id": "81b618375b995da12ec70f04dba4eccbca6642a2f939247f31bb7f250a2ba556",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "extra_channels": [],
-      "title": "라이엇게임즈, 내년 '발로란트' 국제대회 서울서 개최",
-      "url": "https://n.news.naver.com/article/001/0016380847?type=journalists",
-      "published_at": "2026-10-16T10:47:16+09:00",
-      "sent_at": "2026-10-16T11:02:06.591957+09:00"
-    },
-    {
       "id": "958d63f4262b262a34214e523c0fd259f605f27e2e1282546066a460c7faba3b",
       "reporter": "박정은",
       "press": "전자신문",
@@ -643,5 +623,5 @@
       "sent_at": "2026-10-23T09:45:41.258558+09:00"
     }
   ],
-  "last_run_at": "2026-10-23T02:01:39.585443+00:00"
+  "last_run_at": "2026-10-23T02:06:43.995086+00:00"
 }
