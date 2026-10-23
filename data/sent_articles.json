@@ -631,7 +631,17 @@
       "url": "https://n.news.naver.com/article/001/0016395252?type=journalists",
       "published_at": "2026-10-22T17:19:34+09:00",
       "sent_at": "2026-10-22T17:34:56.592946+09:00"
+    },
+    {
+      "id": "a06b4309a279512864ce6a054759f6bec2764c78c5f52eac245cd7fbd1db9da9",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "SOOP, 국내 최대 서브컬처 행사 AGF 첫 참가",
+      "url": "https://n.news.naver.com/article/001/0016395966?type=journalists",
+      "published_at": "2026-10-23T23:59:59+09:00",
+      "sent_at": "2026-10-23T09:45:41.258558+09:00"
     }
   ],
-  "last_run_at": "2026-10-23T00:40:22.905233+00:00"
+  "last_run_at": "2026-10-23T00:45:26.645784+00:00"
 }
