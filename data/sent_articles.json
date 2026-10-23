@@ -561,7 +561,17 @@
       "url": "https://n.news.naver.com/article/001/0016396613?type=journalists",
       "published_at": "2026-10-23T13:26:08+09:00",
       "sent_at": "2026-10-23T13:44:10.940595+09:00"
+    },
+    {
+      "id": "08e72ba937cc86a05d481e745c41af948a5f09e8277e4535887165f9326d2e90",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "넥슨, '블루 아카이브' 글로벌 5주년 페스티벌 개최... 킨텍스에 1만2000명 초청",
+      "url": "https://n.news.naver.com/article/030/0003478148?type=journalists",
+      "published_at": "2026-10-23T15:45:14+09:00",
+      "sent_at": "2026-10-23T15:56:11.048821+09:00"
     }
   ],
-  "last_run_at": "2026-10-23T06:51:01.763344+00:00"
+  "last_run_at": "2026-10-23T06:56:06.799778+00:00"
 }
