@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "958d63f4262b262a34214e523c0fd259f605f27e2e1282546066a460c7faba3b",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "extra_channels": [],
-      "title": "라인게임즈 '엠버 앤 블레이드', 내년 1월 8일 얼리 액세스",
-      "url": "https://n.news.naver.com/article/030/0003475781?type=journalists",
-      "published_at": "2026-10-16T23:59:59+09:00",
-      "sent_at": "2026-10-16T11:52:57.774226+09:00"
-    },
-    {
       "id": "8ac2068a93ac936c16892fcddc3dd8f1c212d25b65ddebcbc7cb3084acc8a32f",
       "reporter": "박정은",
       "press": "전자신문",
@@ -623,5 +613,5 @@
       "sent_at": "2026-10-23T09:45:41.258558+09:00"
     }
   ],
-  "last_run_at": "2026-10-23T02:52:17.672616+00:00"
+  "last_run_at": "2026-10-23T02:57:21.725080+00:00"
 }
