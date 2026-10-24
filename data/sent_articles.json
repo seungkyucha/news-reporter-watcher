@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "44023f5435f56f49b3d6a07df38140f02e2c92efe0bbdcae39a31d02648f7151",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "extra_channels": [],
-      "title": "SOOP \"지속 가능한 스타크래프트 e스포츠 생태계 만들 것\"",
-      "url": "https://n.news.naver.com/article/001/0016383003?type=journalists",
-      "published_at": "2026-10-17T17:19:26+09:00",
-      "sent_at": "2026-10-17T17:36:27.453396+09:00"
-    },
-    {
       "id": "60a5875a4defcb80278a63ea6d02937371b79fde1eef4427ca55553da0342d4f",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -533,5 +523,5 @@
       "sent_at": "2026-10-24T11:13:48.921254+09:00"
     }
   ],
-  "last_run_at": "2026-10-24T08:34:03.219189+00:00"
+  "last_run_at": "2026-10-24T08:39:06.766983+00:00"
 }
