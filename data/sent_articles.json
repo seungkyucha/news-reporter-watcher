@@ -1,36 +1,6 @@
 {
   "sent": [
     {
-      "id": "edcb7146235711f9361d2c564628b3e072b5a91405cb96772a0d968dd4f55f80",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "extra_channels": [],
-      "title": "스타크래프트 대회 보러 온 이세돌",
-      "url": "https://n.news.naver.com/article/001/0016382918?type=journalists",
-      "published_at": "2026-10-17T16:26:26+09:00",
-      "sent_at": "2026-10-17T16:45:22.105239+09:00"
-    },
-    {
-      "id": "ea4b31bda0be43e0dd6f8c5f46e85da27cfade45daf524a6e3401dc3eef78222",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "extra_channels": [],
-      "title": "결승전 각오 밝히는 'Rush' 유영진",
-      "url": "https://n.news.naver.com/article/001/0016382917?type=journalists",
-      "published_at": "2026-10-17T16:26:10+09:00",
-      "sent_at": "2026-10-17T16:45:24.458935+09:00"
-    },
-    {
-      "id": "1eef113cdf0757f2f320b4305d5b9d6f7d64675157d1736c07d42150b443edf0",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "extra_channels": [],
-      "title": "결승전 각오 밝히는 'Soulkey' 김민철",
-      "url": "https://n.news.naver.com/article/001/0016382916?type=journalists",
-      "published_at": "2026-10-17T16:26:06+09:00",
-      "sent_at": "2026-10-17T16:45:27.271992+09:00"
-    },
-    {
       "id": "44023f5435f56f49b3d6a07df38140f02e2c92efe0bbdcae39a31d02648f7151",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -563,5 +533,5 @@
       "sent_at": "2026-10-24T11:13:48.921254+09:00"
     }
   ],
-  "last_run_at": "2026-10-24T07:43:25.462838+00:00"
+  "last_run_at": "2026-10-24T07:48:29.163843+00:00"
 }
