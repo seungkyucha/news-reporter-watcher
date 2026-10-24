@@ -581,7 +581,17 @@
       "url": "https://n.news.naver.com/article/030/0003478181?type=journalists",
       "published_at": "2026-10-23T16:26:19+09:00",
       "sent_at": "2026-10-23T16:47:06.219925+09:00"
+    },
+    {
+      "id": "156573c40217259aaad4ebb02a9acdf9d4849843b321a0134ca1dce5e14e028f",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "[게임위드인] 게임은 빌려도 포켓몬 카드는 내 것…TCG의 역습",
+      "url": "https://n.news.naver.com/article/001/0016397887?type=journalists",
+      "published_at": "2026-10-24T11:00:01+09:00",
+      "sent_at": "2026-10-24T11:13:48.921254+09:00"
     }
   ],
-  "last_run_at": "2026-10-24T02:08:32.602520+00:00"
+  "last_run_at": "2026-10-24T02:13:36.653571+00:00"
 }
