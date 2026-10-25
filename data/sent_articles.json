@@ -441,7 +441,17 @@
       "url": "https://n.news.naver.com/article/001/0016383624?type=journalists",
       "published_at": "2026-10-25T23:59:59+09:00",
       "sent_at": "2026-10-25T12:41:03.553870+09:00"
+    },
+    {
+      "id": "18547255b0f0bacee7a28a07775f2958f82061b382cd961437eda19f79e26c63",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "[부음]구도형(넷마블에프앤씨 대표)씨 부친상",
+      "url": "https://n.news.naver.com/article/030/0003476065?type=journalists",
+      "published_at": "2026-10-25T23:59:59+09:00",
+      "sent_at": "2026-10-25T16:04:28.356052+09:00"
     }
   ],
-  "last_run_at": "2026-10-25T06:59:09.828973+00:00"
+  "last_run_at": "2026-10-25T07:04:14.038386+00:00"
 }
