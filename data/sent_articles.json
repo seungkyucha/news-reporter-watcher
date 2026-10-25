@@ -441,7 +441,17 @@
       "url": "https://n.news.naver.com/article/001/0016397887?type=journalists",
       "published_at": "2026-10-24T11:00:01+09:00",
       "sent_at": "2026-10-24T11:13:48.921254+09:00"
+    },
+    {
+      "id": "6c78660c40f1ced9c4402873c458bf657563503a912dd7c9f492ed0892585ede",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "[부고] 조준희(한국인공지능·소프트웨어산업협회 회장)씨 모친상",
+      "url": "https://n.news.naver.com/article/001/0016383624?type=journalists",
+      "published_at": "2026-10-25T23:59:59+09:00",
+      "sent_at": "2026-10-25T12:41:03.553870+09:00"
     }
   ],
-  "last_run_at": "2026-10-25T03:35:43.398390+00:00"
+  "last_run_at": "2026-10-25T03:40:48.675656+00:00"
 }
