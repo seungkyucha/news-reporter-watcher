@@ -461,7 +461,17 @@
       "url": "https://n.news.naver.com/article/030/0003478423?type=journalists",
       "published_at": "2026-10-25T20:01:12+09:00",
       "sent_at": "2026-10-25T20:12:59.169852+09:00"
+    },
+    {
+      "id": "24421d56b640ec96d2fb8342291d07223c8581e943f5eb45def5b6f1139f71ae",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "대한민국 게임대상 후보작 공개…아이온2·붉은사막 등",
+      "url": "https://n.news.naver.com/article/001/0016399578?type=journalists",
+      "published_at": "2026-10-26T23:59:59+09:00",
+      "sent_at": "2026-10-26T08:54:46.209651+09:00"
     }
   ],
-  "last_run_at": "2026-10-25T23:49:26.315564+00:00"
+  "last_run_at": "2026-10-25T23:54:30.961459+00:00"
 }
