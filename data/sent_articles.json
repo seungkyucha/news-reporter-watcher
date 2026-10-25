@@ -451,7 +451,17 @@
       "url": "https://n.news.naver.com/article/030/0003476065?type=journalists",
       "published_at": "2026-10-25T23:59:59+09:00",
       "sent_at": "2026-10-25T16:04:28.356052+09:00"
+    },
+    {
+      "id": "53da6b82171e61ed7f024a218be4604bd91d2174acd98dfec53f41a1de304bce",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "대한민국 게임대상 본상 후보 12종 공개... 26일부터 대국민 투표",
+      "url": "https://n.news.naver.com/article/030/0003478423?type=journalists",
+      "published_at": "2026-10-25T20:01:12+09:00",
+      "sent_at": "2026-10-25T20:12:59.169852+09:00"
     }
   ],
-  "last_run_at": "2026-10-25T11:07:50.295193+00:00"
+  "last_run_at": "2026-10-25T11:12:54.401269+00:00"
 }
