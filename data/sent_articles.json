@@ -451,7 +451,57 @@
       "url": "https://n.news.naver.com/article/001/0016400221?type=journalists",
       "published_at": "2026-10-26T11:25:06+09:00",
       "sent_at": "2026-10-26T11:42:20.548612+09:00"
+    },
+    {
+      "id": "5679e3389f142d9c8d02c37eab2b83ca690fe5c48c83ca848261a500ac730a63",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "넥슨 '파레이돌리아', AGF 2026 참가... 한국어 시연 버전 첫 공개",
+      "url": "https://n.news.naver.com/article/030/0003478620?type=journalists",
+      "published_at": "2026-10-26T12:35:07+09:00",
+      "sent_at": "2026-10-26T12:43:33.870651+09:00"
+    },
+    {
+      "id": "c91683b9ccbfa6c0a3517025b369578a379190e95314aaeb0098138faced6f5d",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "위메이드커넥트, 서브컬처 RPG '오즈' 퍼블리싱... 내년 글로벌 출시",
+      "url": "https://n.news.naver.com/article/030/0003478618?type=journalists",
+      "published_at": "2026-10-26T12:33:11+09:00",
+      "sent_at": "2026-10-26T12:43:36.948610+09:00"
+    },
+    {
+      "id": "c98a2e40ed8cca38726c0a2cff1461fb418ab59b0dad96995a00f8a8020f838a",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "조이시티 '프리스타일 풋볼 2', 글로벌 위시리스트 10만 돌파",
+      "url": "https://n.news.naver.com/article/030/0003478617?type=journalists",
+      "published_at": "2026-10-26T12:31:11+09:00",
+      "sent_at": "2026-10-26T12:43:39.885748+09:00"
+    },
+    {
+      "id": "70dbc978871bc60729df4d04f3e79149b13ff1d8d93f9a639b11469da73e4223",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "데브시스터즈, '쿠키런 그랜드 페스티벌' 성료... 오븐브레이크 10주년 기념",
+      "url": "https://n.news.naver.com/article/030/0003478616?type=journalists",
+      "published_at": "2026-10-26T12:30:15+09:00",
+      "sent_at": "2026-10-26T12:43:42.452784+09:00"
+    },
+    {
+      "id": "45c66d41f870cce011fd03c823392adc7143f9c165cefd08c064c8dafaef181d",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "NHN '한게임 섯다&맞고', 스토리형 퀘스트 '타짜의 길' 업데이트",
+      "url": "https://n.news.naver.com/article/030/0003478615?type=journalists",
+      "published_at": "2026-10-26T23:59:59+09:00",
+      "sent_at": "2026-10-26T12:43:55.031968+09:00"
     }
   ],
-  "last_run_at": "2026-10-26T03:38:24.416711+00:00"
+  "last_run_at": "2026-10-26T03:43:28.975084+00:00"
 }
