@@ -441,7 +441,17 @@
       "url": "https://n.news.naver.com/article/001/0016399578?type=journalists",
       "published_at": "2026-10-26T23:59:59+09:00",
       "sent_at": "2026-10-26T08:54:46.209651+09:00"
+    },
+    {
+      "id": "6479dd64037a410a642fe6bd3806585afbab076e5e80bc4817ca6856240b1cfd",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "위메이드커넥트, 서브컬처 RPG '오즈' 글로벌 퍼블리싱",
+      "url": "https://n.news.naver.com/article/001/0016399953?type=journalists",
+      "published_at": "2026-10-26T10:22:11+09:00",
+      "sent_at": "2026-10-26T10:31:13.443331+09:00"
     }
   ],
-  "last_run_at": "2026-10-26T01:26:04.124850+00:00"
+  "last_run_at": "2026-10-26T01:31:08.378460+00:00"
 }
