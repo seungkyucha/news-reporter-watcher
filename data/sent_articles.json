@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "ddb0d2d418b86fe3f1efb45e312ce8eed3b1f96ec993674ad941d398450eed7f",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "extra_channels": [],
-      "title": "게임문화축제, 올해는 지스타서 열린다…K-게임 세계관 체험",
-      "url": "https://n.news.naver.com/article/001/0016386273?type=journalists",
-      "published_at": "2026-10-19T23:59:59+09:00",
-      "sent_at": "2026-10-19T15:23:35.632028+09:00"
-    },
-    {
       "id": "7a88ccafca9f3d38d35378742392964b2114c7ed143710fdf2a7b3d9b06879d0",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -473,5 +463,5 @@
       "sent_at": "2026-10-26T12:54:07.660716+09:00"
     }
   ],
-  "last_run_at": "2026-10-26T06:21:12.135412+00:00"
+  "last_run_at": "2026-10-26T06:26:16.298744+00:00"
 }
