@@ -461,7 +461,17 @@
       "url": "https://n.news.naver.com/article/030/0003478621?type=journalists",
       "published_at": "2026-10-26T12:36:16+09:00",
       "sent_at": "2026-10-26T12:54:07.660716+09:00"
+    },
+    {
+      "id": "20ae7ba34b692cc7440e2b9a32bdb18ec3e9615e3941102c945cc445ac543df1",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "게임업계 3분기 실적 희비…크래프톤 매출 1조·엔씨 흑자 전망",
+      "url": "https://n.news.naver.com/article/001/0016401814?type=journalists",
+      "published_at": "2026-10-27T06:33:01+09:00",
+      "sent_at": "2026-10-27T06:45:52.428201+09:00"
     }
   ],
-  "last_run_at": "2026-10-26T21:40:43.707834+00:00"
+  "last_run_at": "2026-10-26T21:45:47.737160+00:00"
 }
