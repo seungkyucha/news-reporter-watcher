@@ -501,7 +501,17 @@
       "url": "https://n.news.naver.com/article/030/0003478615?type=journalists",
       "published_at": "2026-10-26T23:59:59+09:00",
       "sent_at": "2026-10-26T12:43:55.031968+09:00"
+    },
+    {
+      "id": "e792ad5d45272086441827176c71bd126903f21084de3153157d9694d2cc6922",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "엔씨 '아이온2', 글로벌 누적 캐릭터 630만개... 플레이 1억820만시간",
+      "url": "https://n.news.naver.com/article/030/0003478621?type=journalists",
+      "published_at": "2026-10-26T12:36:16+09:00",
+      "sent_at": "2026-10-26T12:54:07.660716+09:00"
     }
   ],
-  "last_run_at": "2026-10-26T03:48:58.309921+00:00"
+  "last_run_at": "2026-10-26T03:54:02.551154+00:00"
 }
