@@ -1,26 +1,6 @@
 {
   "sent": [
     {
-      "id": "a59f6c2035e868b6405cce49d808084c309a76a846315cf8d4be51d3cc16d9f3",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "extra_channels": [],
-      "title": "[게임스냅] 스마일게이트 희망스튜디오, 연세의료원과 베트남 의료봉사",
-      "url": "https://n.news.naver.com/article/001/0016385083?type=journalists",
-      "published_at": "2026-10-19T11:14:44+09:00",
-      "sent_at": "2026-10-19T11:24:35.490092+09:00"
-    },
-    {
-      "id": "f39ec5cb5f476d5cb9b4207fbc2f06fe3a6178e5a7217a81c7c3cb18fba269e5",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "extra_channels": [],
-      "title": "[해보니] 한국 배경으로 돌아온 '콜 오브 듀티: 모던 워페어 4'",
-      "url": "https://n.news.naver.com/article/001/0016385054?type=journalists",
-      "published_at": "2026-10-19T11:08:45+09:00",
-      "sent_at": "2026-10-19T11:24:38.348975+09:00"
-    },
-    {
       "id": "01630ba02d567c4a92eabae392a3b95ed109360942bf901b93ffd7a869414aee",
       "reporter": "박정은",
       "press": "전자신문",
@@ -463,5 +443,5 @@
       "sent_at": "2026-10-26T10:56:38.305675+09:00"
     }
   ],
-  "last_run_at": "2026-10-26T02:21:58.219298+00:00"
+  "last_run_at": "2026-10-26T02:27:02.206543+00:00"
 }
