@@ -1,26 +1,6 @@
 {
   "sent": [
     {
-      "id": "01630ba02d567c4a92eabae392a3b95ed109360942bf901b93ffd7a869414aee",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "extra_channels": [],
-      "title": "콘진원, 지스타서 '2026 게임문화축제' 개최... 게임·국악·e스포츠 한자리에",
-      "url": "https://n.news.naver.com/article/030/0003476365?type=journalists",
-      "published_at": "2026-10-19T14:33:15+09:00",
-      "sent_at": "2026-10-19T14:47:29.829280+09:00"
-    },
-    {
-      "id": "bb8307bc9664409de2e08219f8922de0459f3b7bae24666ec4f0c4df9b5b70b8",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "extra_channels": [],
-      "title": "엔씨, 캐주얼 RPG '행성파괴 냥냐냥' 출시... 亞 6개 지역 서비스",
-      "url": "https://n.news.naver.com/article/030/0003476359?type=journalists",
-      "published_at": "2026-10-19T14:30:18+09:00",
-      "sent_at": "2026-10-19T14:47:32.225715+09:00"
-    },
-    {
       "id": "9f0ded2d639170f4e3511102dc5d2864ea7efeaa0def3d648b29fc9ada245f3e",
       "reporter": "박정은",
       "press": "전자신문",
@@ -513,5 +493,5 @@
       "sent_at": "2026-10-26T12:54:07.660716+09:00"
     }
   ],
-  "last_run_at": "2026-10-26T05:45:41.980548+00:00"
+  "last_run_at": "2026-10-26T05:50:46.423289+00:00"
 }
