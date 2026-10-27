@@ -1,46 +1,6 @@
 {
   "sent": [
     {
-      "id": "2240ec9d43b538ba9d7a537bed53d5ec47e431d873380fa5b37f40baec9b4602",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "extra_channels": [],
-      "title": "앵커노드·업스테이지, 'AI 게임 에셋 벤치마크' 공동 개발",
-      "url": "https://n.news.naver.com/article/030/0003476782?type=journalists",
-      "published_at": "2026-10-20T14:05:21+09:00",
-      "sent_at": "2026-10-20T14:16:51.433918+09:00"
-    },
-    {
-      "id": "0b13dd2eecd8b3689115df73a569203452dd3976a2328bd66e75206e11fd0b6a",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "extra_channels": [],
-      "title": "네오위즈 '안녕서울: 이태원편', 스팀 넥스트 페스트 참가... 신규 데모 공개",
-      "url": "https://n.news.naver.com/article/030/0003476776?type=journalists",
-      "published_at": "2026-10-20T14:03:14+09:00",
-      "sent_at": "2026-10-20T14:16:54.160479+09:00"
-    },
-    {
-      "id": "5c8be656781c0f4aeb94d8d02ae12a74d95b14a157f450fc257dca638e2bada6",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "extra_channels": [],
-      "title": "크래프톤, 지스타 2026 출품작 5종 공개... '타래: 언바운드' 신규 클래스 첫 시연",
-      "url": "https://n.news.naver.com/article/030/0003476771?type=journalists",
-      "published_at": "2026-10-20T14:00:16+09:00",
-      "sent_at": "2026-10-20T14:16:56.815710+09:00"
-    },
-    {
-      "id": "88b82c076766a293858304bc2c483a480c4deebb1ad9f1b46d84c125eeec9521",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "extra_channels": [],
-      "title": "캡콤, 지스타 2026 참가 확정... '록맨·몬헌' 신작 국내 첫 시연",
-      "url": "https://n.news.naver.com/article/030/0003476768?type=journalists",
-      "published_at": "2026-10-20T13:58:21+09:00",
-      "sent_at": "2026-10-20T14:17:00.536149+09:00"
-    },
-    {
       "id": "3d274f763afb0b9c3a59b2053b0ab4999368f67ce4957109571728ff3395d8ab",
       "reporter": "박정은",
       "press": "전자신문",
@@ -515,5 +475,5 @@
       "sent_at": "2026-10-27T11:45:44.467328+09:00"
     }
   ],
-  "last_run_at": "2026-10-27T05:13:02.084280+00:00"
+  "last_run_at": "2026-10-27T05:18:06.467792+00:00"
 }
