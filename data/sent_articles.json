@@ -433,7 +433,17 @@
       "url": "https://n.news.naver.com/article/030/0003479147?type=journalists",
       "published_at": "2026-10-27T23:59:59+09:00",
       "sent_at": "2026-10-27T14:33:35.269090+09:00"
+    },
+    {
+      "id": "2f872ef0037442351ef096fbbf592155686d9ce3e4ac6c3cd596093f32d70136",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "남북 전면전 소재 논란 속 '모던 워페어 4' 국내 스팀 매출 1위",
+      "url": "https://n.news.naver.com/article/001/0016403425?type=journalists",
+      "published_at": "2026-10-27T14:55:39+09:00",
+      "sent_at": "2026-10-27T15:14:21.195261+09:00"
     }
   ],
-  "last_run_at": "2026-10-27T06:09:05.839906+00:00"
+  "last_run_at": "2026-10-27T06:14:15.660643+00:00"
 }
