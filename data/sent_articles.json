@@ -443,7 +443,17 @@
       "url": "https://n.news.naver.com/article/001/0016403425?type=journalists",
       "published_at": "2026-10-27T14:55:39+09:00",
       "sent_at": "2026-10-27T15:14:21.195261+09:00"
+    },
+    {
+      "id": "76cd75c08972208d753cf678d52a2704e52109920aa739b0fdb9097484f5c48c",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "컴투스, 방치형 RPG '데스티니 차일드: 어셈블' 공개",
+      "url": "https://n.news.naver.com/article/001/0016403687?type=journalists",
+      "published_at": "2026-10-27T15:52:41+09:00",
+      "sent_at": "2026-10-27T16:05:09.576937+09:00"
     }
   ],
-  "last_run_at": "2026-10-27T06:59:59.569184+00:00"
+  "last_run_at": "2026-10-27T07:05:04.249196+00:00"
 }
