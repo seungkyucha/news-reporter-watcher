@@ -1,46 +1,6 @@
 {
   "sent": [
     {
-      "id": "3d274f763afb0b9c3a59b2053b0ab4999368f67ce4957109571728ff3395d8ab",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "extra_channels": [],
-      "title": "라이온하트 스튜디오, 장애인 체육선수단 창단... 볼링 선수 3명 채용",
-      "url": "https://n.news.naver.com/article/030/0003476791?type=journalists",
-      "published_at": "2026-10-20T14:13:12+09:00",
-      "sent_at": "2026-10-20T14:27:29.831368+09:00"
-    },
-    {
-      "id": "9bc9ff37d32d26c5aa22afad688c6446a9320d624cab7ec871c5ea8a0014a716",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "extra_channels": [],
-      "title": "넷마블 '나 혼자만 레벨업:어라이즈', 글로벌 누적 7000만 다운로드 돌파",
-      "url": "https://n.news.naver.com/article/030/0003476789?type=journalists",
-      "published_at": "2026-10-20T14:11:15+09:00",
-      "sent_at": "2026-10-20T14:27:32.831159+09:00"
-    },
-    {
-      "id": "72752ce980314d303144ae07e8cc98c842be2dc7e9d4b56c5103fb36d70f52cc",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "extra_channels": [],
-      "title": "NHN, '최애의 아이 퍼즐 스타' 글로벌 사전예약 시작",
-      "url": "https://n.news.naver.com/article/030/0003476786?type=journalists",
-      "published_at": "2026-10-20T14:09:12+09:00",
-      "sent_at": "2026-10-20T14:27:35.581553+09:00"
-    },
-    {
-      "id": "abccd9c9429fa740588a5ede46e0ef0c76f3d204592425c604481277e496ba60",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "extra_channels": [],
-      "title": "스마일게이트 희망스튜디오·성남문화재단, 청소년 AI 게임 창작 워크숍 운영",
-      "url": "https://n.news.naver.com/article/030/0003476783?type=journalists",
-      "published_at": "2026-10-20T23:59:59+09:00",
-      "sent_at": "2026-10-20T14:27:48.367636+09:00"
-    },
-    {
       "id": "a7ee73ac24e23ccda39196ff2b6eaa2f3cb8230d97cea49dbd352ffdc7cf977e",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -475,5 +435,5 @@
       "sent_at": "2026-10-27T11:45:44.467328+09:00"
     }
   ],
-  "last_run_at": "2026-10-27T05:23:10.573249+00:00"
+  "last_run_at": "2026-10-27T05:28:16.220781+00:00"
 }
