@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "a1eb670e8ebfbc7e4eddf95a590babe42eda7503a21bff3d2bd9acccbbdd3fe2",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "extra_channels": [],
-      "title": "넥슨 '아크 레이더스' 업데이트 후 반등... 무료 체험 끝나도 9월 동접 3배",
-      "url": "https://n.news.naver.com/article/030/0003476894?type=journalists",
-      "published_at": "2026-10-20T16:31:13+09:00",
-      "sent_at": "2026-10-20T16:44:49.079129+09:00"
-    },
-    {
       "id": "71fb59ab305f3eb6f45599cef27954a524422d8b33f3e1da8efc81ff9733e50e",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -455,5 +445,5 @@
       "sent_at": "2026-10-27T16:05:09.576937+09:00"
     }
   ],
-  "last_run_at": "2026-10-27T07:40:40.176467+00:00"
+  "last_run_at": "2026-10-27T07:45:45.343759+00:00"
 }
