@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "fbba584a364a2611df1b90e412d4a780256aef904c9aaf34f417a9247c43a24d",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "extra_channels": [],
-      "title": "라이온하트스튜디오, 장애인 선수단 창단…볼링선수 3명 채용",
-      "url": "https://n.news.naver.com/article/001/0016387860?type=journalists",
-      "published_at": "2026-10-20T23:59:59+09:00",
-      "sent_at": "2026-10-20T11:19:10.909358+09:00"
-    },
-    {
       "id": "2240ec9d43b538ba9d7a537bed53d5ec47e431d873380fa5b37f40baec9b4602",
       "reporter": "박정은",
       "press": "전자신문",
@@ -513,5 +503,5 @@
       "sent_at": "2026-10-27T11:05:09.001361+09:00"
     }
   ],
-  "last_run_at": "2026-10-27T02:15:16.147143+00:00"
+  "last_run_at": "2026-10-27T02:20:20.025377+00:00"
 }
