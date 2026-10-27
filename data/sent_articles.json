@@ -491,7 +491,27 @@
       "url": "https://n.news.naver.com/article/030/0003478993?type=journalists",
       "published_at": "2026-10-27T10:42:18+09:00",
       "sent_at": "2026-10-27T10:54:45.357083+09:00"
+    },
+    {
+      "id": "cb296a46d8a6d38aaecf1a0d8af35d56ed24751a1f44ac0f30e16659c96a77d0",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "배틀그라운드, 아이브와 컬래버레이션... '러브 다이브' 콘셉트 게임에 구현",
+      "url": "https://n.news.naver.com/article/030/0003479002?type=journalists",
+      "published_at": "2026-10-27T10:52:12+09:00",
+      "sent_at": "2026-10-27T11:04:56.553375+09:00"
+    },
+    {
+      "id": "a492d6bf1400bc7f37289603fe5570f50a3354261278d78b1aef073f014f8172",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "네오위즈 '고양이와 스프: 마법의 레시피', 출시 반주년 이벤트 '정령제' 진행",
+      "url": "https://n.news.naver.com/article/030/0003478999?type=journalists",
+      "published_at": "2026-10-27T23:59:59+09:00",
+      "sent_at": "2026-10-27T11:05:09.001361+09:00"
     }
   ],
-  "last_run_at": "2026-10-27T01:59:48.480947+00:00"
+  "last_run_at": "2026-10-27T02:04:52.563941+00:00"
 }
