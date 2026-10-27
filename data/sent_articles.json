@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "ffb9178b4bdc9d5b19ff135a02aaa7f5540441ff698cfe97aaba7f5f02ba3c1e",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "extra_channels": [],
-      "title": "NHN, '최애의 아이: 퍼즐 스타' 글로벌 사전 예약",
-      "url": "https://n.news.naver.com/article/001/0016387300?type=journalists",
-      "published_at": "2026-10-20T09:23:26+09:00",
-      "sent_at": "2026-10-20T09:32:20.620401+09:00"
-    },
-    {
       "id": "a21a64567b89923aa0143d4f4742fb7e40100a697030d551ff30a77a3b4c52bb",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -471,7 +461,17 @@
       "url": "https://n.news.naver.com/article/001/0016401979?type=journalists",
       "published_at": "2026-10-27T09:14:14+09:00",
       "sent_at": "2026-10-27T09:23:13.891486+09:00"
+    },
+    {
+      "id": "278afd5dd47de1b8c38af8a0d337f62d2f7a2cbafbab9dcfa1cc87b33b6112cc",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "엔씨, 10년째 게임 스타트업 지스타 참가 지원",
+      "url": "https://n.news.naver.com/article/001/0016402000?type=journalists",
+      "published_at": "2026-10-27T09:21:24+09:00",
+      "sent_at": "2026-10-27T09:33:24.956800+09:00"
     }
   ],
-  "last_run_at": "2026-10-27T00:28:16.576418+00:00"
+  "last_run_at": "2026-10-27T00:33:20.482257+00:00"
 }
