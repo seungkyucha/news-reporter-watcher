@@ -433,7 +433,17 @@
       "url": "https://news.mtn.co.kr/article/2026102711010674619",
       "published_at": "Tue, 27 Oct 2026 11:40:00 +0900",
       "sent_at": "2026-10-27T11:45:44.467328+09:00"
+    },
+    {
+      "id": "74609f6013bf98d0320ef10affce97d76517e7a8b4f5c1d8ddc7d21f404b866b",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "'도깨비의세계'·'제우스' 앱마켓 매출 1·2위…토종 신작 MMORPG 선두권 격전",
+      "url": "https://n.news.naver.com/article/030/0003479147?type=journalists",
+      "published_at": "2026-10-27T23:59:59+09:00",
+      "sent_at": "2026-10-27T14:33:35.269090+09:00"
     }
   ],
-  "last_run_at": "2026-10-27T05:28:16.220781+00:00"
+  "last_run_at": "2026-10-27T05:33:20.891813+00:00"
 }
