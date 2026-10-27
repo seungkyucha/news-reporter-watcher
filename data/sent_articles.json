@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "a21a64567b89923aa0143d4f4742fb7e40100a697030d551ff30a77a3b4c52bb",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "extra_channels": [],
-      "title": "크래프톤, 지스타 출품작 5종 공개…10년 연속 참가",
-      "url": "https://n.news.naver.com/article/001/0016387421?type=journalists",
-      "published_at": "2026-10-20T09:53:04+09:00",
-      "sent_at": "2026-10-20T10:02:50.616513+09:00"
-    },
-    {
       "id": "fbba584a364a2611df1b90e412d4a780256aef904c9aaf34f417a9247c43a24d",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -471,7 +461,17 @@
       "url": "https://n.news.naver.com/article/001/0016402000?type=journalists",
       "published_at": "2026-10-27T09:21:24+09:00",
       "sent_at": "2026-10-27T09:33:24.956800+09:00"
+    },
+    {
+      "id": "dc8a66fd98eed06fc9f28ffedba010d2cbfe4b58dc4be07485018e1ed31265ae",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "펄어비스 '붉은사막', 골든 조이스틱 어워드 최고상 후보에",
+      "url": "https://n.news.naver.com/article/001/0016402106?type=journalists",
+      "published_at": "2026-10-27T23:59:59+09:00",
+      "sent_at": "2026-10-27T10:04:01.126480+09:00"
     }
   ],
-  "last_run_at": "2026-10-27T00:58:42.788862+00:00"
+  "last_run_at": "2026-10-27T01:03:46.667287+00:00"
 }
