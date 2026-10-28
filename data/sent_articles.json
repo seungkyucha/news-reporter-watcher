@@ -461,7 +461,17 @@
       "url": "https://n.news.naver.com/article/001/0016406113?type=journalists",
       "published_at": "2026-10-28T13:41:30+09:00",
       "sent_at": "2026-10-28T13:56:56.531322+09:00"
+    },
+    {
+      "id": "68473b4340549c7db76528eed61a902fd5a7735a64e8478a5f284b3f2fb11a0a",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "밸브 스팀팀, 국내 인디게임사 60곳과 만났다... 글로벌 진출 노하우 공유",
+      "url": "https://n.news.naver.com/article/030/0003479600?type=journalists",
+      "published_at": "2026-10-28T13:52:18+09:00",
+      "sent_at": "2026-10-28T14:07:08.041436+09:00"
     }
   ],
-  "last_run_at": "2026-10-28T05:01:58.836185+00:00"
+  "last_run_at": "2026-10-28T05:07:03.484891+00:00"
 }
