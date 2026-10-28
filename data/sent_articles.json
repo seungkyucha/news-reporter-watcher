@@ -431,7 +431,17 @@
       "url": "https://n.news.naver.com/article/001/0016405354?type=journalists",
       "published_at": "2026-10-28T23:59:59+09:00",
       "sent_at": "2026-10-28T10:43:42.979275+09:00"
+    },
+    {
+      "id": "05ecc8195468dd7ed57f0aaab7348731c2ef342201469fd1240ae0cf8973eb3a",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "크래프톤 업무용 PC, 지역사회서 다시 쓴다…351세트 기부 예정",
+      "url": "https://n.news.naver.com/article/001/0016405743?type=journalists",
+      "published_at": "2026-10-28T23:59:59+09:00",
+      "sent_at": "2026-10-28T11:34:40.455130+09:00"
     }
   ],
-  "last_run_at": "2026-10-28T02:29:20.780769+00:00"
+  "last_run_at": "2026-10-28T02:34:25.343750+00:00"
 }
