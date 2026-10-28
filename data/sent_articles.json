@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "bdbf566e277534704dbee100f701eec621141665676a0acdd69fdd3640b07378",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "extra_channels": [],
-      "title": "소니, PS5 클라우드 게임 서비스 28일 한국 출시",
-      "url": "https://n.news.naver.com/article/001/0016390728?type=journalists",
-      "published_at": "2026-10-21T10:42:03+09:00",
-      "sent_at": "2026-10-21T10:57:06.796820+09:00"
-    },
-    {
       "id": "1ac4c816f4784c255556c621269980ae0e97beb57694ab89b44c5c6e0b116dbd",
       "reporter": "서정근",
       "press": "MTN",
@@ -455,5 +445,5 @@
       "sent_at": "2026-10-28T10:43:42.979275+09:00"
     }
   ],
-  "last_run_at": "2026-10-28T01:53:49.115671+00:00"
+  "last_run_at": "2026-10-28T01:58:53.183962+00:00"
 }
