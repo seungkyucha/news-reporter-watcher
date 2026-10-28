@@ -531,7 +531,17 @@
       "url": "https://n.news.naver.com/article/001/0016407000?type=journalists",
       "published_at": "2026-10-28T16:30:31+09:00",
       "sent_at": "2026-10-28T16:45:17.381076+09:00"
+    },
+    {
+      "id": "55e1cc161d96b784abdf399832a6839a0868ced378ef13739f074e08fe2695b8",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "방미통위, 구글·애플 인앱결제 강제에 총 637억원 과징금…외부결제 허용 명령",
+      "url": "https://n.news.naver.com/article/030/0003479790?type=journalists",
+      "published_at": "2026-10-28T23:59:59+09:00",
+      "sent_at": "2026-10-28T17:05:45.029096+09:00"
     }
   ],
-  "last_run_at": "2026-10-28T08:00:27.836377+00:00"
+  "last_run_at": "2026-10-28T08:05:31.390003+00:00"
 }
