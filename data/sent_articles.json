@@ -521,7 +521,17 @@
       "url": "https://n.news.naver.com/article/001/0016406811?type=journalists",
       "published_at": "2026-10-28T15:43:08+09:00",
       "sent_at": "2026-10-28T15:54:33.836665+09:00"
+    },
+    {
+      "id": "dd0f20cd628d5d1f3ac54eb683c57c9d36e12935e3385d5a5f4a2abc5bdf04ed",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "'콜 오브 듀티'에 이태원참사 영상…유가족 \"몰상식\" 삭제요구(종합)",
+      "url": "https://n.news.naver.com/article/001/0016407000?type=journalists",
+      "published_at": "2026-10-28T16:30:31+09:00",
+      "sent_at": "2026-10-28T16:45:17.381076+09:00"
     }
   ],
-  "last_run_at": "2026-10-28T07:40:08.556095+00:00"
+  "last_run_at": "2026-10-28T07:45:12.624702+00:00"
 }
