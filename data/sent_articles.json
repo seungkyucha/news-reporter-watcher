@@ -501,7 +501,17 @@
       "url": "https://n.news.naver.com/article/030/0003479663?type=journalists",
       "published_at": "2026-10-28T14:35:08+09:00",
       "sent_at": "2026-10-28T14:43:01.940452+09:00"
+    },
+    {
+      "id": "64c1f0013ab27497d02eca4e620851945b0a09527b4c2ca926945ebe214aabb4",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "세가, '스트레인저 댄 헤븐' 예약 판매…내년 1월 15일 출시",
+      "url": "https://n.news.naver.com/article/001/0016406433?type=journalists",
+      "published_at": "2026-10-28T14:45:18+09:00",
+      "sent_at": "2026-10-28T15:03:37.321725+09:00"
     }
   ],
-  "last_run_at": "2026-10-28T05:58:28.366954+00:00"
+  "last_run_at": "2026-10-28T06:03:32.683042+00:00"
 }
