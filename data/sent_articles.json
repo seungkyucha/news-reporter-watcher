@@ -441,7 +441,17 @@
       "url": "https://n.news.naver.com/article/001/0016405743?type=journalists",
       "published_at": "2026-10-28T23:59:59+09:00",
       "sent_at": "2026-10-28T11:34:40.455130+09:00"
+    },
+    {
+      "id": "eff401387cb15481d29068737cafa7e2162c4388348d8910c998225804710b1e",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "콘진원, '대한민국 게임박물관' 조성 추진... 운영기관·후보지 공개 모집",
+      "url": "https://n.news.naver.com/article/030/0003479582?type=journalists",
+      "published_at": "2026-10-28T13:33:14+09:00",
+      "sent_at": "2026-10-28T13:46:44.210039+09:00"
     }
   ],
-  "last_run_at": "2026-10-28T04:41:34.562426+00:00"
+  "last_run_at": "2026-10-28T04:46:38.714519+00:00"
 }
