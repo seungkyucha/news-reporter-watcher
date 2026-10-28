@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "cdedf1898136ab9acddd80b6529b55747acd99b7d4bbb8872e4bec520d6d5672",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "extra_channels": [],
-      "title": "스마일게이트 희망스튜디오-대상, 사각지대 아동·청소년 지원",
-      "url": "https://n.news.naver.com/article/001/0016390241?type=journalists",
-      "published_at": "2026-10-21T08:46:51+09:00",
-      "sent_at": "2026-10-21T09:05:14.174657+09:00"
-    },
-    {
       "id": "bdbf566e277534704dbee100f701eec621141665676a0acdd69fdd3640b07378",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -445,5 +435,5 @@
       "sent_at": "2026-10-28T08:56:33.279121+09:00"
     }
   ],
-  "last_run_at": "2026-10-28T00:01:35.617178+00:00"
+  "last_run_at": "2026-10-28T00:06:39.773908+00:00"
 }
