@@ -471,7 +471,37 @@
       "url": "https://n.news.naver.com/article/030/0003479600?type=journalists",
       "published_at": "2026-10-28T13:52:18+09:00",
       "sent_at": "2026-10-28T14:07:08.041436+09:00"
+    },
+    {
+      "id": "8717faf43c043380712a87d3859570eb947a09a4e0728ea0186b1364dddf6751",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "플로렌타인 호프만, 제주 '돌코리숲' 방문... 텐저린 캣' 설치 현장 확인",
+      "url": "https://n.news.naver.com/article/030/0003479621?type=journalists",
+      "published_at": "2026-10-28T14:03:13+09:00",
+      "sent_at": "2026-10-28T14:17:20.036466+09:00"
+    },
+    {
+      "id": "78f1f85cc35809e267e7e19ca0b2f6b3b45e1ff2c29b72b84cbf58e0fb1ebb48",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "넷이즈 '연운', 신규 지역 '호타' 11월 14일 공개... 1주년 이벤트도 진행",
+      "url": "https://n.news.naver.com/article/030/0003479613?type=journalists",
+      "published_at": "2026-10-28T13:58:19+09:00",
+      "sent_at": "2026-10-28T14:17:24.080799+09:00"
+    },
+    {
+      "id": "5df3a34982579709e6ba818db5926a69df5da397f0f8b360c7b8c4798f90ae31",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "아이템베이, '리니지2 : BASIC' 신규 서버 오픈 기념 이벤트",
+      "url": "https://n.news.naver.com/article/030/0003479608?type=journalists",
+      "published_at": "2026-10-28T23:59:59+09:00",
+      "sent_at": "2026-10-28T14:17:36.336511+09:00"
     }
   ],
-  "last_run_at": "2026-10-28T05:12:10.763967+00:00"
+  "last_run_at": "2026-10-28T05:17:15.109902+00:00"
 }
