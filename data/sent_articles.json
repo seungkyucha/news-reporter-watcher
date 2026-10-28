@@ -511,7 +511,17 @@
       "url": "https://n.news.naver.com/article/030/0003479694?type=journalists",
       "published_at": "2026-10-28T23:59:59+09:00",
       "sent_at": "2026-10-28T15:24:06.542775+09:00"
+    },
+    {
+      "id": "1e24d4c41b767c8c1b9a4c8d7be80441f2e9e56c154ddb96a017e1d37bccda92",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "'콜 오브 듀티'에 이태원 참사 영상…유가족 반발·사과 촉구",
+      "url": "https://n.news.naver.com/article/001/0016406811?type=journalists",
+      "published_at": "2026-10-28T15:43:08+09:00",
+      "sent_at": "2026-10-28T15:54:33.836665+09:00"
     }
   ],
-  "last_run_at": "2026-10-28T06:49:25.371164+00:00"
+  "last_run_at": "2026-10-28T06:54:28.943675+00:00"
 }
