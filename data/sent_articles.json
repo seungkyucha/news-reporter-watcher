@@ -501,7 +501,17 @@
       "url": "https://n.news.naver.com/article/030/0003479608?type=journalists",
       "published_at": "2026-10-28T23:59:59+09:00",
       "sent_at": "2026-10-28T14:17:36.336511+09:00"
+    },
+    {
+      "id": "fb708794c1855e94d298b233a6c0f88668acfa413df3924a7181d6500652a6db",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "크래프톤, 재생 IT 기기 351세트 지역사회 기부... 누적 1117세트",
+      "url": "https://n.news.naver.com/article/030/0003479663?type=journalists",
+      "published_at": "2026-10-28T14:35:08+09:00",
+      "sent_at": "2026-10-28T14:43:01.940452+09:00"
     }
   ],
-  "last_run_at": "2026-10-28T05:37:53.124728+00:00"
+  "last_run_at": "2026-10-28T05:42:57.242243+00:00"
 }
