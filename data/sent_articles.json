@@ -511,7 +511,17 @@
       "url": "https://n.news.naver.com/article/001/0016406433?type=journalists",
       "published_at": "2026-10-28T14:45:18+09:00",
       "sent_at": "2026-10-28T15:03:37.321725+09:00"
+    },
+    {
+      "id": "b1a011cabe0b902ae4882d384bb272f9ce4d3992768b0985d611ee21a3d1da69",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "지스타 2026, 스팀과 손잡고 글로벌 확장... 인디게임 114개사 전세계 노출",
+      "url": "https://n.news.naver.com/article/030/0003479694?type=journalists",
+      "published_at": "2026-10-28T23:59:59+09:00",
+      "sent_at": "2026-10-28T15:24:06.542775+09:00"
     }
   ],
-  "last_run_at": "2026-10-28T06:18:48.628610+00:00"
+  "last_run_at": "2026-10-28T06:23:52.440053+00:00"
 }
