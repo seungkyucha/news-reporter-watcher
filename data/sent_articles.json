@@ -643,7 +643,17 @@
       "url": "https://n.news.naver.com/article/001/0016409598?type=journalists",
       "published_at": "2026-10-29T23:59:59+09:00",
       "sent_at": "2026-10-29T16:21:41.749128+09:00"
+    },
+    {
+      "id": "41c941821e9553a671347ef1b446906201e98df4b68e1518c929b0a7261fbe7a",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "게임 등급분류 민간 이양 확대…'청불 모바일 게임'도 포함",
+      "url": "https://n.news.naver.com/article/001/0016409845?type=journalists",
+      "published_at": "2026-10-29T23:59:59+09:00",
+      "sent_at": "2026-10-29T17:02:33.694653+09:00"
     }
   ],
-  "last_run_at": "2026-10-29T07:57:13.424130+00:00"
+  "last_run_at": "2026-10-29T08:02:17.940193+00:00"
 }
