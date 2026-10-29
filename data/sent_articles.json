@@ -563,7 +563,17 @@
       "url": "https://n.news.naver.com/article/001/0016408443?type=journalists",
       "published_at": "2026-10-29T11:23:39+09:00",
       "sent_at": "2026-10-29T11:36:07.338422+09:00"
+    },
+    {
+      "id": "866a0bf865db598660c8eca7fef10f8d941a307aca6d9f2aa806df532fa3bd96",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "5민랩 '템빨용사' 글로벌 누적 다운로드 300만 돌파",
+      "url": "https://n.news.naver.com/article/030/0003480046?type=journalists",
+      "published_at": "2026-10-29T12:07:09+09:00",
+      "sent_at": "2026-10-29T12:26:52.946663+09:00"
     }
   ],
-  "last_run_at": "2026-10-29T03:21:44.008731+00:00"
+  "last_run_at": "2026-10-29T03:26:48.076731+00:00"
 }
