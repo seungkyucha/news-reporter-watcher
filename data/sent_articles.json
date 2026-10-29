@@ -543,7 +543,17 @@
       "url": "https://n.news.naver.com/article/001/0016407878?type=journalists",
       "published_at": "2026-10-29T09:46:35+09:00",
       "sent_at": "2026-10-29T10:04:15.045475+09:00"
+    },
+    {
+      "id": "01744a0bbcfab69f46030c2568d0c4a8a330f001128193e0d6d2dab171c8873c",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "게임이용자보호센터 센터장에 강태욱 변호사…6기 자문위 출범",
+      "url": "https://n.news.naver.com/article/001/0016408378?type=journalists",
+      "published_at": "2026-10-29T23:59:59+09:00",
+      "sent_at": "2026-10-29T11:25:55.080926+09:00"
     }
   ],
-  "last_run_at": "2026-10-29T02:20:35.785651+00:00"
+  "last_run_at": "2026-10-29T02:25:40.225065+00:00"
 }
