@@ -653,7 +653,17 @@
       "url": "https://n.news.naver.com/article/001/0016409845?type=journalists",
       "published_at": "2026-10-29T23:59:59+09:00",
       "sent_at": "2026-10-29T17:02:33.694653+09:00"
+    },
+    {
+      "id": "d20a7085b84a2604efadc3259f0b4fbc2cd651d2b0af9ebe23506cc2d78b9334",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "넷마블 엔탑자산관리, 과천 의료복합개발 참여... 1.3조 규모 시니어 레지던스 추진",
+      "url": "https://n.news.naver.com/article/030/0003480277?type=journalists",
+      "published_at": "2026-10-29T23:59:59+09:00",
+      "sent_at": "2026-10-29T17:23:04.528442+09:00"
     }
   ],
-  "last_run_at": "2026-10-29T08:17:45.604304+00:00"
+  "last_run_at": "2026-10-29T08:22:50.175458+00:00"
 }
