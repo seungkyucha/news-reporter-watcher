@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "37fffd4b5fd61f5dcf5249dd6b67de58ef8c36331074938e40e7c5d7bc561c0d",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "extra_channels": [],
-      "title": "북미 RPG 명가 바이오웨어 폐업…'매스이펙트' 후속작 중단",
-      "url": "https://n.news.naver.com/article/001/0016392953?type=journalists",
-      "published_at": "2026-10-22T08:57:19+09:00",
-      "sent_at": "2026-10-22T09:12:30.712768+09:00"
-    },
-    {
       "id": "fa37363fab16fe8a74cddfc57263f8baf1845b69a3f7d57e549dd04ab50c2f4b",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -555,5 +545,5 @@
       "sent_at": "2026-10-28T21:29:53.517791+09:00"
     }
   ],
-  "last_run_at": "2026-10-29T00:08:15.478771+00:00"
+  "last_run_at": "2026-10-29T00:13:20.288255+00:00"
 }
