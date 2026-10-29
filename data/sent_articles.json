@@ -623,7 +623,27 @@
       "url": "https://n.news.naver.com/article/001/0016409385?type=journalists",
       "published_at": "2026-10-29T23:59:59+09:00",
       "sent_at": "2026-10-29T15:55:39.127310+09:00"
+    },
+    {
+      "id": "0976f738760b274a9a21e767eb78105140b850acbfba471e7e22475eb1131141",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "넷마블 자회사, 과천서 1조3천억 부동산 계약…시니어 주거사업",
+      "url": "https://n.news.naver.com/article/001/0016409632?type=journalists",
+      "published_at": "2026-10-29T23:59:59+09:00",
+      "sent_at": "2026-10-29T16:21:28.965945+09:00"
+    },
+    {
+      "id": "fd9ae1f51d3c7d5c9ca17a0a037d4fc5f8ebdb0198ba670567869369bcfd0111",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "원스토어 품은 넥써쓰, 사명 '원'으로 변경 추진",
+      "url": "https://n.news.naver.com/article/001/0016409598?type=journalists",
+      "published_at": "2026-10-29T23:59:59+09:00",
+      "sent_at": "2026-10-29T16:21:41.749128+09:00"
     }
   ],
-  "last_run_at": "2026-10-29T07:16:09.216971+00:00"
+  "last_run_at": "2026-10-29T07:21:13.985439+00:00"
 }
