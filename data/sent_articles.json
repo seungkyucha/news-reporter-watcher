@@ -613,7 +613,17 @@
       "url": "https://n.news.naver.com/article/030/0003480128?type=journalists",
       "published_at": "2026-10-29T14:28:16+09:00",
       "sent_at": "2026-10-29T14:44:21.357124+09:00"
+    },
+    {
+      "id": "ad9edd798986c0f07e5fc01adf439ce5dd4ec29f9361c1e9ba5fc087d0ab07e0",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "이태원 참사만이 아니다…'콜 오브 듀티' 논란의 역사",
+      "url": "https://n.news.naver.com/article/001/0016409385?type=journalists",
+      "published_at": "2026-10-29T23:59:59+09:00",
+      "sent_at": "2026-10-29T15:55:39.127310+09:00"
     }
   ],
-  "last_run_at": "2026-10-29T06:50:19.860299+00:00"
+  "last_run_at": "2026-10-29T06:55:23.958352+00:00"
 }
