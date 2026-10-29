@@ -663,7 +663,17 @@
       "url": "https://n.news.naver.com/article/030/0003480282?type=journalists",
       "published_at": "2026-10-29T17:16:14+09:00",
       "sent_at": "2026-10-29T17:33:18.758672+09:00"
+    },
+    {
+      "id": "dd76133e392a7e48ca4048d8c310d8ffa7e4b18819fbdf38f3fe43bf8aa00084",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "펄어비스, '붉은사막' DLC '미지의 여정' 출시",
+      "url": "https://n.news.naver.com/article/001/0016410799?type=journalists",
+      "published_at": "2026-10-30T08:23:43+09:00",
+      "sent_at": "2026-10-30T08:32:58.970809+09:00"
     }
   ],
-  "last_run_at": "2026-10-29T23:27:49.097805+00:00"
+  "last_run_at": "2026-10-29T23:32:53.738973+00:00"
 }
