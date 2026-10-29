@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "fa37363fab16fe8a74cddfc57263f8baf1845b69a3f7d57e549dd04ab50c2f4b",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "extra_channels": [],
-      "title": "전국 바둑 고수 모여라…NHN, '한게임 바둑 페스티벌' 개최",
-      "url": "https://n.news.naver.com/article/001/0016393222?type=journalists",
-      "published_at": "2026-10-22T09:54:12+09:00",
-      "sent_at": "2026-10-22T10:03:11.580784+09:00"
-    },
-    {
       "id": "24088badb68d9ca468362d8ddaf27fff290ac5fe3b2c8d77048d37905d261922",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -543,7 +533,27 @@
       "url": "https://news.mtn.co.kr/article/2026102821241265645",
       "published_at": "Wed, 28 Oct 2026 21:26:00 +0900",
       "sent_at": "2026-10-28T21:29:53.517791+09:00"
+    },
+    {
+      "id": "fbb24d8773a6401df1abef9a0bb8a6110aecc474849118524fe0653f5d240cd4",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "처클피시, '위치브룩' 내년 1월 28일 출시 확정",
+      "url": "https://n.news.naver.com/article/001/0016407880?type=journalists",
+      "published_at": "2026-10-29T09:46:55+09:00",
+      "sent_at": "2026-10-29T10:04:11.991131+09:00"
+    },
+    {
+      "id": "86dfe091f51e22cbe839113fdaf3f0b6d25f5f2e86d1719f5dab2e41e0c5ece6",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "장병규 크래프톤 의장 \"가능성은 편안한 곳 벗어날 때 시작\"",
+      "url": "https://n.news.naver.com/article/001/0016407878?type=journalists",
+      "published_at": "2026-10-29T09:46:35+09:00",
+      "sent_at": "2026-10-29T10:04:15.045475+09:00"
     }
   ],
-  "last_run_at": "2026-10-29T00:59:02.289857+00:00"
+  "last_run_at": "2026-10-29T01:04:07.309321+00:00"
 }
