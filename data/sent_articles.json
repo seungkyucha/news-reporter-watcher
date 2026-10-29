@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "24088badb68d9ca468362d8ddaf27fff290ac5fe3b2c8d77048d37905d261922",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "extra_channels": [],
-      "title": "K/DA가 편의점·백화점에 뜬다…라이엇게임즈 협업 행사",
-      "url": "https://n.news.naver.com/article/001/0016393386?type=journalists",
-      "published_at": "2026-10-22T23:59:59+09:00",
-      "sent_at": "2026-10-22T10:33:47.285904+09:00"
-    },
-    {
       "id": "e1703e9ba9a067b389a019ec8f3b22a3f0cdd6640f039a08d66ba92dfec7bead",
       "reporter": "박정은",
       "press": "전자신문",
@@ -555,5 +545,5 @@
       "sent_at": "2026-10-29T10:04:15.045475+09:00"
     }
   ],
-  "last_run_at": "2026-10-29T01:29:35.367531+00:00"
+  "last_run_at": "2026-10-29T01:34:39.753357+00:00"
 }
