@@ -603,7 +603,27 @@
       "url": "https://n.news.naver.com/article/030/0003480118?type=journalists",
       "published_at": "2026-10-29T14:20:08+09:00",
       "sent_at": "2026-10-29T14:34:06.369850+09:00"
+    },
+    {
+      "id": "13a24740239a7b3ab78bc320e05145be90931173a9cff60c33ffb95606b0e466",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "카카오게임즈 '갓 세이브 버밍엄', 11월 3일 2차 베타…협동 플레이 추가",
+      "url": "https://n.news.naver.com/article/030/0003480129?type=journalists",
+      "published_at": "2026-10-29T14:29:10+09:00",
+      "sent_at": "2026-10-29T14:44:18.293521+09:00"
+    },
+    {
+      "id": "000c0dffad937cb9a06f3f0023c4db9487e6b33102a1ae78374f552cb72cdc78",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "가레나, '몬스터헌터 아웃랜더스' 정식 출시... 모바일서 4인 협동 사냥",
+      "url": "https://n.news.naver.com/article/030/0003480128?type=journalists",
+      "published_at": "2026-10-29T14:28:16+09:00",
+      "sent_at": "2026-10-29T14:44:21.357124+09:00"
     }
   ],
-  "last_run_at": "2026-10-29T05:39:09.111877+00:00"
+  "last_run_at": "2026-10-29T05:44:13.798203+00:00"
 }
