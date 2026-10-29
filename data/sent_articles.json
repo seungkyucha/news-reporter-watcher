@@ -663,7 +663,17 @@
       "url": "https://n.news.naver.com/article/030/0003480277?type=journalists",
       "published_at": "2026-10-29T23:59:59+09:00",
       "sent_at": "2026-10-29T17:23:04.528442+09:00"
+    },
+    {
+      "id": "ea4d0b13a50f8c58d621ddc37c2518d33b241fdcb3c36d12ebd252fdcea598f2",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "PC·콘솔 이어 모바일도 민간 심의... 게임 등급분류 2단계 11월 시행",
+      "url": "https://n.news.naver.com/article/030/0003480282?type=journalists",
+      "published_at": "2026-10-29T17:16:14+09:00",
+      "sent_at": "2026-10-29T17:33:18.758672+09:00"
     }
   ],
-  "last_run_at": "2026-10-29T08:28:09.176565+00:00"
+  "last_run_at": "2026-10-29T08:33:13.738601+00:00"
 }
