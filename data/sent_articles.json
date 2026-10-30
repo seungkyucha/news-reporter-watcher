@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "28e253f0442eae1d64ecf7497655a07c35a890845d8f968cd2ee9973e59b916e",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "extra_channels": [],
-      "title": "라인게임즈, PC 협동 SF 호러 기대작 '코드 엑시트' 신규 데모 2.0 공개",
-      "url": "https://n.news.naver.com/article/030/0003478181?type=journalists",
-      "published_at": "2026-10-23T16:26:19+09:00",
-      "sent_at": "2026-10-23T16:47:06.219925+09:00"
-    },
-    {
       "id": "156573c40217259aaad4ebb02a9acdf9d4849843b321a0134ca1dce5e14e028f",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -755,5 +745,5 @@
       "sent_at": "2026-10-30T16:25:59.881445+09:00"
     }
   ],
-  "last_run_at": "2026-10-30T07:46:14.577884+00:00"
+  "last_run_at": "2026-10-30T07:51:18.352233+00:00"
 }
