@@ -1,26 +1,6 @@
 {
   "sent": [
     {
-      "id": "47c7b28190c7d42a7f39f60819db1eaaebad872b0026ef982e03beedcf9671ac",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "extra_channels": [],
-      "title": "넥슨 '아주르 프로밀리아' 11월 26일 출시... PC·모바일 한국어 풀더빙",
-      "url": "https://n.news.naver.com/article/030/0003478153?type=journalists",
-      "published_at": "2026-10-23T15:48:12+09:00",
-      "sent_at": "2026-10-23T16:01:19.073803+09:00"
-    },
-    {
-      "id": "fa96c6327b9a63aad25c507750b4a1afd2e144f3718f225e373ec4c3e1539013",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "extra_channels": [],
-      "title": "위메이드 '나이트 크로우', 첫 이용자 초청 행사 12월 개최",
-      "url": "https://n.news.naver.com/article/030/0003478149?type=journalists",
-      "published_at": "2026-10-23T15:46:19+09:00",
-      "sent_at": "2026-10-23T16:01:22.032122+09:00"
-    },
-    {
       "id": "28e253f0442eae1d64ecf7497655a07c35a890845d8f968cd2ee9973e59b916e",
       "reporter": "박정은",
       "press": "전자신문",
@@ -765,5 +745,5 @@
       "sent_at": "2026-10-30T15:55:33.073433+09:00"
     }
   ],
-  "last_run_at": "2026-10-30T07:00:37.121222+00:00"
+  "last_run_at": "2026-10-30T07:05:40.825924+00:00"
 }
