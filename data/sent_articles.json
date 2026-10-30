@@ -753,7 +753,27 @@
       "url": "https://n.news.naver.com/article/030/0003480546?type=journalists",
       "published_at": "2026-10-30T15:15:13+09:00",
       "sent_at": "2026-10-30T15:25:02.398979+09:00"
+    },
+    {
+      "id": "83b1c23eceb21d3c9813a5ac344cd68e893fe9b371837b6e04dbdec9a674207e",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "라이온하트 '오딘: 발할라 라이징', 중국 외자판호 획득... 즈룽게임이 현지 서비스",
+      "url": "https://n.news.naver.com/article/030/0003480557?type=journalists",
+      "published_at": "2026-10-30T15:38:19+09:00",
+      "sent_at": "2026-10-30T15:55:30.253780+09:00"
+    },
+    {
+      "id": "27a1988e3f9019dfaaec4adaef47502a471e138c75c807ffdea667d5eee463f5",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "배틀그라운드 모바일 인도 'BMIC 2026' 개막... 한국 5개 팀 출전",
+      "url": "https://n.news.naver.com/article/030/0003480555?type=journalists",
+      "published_at": "2026-10-30T15:36:13+09:00",
+      "sent_at": "2026-10-30T15:55:33.073433+09:00"
     }
   ],
-  "last_run_at": "2026-10-30T06:50:21.361387+00:00"
+  "last_run_at": "2026-10-30T06:55:26.120974+00:00"
 }
