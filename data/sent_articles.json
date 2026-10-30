@@ -723,7 +723,17 @@
       "url": "https://n.news.naver.com/article/001/0016411757?type=journalists",
       "published_at": "2026-10-30T23:59:59+09:00",
       "sent_at": "2026-10-30T14:03:37.699483+09:00"
+    },
+    {
+      "id": "26b7488d0d6241b47cb40c2089af0fe1bfb6b81beb22df5b095d36b887db6ff0",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "'콜 오브 듀티' 제작진 사과…이태원 참사 영상 삭제 예정",
+      "url": "https://n.news.naver.com/article/001/0016411797?type=journalists",
+      "published_at": "2026-10-30T23:59:59+09:00",
+      "sent_at": "2026-10-30T14:13:58.049891+09:00"
     }
   ],
-  "last_run_at": "2026-10-30T05:08:40.285350+00:00"
+  "last_run_at": "2026-10-30T05:13:43.942751+00:00"
 }
