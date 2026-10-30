@@ -733,7 +733,17 @@
       "url": "https://n.news.naver.com/article/001/0016411797?type=journalists",
       "published_at": "2026-10-30T23:59:59+09:00",
       "sent_at": "2026-10-30T14:13:58.049891+09:00"
+    },
+    {
+      "id": "63c85b59a3392faf77dc3d888408c2ae7b7fd7b9465686ae3ee23e8ba0c84c54",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "라이온하트 '오딘: 발할라 라이징' 중국 판호 획득…출시 준비",
+      "url": "https://n.news.naver.com/article/001/0016411893?type=journalists",
+      "published_at": "2026-10-30T14:21:23+09:00",
+      "sent_at": "2026-10-30T14:34:17.704458+09:00"
     }
   ],
-  "last_run_at": "2026-10-30T05:29:07.894497+00:00"
+  "last_run_at": "2026-10-30T05:34:11.816171+00:00"
 }
