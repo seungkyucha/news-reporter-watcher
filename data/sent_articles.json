@@ -743,7 +743,17 @@
       "url": "https://n.news.naver.com/article/001/0016411893?type=journalists",
       "published_at": "2026-10-30T14:21:23+09:00",
       "sent_at": "2026-10-30T14:34:17.704458+09:00"
+    },
+    {
+      "id": "d083c1d2f08ddb42e77e26bb9e01e26f5e001401d275e2d364bb3644352574d9",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "게임 등급분류, '기계적 금지' 벗고 맥락 본다... 선정성 심의 기준 전향적 변화",
+      "url": "https://n.news.naver.com/article/030/0003480546?type=journalists",
+      "published_at": "2026-10-30T15:15:13+09:00",
+      "sent_at": "2026-10-30T15:25:02.398979+09:00"
     }
   ],
-  "last_run_at": "2026-10-30T06:19:54.199480+00:00"
+  "last_run_at": "2026-10-30T06:24:58.003423+00:00"
 }
