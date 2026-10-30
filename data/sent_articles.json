@@ -683,7 +683,17 @@
       "url": "https://n.news.naver.com/article/001/0016410981?type=journalists",
       "published_at": "2026-10-30T09:37:48+09:00",
       "sent_at": "2026-10-30T09:54:17.065814+09:00"
+    },
+    {
+      "id": "79d7e8c9804f0d19c9354837c64e5f49b39681c54902f08502e2c39b54c581ab",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "크래프톤, 넷플릭스와 'PUBG' 실사 시리즈 제작... 도날드 글로버 참여",
+      "url": "https://n.news.naver.com/article/030/0003480407?type=journalists",
+      "published_at": "2026-10-30T10:07:13+09:00",
+      "sent_at": "2026-10-30T10:24:46.628488+09:00"
     }
   ],
-  "last_run_at": "2026-10-30T01:19:37.666664+00:00"
+  "last_run_at": "2026-10-30T01:24:41.757765+00:00"
 }
