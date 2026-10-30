@@ -713,7 +713,17 @@
       "url": "https://n.news.naver.com/article/001/0016411150?type=journalists",
       "published_at": "2026-10-30T10:27:40+09:00",
       "sent_at": "2026-10-30T10:40:18.099492+09:00"
+    },
+    {
+      "id": "0213f7fca860596714cf27c7ecd2c19bb6c911f3d9c61be48f33c6bf3bb79678",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "게임 '배틀그라운드', 넷플릭스 시리즈 된다…실사화 발표",
+      "url": "https://n.news.naver.com/article/001/0016411757?type=journalists",
+      "published_at": "2026-10-30T23:59:59+09:00",
+      "sent_at": "2026-10-30T14:03:37.699483+09:00"
     }
   ],
-  "last_run_at": "2026-10-30T04:58:17.241584+00:00"
+  "last_run_at": "2026-10-30T05:03:22.425177+00:00"
 }
