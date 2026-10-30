@@ -693,7 +693,27 @@
       "url": "https://n.news.naver.com/article/030/0003480407?type=journalists",
       "published_at": "2026-10-30T10:07:13+09:00",
       "sent_at": "2026-10-30T10:24:46.628488+09:00"
+    },
+    {
+      "id": "a7c5eb958f223a128b997a3b14df635e57aeee60fc880eba65d39ca6a3e98273",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "넥슨재단, 전남권 공공어린이재활의료센터에 3억원 지원... 소아 재활로봇 도입",
+      "url": "https://n.news.naver.com/article/030/0003480429?type=journalists",
+      "published_at": "2026-10-30T23:59:59+09:00",
+      "sent_at": "2026-10-30T10:35:07.715711+09:00"
+    },
+    {
+      "id": "79594302a2dcd94c84abba452ede7e385b3897b4bf6d8f4ca4c174891a659110",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "넥써쓰, 두바이 정부와 게임산업 육성 협력... 장현국·송재경·서민 자문역 위촉",
+      "url": "https://n.news.naver.com/article/030/0003480421?type=journalists",
+      "published_at": "2026-10-30T10:17:11+09:00",
+      "sent_at": "2026-10-30T10:35:10.300559+09:00"
     }
   ],
-  "last_run_at": "2026-10-30T01:29:49.730144+00:00"
+  "last_run_at": "2026-10-30T01:34:53.966641+00:00"
 }
