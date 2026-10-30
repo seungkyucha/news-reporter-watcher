@@ -713,7 +713,17 @@
       "url": "https://n.news.naver.com/article/030/0003480421?type=journalists",
       "published_at": "2026-10-30T10:17:11+09:00",
       "sent_at": "2026-10-30T10:35:10.300559+09:00"
+    },
+    {
+      "id": "c85625fbf51851527503b3301a41c58651ff229c18514f509c1ca9420524933f",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "넥슨, 전남권 공공어린이재활의료센터에 운영기금 3억원 전달",
+      "url": "https://n.news.naver.com/article/001/0016411150?type=journalists",
+      "published_at": "2026-10-30T10:27:40+09:00",
+      "sent_at": "2026-10-30T10:40:18.099492+09:00"
     }
   ],
-  "last_run_at": "2026-10-30T01:34:53.966641+00:00"
+  "last_run_at": "2026-10-30T01:40:13.496541+00:00"
 }
