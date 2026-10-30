@@ -673,7 +673,17 @@
       "url": "https://n.news.naver.com/article/001/0016410965?type=journalists",
       "published_at": "2026-10-30T09:34:44+09:00",
       "sent_at": "2026-10-30T09:44:04.728158+09:00"
+    },
+    {
+      "id": "e318a0fcc64f889d3cace204c0e4df515f137263f82c234e266da8dd0c353dc8",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "위메이드플레이, '애니팡4'에 자체 개발 엔진 탑재",
+      "url": "https://n.news.naver.com/article/001/0016410981?type=journalists",
+      "published_at": "2026-10-30T09:37:48+09:00",
+      "sent_at": "2026-10-30T09:54:17.065814+09:00"
     }
   ],
-  "last_run_at": "2026-10-30T00:49:07.627419+00:00"
+  "last_run_at": "2026-10-30T00:54:11.583455+00:00"
 }
