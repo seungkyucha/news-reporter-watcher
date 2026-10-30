@@ -673,7 +673,17 @@
       "url": "https://n.news.naver.com/article/001/0016410799?type=journalists",
       "published_at": "2026-10-30T08:23:43+09:00",
       "sent_at": "2026-10-30T08:32:58.970809+09:00"
+    },
+    {
+      "id": "441b37d8e86801f489f87099dd9bdf2f4f76bcc79d111e75d5d1db65526fb1ae",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "넥써쓰, 두바이 정부와 게임산업 협력…원스토어 주축",
+      "url": "https://n.news.naver.com/article/001/0016410965?type=journalists",
+      "published_at": "2026-10-30T09:34:44+09:00",
+      "sent_at": "2026-10-30T09:44:04.728158+09:00"
     }
   ],
-  "last_run_at": "2026-10-30T00:38:55.925774+00:00"
+  "last_run_at": "2026-10-30T00:44:00.068002+00:00"
 }
