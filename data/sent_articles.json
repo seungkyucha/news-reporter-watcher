@@ -753,7 +753,17 @@
       "url": "https://n.news.naver.com/article/030/0003480628?type=journalists",
       "published_at": "2026-10-31T09:17:13+09:00",
       "sent_at": "2026-10-31T09:36:57.220417+09:00"
+    },
+    {
+      "id": "76ecb5b54f96d0ded62979f10eb3e560762ba6d6921ae140d31f53edb04d3775",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "[게임위드인] AI가 인터넷을 장악한다면…'사이버펑크 2077'의 경고",
+      "url": "https://n.news.naver.com/article/001/0016413209?type=journalists",
+      "published_at": "2026-10-31T11:00:00+09:00",
+      "sent_at": "2026-10-31T11:13:17.641237+09:00"
     }
   ],
-  "last_run_at": "2026-10-31T02:08:08.346833+00:00"
+  "last_run_at": "2026-10-31T02:13:12.350085+00:00"
 }
