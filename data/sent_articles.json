@@ -765,7 +765,19 @@
       "url": "https://news.mtn.co.kr/article/2026103117083928707",
       "published_at": "Sat, 31 Oct 2026 17:10:00 +0900",
       "sent_at": "2026-10-31T17:13:13.070074+09:00"
+    },
+    {
+      "id": "8bef47058be20049527e9aa3ef4ae14acf5a2d7018570ac797361ce65e7c95c9",
+      "reporter": "서정근",
+      "press": "MTN",
+      "extra_channels": [
+        "seo"
+      ],
+      "title": "[단독]엔씨 고위 임원 징계 해임...\"사내 프로젝트 유출해 창업 시도 혐...",
+      "url": "https://news.mtn.co.kr/article/2026103118020468670",
+      "published_at": "Sat, 31 Oct 2026 18:32:00 +0900",
+      "sent_at": "2026-10-31T18:34:33.681332+09:00"
     }
   ],
-  "last_run_at": "2026-10-31T09:29:26.484332+00:00"
+  "last_run_at": "2026-10-31T09:34:30.104062+00:00"
 }
