@@ -753,7 +753,19 @@
       "url": "https://n.news.naver.com/article/001/0016413209?type=journalists",
       "published_at": "2026-10-31T11:00:00+09:00",
       "sent_at": "2026-10-31T11:13:17.641237+09:00"
+    },
+    {
+      "id": "812a08ef09994e9114401ca2851e558270cae19d0b9137fc9c5d91bd3ef4b5af",
+      "reporter": "서정근",
+      "press": "MTN",
+      "extra_channels": [
+        "seo"
+      ],
+      "title": "[단독]위메이드 '흉기 난동' 당사자, 조직 내 '임시 분리' 처분",
+      "url": "https://news.mtn.co.kr/article/2026103117083928707",
+      "published_at": "Sat, 31 Oct 2026 17:10:00 +0900",
+      "sent_at": "2026-10-31T17:13:13.070074+09:00"
     }
   ],
-  "last_run_at": "2026-10-31T08:08:04.271013+00:00"
+  "last_run_at": "2026-10-31T08:13:07.851784+00:00"
 }
