@@ -743,7 +743,17 @@
       "url": "https://n.news.naver.com/article/001/0016412327?type=journalists",
       "published_at": "2026-10-30T16:05:36+09:00",
       "sent_at": "2026-10-30T16:25:59.881445+09:00"
+    },
+    {
+      "id": "aa68ff90accbbffa4552f464bc438b36ebdb208f9eb612c609c0b0a0025517c4",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "'이태원 참사 영상' 논란 콜 오브 듀티 “머리 숙여 사과”... 내달 문제 장면 삭제",
+      "url": "https://n.news.naver.com/article/030/0003480628?type=journalists",
+      "published_at": "2026-10-31T09:17:13+09:00",
+      "sent_at": "2026-10-31T09:36:57.220417+09:00"
     }
   ],
-  "last_run_at": "2026-10-31T00:31:48.465634+00:00"
+  "last_run_at": "2026-10-31T00:36:52.606078+00:00"
 }
