@@ -807,7 +807,17 @@
       "url": "https://n.news.naver.com/article/001/0016413903?type=journalists",
       "published_at": "2026-11-01T13:00:59+09:00",
       "sent_at": "2026-11-01T13:14:47.478168+09:00"
+    },
+    {
+      "id": "409a3f0f1b0076ea71fc5fb535c08552bf13c0969f5ea5ff34399594e1ba4021",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "막 오르는 LoL 월드 챔피언십 8강전…젠지·T1·DK 진출",
+      "url": "https://n.news.naver.com/article/001/0016413960?type=journalists",
+      "published_at": "2026-11-01T13:57:27+09:00",
+      "sent_at": "2026-11-01T14:15:58.357920+09:00"
     }
   ],
-  "last_run_at": "2026-11-01T05:10:48.353142+00:00"
+  "last_run_at": "2026-11-01T05:15:53.187619+00:00"
 }
