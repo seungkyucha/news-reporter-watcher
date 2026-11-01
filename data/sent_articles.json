@@ -777,7 +777,17 @@
       "url": "https://news.mtn.co.kr/article/2026103118020468670",
       "published_at": "Sat, 31 Oct 2026 18:32:00 +0900",
       "sent_at": "2026-10-31T18:34:33.681332+09:00"
+    },
+    {
+      "id": "b8e6c66f195dd0161f85b87825112e223c853fac39d309bddc7022b8b89be9c1",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "[테크스냅] KT, 복합재난 대비 통신 긴급복구 체계 점검",
+      "url": "https://n.news.naver.com/article/001/0016413747?type=journalists",
+      "published_at": "2026-11-01T09:52:17+09:00",
+      "sent_at": "2026-11-01T10:01:26.138644+09:00"
     }
   ],
-  "last_run_at": "2026-11-01T00:56:15.005290+00:00"
+  "last_run_at": "2026-11-01T01:01:19.809506+00:00"
 }
