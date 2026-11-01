@@ -797,7 +797,17 @@
       "url": "https://n.news.naver.com/article/001/0016413848?type=journalists",
       "published_at": "2026-11-01T12:00:05+09:00",
       "sent_at": "2026-11-01T12:13:43.213909+09:00"
+    },
+    {
+      "id": "838c2d2aab87b4d304b647b19e38d1deeb70f7fa2373b9eb3b3234c4ccac0ff7",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "[부고] 오태석(우주항공청장)씨 모친상",
+      "url": "https://n.news.naver.com/article/001/0016413903?type=journalists",
+      "published_at": "2026-11-01T13:00:59+09:00",
+      "sent_at": "2026-11-01T13:14:47.478168+09:00"
     }
   ],
-  "last_run_at": "2026-11-01T04:09:36.426249+00:00"
+  "last_run_at": "2026-11-01T04:14:40.956191+00:00"
 }
