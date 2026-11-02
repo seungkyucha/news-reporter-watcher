@@ -817,7 +817,17 @@
       "url": "https://n.news.naver.com/article/001/0016415750?type=journalists",
       "published_at": "2026-11-02T23:59:59+09:00",
       "sent_at": "2026-11-02T11:56:10.588266+09:00"
+    },
+    {
+      "id": "d1c452191c8707f043e8ac6e26c9a97e72fedb25ea28ae023c843b3dc61493ff",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "중국 게임사 엘리멘타, '실버 팰리스' 12월 14일 출시",
+      "url": "https://n.news.naver.com/article/001/0016415778?type=journalists",
+      "published_at": "2026-11-02T11:49:06+09:00",
+      "sent_at": "2026-11-02T12:06:22.459596+09:00"
     }
   ],
-  "last_run_at": "2026-11-02T03:01:12.756819+00:00"
+  "last_run_at": "2026-11-02T03:06:16.892167+00:00"
 }
