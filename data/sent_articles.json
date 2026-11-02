@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "9c487d6569203b8f59cfdba34bfb25d066bf7ae4fd24465aa08835ffb275b93e",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "extra_channels": [],
-      "title": "넥슨, '파레이돌리아' AGF서 한국어 버전 최초 공개",
-      "url": "https://n.news.naver.com/article/001/0016400221?type=journalists",
-      "published_at": "2026-10-26T11:25:06+09:00",
-      "sent_at": "2026-10-26T11:42:20.548612+09:00"
-    },
-    {
       "id": "5679e3389f142d9c8d02c37eab2b83ca690fe5c48c83ca848261a500ac730a63",
       "reporter": "박정은",
       "press": "전자신문",
@@ -819,5 +809,5 @@
       "sent_at": "2026-11-02T10:55:06.216885+09:00"
     }
   ],
-  "last_run_at": "2026-11-02T02:40:43.269853+00:00"
+  "last_run_at": "2026-11-02T02:45:47.515574+00:00"
 }
