@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "839d9c251c335a21f5ac663cc8b2821b863779290be2db64a683b6ad744ea4f2",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "extra_channels": [],
-      "title": "T1, LoL 카드게임 '리프트바운드' 대회 개최…킨텍스서 예선",
-      "url": "https://n.news.naver.com/article/001/0016400008?type=journalists",
-      "published_at": "2026-10-26T10:37:38+09:00",
-      "sent_at": "2026-10-26T10:56:38.305675+09:00"
-    },
-    {
       "id": "9c487d6569203b8f59cfdba34bfb25d066bf7ae4fd24465aa08835ffb275b93e",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -829,5 +819,5 @@
       "sent_at": "2026-11-02T10:55:06.216885+09:00"
     }
   ],
-  "last_run_at": "2026-11-02T01:54:58.318011+00:00"
+  "last_run_at": "2026-11-02T02:00:09.051471+00:00"
 }
