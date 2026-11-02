@@ -787,7 +787,17 @@
       "url": "https://n.news.naver.com/article/001/0016413960?type=journalists",
       "published_at": "2026-11-01T13:57:27+09:00",
       "sent_at": "2026-11-01T14:15:58.357920+09:00"
+    },
+    {
+      "id": "e3c008a02650546ea00256434614b9b60ce157cb54696ed744d3fe7b4ce757d3",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "한국 모바일게임 다운로드는 줄었지만 수익성은 역대 최고",
+      "url": "https://n.news.naver.com/article/001/0016414997?type=journalists",
+      "published_at": "2026-11-02T10:01:46+09:00",
+      "sent_at": "2026-11-02T10:14:09.997620+09:00"
     }
   ],
-  "last_run_at": "2026-11-02T01:09:00.537514+00:00"
+  "last_run_at": "2026-11-02T01:14:04.698043+00:00"
 }
