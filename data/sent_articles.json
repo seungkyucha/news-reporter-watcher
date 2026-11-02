@@ -807,7 +807,17 @@
       "url": "https://n.news.naver.com/article/030/0003480970?type=journalists",
       "published_at": "2026-11-02T10:36:18+09:00",
       "sent_at": "2026-11-02T10:55:06.216885+09:00"
+    },
+    {
+      "id": "3d5f7b8602ce17a92c673d209fce240617f947251bb9e2f50a84cfcdbb7dbf4e",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "'위쳐'부터 '붉은사막'까지…지스타 G-CON 개발 비화 듣는다",
+      "url": "https://n.news.naver.com/article/001/0016415750?type=journalists",
+      "published_at": "2026-11-02T23:59:59+09:00",
+      "sent_at": "2026-11-02T11:56:10.588266+09:00"
     }
   ],
-  "last_run_at": "2026-11-02T02:50:51.525002+00:00"
+  "last_run_at": "2026-11-02T02:55:55.559113+00:00"
 }
