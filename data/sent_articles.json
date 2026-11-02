@@ -777,7 +777,17 @@
       "url": "https://n.news.naver.com/article/001/0016416274?type=journalists",
       "published_at": "2026-11-02T14:37:48+09:00",
       "sent_at": "2026-11-02T14:53:42.593732+09:00"
+    },
+    {
+      "id": "2abc5cc02bd64bfeb1d509ce23f620b7cdf2216da740d233baff8c7e7eff344d",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "'2.5조 재산분할' 스마게 권혁빈 이혼소송 새 국면... 최태원 대리한 율촌 합류",
+      "url": "https://n.news.naver.com/article/030/0003481241?type=journalists",
+      "published_at": "2026-11-02T16:24:20+09:00",
+      "sent_at": "2026-11-02T16:35:22.236189+09:00"
     }
   ],
-  "last_run_at": "2026-11-02T07:30:14.382209+00:00"
+  "last_run_at": "2026-11-02T07:35:18.146505+00:00"
 }
