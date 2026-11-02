@@ -817,7 +817,37 @@
       "url": "https://n.news.naver.com/article/030/0003481243?type=journalists",
       "published_at": "2026-11-02T23:59:59+09:00",
       "sent_at": "2026-11-02T16:45:47.853995+09:00"
+    },
+    {
+      "id": "7bed3c845bf503c32bb6f3dcd411835a585ed7753e7bd0d89289769dced5c6c2",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "게임산업협회, 국회서 5대 입법과제 제안... 제작비 세액공제·게임시간선택제 폐지",
+      "url": "https://n.news.naver.com/article/030/0003481250?type=journalists",
+      "published_at": "2026-11-02T23:59:59+09:00",
+      "sent_at": "2026-11-02T16:56:08.334735+09:00"
+    },
+    {
+      "id": "223368aea1632bb0fdc714920ed1a92a29aba93455ae5b529a8c170edca2b299",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "'아크 레이더스' 출시 1주년... 누적 1630만장·60억 라운드, 글로벌 IP로 확장",
+      "url": "https://n.news.naver.com/article/030/0003481249?type=journalists",
+      "published_at": "2026-11-02T16:45:17+09:00",
+      "sent_at": "2026-11-02T16:56:10.859318+09:00"
+    },
+    {
+      "id": "468a883ef8040e317352a8e893b53fbed19ebbc05dcad8767677ed933fc1b5b1",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "카카오게임즈, '엑자일콘 2026' 한국어 생중계... '패스 오브 엑자일 2' 신정보 공개",
+      "url": "https://n.news.naver.com/article/030/0003481248?type=journalists",
+      "published_at": "2026-11-02T23:59:59+09:00",
+      "sent_at": "2026-11-02T16:56:23.437274+09:00"
     }
   ],
-  "last_run_at": "2026-11-02T07:50:50.824141+00:00"
+  "last_run_at": "2026-11-02T07:55:54.566501+00:00"
 }
