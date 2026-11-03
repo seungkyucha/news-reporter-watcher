@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "74609f6013bf98d0320ef10affce97d76517e7a8b4f5c1d8ddc7d21f404b866b",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "extra_channels": [],
-      "title": "'도깨비의세계'·'제우스' 앱마켓 매출 1·2위…토종 신작 MMORPG 선두권 격전",
-      "url": "https://n.news.naver.com/article/030/0003479147?type=journalists",
-      "published_at": "2026-10-27T23:59:59+09:00",
-      "sent_at": "2026-10-27T14:33:35.269090+09:00"
-    },
-    {
       "id": "2f872ef0037442351ef096fbbf592155686d9ce3e4ac6c3cd596093f32d70136",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -857,5 +847,5 @@
       "sent_at": "2026-11-03T14:17:24.545815+09:00"
     }
   ],
-  "last_run_at": "2026-11-03T05:32:34.729492+00:00"
+  "last_run_at": "2026-11-03T05:37:38.683977+00:00"
 }
