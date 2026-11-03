@@ -837,7 +837,17 @@
       "url": "https://n.news.naver.com/article/001/0016417215?type=journalists",
       "published_at": "2026-11-03T07:00:04+09:00",
       "sent_at": "2026-11-03T07:15:07.425883+09:00"
+    },
+    {
+      "id": "aa161f8b3469ba98ad4d7cc36cb1b327ad9f701a122ac94cab047aac9bf440c5",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "[AI픽] NC AI, 정밀 용접 가능한 로봇 AI 만들었다",
+      "url": "https://n.news.naver.com/article/001/0016417508?type=journalists",
+      "published_at": "2026-11-03T23:59:59+09:00",
+      "sent_at": "2026-11-03T09:42:40.389405+09:00"
     }
   ],
-  "last_run_at": "2026-11-03T00:37:21.171354+00:00"
+  "last_run_at": "2026-11-03T00:42:25.836783+00:00"
 }
