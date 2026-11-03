@@ -837,7 +837,27 @@
       "url": "https://n.news.naver.com/article/001/0016417508?type=journalists",
       "published_at": "2026-11-03T23:59:59+09:00",
       "sent_at": "2026-11-03T09:42:40.389405+09:00"
+    },
+    {
+      "id": "ff5de90ce0825137d2496b1d8c855dee126b738729e2cf5d0fb1c0ee1a5a90d1",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "컴투스홀딩스·SOOP, 실사 영상 게임으로 글로벌 시장 공략",
+      "url": "https://n.news.naver.com/article/001/0016417809?type=journalists",
+      "published_at": "2026-11-03T10:30:25+09:00",
+      "sent_at": "2026-11-03T10:43:38.395514+09:00"
+    },
+    {
+      "id": "40a712d03224ae8f95bfb23da50593fc0e4c9f2f6c390330aaa1f61e329732c7",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "웹젠, '뮤' 신작 '뮤 테오스' 공개…지스타에 티저 출품",
+      "url": "https://n.news.naver.com/article/001/0016417794?type=journalists",
+      "published_at": "2026-11-03T23:59:59+09:00",
+      "sent_at": "2026-11-03T10:43:50.677713+09:00"
     }
   ],
-  "last_run_at": "2026-11-03T01:38:28.975151+00:00"
+  "last_run_at": "2026-11-03T01:43:33.220821+00:00"
 }
