@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "dc8a66fd98eed06fc9f28ffedba010d2cbfe4b58dc4be07485018e1ed31265ae",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "extra_channels": [],
-      "title": "펄어비스 '붉은사막', 골든 조이스틱 어워드 최고상 후보에",
-      "url": "https://n.news.naver.com/article/001/0016402106?type=journalists",
-      "published_at": "2026-10-27T23:59:59+09:00",
-      "sent_at": "2026-10-27T10:04:01.126480+09:00"
-    },
-    {
       "id": "f52240bdf78b4581c5c613a9631709c0f60bbc4d14d2ef12b29e9336e69086b5",
       "reporter": "박정은",
       "press": "전자신문",
@@ -849,5 +839,5 @@
       "sent_at": "2026-11-03T09:42:40.389405+09:00"
     }
   ],
-  "last_run_at": "2026-11-03T01:02:55.944715+00:00"
+  "last_run_at": "2026-11-03T01:08:02.188235+00:00"
 }
