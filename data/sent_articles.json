@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "0c6f8f45ec40a395e3c2f586abc53cb671bf3b054bab608c93d0052bef4067e0",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "extra_channels": [],
-      "title": "아키에이지 크로니클, 11월 4일 얼리 액세스 출시",
-      "url": "https://n.news.naver.com/article/001/0016404895?type=journalists",
-      "published_at": "2026-10-28T23:59:59+09:00",
-      "sent_at": "2026-10-28T08:56:33.279121+09:00"
-    },
-    {
       "id": "6645a19a06a467b4ebef0e02b6b4b5d4d6ea4a09ff1d17c6d961cdf4c23738f5",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -855,7 +845,17 @@
       "url": "https://n.news.naver.com/article/001/0016420052?type=journalists",
       "published_at": "2026-11-04T02:00:00+09:00",
       "sent_at": "2026-11-04T02:14:24.884671+09:00"
+    },
+    {
+      "id": "c0917914044a5625260b4deb2d8979661e6a92cf7132b7acb7f97e12f8c35ed8",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "8년만에 부제목만 밝혔다…'엘더 스크롤 VI: 센티널' 공개",
+      "url": "https://n.news.naver.com/article/001/0016420213?type=journalists",
+      "published_at": "2026-11-04T23:59:59+09:00",
+      "sent_at": "2026-11-04T08:56:55.593418+09:00"
     }
   ],
-  "last_run_at": "2026-11-03T23:51:36.592095+00:00"
+  "last_run_at": "2026-11-03T23:56:40.467199+00:00"
 }
