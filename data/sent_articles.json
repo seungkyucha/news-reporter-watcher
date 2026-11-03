@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "278afd5dd47de1b8c38af8a0d337f62d2f7a2cbafbab9dcfa1cc87b33b6112cc",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "extra_channels": [],
-      "title": "엔씨, 10년째 게임 스타트업 지스타 참가 지원",
-      "url": "https://n.news.naver.com/article/001/0016402000?type=journalists",
-      "published_at": "2026-10-27T09:21:24+09:00",
-      "sent_at": "2026-10-27T09:33:24.956800+09:00"
-    },
-    {
       "id": "dc8a66fd98eed06fc9f28ffedba010d2cbfe4b58dc4be07485018e1ed31265ae",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -849,5 +839,5 @@
       "sent_at": "2026-11-03T07:15:07.425883+09:00"
     }
   ],
-  "last_run_at": "2026-11-03T00:32:17.049732+00:00"
+  "last_run_at": "2026-11-03T00:37:21.171354+00:00"
 }
