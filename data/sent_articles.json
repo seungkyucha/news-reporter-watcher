@@ -845,7 +845,17 @@
       "url": "https://n.news.naver.com/article/001/0016419423?type=journalists",
       "published_at": "2026-11-03T17:26:37+09:00",
       "sent_at": "2026-11-03T17:45:56.102795+09:00"
+    },
+    {
+      "id": "1ed30057f700459150117940f9bb0f948b1285b137be3b05bdc846fc1e1c413f",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "[해보니] '주머니·가방에 쏙' 엑스박스 나노 컨트롤러 써보니",
+      "url": "https://n.news.naver.com/article/001/0016420052?type=journalists",
+      "published_at": "2026-11-04T02:00:00+09:00",
+      "sent_at": "2026-11-04T02:14:24.884671+09:00"
     }
   ],
-  "last_run_at": "2026-11-03T17:09:13.185781+00:00"
+  "last_run_at": "2026-11-03T17:14:18.988024+00:00"
 }
