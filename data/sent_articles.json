@@ -857,7 +857,17 @@
       "url": "https://n.news.naver.com/article/001/0016417794?type=journalists",
       "published_at": "2026-11-03T23:59:59+09:00",
       "sent_at": "2026-11-03T10:43:50.677713+09:00"
+    },
+    {
+      "id": "cf39f76f0198146d51453ce90a796a44062c2e7881cce062b0e72b8558c0c4b7",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "'모험' 담은 리니지M 캠페인, '올해의 브랜드상' 수상",
+      "url": "https://n.news.naver.com/article/001/0016417885?type=journalists",
+      "published_at": "2026-11-03T10:44:10+09:00",
+      "sent_at": "2026-11-03T10:54:03.079359+09:00"
     }
   ],
-  "last_run_at": "2026-11-03T01:48:53.562924+00:00"
+  "last_run_at": "2026-11-03T01:53:57.565645+00:00"
 }
