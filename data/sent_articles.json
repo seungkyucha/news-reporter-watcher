@@ -845,7 +845,17 @@
       "url": "https://n.news.naver.com/article/030/0003481553?type=journalists",
       "published_at": "2026-11-03T13:49:10+09:00",
       "sent_at": "2026-11-03T14:07:14.048557+09:00"
+    },
+    {
+      "id": "9182e95aa55bfeeeea88f6c4b6e74f4946b46333bff4f0893312cc3d69f72170",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "엔씨 '아이온2' 해외 평가는... “비행·전투 합격, 과금·성장 구조 숙제”",
+      "url": "https://n.news.naver.com/article/030/0003481571?type=journalists",
+      "published_at": "2026-11-03T14:02:20+09:00",
+      "sent_at": "2026-11-03T14:17:24.545815+09:00"
     }
   ],
-  "last_run_at": "2026-11-03T05:12:16.909828+00:00"
+  "last_run_at": "2026-11-03T05:17:20.576085+00:00"
 }
