@@ -815,7 +815,17 @@
       "url": "https://n.news.naver.com/article/001/0016417885?type=journalists",
       "published_at": "2026-11-03T10:44:10+09:00",
       "sent_at": "2026-11-03T10:54:03.079359+09:00"
+    },
+    {
+      "id": "6b4570b3388826da0032a1d73bf9710116cae62ae6f203c2432472c84ee08e89",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "웹젠, 뮤 IP 신작 MMORPG '뮤 테오스' 공개... 2027년 상반기 출시",
+      "url": "https://n.news.naver.com/article/030/0003481532?type=journalists",
+      "published_at": "2026-11-03T13:22:15+09:00",
+      "sent_at": "2026-11-03T13:36:33.764623+09:00"
     }
   ],
-  "last_run_at": "2026-11-03T04:31:25.331549+00:00"
+  "last_run_at": "2026-11-03T04:36:29.344043+00:00"
 }
