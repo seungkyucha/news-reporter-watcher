@@ -825,7 +825,17 @@
       "url": "https://n.news.naver.com/article/030/0003481571?type=journalists",
       "published_at": "2026-11-03T14:02:20+09:00",
       "sent_at": "2026-11-03T14:17:24.545815+09:00"
+    },
+    {
+      "id": "1e66f3ccdbb1a3f746e506cb10b372494884f59efe464efe856ac4375a69994c",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "크래프톤 지스타 부스 공개…아이브와 PUBG 만났다",
+      "url": "https://n.news.naver.com/article/001/0016419173?type=journalists",
+      "published_at": "2026-11-03T23:59:59+09:00",
+      "sent_at": "2026-11-03T16:19:16.399712+09:00"
     }
   ],
-  "last_run_at": "2026-11-03T07:13:57.731945+00:00"
+  "last_run_at": "2026-11-03T07:19:02.303655+00:00"
 }
