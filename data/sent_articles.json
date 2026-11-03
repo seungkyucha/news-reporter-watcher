@@ -1,18 +1,6 @@
 {
   "sent": [
     {
-      "id": "3291eaaf7e16c6e22e3b5a9744614ffc92efb7e693b1218beb461a3f1dc6b3ca",
-      "reporter": "서정근",
-      "press": "MTN",
-      "extra_channels": [
-        "seo"
-      ],
-      "title": "[단독]'나이트 크로우W' 외부 배급처 물색...위메이드 매각 지연 '불확실...",
-      "url": "https://news.mtn.co.kr/article/2026102711010674619",
-      "published_at": "Tue, 27 Oct 2026 11:40:00 +0900",
-      "sent_at": "2026-10-27T11:45:44.467328+09:00"
-    },
-    {
       "id": "74609f6013bf98d0320ef10affce97d76517e7a8b4f5c1d8ddc7d21f404b866b",
       "reporter": "박정은",
       "press": "전자신문",
@@ -829,5 +817,5 @@
       "sent_at": "2026-11-03T10:54:03.079359+09:00"
     }
   ],
-  "last_run_at": "2026-11-03T02:45:01.284311+00:00"
+  "last_run_at": "2026-11-03T02:50:05.169527+00:00"
 }
