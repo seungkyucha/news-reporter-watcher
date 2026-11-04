@@ -875,7 +875,37 @@
       "url": "https://n.news.naver.com/article/001/0016420898?type=journalists",
       "published_at": "2026-11-04T11:19:19+09:00",
       "sent_at": "2026-11-04T11:34:33.764428+09:00"
+    },
+    {
+      "id": "edbd7a44237618a49c9c6f9cca5063566a4eb4c185404af560a098d5de27f1e3",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "GTA6, 11월 10일 사전 다운로드 시작... 최대 212GB 저장공간 필요",
+      "url": "https://n.news.naver.com/article/030/0003482045?type=journalists",
+      "published_at": "2026-11-04T12:05:12+09:00",
+      "sent_at": "2026-11-04T12:15:11.936202+09:00"
+    },
+    {
+      "id": "33bda033ece59f46d4f0be20e25ee764530fd6a05a28e61f293227214d559e31",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "볼트레이 게임즈 '소드 x 스태프' 국내 출시... 11일 '화산귀환' 협업",
+      "url": "https://n.news.naver.com/article/030/0003482039?type=journalists",
+      "published_at": "2026-11-04T23:59:59+09:00",
+      "sent_at": "2026-11-04T12:15:24.099388+09:00"
+    },
+    {
+      "id": "1d60431554b7192103b6e9ce47b578f0ed7c1c15c8a47d45b732f1025b4ece2a",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "니케 PC 런처 해킹 의혹... 왕자영요 등 레벨 인피니트 게임 영향도 촉각",
+      "url": "https://n.news.naver.com/article/030/0003482038?type=journalists",
+      "published_at": "2026-11-04T11:57:11+09:00",
+      "sent_at": "2026-11-04T12:15:27.200581+09:00"
     }
   ],
-  "last_run_at": "2026-11-04T03:10:02.010120+00:00"
+  "last_run_at": "2026-11-04T03:15:06.485301+00:00"
 }
