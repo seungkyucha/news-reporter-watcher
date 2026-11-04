@@ -875,7 +875,17 @@
       "url": "https://n.news.naver.com/article/030/0003482001?type=journalists",
       "published_at": "2026-11-04T23:59:59+09:00",
       "sent_at": "2026-11-04T10:53:56.623740+09:00"
+    },
+    {
+      "id": "bdebf72fefbca5c93a23fe4502e6058379be1081daa5d9bcc31a1e582aa931a1",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "넷마블 '나 혼자만 레벨업: 어라이즈 오버드라이브' 콘솔 출시",
+      "url": "https://n.news.naver.com/article/001/0016420898?type=journalists",
+      "published_at": "2026-11-04T11:19:19+09:00",
+      "sent_at": "2026-11-04T11:34:33.764428+09:00"
     }
   ],
-  "last_run_at": "2026-11-04T02:29:24.581707+00:00"
+  "last_run_at": "2026-11-04T02:34:28.888723+00:00"
 }
