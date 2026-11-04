@@ -857,7 +857,17 @@
       "url": "https://news.mtn.co.kr/article/2026110410513024168",
       "published_at": "Wed, 04 Nov 2026 13:18:00 +0900",
       "sent_at": "2026-11-04T13:22:17.675996+09:00"
+    },
+    {
+      "id": "0407dac181e26b185cb3ef74c481c37110acf5db2eafc6ef3f9711eae3e25eee",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "'니케' PC 런처 악성코드 유입 정황... 中퍼블리셔 글로벌 게임 공급망 보안 '비상'",
+      "url": "https://n.news.naver.com/article/030/0003482180?type=journalists",
+      "published_at": "2026-11-04T14:58:18+09:00",
+      "sent_at": "2026-11-04T15:14:02.835363+09:00"
     }
   ],
-  "last_run_at": "2026-11-04T06:08:52.095844+00:00"
+  "last_run_at": "2026-11-04T06:13:58.346199+00:00"
 }
