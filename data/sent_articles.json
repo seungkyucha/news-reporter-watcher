@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "b1a011cabe0b902ae4882d384bb272f9ce4d3992768b0985d611ee21a3d1da69",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "extra_channels": [],
-      "title": "지스타 2026, 스팀과 손잡고 글로벌 확장... 인디게임 114개사 전세계 노출",
-      "url": "https://n.news.naver.com/article/030/0003479694?type=journalists",
-      "published_at": "2026-10-28T23:59:59+09:00",
-      "sent_at": "2026-10-28T15:24:06.542775+09:00"
-    },
-    {
       "id": "1e24d4c41b767c8c1b9a4c8d7be80441f2e9e56c154ddb96a017e1d37bccda92",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -869,5 +859,5 @@
       "sent_at": "2026-11-04T15:14:02.835363+09:00"
     }
   ],
-  "last_run_at": "2026-11-04T06:19:05.869316+00:00"
+  "last_run_at": "2026-11-04T06:24:10.491013+00:00"
 }
