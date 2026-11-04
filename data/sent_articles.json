@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "c66b4fe022c2d364c0a34132cb1f7b80a537c0fdcf1c5c50611b37e0ae2daa3c",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "extra_channels": [],
-      "title": "'대한민국 게임박물관' 만든다…운영기관·후보지 공모",
-      "url": "https://n.news.naver.com/article/001/0016406113?type=journalists",
-      "published_at": "2026-10-28T13:41:30+09:00",
-      "sent_at": "2026-10-28T13:56:56.531322+09:00"
-    },
-    {
       "id": "68473b4340549c7db76528eed61a902fd5a7735a64e8478a5f284b3f2fb11a0a",
       "reporter": "박정은",
       "press": "전자신문",
@@ -929,5 +919,5 @@
       "sent_at": "2026-11-04T13:22:17.675996+09:00"
     }
   ],
-  "last_run_at": "2026-11-04T04:52:43.132070+00:00"
+  "last_run_at": "2026-11-04T04:57:47.761301+00:00"
 }
