@@ -925,7 +925,19 @@
       "url": "https://n.news.naver.com/article/030/0003482047?type=journalists",
       "published_at": "2026-11-04T23:59:59+09:00",
       "sent_at": "2026-11-04T12:25:52.035483+09:00"
+    },
+    {
+      "id": "eed776570f7c724598f4474bd824361c2ddc75120804bf957f5d4c6183d3d0ab",
+      "reporter": "서정근",
+      "press": "MTN",
+      "extra_channels": [
+        "seo"
+      ],
+      "title": "[단독]'중징계 파문' 엔씨 퇴임 인원 \"사내 프로젝트 유출하지 않았다\"",
+      "url": "https://news.mtn.co.kr/article/2026110410513024168",
+      "published_at": "Wed, 04 Nov 2026 13:18:00 +0900",
+      "sent_at": "2026-11-04T13:22:17.675996+09:00"
     }
   ],
-  "last_run_at": "2026-11-04T04:17:08.769201+00:00"
+  "last_run_at": "2026-11-04T04:22:13.451032+00:00"
 }
