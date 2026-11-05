@@ -1,26 +1,6 @@
 {
   "sent": [
     {
-      "id": "fbb24d8773a6401df1abef9a0bb8a6110aecc474849118524fe0653f5d240cd4",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "extra_channels": [],
-      "title": "처클피시, '위치브룩' 내년 1월 28일 출시 확정",
-      "url": "https://n.news.naver.com/article/001/0016407880?type=journalists",
-      "published_at": "2026-10-29T09:46:55+09:00",
-      "sent_at": "2026-10-29T10:04:11.991131+09:00"
-    },
-    {
-      "id": "86dfe091f51e22cbe839113fdaf3f0b6d25f5f2e86d1719f5dab2e41e0c5ece6",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "extra_channels": [],
-      "title": "장병규 크래프톤 의장 \"가능성은 편안한 곳 벗어날 때 시작\"",
-      "url": "https://n.news.naver.com/article/001/0016407878?type=journalists",
-      "published_at": "2026-10-29T09:46:35+09:00",
-      "sent_at": "2026-10-29T10:04:15.045475+09:00"
-    },
-    {
       "id": "01744a0bbcfab69f46030c2568d0c4a8a330f001128193e0d6d2dab171c8873c",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -847,5 +827,5 @@
       "sent_at": "2026-11-05T09:57:15.221539+09:00"
     }
   ],
-  "last_run_at": "2026-11-05T01:02:17.806848+00:00"
+  "last_run_at": "2026-11-05T01:07:21.813714+00:00"
 }
