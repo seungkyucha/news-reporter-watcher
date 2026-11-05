@@ -835,7 +835,17 @@
       "url": "https://n.news.naver.com/article/001/0016423906?type=journalists",
       "published_at": "2026-11-05T12:34:01+09:00",
       "sent_at": "2026-11-05T12:44:50.683482+09:00"
+    },
+    {
+      "id": "4246c6a50686bb9fc7dd9d7cf51b6de6c13f48470214689f98100b1738076206",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "토종 앱마켓 넘어 게임·콘텐츠 종합 플랫폼으로... 넥써쓰, 원스토어 중심 사업 재편 가속",
+      "url": "https://n.news.naver.com/article/030/0003482554?type=journalists",
+      "published_at": "2026-11-05T13:17:11+09:00",
+      "sent_at": "2026-11-05T13:35:31.874158+09:00"
     }
   ],
-  "last_run_at": "2026-11-05T04:30:23.845768+00:00"
+  "last_run_at": "2026-11-05T04:35:27.660828+00:00"
 }
