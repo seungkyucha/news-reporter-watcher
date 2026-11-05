@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "c4ca32851d417d21fa3ec776b3094a130bf9caa4d2cea706f61d9cab130aac7a",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "extra_channels": [],
-      "title": "[게임스냅] 넥슨, '템빨: 오버기어드' 쇼케이스 11월 5일 개최",
-      "url": "https://n.news.naver.com/article/001/0016408443?type=journalists",
-      "published_at": "2026-10-29T11:23:39+09:00",
-      "sent_at": "2026-10-29T11:36:07.338422+09:00"
-    },
-    {
       "id": "866a0bf865db598660c8eca7fef10f8d941a307aca6d9f2aa806df532fa3bd96",
       "reporter": "박정은",
       "press": "전자신문",
@@ -837,5 +827,5 @@
       "sent_at": "2026-11-05T10:12:43.193690+09:00"
     }
   ],
-  "last_run_at": "2026-11-05T02:33:45.803982+00:00"
+  "last_run_at": "2026-11-05T02:38:49.733826+00:00"
 }
