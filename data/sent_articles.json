@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "41c941821e9553a671347ef1b446906201e98df4b68e1518c929b0a7261fbe7a",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "extra_channels": [],
-      "title": "게임 등급분류 민간 이양 확대…'청불 모바일 게임'도 포함",
-      "url": "https://n.news.naver.com/article/001/0016409845?type=journalists",
-      "published_at": "2026-10-29T23:59:59+09:00",
-      "sent_at": "2026-10-29T17:02:33.694653+09:00"
-    },
-    {
       "id": "d20a7085b84a2604efadc3259f0b4fbc2cd651d2b0af9ebe23506cc2d78b9334",
       "reporter": "박정은",
       "press": "전자신문",
@@ -857,7 +847,17 @@
       "url": "https://n.news.naver.com/article/001/0016424597?type=journalists",
       "published_at": "2026-11-05T15:59:34+09:00",
       "sent_at": "2026-11-05T16:08:52.612196+09:00"
+    },
+    {
+      "id": "270a646420448866283ee324777a6316a404bc64dc703ce85789a0389b917545",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "넷마블 3분기 영업익 504억원... 내년 신작 13종·중국 확장으로 반등 모색",
+      "url": "https://n.news.naver.com/article/030/0003482751?type=journalists",
+      "published_at": "2026-11-05T23:59:59+09:00",
+      "sent_at": "2026-11-05T17:04:52.308770+09:00"
     }
   ],
-  "last_run_at": "2026-11-05T07:59:33.956362+00:00"
+  "last_run_at": "2026-11-05T08:04:37.882660+00:00"
 }
