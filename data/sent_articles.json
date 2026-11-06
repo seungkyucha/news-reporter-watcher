@@ -807,7 +807,17 @@
       "url": "https://n.news.naver.com/article/001/0016425552?type=journalists",
       "published_at": "2026-11-06T23:59:59+09:00",
       "sent_at": "2026-11-06T09:56:17.650877+09:00"
+    },
+    {
+      "id": "cbca6d6a0a6ba4a8957da23afe2f6025bbaa232c0cdf753f68db187be41ab23c",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "넷마블 카밤, 'WB 올스타 키우기' 공개... 배트맨·벅스 버니 등 100여 캐릭터 집결",
+      "url": "https://n.news.naver.com/article/030/0003483008?type=journalists",
+      "published_at": "2026-11-06T23:59:59+09:00",
+      "sent_at": "2026-11-06T13:24:42.887020+09:00"
     }
   ],
-  "last_run_at": "2026-11-06T04:19:24.204162+00:00"
+  "last_run_at": "2026-11-06T04:24:28.611970+00:00"
 }
