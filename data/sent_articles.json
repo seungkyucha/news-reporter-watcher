@@ -867,7 +867,17 @@
       "url": "https://n.news.naver.com/article/030/0003483159?type=journalists",
       "published_at": "2026-11-07T07:01:10+09:00",
       "sent_at": "2026-11-07T07:17:22.367622+09:00"
+    },
+    {
+      "id": "6abb29024e422abcf98e5176e26378b72f6445f84d4b8f5f19a2cd715b74d2ad",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "[가보니] 밤새 AI와 씨름한 대학생들…24시간 만에 게임 뚝딱",
+      "url": "https://n.news.naver.com/article/001/0016427632?type=journalists",
+      "published_at": "2026-11-07T07:15:00+09:00",
+      "sent_at": "2026-11-07T07:22:30.733029+09:00"
     }
   ],
-  "last_run_at": "2026-11-06T22:17:18.024573+00:00"
+  "last_run_at": "2026-11-06T22:22:25.779594+00:00"
 }
