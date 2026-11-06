@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "0213f7fca860596714cf27c7ecd2c19bb6c911f3d9c61be48f33c6bf3bb79678",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "extra_channels": [],
-      "title": "게임 '배틀그라운드', 넷플릭스 시리즈 된다…실사화 발표",
-      "url": "https://n.news.naver.com/article/001/0016411757?type=journalists",
-      "published_at": "2026-10-30T23:59:59+09:00",
-      "sent_at": "2026-10-30T14:03:37.699483+09:00"
-    },
-    {
       "id": "26b7488d0d6241b47cb40c2089af0fe1bfb6b81beb22df5b095d36b887db6ff0",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -827,7 +817,27 @@
       "url": "https://n.news.naver.com/article/001/0016426249?type=journalists",
       "published_at": "2026-11-06T23:59:59+09:00",
       "sent_at": "2026-11-06T13:55:22.253781+09:00"
+    },
+    {
+      "id": "6bbc99305ba75f13199220cb822ee8108c16d815ee0c7373730591439af4a9d0",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "'임진록' 계승작 나온다…'프로젝트 진달래' 2차 CBT 모집",
+      "url": "https://n.news.naver.com/article/001/0016426316?type=journalists",
+      "published_at": "2026-11-06T13:51:50+09:00",
+      "sent_at": "2026-11-06T14:05:34.308727+09:00"
+    },
+    {
+      "id": "b48127f43646b639ed48e1529ba6800c6e53e9d51741025ad1e1277b04f31177",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "넥슨, '테일즈위버 모바일' 공개…FGT 참가자 모집",
+      "url": "https://n.news.naver.com/article/001/0016426307?type=journalists",
+      "published_at": "2026-11-06T13:49:37+09:00",
+      "sent_at": "2026-11-06T14:05:36.937017+09:00"
     }
   ],
-  "last_run_at": "2026-11-06T05:00:24.513580+00:00"
+  "last_run_at": "2026-11-06T05:05:28.700606+00:00"
 }
