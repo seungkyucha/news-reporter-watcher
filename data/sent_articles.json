@@ -817,7 +817,17 @@
       "url": "https://n.news.naver.com/article/030/0003483008?type=journalists",
       "published_at": "2026-11-06T23:59:59+09:00",
       "sent_at": "2026-11-06T13:24:42.887020+09:00"
+    },
+    {
+      "id": "82377fd980194b4f27d0b1699aacdd5a36e8432f927b988c53099678ad5afd29",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "BLG 벽 앞에 무너진 디플러스 기아…월즈 8강전서 0-3 패",
+      "url": "https://n.news.naver.com/article/001/0016426249?type=journalists",
+      "published_at": "2026-11-06T23:59:59+09:00",
+      "sent_at": "2026-11-06T13:55:22.253781+09:00"
     }
   ],
-  "last_run_at": "2026-11-06T04:50:03.458454+00:00"
+  "last_run_at": "2026-11-06T04:55:07.357684+00:00"
 }
