@@ -847,7 +847,27 @@
       "url": "https://n.news.naver.com/article/030/0003483031?type=journalists",
       "published_at": "2026-11-06T14:28:14+09:00",
       "sent_at": "2026-11-06T14:46:19.515700+09:00"
+    },
+    {
+      "id": "e638013fe95dd26ef9631a43752121c27ad159ed24aafc00135921f3262ccdc2",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "넷마블, '가디언 테일즈: 디그닷' 최초 공개... 2027년 출시",
+      "url": "https://n.news.naver.com/article/030/0003483042?type=journalists",
+      "published_at": "2026-11-06T23:59:59+09:00",
+      "sent_at": "2026-11-06T14:56:41.774125+09:00"
+    },
+    {
+      "id": "4339d3bef7b5fbbfdb49f4b1ea809457dc68f35ae56eb2973cdd784cf352631d",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "스마일게이트, 추리 어드벤처 '사이코 슬루스' 출시... 인지 장애를 추리 장치로",
+      "url": "https://n.news.naver.com/article/030/0003483038?type=journalists",
+      "published_at": "2026-11-06T14:38:15+09:00",
+      "sent_at": "2026-11-06T14:56:44.210104+09:00"
     }
   ],
-  "last_run_at": "2026-11-06T05:51:22.224958+00:00"
+  "last_run_at": "2026-11-06T05:56:27.143789+00:00"
 }
