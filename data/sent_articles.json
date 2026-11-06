@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "441b37d8e86801f489f87099dd9bdf2f4f76bcc79d111e75d5d1db65526fb1ae",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "extra_channels": [],
-      "title": "넥써쓰, 두바이 정부와 게임산업 협력…원스토어 주축",
-      "url": "https://n.news.naver.com/article/001/0016410965?type=journalists",
-      "published_at": "2026-10-30T09:34:44+09:00",
-      "sent_at": "2026-10-30T09:44:04.728158+09:00"
-    },
-    {
       "id": "e318a0fcc64f889d3cace204c0e4df515f137263f82c234e266da8dd0c353dc8",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -837,7 +827,17 @@
       "url": "https://n.news.naver.com/article/001/0016424863?type=journalists",
       "published_at": "2026-11-05T17:04:15+09:00",
       "sent_at": "2026-11-05T17:09:59.916124+09:00"
+    },
+    {
+      "id": "9b3bdd34ecf9c2dd26fdd1f6c0b1ab6b7e22f59843a72a0c2f9d54c4a494126a",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "'스텔라 블레이드', 스위치2로 영역 확장... 90년대풍 실사 광고 9시간 만에 100만뷰",
+      "url": "https://n.news.naver.com/article/030/0003482891?type=journalists",
+      "published_at": "2026-11-06T23:59:59+09:00",
+      "sent_at": "2026-11-06T09:45:52.848004+09:00"
     }
   ],
-  "last_run_at": "2026-11-06T00:40:33.899693+00:00"
+  "last_run_at": "2026-11-06T00:45:38.029147+00:00"
 }
