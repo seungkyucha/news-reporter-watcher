@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "26b7488d0d6241b47cb40c2089af0fe1bfb6b81beb22df5b095d36b887db6ff0",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "extra_channels": [],
-      "title": "'콜 오브 듀티' 제작진 사과…이태원 참사 영상 삭제 예정",
-      "url": "https://n.news.naver.com/article/001/0016411797?type=journalists",
-      "published_at": "2026-10-30T23:59:59+09:00",
-      "sent_at": "2026-10-30T14:13:58.049891+09:00"
-    },
-    {
       "id": "63c85b59a3392faf77dc3d888408c2ae7b7fd7b9465686ae3ee23e8ba0c84c54",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -837,7 +827,17 @@
       "url": "https://n.news.naver.com/article/001/0016426307?type=journalists",
       "published_at": "2026-11-06T13:49:37+09:00",
       "sent_at": "2026-11-06T14:05:36.937017+09:00"
+    },
+    {
+      "id": "6e11d91047470a5051a75bb70d795d3c211dc423a90ca1facdd59ad7261df6ab",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "엔드림, 임진왜란 RTS '프로젝트: 진달래' 2차 CBT 모집... 2027년 1분기 출시",
+      "url": "https://n.news.naver.com/article/030/0003483026?type=journalists",
+      "published_at": "2026-11-06T14:04:11+09:00",
+      "sent_at": "2026-11-06T14:15:48.115588+09:00"
     }
   ],
-  "last_run_at": "2026-11-06T05:10:39.198053+00:00"
+  "last_run_at": "2026-11-06T05:15:43.571571+00:00"
 }
