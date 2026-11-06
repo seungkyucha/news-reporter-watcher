@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "23ede6682d299d5598854950f522275e144cd5a0ce53ba5c1b70ee57500b8ebd",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "extra_channels": [],
-      "title": "SOOP, 플랫폼 매출 감소에 3분기 영업익 59.9%↓(종합)",
-      "url": "https://n.news.naver.com/article/001/0016412327?type=journalists",
-      "published_at": "2026-10-30T16:05:36+09:00",
-      "sent_at": "2026-10-30T16:25:59.881445+09:00"
-    },
-    {
       "id": "aa68ff90accbbffa4552f464bc438b36ebdb208f9eb612c609c0b0a0025517c4",
       "reporter": "박정은",
       "press": "전자신문",
@@ -869,5 +859,5 @@
       "sent_at": "2026-11-06T16:13:14.191020+09:00"
     }
   ],
-  "last_run_at": "2026-11-06T07:23:21.108818+00:00"
+  "last_run_at": "2026-11-06T07:28:25.609331+00:00"
 }
