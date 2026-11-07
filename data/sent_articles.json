@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "76ecb5b54f96d0ded62979f10eb3e560762ba6d6921ae140d31f53edb04d3775",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "extra_channels": [],
-      "title": "[게임위드인] AI가 인터넷을 장악한다면…'사이버펑크 2077'의 경고",
-      "url": "https://n.news.naver.com/article/001/0016413209?type=journalists",
-      "published_at": "2026-10-31T11:00:00+09:00",
-      "sent_at": "2026-10-31T11:13:17.641237+09:00"
-    },
-    {
       "id": "812a08ef09994e9114401ca2851e558270cae19d0b9137fc9c5d91bd3ef4b5af",
       "reporter": "서정근",
       "press": "MTN",
@@ -867,7 +857,27 @@
       "url": "https://n.news.naver.com/article/001/0016427632?type=journalists",
       "published_at": "2026-11-07T07:15:00+09:00",
       "sent_at": "2026-11-07T07:22:30.733029+09:00"
+    },
+    {
+      "id": "29ab8ed754baf9e0bdfaf02be840fd3f1d60b70bf3f1b9de5967bcf55d6944f8",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "T1, 카르민코프에 3-1 승…월드 챔피언십 4강 진출",
+      "url": "https://n.news.naver.com/article/001/0016427734?type=journalists",
+      "published_at": "2026-11-07T23:59:59+09:00",
+      "sent_at": "2026-11-07T11:16:03.240862+09:00"
+    },
+    {
+      "id": "c850b9cb20f578374dc06ced5a8c2d968509325fc015cf0b0a6ad40d4bf91d47",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "[게임위드인] 28년 전 걸작의 부활, '젤다의 전설: 시간의 오카리나'",
+      "url": "https://n.news.naver.com/article/001/0016427733?type=journalists",
+      "published_at": "2026-11-07T11:00:00+09:00",
+      "sent_at": "2026-11-07T11:16:05.807802+09:00"
     }
   ],
-  "last_run_at": "2026-11-07T02:10:43.866571+00:00"
+  "last_run_at": "2026-11-07T02:15:48.013325+00:00"
 }
