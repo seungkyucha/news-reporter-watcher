@@ -877,7 +877,17 @@
       "url": "https://n.news.naver.com/article/001/0016427733?type=journalists",
       "published_at": "2026-11-07T11:00:00+09:00",
       "sent_at": "2026-11-07T11:16:05.807802+09:00"
+    },
+    {
+      "id": "8e63d788c2c424f968f96b4d16c6bd5afaaadb9bf09d20024a90466b22c72514",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "“모두 같은 출발선에 섰다”... 넥슨어린이재활병원 10주년, 3000명 함께 달렸다",
+      "url": "https://n.news.naver.com/article/030/0003483173?type=journalists",
+      "published_at": "2026-11-07T11:10:14+09:00",
+      "sent_at": "2026-11-07T11:26:35.724560+09:00"
     }
   ],
-  "last_run_at": "2026-11-07T02:21:08.427749+00:00"
+  "last_run_at": "2026-11-07T02:26:31.684589+00:00"
 }
