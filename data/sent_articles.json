@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "b8e6c66f195dd0161f85b87825112e223c853fac39d309bddc7022b8b89be9c1",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "extra_channels": [],
-      "title": "[테크스냅] KT, 복합재난 대비 통신 긴급복구 체계 점검",
-      "url": "https://n.news.naver.com/article/001/0016413747?type=journalists",
-      "published_at": "2026-11-01T09:52:17+09:00",
-      "sent_at": "2026-11-01T10:01:26.138644+09:00"
-    },
-    {
       "id": "f49d41b5a2200a8562f58726f978c01bfe8dd5cc25a7b960fbf582f87b5dd0c2",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -865,5 +855,5 @@
       "sent_at": "2026-11-07T11:26:35.724560+09:00"
     }
   ],
-  "last_run_at": "2026-11-08T00:59:59.824028+00:00"
+  "last_run_at": "2026-11-08T01:05:03.866467+00:00"
 }
