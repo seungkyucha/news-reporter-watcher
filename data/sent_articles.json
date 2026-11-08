@@ -853,7 +853,17 @@
       "url": "https://n.news.naver.com/article/030/0003483173?type=journalists",
       "published_at": "2026-11-07T11:10:14+09:00",
       "sent_at": "2026-11-07T11:26:35.724560+09:00"
+    },
+    {
+      "id": "5c1c52587576ccfd676d6fb5d5956ae3e9177073132dbb5653ef4d34a53a09b2",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "젠지, 2026 LoL 월드 챔피언십 결승 진출…IG에 3-0 완승",
+      "url": "https://n.news.naver.com/article/001/0016428590?type=journalists",
+      "published_at": "2026-11-08T09:59:51+09:00",
+      "sent_at": "2026-11-08T10:15:17.695700+09:00"
     }
   ],
-  "last_run_at": "2026-11-08T01:10:07.743500+00:00"
+  "last_run_at": "2026-11-08T01:15:12.036608+00:00"
 }
