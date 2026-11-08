@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "fc01c2ac09389f906e0d3fc05493edcb1191a433b3d44850c11b4543e7b44be1",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "extra_channels": [],
-      "title": "대국민 AI 서비스 추진단장에 김세웅 전 카카오 부사장",
-      "url": "https://n.news.naver.com/article/001/0016413848?type=journalists",
-      "published_at": "2026-11-01T12:00:05+09:00",
-      "sent_at": "2026-11-01T12:13:43.213909+09:00"
-    },
-    {
       "id": "838c2d2aab87b4d304b647b19e38d1deeb70f7fa2373b9eb3b3234c4ccac0ff7",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -855,5 +845,5 @@
       "sent_at": "2026-11-08T10:15:17.695700+09:00"
     }
   ],
-  "last_run_at": "2026-11-08T03:11:53.593594+00:00"
+  "last_run_at": "2026-11-08T03:16:57.510644+00:00"
 }
