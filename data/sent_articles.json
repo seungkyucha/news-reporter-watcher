@@ -833,7 +833,17 @@
       "url": "https://n.news.naver.com/article/001/0016428590?type=journalists",
       "published_at": "2026-11-08T09:59:51+09:00",
       "sent_at": "2026-11-08T10:15:17.695700+09:00"
+    },
+    {
+      "id": "536a56d2977a8009ac4204efbe2793a8c3d07979441b0b8a95047f24a28e5c6e",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "넥슨 '블루 아카이브' 5주년…1만2000명 몰린 킨텍스, 게임 밖 팬덤 축제로",
+      "url": "https://n.news.naver.com/article/030/0003483283?type=journalists",
+      "published_at": "2026-11-08T13:38:13+09:00",
+      "sent_at": "2026-11-08T13:53:33.531686+09:00"
     }
   ],
-  "last_run_at": "2026-11-08T04:48:26.180223+00:00"
+  "last_run_at": "2026-11-08T04:53:29.752106+00:00"
 }
