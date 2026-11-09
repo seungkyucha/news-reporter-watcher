@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "e3c008a02650546ea00256434614b9b60ce157cb54696ed744d3fe7b4ce757d3",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "extra_channels": [],
-      "title": "한국 모바일게임 다운로드는 줄었지만 수익성은 역대 최고",
-      "url": "https://n.news.naver.com/article/001/0016414997?type=journalists",
-      "published_at": "2026-11-02T10:01:46+09:00",
-      "sent_at": "2026-11-02T10:14:09.997620+09:00"
-    },
-    {
       "id": "71120bd280521e6906ef5396609329a2002a8af22a93c786295681c79ea53e1c",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -853,7 +843,17 @@
       "url": "https://n.news.naver.com/article/001/0016430281?type=journalists",
       "published_at": "2026-11-09T09:30:14+09:00",
       "sent_at": "2026-11-09T09:45:32.174058+09:00"
+    },
+    {
+      "id": "af98f760f3bc48fada2259fedaf23fe2bf1f0aba0570c6543f2fa59ef33d74eb",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "신작 2종 들고 지스타 가는 호요버스…\"유저 목소리에 집중\"",
+      "url": "https://n.news.naver.com/article/001/0016430376?type=journalists",
+      "published_at": "2026-11-09T23:59:59+09:00",
+      "sent_at": "2026-11-09T10:16:10.998624+09:00"
     }
   ],
-  "last_run_at": "2026-11-09T01:10:52.273602+00:00"
+  "last_run_at": "2026-11-09T01:15:56.275572+00:00"
 }
