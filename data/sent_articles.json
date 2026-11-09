@@ -833,7 +833,17 @@
       "url": "https://n.news.naver.com/article/030/0003483283?type=journalists",
       "published_at": "2026-11-08T13:38:13+09:00",
       "sent_at": "2026-11-08T13:53:33.531686+09:00"
+    },
+    {
+      "id": "b8699f4c6730c76d502a13db50b58ca490c71ef0919589ee1c177a2112443cc4",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "데브시스터즈, 롯데월드서 '쿠키런 겨울 축제' 연다",
+      "url": "https://n.news.naver.com/article/001/0016430120?type=journalists",
+      "published_at": "2026-11-09T08:46:21+09:00",
+      "sent_at": "2026-11-09T09:04:53.641361+09:00"
     }
   ],
-  "last_run_at": "2026-11-08T23:59:32.368051+00:00"
+  "last_run_at": "2026-11-09T00:04:47.996645+00:00"
 }
