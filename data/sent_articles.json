@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "5a7b7ad013b036afda0ce83e6257dab89c882095277f630eed6fc2d5cc936cb9",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "extra_channels": [],
-      "title": "[AI픽] 크래프톤, 사람 의도 읽는 로봇 AI '루디 0.2' 공개",
-      "url": "https://n.news.naver.com/article/001/0016415138?type=journalists",
-      "published_at": "2026-11-02T10:21:15+09:00",
-      "sent_at": "2026-11-02T10:34:43.567828+09:00"
-    },
-    {
       "id": "1ae2cd576c6853a0413bbcab36c8371520fa279e600f407285ab2ce2d14139e8",
       "reporter": "박정은",
       "press": "전자신문",
@@ -845,5 +835,5 @@
       "sent_at": "2026-11-09T10:16:10.998624+09:00"
     }
   ],
-  "last_run_at": "2026-11-09T01:31:21.201215+00:00"
+  "last_run_at": "2026-11-09T01:36:25.936544+00:00"
 }
