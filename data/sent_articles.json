@@ -1,36 +1,6 @@
 {
   "sent": [
     {
-      "id": "e2d1d54112252e8c54e77a5920a2aa7230067ee5e051964941a96fe4130e43b5",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "extra_channels": [],
-      "title": "'승리의 여신: 니케' 4주년 글로벌 캠페인... 한·일 앱마켓 매출 1위",
-      "url": "https://n.news.naver.com/article/030/0003481247?type=journalists",
-      "published_at": "2026-11-02T16:35:11+09:00",
-      "sent_at": "2026-11-02T16:45:32.983570+09:00"
-    },
-    {
-      "id": "954d254176f95579b66c0daf042aeefadb3e30496cc7fcb0cd304ea54d0995c8",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "extra_channels": [],
-      "title": "컴투스, '2026 한국프로야구선수협회장배 전국 중등·여자야구 왕중왕전' 후원",
-      "url": "https://n.news.naver.com/article/030/0003481245?type=journalists",
-      "published_at": "2026-11-02T16:32:16+09:00",
-      "sent_at": "2026-11-02T16:45:35.614961+09:00"
-    },
-    {
-      "id": "84e15276c74d84808f9fe2085356b3e1f8053f312cb5b27cfd7142cdc3cdc621",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "extra_channels": [],
-      "title": "콘진원, 'AI 게임랩 데이 2026' 개최…게임 개발 현장 AI 활용 사례 공유",
-      "url": "https://n.news.naver.com/article/030/0003481243?type=journalists",
-      "published_at": "2026-11-02T23:59:59+09:00",
-      "sent_at": "2026-11-02T16:45:47.853995+09:00"
-    },
-    {
       "id": "7bed3c845bf503c32bb6f3dcd411835a585ed7753e7bd0d89289769dced5c6c2",
       "reporter": "박정은",
       "press": "전자신문",
@@ -885,5 +855,5 @@
       "sent_at": "2026-11-09T15:07:19.402299+09:00"
     }
   ],
-  "last_run_at": "2026-11-09T07:43:39.197138+00:00"
+  "last_run_at": "2026-11-09T07:48:43.094173+00:00"
 }
