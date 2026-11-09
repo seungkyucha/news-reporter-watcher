@@ -883,7 +883,17 @@
       "url": "https://n.news.naver.com/article/001/0016431308?type=journalists",
       "published_at": "2026-11-09T23:59:59+09:00",
       "sent_at": "2026-11-09T14:36:47.901153+09:00"
+    },
+    {
+      "id": "c2bcff50939dab7790ee9b2d255ccc0dd396db4d402fa0977528ad2882be1e1e",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "스마일게이트 '미래시', 일본 도쿄게임쇼 이어 코믹마켓 출품",
+      "url": "https://n.news.naver.com/article/001/0016431399?type=journalists",
+      "published_at": "2026-11-09T14:47:05+09:00",
+      "sent_at": "2026-11-09T15:07:19.402299+09:00"
     }
   ],
-  "last_run_at": "2026-11-09T06:02:07.758865+00:00"
+  "last_run_at": "2026-11-09T06:07:14.076703+00:00"
 }
