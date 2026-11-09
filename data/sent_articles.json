@@ -853,7 +853,17 @@
       "url": "https://n.news.naver.com/article/001/0016430590?type=journalists",
       "published_at": "2026-11-09T23:59:59+09:00",
       "sent_at": "2026-11-09T11:02:40.595887+09:00"
+    },
+    {
+      "id": "8b3de10ec874cf31642938a8c383fd13d55735b354326788695172f274433676",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "소니, '플레이스테이션 포털 플레이어' 12월 10일 출시... PS5 없이 클라우드 게임",
+      "url": "https://n.news.naver.com/article/030/0003483490?type=journalists",
+      "published_at": "2026-11-09T23:59:59+09:00",
+      "sent_at": "2026-11-09T11:07:57.506084+09:00"
     }
   ],
-  "last_run_at": "2026-11-09T02:02:25.782515+00:00"
+  "last_run_at": "2026-11-09T02:07:42.961811+00:00"
 }
