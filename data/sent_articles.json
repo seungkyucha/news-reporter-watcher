@@ -833,7 +833,17 @@
       "url": "https://n.news.naver.com/article/001/0016430376?type=journalists",
       "published_at": "2026-11-09T23:59:59+09:00",
       "sent_at": "2026-11-09T10:16:10.998624+09:00"
+    },
+    {
+      "id": "857c4469bc6cf2ae3f592e774d0cc02fa19472e2a60b24ea5c122baa4fa1ce79",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "조이시티 '프리스타일 풋볼 2', 지스타 2026 출품…12월 3일 글로벌 출시",
+      "url": "https://n.news.naver.com/article/030/0003483475?type=journalists",
+      "published_at": "2026-11-09T23:59:59+09:00",
+      "sent_at": "2026-11-09T10:46:48.453959+09:00"
     }
   ],
-  "last_run_at": "2026-11-09T01:41:30.005924+00:00"
+  "last_run_at": "2026-11-09T01:46:34.181059+00:00"
 }
