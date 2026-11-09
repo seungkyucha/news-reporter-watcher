@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "e85eb9beb138b50181c58793f351775ed033b67bd462cb6a4e9c2e757b69c689",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "extra_channels": [],
-      "title": "크래프톤, K팝 AI 채팅앱 '키프' 출시…피프티피프티 참여",
-      "url": "https://n.news.naver.com/article/001/0016416274?type=journalists",
-      "published_at": "2026-11-02T14:37:48+09:00",
-      "sent_at": "2026-11-02T14:53:42.593732+09:00"
-    },
-    {
       "id": "2abc5cc02bd64bfeb1d509ce23f620b7cdf2216da740d233baff8c7e7eff344d",
       "reporter": "박정은",
       "press": "전자신문",
@@ -895,5 +885,5 @@
       "sent_at": "2026-11-09T14:36:47.901153+09:00"
     }
   ],
-  "last_run_at": "2026-11-09T05:51:58.931851+00:00"
+  "last_run_at": "2026-11-09T05:57:02.903926+00:00"
 }
