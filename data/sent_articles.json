@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "34197c19184a529c52ef14ceb092e3345e64dce503af6e2aacbcdd16b6351dd1",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "extra_channels": [],
-      "title": "[해보니] 손안에서도 살아난 액션…스위치2 '스텔라 블레이드'",
-      "url": "https://n.news.naver.com/article/001/0016417215?type=journalists",
-      "published_at": "2026-11-03T07:00:04+09:00",
-      "sent_at": "2026-11-03T07:15:07.425883+09:00"
-    },
-    {
       "id": "aa161f8b3469ba98ad4d7cc36cb1b327ad9f701a122ac94cab047aac9bf440c5",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -825,5 +815,5 @@
       "sent_at": "2026-11-09T17:44:41.822416+09:00"
     }
   ],
-  "last_run_at": "2026-11-09T22:12:05.157143+00:00"
+  "last_run_at": "2026-11-09T22:17:09.364154+00:00"
 }
