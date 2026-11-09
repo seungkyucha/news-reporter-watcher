@@ -853,7 +853,47 @@
       "url": "https://n.news.naver.com/article/030/0003483594?type=journalists",
       "published_at": "2026-11-09T13:59:15+09:00",
       "sent_at": "2026-11-09T14:15:59.986601+09:00"
+    },
+    {
+      "id": "4c4fed20fbbfca8e2ba2a73fa112e99ebf53116ee6075f242ef0ebd07a1b16f2",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "스마일게이트 '미래시', 日 코미케 109 출품... 서브컬처 팬 접점 확대",
+      "url": "https://n.news.naver.com/article/030/0003483615?type=journalists",
+      "published_at": "2026-11-09T14:24:19+09:00",
+      "sent_at": "2026-11-09T14:36:20.278935+09:00"
+    },
+    {
+      "id": "63875c01a46537400450e0f63cb5e797123254c0cd9cb514d4eea75bde3e7ac0",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "넥슨, '오버워치' 첫 아마추어 e스포츠 대회 OWGS 개최... 청소년·대학생 학교 대항전",
+      "url": "https://n.news.naver.com/article/030/0003483611?type=journalists",
+      "published_at": "2026-11-09T23:59:59+09:00",
+      "sent_at": "2026-11-09T14:36:32.599955+09:00"
+    },
+    {
+      "id": "3c202aacc695ec745353a64cb9ef6c2f8f651937239b8b35f8c06c02a5f2035a",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "'패스 오브 엑자일 2' 12월 12일 정식 출시... 신규 액트·클래스 공개",
+      "url": "https://n.news.naver.com/article/030/0003483608?type=journalists",
+      "published_at": "2026-11-09T14:18:17+09:00",
+      "sent_at": "2026-11-09T14:36:35.210385+09:00"
+    },
+    {
+      "id": "26d203f70093283fb18149df7e00213d6ee4b2d36f510e39a75891c7ff9fac87",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "우승 학교에 간식 쏜다…넥슨, 오버워치 학교대항전 개최",
+      "url": "https://n.news.naver.com/article/001/0016431308?type=journalists",
+      "published_at": "2026-11-09T23:59:59+09:00",
+      "sent_at": "2026-11-09T14:36:47.901153+09:00"
     }
   ],
-  "last_run_at": "2026-11-09T05:31:11.581244+00:00"
+  "last_run_at": "2026-11-09T05:36:15.654341+00:00"
 }
