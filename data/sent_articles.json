@@ -1,26 +1,6 @@
 {
   "sent": [
     {
-      "id": "1ae2cd576c6853a0413bbcab36c8371520fa279e600f407285ab2ce2d14139e8",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "extra_channels": [],
-      "title": "'붉은사막: 미지의 여정', 거북선·판옥선까지... 숨겨둔 콘텐츠에 글로벌 이용자 '들썩'",
-      "url": "https://n.news.naver.com/article/030/0003480979?type=journalists",
-      "published_at": "2026-11-02T10:43:10+09:00",
-      "sent_at": "2026-11-02T10:55:03.628146+09:00"
-    },
-    {
-      "id": "d47326e088548e52f2784601b4660e447a1e8c1f54083582da71862f7c4aa4cc",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "extra_channels": [],
-      "title": "크래프톤, 사회적 지능 갖춘 로봇 AI '루디 0.2' 공개…게임 AI 현실로 확장",
-      "url": "https://n.news.naver.com/article/030/0003480970?type=journalists",
-      "published_at": "2026-11-02T10:36:18+09:00",
-      "sent_at": "2026-11-02T10:55:06.216885+09:00"
-    },
-    {
       "id": "3d5f7b8602ce17a92c673d209fce240617f947251bb9e2f50a84cfcdbb7dbf4e",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -843,7 +823,27 @@
       "url": "https://n.news.naver.com/article/030/0003483475?type=journalists",
       "published_at": "2026-11-09T23:59:59+09:00",
       "sent_at": "2026-11-09T10:46:48.453959+09:00"
+    },
+    {
+      "id": "4287f67c7c06ad6aedf3d8c2fa529ff9e8344a3c59f95e1a08304d79747082a7",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "네오위즈 '산나비: 귀신 씌인 날'·'안녕서울: 이태원편', 게임문화축제 참가",
+      "url": "https://n.news.naver.com/article/030/0003483480?type=journalists",
+      "published_at": "2026-11-09T23:59:59+09:00",
+      "sent_at": "2026-11-09T10:57:09.764563+09:00"
+    },
+    {
+      "id": "3f8f9377cef31ca971715cdaf4e8a986384a565579ffe9b0e149fa750c9a8246",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "넥슨, IEEE AI 학술대회 최우수논문상…스팀 리뷰 1937만건 분석",
+      "url": "https://n.news.naver.com/article/030/0003483478?type=journalists",
+      "published_at": "2026-11-09T23:59:59+09:00",
+      "sent_at": "2026-11-09T10:57:22.524483+09:00"
     }
   ],
-  "last_run_at": "2026-11-09T01:51:51.592511+00:00"
+  "last_run_at": "2026-11-09T01:56:55.522434+00:00"
 }
