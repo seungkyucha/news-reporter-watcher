@@ -843,7 +843,17 @@
       "url": "https://n.news.naver.com/article/030/0003483478?type=journalists",
       "published_at": "2026-11-09T23:59:59+09:00",
       "sent_at": "2026-11-09T10:57:22.524483+09:00"
+    },
+    {
+      "id": "971ea0f1e44246e9492fad81fbc331844f30be18dc2e84d03c842f80b8f5ead8",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "T1 '중국전 불패' 신화 깨졌다…5년만에 월즈 결승 진출 실패",
+      "url": "https://n.news.naver.com/article/001/0016430590?type=journalists",
+      "published_at": "2026-11-09T23:59:59+09:00",
+      "sent_at": "2026-11-09T11:02:40.595887+09:00"
     }
   ],
-  "last_run_at": "2026-11-09T01:56:55.522434+00:00"
+  "last_run_at": "2026-11-09T02:02:25.782515+00:00"
 }
