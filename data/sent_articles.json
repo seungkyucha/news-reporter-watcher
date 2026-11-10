@@ -883,7 +883,19 @@
       "url": "https://n.news.naver.com/article/001/0016434241?type=journalists",
       "published_at": "2026-11-10T18:07:27+09:00",
       "sent_at": "2026-11-10T18:24:29.999387+09:00"
+    },
+    {
+      "id": "b8565fe1973c4928d74ca03441c2e2a767c380293953909b1522b951e46047cc",
+      "reporter": "서정근",
+      "press": "MTN",
+      "extra_channels": [
+        "seo"
+      ],
+      "title": "이정헌 대표 \"던파IP 기대 못 미쳐...프로젝트 정리 진통 마음 무거웠다...",
+      "url": "https://news.mtn.co.kr/article/2026111019451592310",
+      "published_at": "Tue, 10 Nov 2026 19:46:00 +0900",
+      "sent_at": "2026-11-10T19:50:43.939323+09:00"
     }
   ],
-  "last_run_at": "2026-11-10T10:45:35.492727+00:00"
+  "last_run_at": "2026-11-10T10:50:39.675221+00:00"
 }
