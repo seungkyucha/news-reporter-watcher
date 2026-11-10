@@ -853,7 +853,17 @@
       "url": "https://n.news.naver.com/article/001/0016433961?type=journalists",
       "published_at": "2026-11-10T23:59:59+09:00",
       "sent_at": "2026-11-10T16:17:28.115094+09:00"
+    },
+    {
+      "id": "9b93da0d4b14da3a3470752470720580dfc21a0dcc2ec5fcc977702b0b059e88",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "크래프톤, 매출 늘었지만 영업익 35.5%↓…비용 증가 여파(종합)",
+      "url": "https://n.news.naver.com/article/001/0016434045?type=journalists",
+      "published_at": "2026-11-10T16:19:41+09:00",
+      "sent_at": "2026-11-10T16:32:43.802638+09:00"
     }
   ],
-  "last_run_at": "2026-11-10T07:27:34.596991+00:00"
+  "last_run_at": "2026-11-10T07:32:38.611029+00:00"
 }
