@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "3da8a77ca036dc2135f16f5001c3f91bcedcaa4e61efd7f5ca596d2e73229e6d",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "extra_channels": [],
-      "title": "넥써쓰, 원스토어 연결 효과에 매출 329억…전년 대비 257%↑",
-      "url": "https://n.news.naver.com/article/001/0016419423?type=journalists",
-      "published_at": "2026-11-03T17:26:37+09:00",
-      "sent_at": "2026-11-03T17:45:56.102795+09:00"
-    },
-    {
       "id": "1ed30057f700459150117940f9bb0f948b1285b137be3b05bdc846fc1e1c413f",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -885,5 +875,5 @@
       "sent_at": "2026-11-10T17:23:32.492079+09:00"
     }
   ],
-  "last_run_at": "2026-11-10T08:43:47.264603+00:00"
+  "last_run_at": "2026-11-10T08:48:51.559460+00:00"
 }
