@@ -863,7 +863,17 @@
       "url": "https://n.news.naver.com/article/030/0003484009?type=journalists",
       "published_at": "2026-11-10T23:59:59+09:00",
       "sent_at": "2026-11-10T12:33:37.139366+09:00"
+    },
+    {
+      "id": "5a6d866f19f87d5ea8c3a26105484b6ccf3812199ab6b78fa15278f46f767a7f",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "[ICT 시사용어] 뉴럴 렌더링",
+      "url": "https://n.news.naver.com/article/030/0003484012?type=journalists",
+      "published_at": "2026-11-10T12:32:16+09:00",
+      "sent_at": "2026-11-10T12:43:48.554072+09:00"
     }
   ],
-  "last_run_at": "2026-11-10T03:38:39.699463+00:00"
+  "last_run_at": "2026-11-10T03:43:43.914432+00:00"
 }
