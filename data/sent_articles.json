@@ -853,7 +853,17 @@
       "url": "https://n.news.naver.com/article/030/0003484073?type=journalists",
       "published_at": "2026-11-10T14:03:11+09:00",
       "sent_at": "2026-11-10T14:15:20.993953+09:00"
+    },
+    {
+      "id": "923168eba802cbf0430229e19bef2f7789aff838c9521d2e6262998496ccff88",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "넥슨 3분기 영업익 3천718억…메이플·FC 성과에 전망치 상회",
+      "url": "https://n.news.naver.com/article/001/0016433961?type=journalists",
+      "published_at": "2026-11-10T23:59:59+09:00",
+      "sent_at": "2026-11-10T16:17:28.115094+09:00"
     }
   ],
-  "last_run_at": "2026-11-10T07:12:08.914442+00:00"
+  "last_run_at": "2026-11-10T07:17:13.133804+00:00"
 }
