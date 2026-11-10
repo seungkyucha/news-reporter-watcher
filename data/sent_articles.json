@@ -793,7 +793,27 @@
       "url": "https://n.news.naver.com/article/001/0016432618?type=journalists",
       "published_at": "2026-11-10T23:59:59+09:00",
       "sent_at": "2026-11-10T10:04:49.361084+09:00"
+    },
+    {
+      "id": "b33b8479d8da97b0d28543f6d51497bb8a415e90cd66ddd320f817a9b2988362",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "에이버튼, '건즈앤드래곤즈' 3차 플레이테스트",
+      "url": "https://n.news.naver.com/article/001/0016433132?type=journalists",
+      "published_at": "2026-11-10T23:59:59+09:00",
+      "sent_at": "2026-11-10T12:07:00.111625+09:00"
+    },
+    {
+      "id": "379d5073f51050920e413cf0848d97a17c2e0749185e717e03a45a78bc22481d",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "데브시스터즈, '쿠키런: 크럼블' 흥행으로 3분기 흑자전환(종합)",
+      "url": "https://n.news.naver.com/article/001/0016433129?type=journalists",
+      "published_at": "2026-11-10T23:59:59+09:00",
+      "sent_at": "2026-11-10T12:07:12.295395+09:00"
     }
   ],
-  "last_run_at": "2026-11-10T03:01:40.976209+00:00"
+  "last_run_at": "2026-11-10T03:06:44.856265+00:00"
 }
