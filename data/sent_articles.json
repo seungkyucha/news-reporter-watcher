@@ -863,7 +863,17 @@
       "url": "https://n.news.naver.com/article/001/0016434045?type=journalists",
       "published_at": "2026-11-10T16:19:41+09:00",
       "sent_at": "2026-11-10T16:32:43.802638+09:00"
+    },
+    {
+      "id": "4caea5c8b1633082411ae240cb3fc3638c13483c2032e79a88f9469790be3b11",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "크래프톤, 내년 PUBG 10주년…신작 5종 출시 예고(종합2보)",
+      "url": "https://n.news.naver.com/article/001/0016434152?type=journalists",
+      "published_at": "2026-11-10T17:04:12+09:00",
+      "sent_at": "2026-11-10T17:13:21.213401+09:00"
     }
   ],
-  "last_run_at": "2026-11-10T08:08:11.070830+00:00"
+  "last_run_at": "2026-11-10T08:13:15.426204+00:00"
 }
