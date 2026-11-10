@@ -853,7 +853,17 @@
       "url": "https://n.news.naver.com/article/030/0003484016?type=journalists",
       "published_at": "2026-11-10T23:59:59+09:00",
       "sent_at": "2026-11-10T12:54:09.463579+09:00"
+    },
+    {
+      "id": "15524fceb46dcce0bfbd8d86a62224262daa5c887111204f72e89e774c51e1c4",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "“세계가 즐긴 게임, 다음을 만드는 힘”... 네오위즈, 흥행 경험 차기작으로 확장",
+      "url": "https://n.news.naver.com/article/030/0003484073?type=journalists",
+      "published_at": "2026-11-10T14:03:11+09:00",
+      "sent_at": "2026-11-10T14:15:20.993953+09:00"
     }
   ],
-  "last_run_at": "2026-11-10T05:10:12.016499+00:00"
+  "last_run_at": "2026-11-10T05:15:16.216648+00:00"
 }
