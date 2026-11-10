@@ -813,7 +813,17 @@
       "url": "https://n.news.naver.com/article/001/0016433129?type=journalists",
       "published_at": "2026-11-10T23:59:59+09:00",
       "sent_at": "2026-11-10T12:07:12.295395+09:00"
+    },
+    {
+      "id": "6c0e3ff398ceef38f8b811cbc757a609d9040116d9fc2113a25d0744e871a201",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "에이버튼 '건즈앤드래곤즈', 3차 글로벌 테스트... 신규 챕터 '저주받은 숲' 공개",
+      "url": "https://n.news.naver.com/article/030/0003484005?type=journalists",
+      "published_at": "2026-11-10T23:59:59+09:00",
+      "sent_at": "2026-11-10T12:17:32.977794+09:00"
     }
   ],
-  "last_run_at": "2026-11-10T03:12:14.612364+00:00"
+  "last_run_at": "2026-11-10T03:17:18.806339+00:00"
 }
