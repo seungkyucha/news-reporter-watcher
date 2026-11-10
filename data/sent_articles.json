@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "b743349079221db62f554efbbd3f523590ff2f7a4d9d0d2de71c7155c9f6aee8",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "extra_channels": [],
-      "title": "원스토어, 게임 아이템 공식 거래 '원아이템' 출시…게임사와 수수료 배분",
-      "url": "https://n.news.naver.com/article/030/0003481535?type=journalists",
-      "published_at": "2026-11-03T23:59:59+09:00",
-      "sent_at": "2026-11-03T13:46:54.224715+09:00"
-    },
-    {
       "id": "ec54d978386f4cbbf76a8d60ca2a65ad01df76c484d5ddee70383d4fdbd947c7",
       "reporter": "박정은",
       "press": "전자신문",
@@ -875,5 +865,5 @@
       "sent_at": "2026-11-10T12:54:09.463579+09:00"
     }
   ],
-  "last_run_at": "2026-11-10T04:44:50.980472+00:00"
+  "last_run_at": "2026-11-10T04:49:54.929072+00:00"
 }
