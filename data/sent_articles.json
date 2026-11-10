@@ -873,7 +873,17 @@
       "url": "https://n.news.naver.com/article/001/0016434152?type=journalists",
       "published_at": "2026-11-10T17:04:12+09:00",
       "sent_at": "2026-11-10T17:13:21.213401+09:00"
+    },
+    {
+      "id": "7a9fdac672637bdf4eee70a4f232c2284ff109f5550bad4a4626b07e2457220e",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "넥슨·크래프톤, 3분기 누적 역대 최대 실적... 간판 IP가 성장 견인",
+      "url": "https://n.news.naver.com/article/030/0003484242?type=journalists",
+      "published_at": "2026-11-10T17:14:12+09:00",
+      "sent_at": "2026-11-10T17:23:32.492079+09:00"
     }
   ],
-  "last_run_at": "2026-11-10T08:18:23.554476+00:00"
+  "last_run_at": "2026-11-10T08:23:27.806337+00:00"
 }
