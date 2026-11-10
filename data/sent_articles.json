@@ -853,7 +853,17 @@
       "url": "https://n.news.naver.com/article/030/0003484006?type=journalists",
       "published_at": "2026-11-10T23:59:59+09:00",
       "sent_at": "2026-11-10T12:23:15.484130+09:00"
+    },
+    {
+      "id": "009899dc6a9719bb79bd8d8fac9768cd2f84c9111029c7a0b2001147883760c2",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "블리자드, 지스타 2026서 'OWCS 아시아 파이널' 개최... 아시아 최강팀 가린다",
+      "url": "https://n.news.naver.com/article/030/0003484009?type=journalists",
+      "published_at": "2026-11-10T23:59:59+09:00",
+      "sent_at": "2026-11-10T12:33:37.139366+09:00"
     }
   ],
-  "last_run_at": "2026-11-10T03:28:18.784737+00:00"
+  "last_run_at": "2026-11-10T03:33:22.773964+00:00"
 }
