@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "ec54d978386f4cbbf76a8d60ca2a65ad01df76c484d5ddee70383d4fdbd947c7",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "extra_channels": [],
-      "title": "앵커노드, 대원미디어와 일본 명작 게임 IP 리메이크... 첫 공동 개발 착수",
-      "url": "https://n.news.naver.com/article/030/0003481553?type=journalists",
-      "published_at": "2026-11-03T13:49:10+09:00",
-      "sent_at": "2026-11-03T14:07:14.048557+09:00"
-    },
-    {
       "id": "9182e95aa55bfeeeea88f6c4b6e74f4946b46333bff4f0893312cc3d69f72170",
       "reporter": "박정은",
       "press": "전자신문",
@@ -865,5 +855,5 @@
       "sent_at": "2026-11-10T12:54:09.463579+09:00"
     }
   ],
-  "last_run_at": "2026-11-10T05:05:07.552642+00:00"
+  "last_run_at": "2026-11-10T05:10:12.016499+00:00"
 }
