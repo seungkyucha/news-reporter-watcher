@@ -873,7 +873,17 @@
       "url": "https://n.news.naver.com/article/030/0003484012?type=journalists",
       "published_at": "2026-11-10T12:32:16+09:00",
       "sent_at": "2026-11-10T12:43:48.554072+09:00"
+    },
+    {
+      "id": "53a197ec764d9efd9fa1fa7d6753d71a0aca6048d0b9c8be93ccd872defeb6e7",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "30주년 맞은 '올해의 우수게임' 첫 시상…K게임 다양성 빛났다",
+      "url": "https://n.news.naver.com/article/030/0003484016?type=journalists",
+      "published_at": "2026-11-10T23:59:59+09:00",
+      "sent_at": "2026-11-10T12:54:09.463579+09:00"
     }
   ],
-  "last_run_at": "2026-11-10T03:48:51.082002+00:00"
+  "last_run_at": "2026-11-10T03:53:55.099038+00:00"
 }
