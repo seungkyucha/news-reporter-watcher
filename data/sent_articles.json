@@ -873,7 +873,17 @@
       "url": "https://n.news.naver.com/article/030/0003484242?type=journalists",
       "published_at": "2026-11-10T17:14:12+09:00",
       "sent_at": "2026-11-10T17:23:32.492079+09:00"
+    },
+    {
+      "id": "515b5f37d32d3f78ccde28ee2df71a5fb16e9333721c303746bfe8e2383f1d8e",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "시프트업 3분기 영업익 207억…전년 대비 58.2% 감소",
+      "url": "https://n.news.naver.com/article/001/0016434241?type=journalists",
+      "published_at": "2026-11-10T18:07:27+09:00",
+      "sent_at": "2026-11-10T18:24:29.999387+09:00"
     }
   ],
-  "last_run_at": "2026-11-10T09:19:20.493512+00:00"
+  "last_run_at": "2026-11-10T09:24:24.720286+00:00"
 }
