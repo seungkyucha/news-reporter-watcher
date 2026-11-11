@@ -895,7 +895,17 @@
       "url": "https://n.news.naver.com/article/001/0016436068?type=journalists",
       "published_at": "2026-11-11T14:39:21+09:00",
       "sent_at": "2026-11-11T14:55:09.895979+09:00"
+    },
+    {
+      "id": "1d2c5070d4e957ca901c698a69983bf9f2bef6899398fc1383ae5422340a80c2",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "엔씨, '리니지 클래식·아이온2' 성과에 3분기 흑자전환(종합)",
+      "url": "https://n.news.naver.com/article/001/0016436108?type=journalists",
+      "published_at": "2026-11-11T14:49:43+09:00",
+      "sent_at": "2026-11-11T15:05:21.944819+09:00"
     }
   ],
-  "last_run_at": "2026-11-11T06:00:12.168648+00:00"
+  "last_run_at": "2026-11-11T06:05:16.984528+00:00"
 }
