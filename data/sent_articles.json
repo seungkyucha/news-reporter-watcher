@@ -895,7 +895,27 @@
       "url": "https://n.news.naver.com/article/030/0003484671?type=journalists",
       "published_at": "2026-11-11T23:59:59+09:00",
       "sent_at": "2026-11-11T16:06:27.697018+09:00"
+    },
+    {
+      "id": "fc90c4503a330b2419ea1b27958b3c0f3eeda9eddfc943c4980fbe2dda415558",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "한·아시아·유럽 6개국 게임 정책당국 부산 집결... '2026 국제 게임문화 심포지엄' 개최",
+      "url": "https://n.news.naver.com/article/030/0003484677?type=journalists",
+      "published_at": "2026-11-11T16:00:18+09:00",
+      "sent_at": "2026-11-11T16:16:40.147375+09:00"
+    },
+    {
+      "id": "d68ca194fbff983aa864ef81d7a068cedfe154b5c1367b8f62c09c5cab0c0537",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "28년만에 나온 '젤다의 전설' 리메이크, 4일만에 520만장 팔려",
+      "url": "https://n.news.naver.com/article/001/0016436477?type=journalists",
+      "published_at": "2026-11-11T23:59:59+09:00",
+      "sent_at": "2026-11-11T16:16:52.848523+09:00"
     }
   ],
-  "last_run_at": "2026-11-11T07:11:30.951754+00:00"
+  "last_run_at": "2026-11-11T07:16:34.958615+00:00"
 }
