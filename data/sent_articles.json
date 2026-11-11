@@ -935,7 +935,27 @@
       "url": "https://n.news.naver.com/article/030/0003484702?type=journalists",
       "published_at": "2026-11-11T23:59:59+09:00",
       "sent_at": "2026-11-11T16:32:21.407308+09:00"
+    },
+    {
+      "id": "13500eb7214907dcbba65a71c41d3da993ced7dc348fc95ac75c18c5b2eb9cdf",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "위메이드, 3분기 영업익 264억원 흑자전환... 위메이드맥스는 적자폭 축소",
+      "url": "https://n.news.naver.com/article/030/0003484709?type=journalists",
+      "published_at": "2026-11-11T23:59:59+09:00",
+      "sent_at": "2026-11-11T16:42:55.287908+09:00"
+    },
+    {
+      "id": "fd25b48022e9e340dcffd97b8b37eb4094bf41cba0191df2ac0736177e5cc8d2",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "스퀘어 에닉스, '드래곤 퀘스트 RPG 마계수와 인도된 섬' 비공개 테스트 참가자 모집",
+      "url": "https://n.news.naver.com/article/030/0003484707?type=journalists",
+      "published_at": "2026-11-11T23:59:59+09:00",
+      "sent_at": "2026-11-11T16:43:07.453110+09:00"
     }
   ],
-  "last_run_at": "2026-11-11T07:37:24.195857+00:00"
+  "last_run_at": "2026-11-11T07:42:40.581022+00:00"
 }
