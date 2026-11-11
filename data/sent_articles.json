@@ -955,7 +955,17 @@
       "url": "https://n.news.naver.com/article/030/0003484707?type=journalists",
       "published_at": "2026-11-11T23:59:59+09:00",
       "sent_at": "2026-11-11T16:43:07.453110+09:00"
+    },
+    {
+      "id": "f32ef20d9a537c8128123890887fd62312ed5750d94c2429a4d1f211ec33d8cd",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "위메이드 3분기 영업익 264억원…작년 대비 0.3%↑(종합)",
+      "url": "https://n.news.naver.com/article/001/0016436589?type=journalists",
+      "published_at": "2026-11-11T23:59:59+09:00",
+      "sent_at": "2026-11-11T16:53:32.952477+09:00"
     }
   ],
-  "last_run_at": "2026-11-11T07:48:10.458630+00:00"
+  "last_run_at": "2026-11-11T07:53:18.093395+00:00"
 }
