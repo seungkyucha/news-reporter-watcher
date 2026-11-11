@@ -1,26 +1,6 @@
 {
   "sent": [
     {
-      "id": "fc509ef7862d385ac34cb086109a3414ae89c33184b2eca4b2e60ea635c69917",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "extra_channels": [],
-      "title": "넷마블 '나 혼자만 레벨업:어라이즈 오버드라이브' 콘솔 출시",
-      "url": "https://n.news.naver.com/article/030/0003482049?type=journalists",
-      "published_at": "2026-11-04T12:12:17+09:00",
-      "sent_at": "2026-11-04T12:25:39.922197+09:00"
-    },
-    {
-      "id": "58f9d6469efc2bdeeb7b66e0cf1064401cd3f18417fcc84654c3227916fccec8",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "extra_channels": [],
-      "title": "유니티, 지스타 2026서 인디 지원 확대... 전세계 30개 게임 쇼케이스",
-      "url": "https://n.news.naver.com/article/030/0003482047?type=journalists",
-      "published_at": "2026-11-04T23:59:59+09:00",
-      "sent_at": "2026-11-04T12:25:52.035483+09:00"
-    },
-    {
       "id": "eed776570f7c724598f4474bd824361c2ddc75120804bf957f5d4c6183d3d0ab",
       "reporter": "서정근",
       "press": "MTN",
@@ -909,5 +889,5 @@
       "sent_at": "2026-11-11T12:07:30.333195+09:00"
     }
   ],
-  "last_run_at": "2026-11-11T03:22:41.535142+00:00"
+  "last_run_at": "2026-11-11T03:27:45.443764+00:00"
 }
