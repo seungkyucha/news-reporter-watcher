@@ -975,7 +975,17 @@
       "url": "https://n.news.naver.com/article/001/0016436644?type=journalists",
       "published_at": "2026-11-11T23:59:59+09:00",
       "sent_at": "2026-11-11T17:14:03.255343+09:00"
+    },
+    {
+      "id": "381359b477d40c5351ef5f7b71822327649b6da7cfd1ce6feae14cb62fe06181",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "엔씨, MMORPG 성과에 3분기 흑자전환…연매출 목표 조기달성(종합2보)",
+      "url": "https://n.news.naver.com/article/001/0016436718?type=journalists",
+      "published_at": "2026-11-11T17:36:58+09:00",
+      "sent_at": "2026-11-11T17:54:57.326026+09:00"
     }
   ],
-  "last_run_at": "2026-11-11T08:49:46.976406+00:00"
+  "last_run_at": "2026-11-11T08:54:51.339164+00:00"
 }
