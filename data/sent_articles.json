@@ -985,7 +985,17 @@
       "url": "https://n.news.naver.com/article/001/0016436718?type=journalists",
       "published_at": "2026-11-11T17:36:58+09:00",
       "sent_at": "2026-11-11T17:54:57.326026+09:00"
+    },
+    {
+      "id": "06d4a285eac6a5739fab8f61169ec68726ec43624e7adc39388dda970cadc777",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "3분기 반등한 게임업계, 라이브 흥행작이 실적 갈랐다",
+      "url": "https://n.news.naver.com/article/001/0016436732?type=journalists",
+      "published_at": "2026-11-11T23:59:59+09:00",
+      "sent_at": "2026-11-11T18:00:14.309877+09:00"
     }
   ],
-  "last_run_at": "2026-11-11T08:54:51.339164+00:00"
+  "last_run_at": "2026-11-11T08:59:59.643648+00:00"
 }
