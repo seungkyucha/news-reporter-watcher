@@ -875,7 +875,27 @@
       "url": "https://n.news.naver.com/article/001/0016434829?type=journalists",
       "published_at": "2026-11-11T09:19:45+09:00",
       "sent_at": "2026-11-11T09:33:47.736018+09:00"
+    },
+    {
+      "id": "5f3c6a78560b0599290a112f4bc15a62e996ae6d1c059bab77c7710b75a93da2",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "한성숙 총리, 지스타 찾는다... 게임산업 향한 정부·국회 관심 확대",
+      "url": "https://n.news.naver.com/article/030/0003484363?type=journalists",
+      "published_at": "2026-11-11T09:38:17+09:00",
+      "sent_at": "2026-11-11T09:54:06.803707+09:00"
+    },
+    {
+      "id": "c27b76da3ff2eaf6be6c461b0545b6d706c0969afd21e77887afdcd8fbe976d1",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "엔씨, '탕탕특공대' 개발사와 차기작 퍼블리싱 계약",
+      "url": "https://n.news.naver.com/article/001/0016434906?type=journalists",
+      "published_at": "2026-11-11T09:37:06+09:00",
+      "sent_at": "2026-11-11T09:54:09.796458+09:00"
     }
   ],
-  "last_run_at": "2026-11-11T00:48:58.072234+00:00"
+  "last_run_at": "2026-11-11T00:54:02.355896+00:00"
 }
