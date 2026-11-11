@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "774649abe02c6484ae8ca6b9dc619c535e5bc85395ece7aaadf161392f0cdbaf",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "extra_channels": [],
-      "title": "카카오게임즈 3분기 영업손실 263억원... '도깨비의세계'로 4분기 반등 노린다",
-      "url": "https://n.news.naver.com/article/030/0003482001?type=journalists",
-      "published_at": "2026-11-04T23:59:59+09:00",
-      "sent_at": "2026-11-04T10:53:56.623740+09:00"
-    },
-    {
       "id": "bdebf72fefbca5c93a23fe4502e6058379be1081daa5d9bcc31a1e582aa931a1",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -877,5 +867,5 @@
       "sent_at": "2026-11-11T09:54:09.796458+09:00"
     }
   ],
-  "last_run_at": "2026-11-11T01:50:05.447495+00:00"
+  "last_run_at": "2026-11-11T01:55:11.115234+00:00"
 }
