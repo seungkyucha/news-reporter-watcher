@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "2c1a4b08a956ebc5307199eaec44bd389b54ecc587066f17d50b62901eed2287",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "extra_channels": [],
-      "title": "카카오게임즈 3분기도 적자…\"오딘Q로 본격 반등 모색\"(종합2보)",
-      "url": "https://n.news.naver.com/article/001/0016420577?type=journalists",
-      "published_at": "2026-11-04T10:16:28+09:00",
-      "sent_at": "2026-11-04T10:33:27.238891+09:00"
-    },
-    {
       "id": "774649abe02c6484ae8ca6b9dc619c535e5bc85395ece7aaadf161392f0cdbaf",
       "reporter": "박정은",
       "press": "전자신문",
@@ -887,5 +877,5 @@
       "sent_at": "2026-11-11T09:54:09.796458+09:00"
     }
   ],
-  "last_run_at": "2026-11-11T01:29:45.868576+00:00"
+  "last_run_at": "2026-11-11T01:34:49.803234+00:00"
 }
