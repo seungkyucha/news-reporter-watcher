@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "a89ebbbc82760fb46cb7bb3b41fc21ea6c99f386aaefbe5531e309df17fc3308",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "extra_channels": [],
-      "title": "카카오게임즈 3분기도 적자…\"4분기부터 반등 모색\"(종합)",
-      "url": "https://n.news.naver.com/article/001/0016420341?type=journalists",
-      "published_at": "2026-11-04T09:16:50+09:00",
-      "sent_at": "2026-11-04T09:32:29.880360+09:00"
-    },
-    {
       "id": "0335e607affec121b61f7447d998a9d0c728785609007bc109a69aac278b8c7e",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -875,7 +865,17 @@
       "url": "https://news.mtn.co.kr/article/2026111019451592310",
       "published_at": "Tue, 10 Nov 2026 19:46:00 +0900",
       "sent_at": "2026-11-10T19:50:43.939323+09:00"
+    },
+    {
+      "id": "05faf21a32e8445ea8e4b6c8e6fe969e975241ddf1d791476dcd8df15df7a4a2",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "네오위즈, 신작 공백에 3분기 영업이익 63.7%↓(종합)",
+      "url": "https://n.news.naver.com/article/001/0016434829?type=journalists",
+      "published_at": "2026-11-11T09:19:45+09:00",
+      "sent_at": "2026-11-11T09:33:47.736018+09:00"
     }
   ],
-  "last_run_at": "2026-11-11T00:28:38.679181+00:00"
+  "last_run_at": "2026-11-11T00:33:42.872137+00:00"
 }
