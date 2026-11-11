@@ -915,7 +915,27 @@
       "url": "https://n.news.naver.com/article/001/0016436477?type=journalists",
       "published_at": "2026-11-11T23:59:59+09:00",
       "sent_at": "2026-11-11T16:16:52.848523+09:00"
+    },
+    {
+      "id": "e9cf074744358cc2b588533a5566419e1ec95288ad4de362621818f4852d86b9",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "'젤다의 전설 시간의 오카리나', 출시 4일 만에 520만장…스위치2 역대 최고",
+      "url": "https://n.news.naver.com/article/030/0003484704?type=journalists",
+      "published_at": "2026-11-11T16:23:10+09:00",
+      "sent_at": "2026-11-11T16:32:08.665237+09:00"
+    },
+    {
+      "id": "547bcf51beb68c4ea5bdc87c2b19fda3ee766fe863b4276c696e80d5f56415f5",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "GTA6 사전 다운로드 시작... PS5·엑스박스서 30프레임 목표",
+      "url": "https://n.news.naver.com/article/030/0003484702?type=journalists",
+      "published_at": "2026-11-11T23:59:59+09:00",
+      "sent_at": "2026-11-11T16:32:21.407308+09:00"
     }
   ],
-  "last_run_at": "2026-11-11T07:26:59.264845+00:00"
+  "last_run_at": "2026-11-11T07:32:03.563168+00:00"
 }
