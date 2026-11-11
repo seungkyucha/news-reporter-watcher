@@ -927,7 +927,17 @@
       "url": "https://n.news.naver.com/article/001/0016435524?type=journalists",
       "published_at": "2026-11-11T23:59:59+09:00",
       "sent_at": "2026-11-11T11:57:08.229382+09:00"
+    },
+    {
+      "id": "8f4bb5310ec61bcad891d762346f302046aa964d009b63747dec5973861d484b",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "엔씨 '아이온', 데바의 날 맞아 'THE DEVA MOMENT' 이벤트 진행",
+      "url": "https://n.news.naver.com/article/030/0003484478?type=journalists",
+      "published_at": "2026-11-11T23:59:59+09:00",
+      "sent_at": "2026-11-11T12:07:30.333195+09:00"
     }
   ],
-  "last_run_at": "2026-11-11T03:02:10.448986+00:00"
+  "last_run_at": "2026-11-11T03:07:15.261209+00:00"
 }
