@@ -897,7 +897,37 @@
       "url": "https://n.news.naver.com/article/030/0003484468?type=journalists",
       "published_at": "2026-11-11T11:30:12+09:00",
       "sent_at": "2026-11-11T11:46:32.040120+09:00"
+    },
+    {
+      "id": "dcdb6c49d7810a24f85a3db64d5da2ca128334b0fc7a7312ed1663352d9c78ae",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "라인게임즈 '엠버 앤 블레이드'·'QUIET', 스팀 위시리스트 10만건 돌파",
+      "url": "https://n.news.naver.com/article/030/0003484477?type=journalists",
+      "published_at": "2026-11-11T11:45:15+09:00",
+      "sent_at": "2026-11-11T11:56:43.112027+09:00"
+    },
+    {
+      "id": "7390ca24e3b18cd25e401146086438fc9e690f6d02fa84147ba6efcaeb1f60d0",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "게임법정책학회, 지스타서 법적 리스크·AI 등급분류 논의",
+      "url": "https://n.news.naver.com/article/030/0003484473?type=journalists",
+      "published_at": "2026-11-11T23:59:59+09:00",
+      "sent_at": "2026-11-11T11:56:55.336211+09:00"
+    },
+    {
+      "id": "8948789d259033835122c71c7cc152b77940a9c6ecc17e24088ef7a97646697e",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "엔씨, '탕탕특공대' 개발사와 차기작 퍼블리싱 계약",
+      "url": "https://n.news.naver.com/article/001/0016435524?type=journalists",
+      "published_at": "2026-11-11T23:59:59+09:00",
+      "sent_at": "2026-11-11T11:57:08.229382+09:00"
     }
   ],
-  "last_run_at": "2026-11-11T02:51:34.563080+00:00"
+  "last_run_at": "2026-11-11T02:56:38.675667+00:00"
 }
