@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "0407dac181e26b185cb3ef74c481c37110acf5db2eafc6ef3f9711eae3e25eee",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "extra_channels": [],
-      "title": "'니케' PC 런처 악성코드 유입 정황... 中퍼블리셔 글로벌 게임 공급망 보안 '비상'",
-      "url": "https://n.news.naver.com/article/030/0003482180?type=journalists",
-      "published_at": "2026-11-04T14:58:18+09:00",
-      "sent_at": "2026-11-04T15:14:02.835363+09:00"
-    },
-    {
       "id": "b197b3e17c313b1373d16896f4cba1d1adda609cffa5311ee09a803879ab1f1a",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -907,5 +897,5 @@
       "sent_at": "2026-11-11T15:05:21.944819+09:00"
     }
   ],
-  "last_run_at": "2026-11-11T06:10:24.304325+00:00"
+  "last_run_at": "2026-11-11T06:15:28.470096+00:00"
 }
