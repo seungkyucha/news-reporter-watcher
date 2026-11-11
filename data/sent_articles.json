@@ -885,7 +885,17 @@
       "url": "https://n.news.naver.com/article/030/0003484550?type=journalists",
       "published_at": "2026-11-11T13:18:22+09:00",
       "sent_at": "2026-11-11T13:33:45.469412+09:00"
+    },
+    {
+      "id": "b28b38669349275decac30cbed69d689b648e33bf987d3014e0bd9cd01e834a5",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "게임 정책·문화 한자리에…지스타서 6개국 심포지엄",
+      "url": "https://n.news.naver.com/article/001/0016436068?type=journalists",
+      "published_at": "2026-11-11T14:39:21+09:00",
+      "sent_at": "2026-11-11T14:55:09.895979+09:00"
     }
   ],
-  "last_run_at": "2026-11-11T05:49:54.031739+00:00"
+  "last_run_at": "2026-11-11T05:55:03.328153+00:00"
 }
