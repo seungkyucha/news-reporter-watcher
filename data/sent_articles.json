@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "bdebf72fefbca5c93a23fe4502e6058379be1081daa5d9bcc31a1e582aa931a1",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "extra_channels": [],
-      "title": "넷마블 '나 혼자만 레벨업: 어라이즈 오버드라이브' 콘솔 출시",
-      "url": "https://n.news.naver.com/article/001/0016420898?type=journalists",
-      "published_at": "2026-11-04T11:19:19+09:00",
-      "sent_at": "2026-11-04T11:34:33.764428+09:00"
-    },
-    {
       "id": "edbd7a44237618a49c9c6f9cca5063566a4eb4c185404af560a098d5de27f1e3",
       "reporter": "박정은",
       "press": "전자신문",
@@ -887,7 +877,17 @@
       "url": "https://news.mtn.co.kr/article/2026111110370816345",
       "published_at": "Wed, 11 Nov 2026 11:18:00 +0900",
       "sent_at": "2026-11-11T11:20:39.938580+09:00"
+    },
+    {
+      "id": "b14db1fea7f00d913031d446810c4e55a54dc1c08adc8a144e497e8b1732af9b",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "네오위즈, 3분기 영업익 96억원... 'P의 거짓' 스위치2·신작 효과로 전분기 대비 성장",
+      "url": "https://n.news.naver.com/article/030/0003484465?type=journalists",
+      "published_at": "2026-11-11T23:59:59+09:00",
+      "sent_at": "2026-11-11T11:36:06.613795+09:00"
     }
   ],
-  "last_run_at": "2026-11-11T02:30:47.484694+00:00"
+  "last_run_at": "2026-11-11T02:35:51.965174+00:00"
 }
