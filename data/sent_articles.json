@@ -875,7 +875,19 @@
       "url": "https://n.news.naver.com/article/030/0003484427?type=journalists",
       "published_at": "2026-11-11T10:49:12+09:00",
       "sent_at": "2026-11-11T11:05:25.308071+09:00"
+    },
+    {
+      "id": "1bbbd2d4cdaa82d678d3edeb352ba338a44c8cd1f0072cd139049e9acd385772",
+      "reporter": "서정근",
+      "press": "MTN",
+      "extra_channels": [
+        "seo"
+      ],
+      "title": "[단독]스마게, 건수 잡았다...엔씨 'TL' PD, 금강선 사단 합류",
+      "url": "https://news.mtn.co.kr/article/2026111110370816345",
+      "published_at": "Wed, 11 Nov 2026 11:18:00 +0900",
+      "sent_at": "2026-11-11T11:20:39.938580+09:00"
     }
   ],
-  "last_run_at": "2026-11-11T02:15:32.292806+00:00"
+  "last_run_at": "2026-11-11T02:20:36.417249+00:00"
 }
