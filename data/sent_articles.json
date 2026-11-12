@@ -995,7 +995,17 @@
       "url": "https://n.news.naver.com/article/001/0016436732?type=journalists",
       "published_at": "2026-11-11T23:59:59+09:00",
       "sent_at": "2026-11-11T18:00:14.309877+09:00"
+    },
+    {
+      "id": "e5c5ce3532ace9cf240673614bbc100065c24fdcb8b41bf50f8aba1908fd6e2b",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "원스토어, 대만·홍콩·마카오 결제 플랫폼 '개쉬'와 협력",
+      "url": "https://n.news.naver.com/article/001/0016437393?type=journalists",
+      "published_at": "2026-11-12T09:20:09+09:00",
+      "sent_at": "2026-11-12T09:35:05.236022+09:00"
     }
   ],
-  "last_run_at": "2026-11-12T00:29:56.648101+00:00"
+  "last_run_at": "2026-11-12T00:35:00.513046+00:00"
 }
