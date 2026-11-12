@@ -1,26 +1,6 @@
 {
   "sent": [
     {
-      "id": "40d0064bfddb9fc81b3ad1fc29dd90abacf6f013256b297ca7d0931f78341aac",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "extra_channels": [],
-      "title": "블리자드, '월드 오브 워크래프트: 포에버' 정식 출시",
-      "url": "https://n.news.naver.com/article/001/0016423289?type=journalists",
-      "published_at": "2026-11-05T09:59:31+09:00",
-      "sent_at": "2026-11-05T10:12:30.851831+09:00"
-    },
-    {
-      "id": "81c2dc97e0b8305e3b7ad8a6c7868964040fe2b130ca70f12a5f12e8e05140a1",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "extra_channels": [],
-      "title": "'동방프로젝트' 음악, 오케스트라로…내년 2월 서울 공연",
-      "url": "https://n.news.naver.com/article/001/0016423288?type=journalists",
-      "published_at": "2026-11-05T23:59:59+09:00",
-      "sent_at": "2026-11-05T10:12:43.193690+09:00"
-    },
-    {
       "id": "a9439b8582793832517db9ee0eb7e6cbf691b414b6611aa0effe71eb0ecaaa25",
       "reporter": "박정은",
       "press": "전자신문",
@@ -987,5 +967,5 @@
       "sent_at": "2026-11-12T09:35:05.236022+09:00"
     }
   ],
-  "last_run_at": "2026-11-12T01:10:31.658868+00:00"
+  "last_run_at": "2026-11-12T01:15:35.886570+00:00"
 }
