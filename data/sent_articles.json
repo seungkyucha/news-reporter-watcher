@@ -1005,7 +1005,17 @@
       "url": "https://n.news.naver.com/article/030/0003485233?type=journalists",
       "published_at": "2026-11-12T23:59:59+09:00",
       "sent_at": "2026-11-12T18:25:58.964700+09:00"
+    },
+    {
+      "id": "09442b92db6b6840b47bd782371521cce1bc768ad318beaf113ab6a994c987cb",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "컴투스, 3분기 영업익 139억원 흑자전환... '제우스' 흥행에 RPG 매출 1000억원 돌파",
+      "url": "https://n.news.naver.com/article/030/0003485234?type=journalists",
+      "published_at": "2026-11-12T18:18:17+09:00",
+      "sent_at": "2026-11-12T18:31:09.548153+09:00"
     }
   ],
-  "last_run_at": "2026-11-12T09:25:44.433413+00:00"
+  "last_run_at": "2026-11-12T09:31:01.996939+00:00"
 }
