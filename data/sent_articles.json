@@ -965,7 +965,17 @@
       "url": "https://n.news.naver.com/article/001/0016437393?type=journalists",
       "published_at": "2026-11-12T09:20:09+09:00",
       "sent_at": "2026-11-12T09:35:05.236022+09:00"
+    },
+    {
+      "id": "5eabcd5fb7c1c928533545ddf100d509a75ba1ef6d455722480476eeda69b8d9",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "[게임스냅] 카카오게임즈, 경기사랑의열매서 4년째 ESG나눔기업패",
+      "url": "https://n.news.naver.com/article/001/0016437714?type=journalists",
+      "published_at": "2026-11-12T23:59:59+09:00",
+      "sent_at": "2026-11-12T10:36:05.682994+09:00"
     }
   ],
-  "last_run_at": "2026-11-12T01:30:46.961327+00:00"
+  "last_run_at": "2026-11-12T01:35:51.470194+00:00"
 }
