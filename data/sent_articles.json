@@ -955,7 +955,17 @@
       "url": "https://n.news.naver.com/article/001/0016438735?type=journalists",
       "published_at": "2026-11-12T15:15:25+09:00",
       "sent_at": "2026-11-12T15:36:47.530126+09:00"
+    },
+    {
+      "id": "8fc1dbb0d73939f4729496c0464d8a20990e30ae8b8808485d5e2535384bb287",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "지스타, 네이버 치지직과 손잡았다…공식 방송 단독 생중계",
+      "url": "https://n.news.naver.com/article/001/0016439082?type=journalists",
+      "published_at": "2026-11-12T23:59:59+09:00",
+      "sent_at": "2026-11-12T16:27:53.448969+09:00"
     }
   ],
-  "last_run_at": "2026-11-12T07:22:27.611934+00:00"
+  "last_run_at": "2026-11-12T07:27:38.530627+00:00"
 }
