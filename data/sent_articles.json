@@ -1,26 +1,6 @@
 {
   "sent": [
     {
-      "id": "9e501aa2790df0cd398ed9479912185eb4fe27654bbe027ea88583d901fadfb1",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "extra_channels": [],
-      "title": "블리자드 '월드 오브 워크래프트: 포에버' 출시... “아제로스서 새 길 개척”",
-      "url": "https://n.news.naver.com/article/030/0003482585?type=journalists",
-      "published_at": "2026-11-05T13:49:11+09:00",
-      "sent_at": "2026-11-05T14:06:27.056826+09:00"
-    },
-    {
-      "id": "76e1a77acfe9ee3a9150c6e6cb64284599bcc5412cba081dc53969a0c2266ae4",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "extra_channels": [],
-      "title": "엔씨 AI, 지스타서 '바르코' 체험 카페 운영…3D·사운드 제작 AI 선보인다",
-      "url": "https://n.news.naver.com/article/030/0003482581?type=journalists",
-      "published_at": "2026-11-05T23:59:59+09:00",
-      "sent_at": "2026-11-05T14:06:39.341090+09:00"
-    },
-    {
       "id": "81817a0597d6f8a31536ee54e83e012e67e33e4ee352b2a0f7278172f7d6149c",
       "reporter": "박정은",
       "press": "전자신문",
@@ -1007,5 +987,5 @@
       "sent_at": "2026-11-12T14:05:25.152139+09:00"
     }
   ],
-  "last_run_at": "2026-11-12T05:05:09.816794+00:00"
+  "last_run_at": "2026-11-12T05:10:27.343336+00:00"
 }
