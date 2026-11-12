@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "7bcf5ad999c9fe616806340f2f088a9d5b40868144933109ba1345fcf4fdf7a0",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "extra_channels": [],
-      "title": "올해의 선수 영예는 누가?…'LCK 어워드' 치지직 롤파크서 개최",
-      "url": "https://n.news.naver.com/article/001/0016424080?type=journalists",
-      "published_at": "2026-11-05T23:59:59+09:00",
-      "sent_at": "2026-11-05T14:27:20.883627+09:00"
-    },
-    {
       "id": "892e473b9e460b3fcd52d994d865f06ff770d09bdfa11d7e5f3aeb3466bad0ba",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -957,5 +947,5 @@
       "sent_at": "2026-11-12T14:05:25.152139+09:00"
     }
   ],
-  "last_run_at": "2026-11-12T05:25:39.118355+00:00"
+  "last_run_at": "2026-11-12T05:30:42.994506+00:00"
 }
