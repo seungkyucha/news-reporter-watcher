@@ -955,7 +955,17 @@
       "url": "https://n.news.naver.com/article/001/0016438491?type=journalists",
       "published_at": "2026-11-12T14:28:32+09:00",
       "sent_at": "2026-11-12T14:46:02.350891+09:00"
+    },
+    {
+      "id": "8e521a2253aa69d14b246f9588f2bc33042fa83b7fd062020528cf98fa6faf02",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "엔씨, '쓰론 앤 리버티' 글로벌 직접 서비스 시작",
+      "url": "https://n.news.naver.com/article/001/0016438735?type=journalists",
+      "published_at": "2026-11-12T15:15:25+09:00",
+      "sent_at": "2026-11-12T15:36:47.530126+09:00"
     }
   ],
-  "last_run_at": "2026-11-12T06:31:38.463940+00:00"
+  "last_run_at": "2026-11-12T06:36:42.368875+00:00"
 }
