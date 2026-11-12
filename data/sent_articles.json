@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "a9439b8582793832517db9ee0eb7e6cbf691b414b6611aa0effe71eb0ecaaa25",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "extra_channels": [],
-      "title": "웹젠, 지스타2026 출품작 공개…'디겜폭' 첫 시연·'뮤 테오스' 티저 공개",
-      "url": "https://n.news.naver.com/article/030/0003482524?type=journalists",
-      "published_at": "2026-11-05T11:37:15+09:00",
-      "sent_at": "2026-11-05T11:54:07.494170+09:00"
-    },
-    {
       "id": "02437b367edad0061ba3bd6b849020a61df4165f9c2b4db36b8a5e57c9e9ec4a",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -999,5 +989,5 @@
       "sent_at": "2026-11-12T11:32:07.102805+09:00"
     }
   ],
-  "last_run_at": "2026-11-12T02:52:22.762028+00:00"
+  "last_run_at": "2026-11-12T02:57:26.849560+00:00"
 }
