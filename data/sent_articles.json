@@ -1037,7 +1037,17 @@
       "url": "https://n.news.naver.com/article/030/0003484959?type=journalists",
       "published_at": "2026-11-12T23:59:59+09:00",
       "sent_at": "2026-11-12T12:23:30.438884+09:00"
+    },
+    {
+      "id": "5daef1828212a9fc7135e6c6d01a064456a53b93d106ea171300d1d7f504d46f",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "넥슨 '엠버스 오브 더 언크라운드', 12월 4일 글로벌 테스트",
+      "url": "https://n.news.naver.com/article/030/0003484962?type=journalists",
+      "published_at": "2026-11-12T12:22:16+09:00",
+      "sent_at": "2026-11-12T12:33:41.455323+09:00"
     }
   ],
-  "last_run_at": "2026-11-12T03:28:33.468909+00:00"
+  "last_run_at": "2026-11-12T03:33:37.377131+00:00"
 }
