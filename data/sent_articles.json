@@ -995,7 +995,17 @@
       "url": "https://n.news.naver.com/article/030/0003485210?type=journalists",
       "published_at": "2026-11-12T23:59:59+09:00",
       "sent_at": "2026-11-12T18:15:36.628061+09:00"
+    },
+    {
+      "id": "cfabf4e59d1f618fe16594bd81a9037ef1de2c276e819d82fe1874c040f11020",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "지스타 2026, 개막 전날 온라인 쇼케이스... 치지직 공식 미디어 파트너",
+      "url": "https://n.news.naver.com/article/030/0003485233?type=journalists",
+      "published_at": "2026-11-12T23:59:59+09:00",
+      "sent_at": "2026-11-12T18:25:58.964700+09:00"
     }
   ],
-  "last_run_at": "2026-11-12T09:20:39.470448+00:00"
+  "last_run_at": "2026-11-12T09:25:44.433413+00:00"
 }
