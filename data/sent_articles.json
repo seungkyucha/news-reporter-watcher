@@ -975,7 +975,17 @@
       "url": "https://n.news.naver.com/article/001/0016437714?type=journalists",
       "published_at": "2026-11-12T23:59:59+09:00",
       "sent_at": "2026-11-12T10:36:05.682994+09:00"
+    },
+    {
+      "id": "cb689fe843ddb2c3590e013c9354c69e041c8e19a90f14cb90a152b4fb0f4bfe",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "붉은사막, 영국 골든 조이스틱 어워드 '올해의 PC 게임' 수상",
+      "url": "https://n.news.naver.com/article/001/0016437719?type=journalists",
+      "published_at": "2026-11-12T23:59:59+09:00",
+      "sent_at": "2026-11-12T10:46:27.170883+09:00"
     }
   ],
-  "last_run_at": "2026-11-12T01:41:08.310414+00:00"
+  "last_run_at": "2026-11-12T01:46:13.233772+00:00"
 }
