@@ -985,7 +985,17 @@
       "url": "https://n.news.naver.com/article/030/0003485166?type=journalists",
       "published_at": "2026-11-12T23:59:59+09:00",
       "sent_at": "2026-11-12T16:43:34.574899+09:00"
+    },
+    {
+      "id": "f21e5719ac56ff9d93cb1726079d34f0e2e975316cc0838b63ef37e55a83f00f",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "펄어비스 3분기 영업익 207억원…개발비 증가에 소폭 감소(종합)",
+      "url": "https://n.news.naver.com/article/001/0016439167?type=journalists",
+      "published_at": "2026-11-12T23:59:59+09:00",
+      "sent_at": "2026-11-12T16:53:58.409484+09:00"
     }
   ],
-  "last_run_at": "2026-11-12T07:48:37.825212+00:00"
+  "last_run_at": "2026-11-12T07:53:42.352089+00:00"
 }
