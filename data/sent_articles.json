@@ -975,7 +975,17 @@
       "url": "https://n.news.naver.com/article/001/0016439089?type=journalists",
       "published_at": "2026-11-12T23:59:59+09:00",
       "sent_at": "2026-11-12T16:33:14.356178+09:00"
+    },
+    {
+      "id": "1bd32e996ae3aa5c73dfece5c9a76064d9785f84f64bc47687aabfe5a4b3f3ad",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "게임 제작비 세액공제, 내주 조세소위 심의... 한일 게임 경쟁 분기점 되나",
+      "url": "https://n.news.naver.com/article/030/0003485166?type=journalists",
+      "published_at": "2026-11-12T23:59:59+09:00",
+      "sent_at": "2026-11-12T16:43:34.574899+09:00"
     }
   ],
-  "last_run_at": "2026-11-12T07:38:16.470586+00:00"
+  "last_run_at": "2026-11-12T07:43:20.371230+00:00"
 }
