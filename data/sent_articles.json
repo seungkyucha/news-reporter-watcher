@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "c160de3627bfe94381b261c4743ac7ce18aae07798699d7c446a18502615a8bf",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "extra_channels": [],
-      "title": "내년 신작 13종 쏟아내는 넷마블…\"AI로 퍼블리싱 효율화\"(종합2보)",
-      "url": "https://n.news.naver.com/article/001/0016424863?type=journalists",
-      "published_at": "2026-11-05T17:04:15+09:00",
-      "sent_at": "2026-11-05T17:09:59.916124+09:00"
-    },
-    {
       "id": "9b3bdd34ecf9c2dd26fdd1f6c0b1ab6b7e22f59843a72a0c2f9d54c4a494126a",
       "reporter": "박정은",
       "press": "전자신문",
@@ -987,5 +977,5 @@
       "sent_at": "2026-11-12T16:53:58.409484+09:00"
     }
   ],
-  "last_run_at": "2026-11-12T08:09:09.232804+00:00"
+  "last_run_at": "2026-11-12T08:14:13.162137+00:00"
 }
