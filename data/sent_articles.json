@@ -1015,7 +1015,17 @@
       "url": "https://n.news.naver.com/article/030/0003485234?type=journalists",
       "published_at": "2026-11-12T18:18:17+09:00",
       "sent_at": "2026-11-12T18:31:09.548153+09:00"
+    },
+    {
+      "id": "286e440a7bbd1227225da8e38b7b00f462db6715b457c8460ff0792451201d9f",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "뤼튼, 지스타 메인 스폰서 참가…AI 기반 창작 생태계 전시",
+      "url": "https://n.news.naver.com/article/001/0016439716?type=journalists",
+      "published_at": "2026-11-13T08:23:58+09:00",
+      "sent_at": "2026-11-13T08:35:12.661217+09:00"
     }
   ],
-  "last_run_at": "2026-11-12T23:30:01.564325+00:00"
+  "last_run_at": "2026-11-12T23:35:06.041713+00:00"
 }
