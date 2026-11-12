@@ -1027,7 +1027,17 @@
       "url": "https://n.news.naver.com/article/030/0003484950?type=journalists",
       "published_at": "2026-11-12T12:00:16+09:00",
       "sent_at": "2026-11-12T12:13:09.890352+09:00"
+    },
+    {
+      "id": "46bc7eb185e945a77d86a2b9de8cfd2b93f23573f26d3d5d26a682a26a168dd5",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "원스토어, 대만·홍콩·마카오 결제 플랫폼 개쉬와 협력... 현지 결제 장벽 낮춘다",
+      "url": "https://n.news.naver.com/article/030/0003484959?type=journalists",
+      "published_at": "2026-11-12T23:59:59+09:00",
+      "sent_at": "2026-11-12T12:23:30.438884+09:00"
     }
   ],
-  "last_run_at": "2026-11-12T03:18:12.890898+00:00"
+  "last_run_at": "2026-11-12T03:23:16.529763+00:00"
 }
