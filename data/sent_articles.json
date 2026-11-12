@@ -1,38 +1,6 @@
 {
   "sent": [
     {
-      "id": "196e8510faeba9bd45e108356b6524a2b29456334fcc586d25b147721b65b469",
-      "reporter": "서정근",
-      "press": "MTN",
-      "extra_channels": [
-        "seo"
-      ],
-      "title": "[단독]엔씨, 대기발령자 전원에 권고사직 제안....넥슨도 긴장감 고조",
-      "url": "https://news.mtn.co.kr/article/2026110513510193881",
-      "published_at": "Thu, 05 Nov 2026 13:52:00 +0900",
-      "sent_at": "2026-11-05T13:56:05.804793+09:00"
-    },
-    {
-      "id": "b3a3f910cbc6f97f50d90b2b64f52b494a471f469ead52b6e957b29fb47238e7",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "extra_channels": [],
-      "title": "펄어비스, G-CON 2026서 '붉은사막' 오픈월드 개발 노하우 공개",
-      "url": "https://n.news.naver.com/article/030/0003482580?type=journalists",
-      "published_at": "2026-11-05T13:45:13+09:00",
-      "sent_at": "2026-11-05T13:56:09.564914+09:00"
-    },
-    {
-      "id": "c1c9d77f6e71110d29e7019d519d08f868838743885b0f474ed71724fa7dc3f2",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "extra_channels": [],
-      "title": "'니케' PC 런처 해킹 사고... 레벨 인피니트 사과·자동 탐지 기능 도입",
-      "url": "https://n.news.naver.com/article/030/0003482577?type=journalists",
-      "published_at": "2026-11-05T13:41:13+09:00",
-      "sent_at": "2026-11-05T13:56:12.403991+09:00"
-    },
-    {
       "id": "9e501aa2790df0cd398ed9479912185eb4fe27654bbe027ea88583d901fadfb1",
       "reporter": "박정은",
       "press": "전자신문",
@@ -1029,5 +997,5 @@
       "sent_at": "2026-11-12T12:33:41.455323+09:00"
     }
   ],
-  "last_run_at": "2026-11-12T04:55:00.717658+00:00"
+  "last_run_at": "2026-11-12T05:00:05.787997+00:00"
 }
