@@ -985,7 +985,17 @@
       "url": "https://n.news.naver.com/article/030/0003485206?type=journalists",
       "published_at": "2026-11-12T17:55:12+09:00",
       "sent_at": "2026-11-12T18:05:15.301918+09:00"
+    },
+    {
+      "id": "3b5e45c29fa9c2aebacbcf830803972226bab2fbd2011e376f3a30ad9d4fcfdb",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "펄어비스, 3분기 영업이익 207억원... 붉은사막 흥행에 해외 매출 86%",
+      "url": "https://n.news.naver.com/article/030/0003485210?type=journalists",
+      "published_at": "2026-11-12T23:59:59+09:00",
+      "sent_at": "2026-11-12T18:15:36.628061+09:00"
     }
   ],
-  "last_run_at": "2026-11-12T09:10:18.327188+00:00"
+  "last_run_at": "2026-11-12T09:15:22.343278+00:00"
 }
