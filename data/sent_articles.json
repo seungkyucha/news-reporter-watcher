@@ -987,7 +987,47 @@
       "url": "https://news.mtn.co.kr/article/2026111211292995308",
       "published_at": "Thu, 12 Nov 2026 11:30:00 +0900",
       "sent_at": "2026-11-12T11:32:07.102805+09:00"
+    },
+    {
+      "id": "2ad4b2505d921c4fcf9edb64d9304ed55e5d06573ec9ddcbe55d1568434da114",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "넷이즈게임즈, 지스타 2026서 3개 부스 운영... '렘넌트의 바다' 신작 공개",
+      "url": "https://n.news.naver.com/article/030/0003484958?type=journalists",
+      "published_at": "2026-11-12T23:59:59+09:00",
+      "sent_at": "2026-11-12T12:12:51.630484+09:00"
+    },
+    {
+      "id": "74838d8938cb5418f8950452a7296ae144c1acf7cdbeb166821c7a4ce1de9058",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "콘진원 “스팀 신작 41% 급증”... 글로벌 게임시장 생존전략 분석",
+      "url": "https://n.news.naver.com/article/030/0003484956?type=journalists",
+      "published_at": "2026-11-12T23:59:59+09:00",
+      "sent_at": "2026-11-12T12:13:04.286859+09:00"
+    },
+    {
+      "id": "72263f8601b317f6fc0ad325dfe05f428ab6c35d3e1f126d05cb1e47dbb80207",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "크래프톤 '서브노티카2', 골든 조이스틱 '최고의 얼리 액세스 게임' 수상",
+      "url": "https://n.news.naver.com/article/030/0003484955?type=journalists",
+      "published_at": "2026-11-12T12:02:17+09:00",
+      "sent_at": "2026-11-12T12:13:07.105704+09:00"
+    },
+    {
+      "id": "504cf2b7647161d96e9192ef459c568c9d0243d154923186a598661e166a98bc",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "펄어비스 '붉은사막', 골든 조이스틱 '올해의 PC 게임' 수상... 글로벌 게임성 인정",
+      "url": "https://n.news.naver.com/article/030/0003484950?type=journalists",
+      "published_at": "2026-11-12T12:00:16+09:00",
+      "sent_at": "2026-11-12T12:13:09.890352+09:00"
     }
   ],
-  "last_run_at": "2026-11-12T03:07:34.301932+00:00"
+  "last_run_at": "2026-11-12T03:12:38.092306+00:00"
 }
