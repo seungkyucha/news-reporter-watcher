@@ -1,36 +1,6 @@
 {
   "sent": [
     {
-      "id": "81817a0597d6f8a31536ee54e83e012e67e33e4ee352b2a0f7278172f7d6149c",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "extra_channels": [],
-      "title": "28년 전 명작의 귀환... 젤다 '시간의 오카리나' 리메이크, 메타크리틱 96점",
-      "url": "https://n.news.naver.com/article/030/0003482611?type=journalists",
-      "published_at": "2026-11-05T14:04:16+09:00",
-      "sent_at": "2026-11-05T14:16:51.710972+09:00"
-    },
-    {
-      "id": "03f6e952e0479f081fc3fd760fd5b1c8238b36a45a5273030440bcf003cbdc31",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "extra_channels": [],
-      "title": "'원스 휴먼' 시즌5 '만념 공명' 19일 출시... '나이룽' 컬래버도 시작",
-      "url": "https://n.news.naver.com/article/030/0003482605?type=journalists",
-      "published_at": "2026-11-05T14:01:24+09:00",
-      "sent_at": "2026-11-05T14:16:54.644352+09:00"
-    },
-    {
-      "id": "7776ee875701bb41f54cb751cfe96f0d51913bb59fb9d8cb7c4507b926c8f126",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "extra_channels": [],
-      "title": "배틀그라운드, 아이브 컬래버 콘텐츠 적용... 고난도 PvE 모드도 순차 운영",
-      "url": "https://n.news.naver.com/article/030/0003482596?type=journalists",
-      "published_at": "2026-11-05T13:59:11+09:00",
-      "sent_at": "2026-11-05T14:16:57.282871+09:00"
-    },
-    {
       "id": "7bcf5ad999c9fe616806340f2f088a9d5b40868144933109ba1345fcf4fdf7a0",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -987,5 +957,5 @@
       "sent_at": "2026-11-12T14:05:25.152139+09:00"
     }
   ],
-  "last_run_at": "2026-11-12T05:15:31.316150+00:00"
+  "last_run_at": "2026-11-12T05:20:35.345506+00:00"
 }
