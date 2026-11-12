@@ -965,7 +965,17 @@
       "url": "https://n.news.naver.com/article/001/0016439082?type=journalists",
       "published_at": "2026-11-12T23:59:59+09:00",
       "sent_at": "2026-11-12T16:27:53.448969+09:00"
+    },
+    {
+      "id": "0ede1d8140ce5263f0f2116f1f9f1e708fc1f766b65bdbeee439b94f0e0a09ad",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "컴투스, '제우스' 흥행에 흑자전환…매출 전년 대비 35% 증가(종합)",
+      "url": "https://n.news.naver.com/article/001/0016439089?type=journalists",
+      "published_at": "2026-11-12T23:59:59+09:00",
+      "sent_at": "2026-11-12T16:33:14.356178+09:00"
     }
   ],
-  "last_run_at": "2026-11-12T07:27:38.530627+00:00"
+  "last_run_at": "2026-11-12T07:32:56.136085+00:00"
 }
