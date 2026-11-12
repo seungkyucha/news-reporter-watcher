@@ -975,7 +975,17 @@
       "url": "https://n.news.naver.com/article/001/0016439167?type=journalists",
       "published_at": "2026-11-12T23:59:59+09:00",
       "sent_at": "2026-11-12T16:53:58.409484+09:00"
+    },
+    {
+      "id": "527ef08dff9ace0e9ec03507a1afa6c7eab442641aecc1ac4daeecf8208e8b45",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "게임 제작비 세액공제 도입 촉구... 정치권·정부·학계 “산업 재도약 위한 제도 혁신 필요”",
+      "url": "https://n.news.naver.com/article/030/0003485206?type=journalists",
+      "published_at": "2026-11-12T17:55:12+09:00",
+      "sent_at": "2026-11-12T18:05:15.301918+09:00"
     }
   ],
-  "last_run_at": "2026-11-12T09:00:06.219105+00:00"
+  "last_run_at": "2026-11-12T09:05:10.559330+00:00"
 }
