@@ -945,7 +945,17 @@
       "url": "https://n.news.naver.com/article/001/0016438355?type=journalists",
       "published_at": "2026-11-12T23:59:59+09:00",
       "sent_at": "2026-11-12T14:05:25.152139+09:00"
+    },
+    {
+      "id": "28bf79a5c85ab89b6edb8a622ca6c081bd03f0d0cbb3930e26bdfd241bb6b74c",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "노바플레어, '프로젝트 래빗' 신규 트레일러 공개",
+      "url": "https://n.news.naver.com/article/001/0016438491?type=journalists",
+      "published_at": "2026-11-12T14:28:32+09:00",
+      "sent_at": "2026-11-12T14:46:02.350891+09:00"
     }
   ],
-  "last_run_at": "2026-11-12T05:40:52.939960+00:00"
+  "last_run_at": "2026-11-12T05:45:56.931012+00:00"
 }
