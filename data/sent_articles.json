@@ -1,26 +1,6 @@
 {
   "sent": [
     {
-      "id": "24919f14de7959b199a8de63fc47a085ddb304294cbb697099c253b3374e7c87",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "extra_channels": [],
-      "title": "NC문화재단, 특수교육 현장 위한 '나의AAC' 수업 자료집 배포",
-      "url": "https://n.news.naver.com/article/030/0003483033?type=journalists",
-      "published_at": "2026-11-06T14:31:09+09:00",
-      "sent_at": "2026-11-06T14:46:17.104878+09:00"
-    },
-    {
-      "id": "3d4097e28909c055ff77dc6c54bff35cee51e1c8f0bc51fb5e2a8cd75a04ac9a",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "extra_channels": [],
-      "title": "넥슨, '테일즈위버 모바일' 첫 공개... 12월 12일 FGT 실시",
-      "url": "https://n.news.naver.com/article/030/0003483031?type=journalists",
-      "published_at": "2026-11-06T14:28:14+09:00",
-      "sent_at": "2026-11-06T14:46:19.515700+09:00"
-    },
-    {
       "id": "e638013fe95dd26ef9631a43752121c27ad159ed24aafc00135921f3262ccdc2",
       "reporter": "박정은",
       "press": "전자신문",
@@ -967,5 +947,5 @@
       "sent_at": "2026-11-13T13:35:00.884243+09:00"
     }
   ],
-  "last_run_at": "2026-11-13T05:41:14.246709+00:00"
+  "last_run_at": "2026-11-13T05:46:19.229141+00:00"
 }
