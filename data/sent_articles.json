@@ -995,7 +995,17 @@
       "url": "https://n.news.naver.com/article/001/0016439824?type=journalists",
       "published_at": "2026-11-13T09:11:40+09:00",
       "sent_at": "2026-11-13T09:21:09.543888+09:00"
+    },
+    {
+      "id": "995c096fdee240b995e6b1cefa2ee34cee76fc7fb8fb71c4a29ca249ad82a0e6",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "펄어비스, 채용연계형 겨울 인턴십 모집…개발·사업 직군",
+      "url": "https://n.news.naver.com/article/001/0016440522?type=journalists",
+      "published_at": "2026-11-13T13:20:28+09:00",
+      "sent_at": "2026-11-13T13:35:00.884243+09:00"
     }
   ],
-  "last_run_at": "2026-11-13T04:29:51.125361+00:00"
+  "last_run_at": "2026-11-13T04:34:56.244645+00:00"
 }
