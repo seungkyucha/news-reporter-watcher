@@ -925,7 +925,27 @@
       "url": "https://n.news.naver.com/article/030/0003485457?type=journalists",
       "published_at": "2026-11-13T23:59:59+09:00",
       "sent_at": "2026-11-13T15:37:34.208205+09:00"
+    },
+    {
+      "id": "ae0b752df1a50c2699adc44d225d68ff5cce694f6eb78b415611b42c1a31da8a",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "한국복지정보통신협의회, 고령층 정보화 경연대회 시상식 개최... 평균 연령 74.4세",
+      "url": "https://n.news.naver.com/article/030/0003485496?type=journalists",
+      "published_at": "2026-11-13T23:59:59+09:00",
+      "sent_at": "2026-11-13T17:34:36.323853+09:00"
+    },
+    {
+      "id": "be22c0cce8ecb4a2a41bc23ac33779b7494f91b65bfb2ca6f475262e6d995ea5",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "[만나보니] '퇴마록' 이우혁 \"AI는 고통 이해 못해…창작 도구에 불과\"",
+      "url": "https://n.news.naver.com/article/001/0016441204?type=journalists",
+      "published_at": "2026-11-13T17:22:20+09:00",
+      "sent_at": "2026-11-13T17:34:39.675406+09:00"
     }
   ],
-  "last_run_at": "2026-11-13T08:29:17.260060+00:00"
+  "last_run_at": "2026-11-13T08:34:21.832753+00:00"
 }
