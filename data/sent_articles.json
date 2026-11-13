@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "9b3bdd34ecf9c2dd26fdd1f6c0b1ab6b7e22f59843a72a0c2f9d54c4a494126a",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "extra_channels": [],
-      "title": "'스텔라 블레이드', 스위치2로 영역 확장... 90년대풍 실사 광고 9시간 만에 100만뷰",
-      "url": "https://n.news.naver.com/article/030/0003482891?type=journalists",
-      "published_at": "2026-11-06T23:59:59+09:00",
-      "sent_at": "2026-11-06T09:45:52.848004+09:00"
-    },
-    {
       "id": "3476f48b0289082d15e1967d48ed0a4bf59bad0eed0355ab5cbbd665f274228a",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -1037,5 +1027,5 @@
       "sent_at": "2026-11-13T09:21:09.543888+09:00"
     }
   ],
-  "last_run_at": "2026-11-13T00:41:30.530307+00:00"
+  "last_run_at": "2026-11-13T00:46:43.737584+00:00"
 }
