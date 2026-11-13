@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "6e11d91047470a5051a75bb70d795d3c211dc423a90ca1facdd59ad7261df6ab",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "extra_channels": [],
-      "title": "엔드림, 임진왜란 RTS '프로젝트: 진달래' 2차 CBT 모집... 2027년 1분기 출시",
-      "url": "https://n.news.naver.com/article/030/0003483026?type=journalists",
-      "published_at": "2026-11-06T14:04:11+09:00",
-      "sent_at": "2026-11-06T14:15:48.115588+09:00"
-    },
-    {
       "id": "24919f14de7959b199a8de63fc47a085ddb304294cbb697099c253b3374e7c87",
       "reporter": "박정은",
       "press": "전자신문",
@@ -977,5 +967,5 @@
       "sent_at": "2026-11-13T13:35:00.884243+09:00"
     }
   ],
-  "last_run_at": "2026-11-13T05:10:45.333911+00:00"
+  "last_run_at": "2026-11-13T05:15:49.505327+00:00"
 }
