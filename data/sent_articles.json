@@ -1,26 +1,6 @@
 {
   "sent": [
     {
-      "id": "6bbc99305ba75f13199220cb822ee8108c16d815ee0c7373730591439af4a9d0",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "extra_channels": [],
-      "title": "'임진록' 계승작 나온다…'프로젝트 진달래' 2차 CBT 모집",
-      "url": "https://n.news.naver.com/article/001/0016426316?type=journalists",
-      "published_at": "2026-11-06T13:51:50+09:00",
-      "sent_at": "2026-11-06T14:05:34.308727+09:00"
-    },
-    {
-      "id": "b48127f43646b639ed48e1529ba6800c6e53e9d51741025ad1e1277b04f31177",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "extra_channels": [],
-      "title": "넥슨, '테일즈위버 모바일' 공개…FGT 참가자 모집",
-      "url": "https://n.news.naver.com/article/001/0016426307?type=journalists",
-      "published_at": "2026-11-06T13:49:37+09:00",
-      "sent_at": "2026-11-06T14:05:36.937017+09:00"
-    },
-    {
       "id": "6e11d91047470a5051a75bb70d795d3c211dc423a90ca1facdd59ad7261df6ab",
       "reporter": "박정은",
       "press": "전자신문",
@@ -997,5 +977,5 @@
       "sent_at": "2026-11-13T13:35:00.884243+09:00"
     }
   ],
-  "last_run_at": "2026-11-13T05:00:21.064822+00:00"
+  "last_run_at": "2026-11-13T05:05:40.604101+00:00"
 }
