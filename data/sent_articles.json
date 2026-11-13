@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "e1bfd77b5fae2065e08e4eb76b5f2eb2d354dd8ecccdeb85a7d4bea1dfbf0c73",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "extra_channels": [],
-      "title": "[ET톡] 게임이 악성코드 통로가 된다면",
-      "url": "https://n.news.naver.com/article/030/0003483159?type=journalists",
-      "published_at": "2026-11-07T07:01:10+09:00",
-      "sent_at": "2026-11-07T07:17:22.367622+09:00"
-    },
-    {
       "id": "6abb29024e422abcf98e5176e26378b72f6445f84d4b8f5f19a2cd715b74d2ad",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -967,5 +957,5 @@
       "sent_at": "2026-11-13T18:05:37.552203+09:00"
     }
   ],
-  "last_run_at": "2026-11-13T22:15:29.622624+00:00"
+  "last_run_at": "2026-11-13T22:20:35.287674+00:00"
 }
