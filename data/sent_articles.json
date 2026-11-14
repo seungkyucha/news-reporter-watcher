@@ -945,7 +945,27 @@
       "url": "https://n.news.naver.com/article/001/0016441232?type=journalists",
       "published_at": "2026-11-13T23:59:59+09:00",
       "sent_at": "2026-11-13T18:05:37.552203+09:00"
+    },
+    {
+      "id": "c629c9b06bdef93ea3403c66a2c63796d0d5fd1afe066a9363c4d9f2d3ca047d",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "2027 LoL 월드 챔피언십, 서울 창동서 결승…일본도 공동개최",
+      "url": "https://n.news.naver.com/article/001/0016441642?type=journalists",
+      "published_at": "2026-11-14T08:48:52+09:00",
+      "sent_at": "2026-11-14T09:02:25.817563+09:00"
+    },
+    {
+      "id": "afd3cb2e6087defc59827021cb776a379ac5621e8df98f41ae5cc0846995e670",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "'월즈 우승 도전' 젠지 \"상대 탑·정글 경계…밴픽 자신있다\"",
+      "url": "https://n.news.naver.com/article/001/0016441641?type=journalists",
+      "published_at": "2026-11-14T08:47:13+09:00",
+      "sent_at": "2026-11-14T09:02:28.144379+09:00"
     }
   ],
-  "last_run_at": "2026-11-13T23:57:15.981959+00:00"
+  "last_run_at": "2026-11-14T00:02:20.211804+00:00"
 }
