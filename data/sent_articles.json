@@ -965,7 +965,17 @@
       "url": "https://n.news.naver.com/article/001/0016441641?type=journalists",
       "published_at": "2026-11-14T08:47:13+09:00",
       "sent_at": "2026-11-14T09:02:28.144379+09:00"
+    },
+    {
+      "id": "434d182b5aa6c4961539ddb8c17e28d133fab9c74860b257bbf0acce83c15881",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "2027 LoL 월드 챔피언십, 서울서 결승... 수원 거쳐 '서울 아레나' 피날레",
+      "url": "https://n.news.naver.com/article/030/0003485532?type=journalists",
+      "published_at": "2026-11-14T09:57:12+09:00",
+      "sent_at": "2026-11-14T10:14:01.305775+09:00"
     }
   ],
-  "last_run_at": "2026-11-14T01:08:51.515775+00:00"
+  "last_run_at": "2026-11-14T01:13:56.055464+00:00"
 }
