@@ -955,7 +955,17 @@
       "url": "https://n.news.naver.com/article/001/0016441772?type=journalists",
       "published_at": "2026-11-14T23:59:59+09:00",
       "sent_at": "2026-11-14T13:37:28.460275+09:00"
+    },
+    {
+      "id": "285fefe5f7bbbdbdea58650ef8886285f7db32b971f6f8a5c7a19124700a5af0",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "컴투스 '서머너즈 워' e스포츠 결승전 개최…챔피언에 TARS",
+      "url": "https://n.news.naver.com/article/001/0016441974?type=journalists",
+      "published_at": "2026-11-14T20:56:20+09:00",
+      "sent_at": "2026-11-14T21:14:48.572011+09:00"
     }
   ],
-  "last_run_at": "2026-11-14T12:09:40.668080+00:00"
+  "last_run_at": "2026-11-14T12:14:44.195058+00:00"
 }
