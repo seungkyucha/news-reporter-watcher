@@ -965,7 +965,17 @@
       "url": "https://n.news.naver.com/article/001/0016441974?type=journalists",
       "published_at": "2026-11-14T20:56:20+09:00",
       "sent_at": "2026-11-14T21:14:48.572011+09:00"
+    },
+    {
+      "id": "b6b281b62ef525ddba681b6bcf60911b0e705c2b64c1e9bca3db94985cf4860e",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "젠지, 롤드컵 결승전서 BLG와 1-1 동점…막상막하 승부",
+      "url": "https://n.news.naver.com/article/001/0016442106?type=journalists",
+      "published_at": "2026-11-15T07:08:09+09:00",
+      "sent_at": "2026-11-15T07:25:11.219664+09:00"
     }
   ],
-  "last_run_at": "2026-11-14T22:20:01.824615+00:00"
+  "last_run_at": "2026-11-14T22:25:06.263121+00:00"
 }
