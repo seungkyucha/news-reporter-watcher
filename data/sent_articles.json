@@ -945,7 +945,17 @@
       "url": "https://n.news.naver.com/article/030/0003485532?type=journalists",
       "published_at": "2026-11-14T09:57:12+09:00",
       "sent_at": "2026-11-14T10:14:01.305775+09:00"
+    },
+    {
+      "id": "70bd65d47cb3cdd8b01746314978ec54d265c9ae449532213775e769260c7811",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "[게임위드인] 시장에 쏟아지는 웹툰 게임…자체 IP 육성은 실종",
+      "url": "https://n.news.naver.com/article/001/0016441772?type=journalists",
+      "published_at": "2026-11-14T23:59:59+09:00",
+      "sent_at": "2026-11-14T13:37:28.460275+09:00"
     }
   ],
-  "last_run_at": "2026-11-14T04:32:06.345509+00:00"
+  "last_run_at": "2026-11-14T04:37:13.301909+00:00"
 }
