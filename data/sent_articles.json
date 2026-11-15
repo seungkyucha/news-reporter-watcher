@@ -1015,7 +1015,17 @@
       "url": "https://n.news.naver.com/article/001/0016442288?type=journalists",
       "published_at": "2026-11-15T23:59:59+09:00",
       "sent_at": "2026-11-15T11:24:58.064737+09:00"
+    },
+    {
+      "id": "e11eba4d7685fcb0144d44a7957023ed81f32978394610968a47064707156c5f",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "박성호 인기협 회장 “게임 스타트업 지원 10년... 이제 '스케일업'으로”",
+      "url": "https://n.news.naver.com/article/030/0003485687?type=journalists",
+      "published_at": "2026-11-15T13:00:14+09:00",
+      "sent_at": "2026-11-15T13:16:52.969544+09:00"
     }
   ],
-  "last_run_at": "2026-11-15T04:11:43.687975+00:00"
+  "last_run_at": "2026-11-15T04:16:48.209499+00:00"
 }
