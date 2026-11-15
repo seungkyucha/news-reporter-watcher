@@ -985,7 +985,17 @@
       "url": "https://n.news.naver.com/article/001/0016442199?type=journalists",
       "published_at": "2026-11-15T09:13:06+09:00",
       "sent_at": "2026-11-15T09:22:19.163994+09:00"
+    },
+    {
+      "id": "dc187b3c05d28f3a330a1b4978441688bfcab7c439e0e729e58bacdf97fdf196",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "'결승전 석패' 젠지 쵸비 \"초반 조급한 플레이 아쉬워\"",
+      "url": "https://n.news.naver.com/article/001/0016442233?type=journalists",
+      "published_at": "2026-11-15T10:20:31+09:00",
+      "sent_at": "2026-11-15T10:33:28.194097+09:00"
     }
   ],
-  "last_run_at": "2026-11-15T01:28:19.509068+00:00"
+  "last_run_at": "2026-11-15T01:33:23.637812+00:00"
 }
