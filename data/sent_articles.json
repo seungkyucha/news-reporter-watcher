@@ -995,7 +995,27 @@
       "url": "https://n.news.naver.com/article/001/0016442233?type=journalists",
       "published_at": "2026-11-15T10:20:31+09:00",
       "sent_at": "2026-11-15T10:33:28.194097+09:00"
+    },
+    {
+      "id": "484b47cb6fe605e070aa6287f12ab3dfd8279e780d4e2a63ed91b41aa084014f",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "컴투스 'SWC2026', TARS 우승... 4년 만에 세계 정상 복귀",
+      "url": "https://n.news.naver.com/article/030/0003485644?type=journalists",
+      "published_at": "2026-11-15T23:59:59+09:00",
+      "sent_at": "2026-11-15T11:24:44.868998+09:00"
+    },
+    {
+      "id": "b4df1aa7732deb434922fb5a541c84fb640b0c06681bcecd9d5296125a63d011",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "'2회 우승' BLG 바이퍼 \"역대 최고 되려면 아직 도전 남았다\"",
+      "url": "https://n.news.naver.com/article/001/0016442288?type=journalists",
+      "published_at": "2026-11-15T23:59:59+09:00",
+      "sent_at": "2026-11-15T11:24:58.064737+09:00"
     }
   ],
-  "last_run_at": "2026-11-15T02:19:24.653386+00:00"
+  "last_run_at": "2026-11-15T02:24:29.670936+00:00"
 }
