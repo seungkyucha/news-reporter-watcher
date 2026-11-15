@@ -975,7 +975,17 @@
       "url": "https://n.news.naver.com/article/001/0016442106?type=journalists",
       "published_at": "2026-11-15T07:08:09+09:00",
       "sent_at": "2026-11-15T07:25:11.219664+09:00"
+    },
+    {
+      "id": "b600e48b6cdb19d7e9e612142544c5ab24c2819c459c1187ad7db2f4dbb41495",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "젠지, 9년만의 정상 도전 좌절…BLG, LoL 월드 챔피언십 우승",
+      "url": "https://n.news.naver.com/article/001/0016442187?type=journalists",
+      "published_at": "2026-11-15T23:59:59+09:00",
+      "sent_at": "2026-11-15T09:12:06.776763+09:00"
     }
   ],
-  "last_run_at": "2026-11-15T00:06:47.895377+00:00"
+  "last_run_at": "2026-11-15T00:11:52.000473+00:00"
 }
