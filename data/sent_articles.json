@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "af98f760f3bc48fada2259fedaf23fe2bf1f0aba0570c6543f2fa59ef33d74eb",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "extra_channels": [],
-      "title": "신작 2종 들고 지스타 가는 호요버스…\"유저 목소리에 집중\"",
-      "url": "https://n.news.naver.com/article/001/0016430376?type=journalists",
-      "published_at": "2026-11-09T23:59:59+09:00",
-      "sent_at": "2026-11-09T10:16:10.998624+09:00"
-    },
-    {
       "id": "857c4469bc6cf2ae3f592e774d0cc02fa19472e2a60b24ea5c122baa4fa1ce79",
       "reporter": "박정은",
       "press": "전자신문",
@@ -1027,5 +1017,5 @@
       "sent_at": "2026-11-16T10:03:09.990549+09:00"
     }
   ],
-  "last_run_at": "2026-11-16T01:13:17.084820+00:00"
+  "last_run_at": "2026-11-16T01:18:21.068265+00:00"
 }
