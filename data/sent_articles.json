@@ -1005,7 +1005,27 @@
       "url": "https://n.news.naver.com/article/030/0003486053?type=journalists",
       "published_at": "2026-11-16T13:49:09+09:00",
       "sent_at": "2026-11-16T14:03:38.666179+09:00"
+    },
+    {
+      "id": "dbec4118a7d49ae4c816a13430151926d2f4aac42e85beb1bfcf74c25bc9be7b",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "넥슨 지주사 NXC, 총수 일가 지분 2천800억어치 취득",
+      "url": "https://n.news.naver.com/article/001/0016444647?type=journalists",
+      "published_at": "2026-11-16T16:23:18+09:00",
+      "sent_at": "2026-11-16T16:31:17.684188+09:00"
+    },
+    {
+      "id": "865e153dfbb054884e6f7b54afbe502745222d2adc79ef283d8638fe14750afe",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "크래프톤, 대화 기억하는 AI '키프' 출시…자체 기술 첫 상용화",
+      "url": "https://n.news.naver.com/article/001/0016444622?type=journalists",
+      "published_at": "2026-11-16T23:59:59+09:00",
+      "sent_at": "2026-11-16T16:31:29.962365+09:00"
     }
   ],
-  "last_run_at": "2026-11-16T07:26:06.920046+00:00"
+  "last_run_at": "2026-11-16T07:31:12.109533+00:00"
 }
