@@ -1,26 +1,6 @@
 {
   "sent": [
     {
-      "id": "4287f67c7c06ad6aedf3d8c2fa529ff9e8344a3c59f95e1a08304d79747082a7",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "extra_channels": [],
-      "title": "네오위즈 '산나비: 귀신 씌인 날'·'안녕서울: 이태원편', 게임문화축제 참가",
-      "url": "https://n.news.naver.com/article/030/0003483480?type=journalists",
-      "published_at": "2026-11-09T23:59:59+09:00",
-      "sent_at": "2026-11-09T10:57:09.764563+09:00"
-    },
-    {
-      "id": "3f8f9377cef31ca971715cdaf4e8a986384a565579ffe9b0e149fa750c9a8246",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "extra_channels": [],
-      "title": "넥슨, IEEE AI 학술대회 최우수논문상…스팀 리뷰 1937만건 분석",
-      "url": "https://n.news.naver.com/article/030/0003483478?type=journalists",
-      "published_at": "2026-11-09T23:59:59+09:00",
-      "sent_at": "2026-11-09T10:57:22.524483+09:00"
-    },
-    {
       "id": "971ea0f1e44246e9492fad81fbc331844f30be18dc2e84d03c842f80b8f5ead8",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -1007,5 +987,5 @@
       "sent_at": "2026-11-16T10:03:09.990549+09:00"
     }
   ],
-  "last_run_at": "2026-11-16T01:53:51.014112+00:00"
+  "last_run_at": "2026-11-16T01:58:57.325813+00:00"
 }
