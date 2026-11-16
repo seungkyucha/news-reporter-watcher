@@ -1055,7 +1055,17 @@
       "url": "https://n.news.naver.com/article/030/0003486034?type=journalists",
       "published_at": "2026-11-16T13:37:11+09:00",
       "sent_at": "2026-11-16T13:53:23.087754+09:00"
+    },
+    {
+      "id": "e0b830ad00f97796d694d40526fc03a9549b1423bb1b8ca99cb3f123925eebbe",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "센추리게임즈, 지스타 2026서 3종 체험 부스 운영... '화이트아웃 서바이벌' 세계관 구현",
+      "url": "https://n.news.naver.com/article/030/0003486053?type=journalists",
+      "published_at": "2026-11-16T13:49:09+09:00",
+      "sent_at": "2026-11-16T14:03:38.666179+09:00"
     }
   ],
-  "last_run_at": "2026-11-16T04:58:27.996469+00:00"
+  "last_run_at": "2026-11-16T05:03:34.160114+00:00"
 }
