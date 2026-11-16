@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "eafdcacbf7269f4c94cbcd74313fb7a7aa14bef0115a424a7a4d738610d06ab8",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "extra_channels": [],
-      "title": "콘솔 개발부터 AI·인디게임까지... '게임 데이즈 2026' 개막",
-      "url": "https://n.news.naver.com/article/030/0003483594?type=journalists",
-      "published_at": "2026-11-09T13:59:15+09:00",
-      "sent_at": "2026-11-09T14:15:59.986601+09:00"
-    },
-    {
       "id": "4c4fed20fbbfca8e2ba2a73fa112e99ebf53116ee6075f242ef0ebd07a1b16f2",
       "reporter": "박정은",
       "press": "전자신문",
@@ -1067,5 +1057,5 @@
       "sent_at": "2026-11-16T14:03:38.666179+09:00"
     }
   ],
-  "last_run_at": "2026-11-16T05:13:45.729344+00:00"
+  "last_run_at": "2026-11-16T05:18:51.155244+00:00"
 }
