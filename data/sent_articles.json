@@ -965,7 +965,27 @@
       "url": "https://n.news.naver.com/article/001/0016443276?type=journalists",
       "published_at": "2026-11-16T23:59:59+09:00",
       "sent_at": "2026-11-16T10:03:09.990549+09:00"
+    },
+    {
+      "id": "21e90ef2f3705fde8aefa2922fde7e7f03eaf7f9b53b47dca7bbf22439a7ed93",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "네오플, 게임기획 인턴 두자릿수 채용…정규직과 동일 급여",
+      "url": "https://n.news.naver.com/article/001/0016443691?type=journalists",
+      "published_at": "2026-11-16T23:59:59+09:00",
+      "sent_at": "2026-11-16T11:55:02.769910+09:00"
+    },
+    {
+      "id": "adab740be642b93f3dc192fe4515f8284ccc6dde579a5c1bdae2cd0c901d6270",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "LoL 차세대 업데이트 최초 공개…\"내년 중 도입 목표\"",
+      "url": "https://n.news.naver.com/article/001/0016443686?type=journalists",
+      "published_at": "2026-11-16T23:59:59+09:00",
+      "sent_at": "2026-11-16T11:55:14.902372+09:00"
     }
   ],
-  "last_run_at": "2026-11-16T02:49:42.165977+00:00"
+  "last_run_at": "2026-11-16T02:54:47.214218+00:00"
 }
