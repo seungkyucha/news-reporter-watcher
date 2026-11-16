@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "2259541cbf18936d7fa8cbc8c22e7bdbf086eddf055a3b80be72ef87ed77164a",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "extra_channels": [],
-      "title": "세계 최대 게임전시회 게임스컴, 지스타 2026 B2B 참가... 韓 기업 유치 나선다",
-      "url": "https://n.news.naver.com/article/030/0003483753?type=journalists",
-      "published_at": "2026-11-09T23:59:59+09:00",
-      "sent_at": "2026-11-09T17:44:41.822416+09:00"
-    },
-    {
       "id": "5802c66381b7d68a8acb3ab00e7438f310d8e787957d6f41cdc4bd4e01b9368a",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -1027,5 +1017,5 @@
       "sent_at": "2026-11-16T16:31:29.962365+09:00"
     }
   ],
-  "last_run_at": "2026-11-16T08:42:57.118406+00:00"
+  "last_run_at": "2026-11-16T08:48:01.257313+00:00"
 }
