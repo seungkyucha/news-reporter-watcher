@@ -995,7 +995,17 @@
       "url": "https://n.news.naver.com/article/001/0016444622?type=journalists",
       "published_at": "2026-11-16T23:59:59+09:00",
       "sent_at": "2026-11-16T16:31:29.962365+09:00"
+    },
+    {
+      "id": "788cd9bab13f7f37e20a191e618b3eaa834266e9063b69ef08255803682e5b94",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "웹젠, 지스타 맞아 '디겜폭'·'게이트오브게이츠' CBT 모집",
+      "url": "https://n.news.naver.com/article/001/0016445687?type=journalists",
+      "published_at": "2026-11-17T09:57:38+09:00",
+      "sent_at": "2026-11-17T10:15:02.901710+09:00"
     }
   ],
-  "last_run_at": "2026-11-17T01:09:52.951467+00:00"
+  "last_run_at": "2026-11-17T01:14:57.726858+00:00"
 }
