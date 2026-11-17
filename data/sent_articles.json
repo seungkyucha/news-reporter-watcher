@@ -1075,7 +1075,17 @@
       "url": "https://n.news.naver.com/article/030/0003486507?type=journalists",
       "published_at": "2026-11-17T10:56:14+09:00",
       "sent_at": "2026-11-17T11:16:18.139367+09:00"
+    },
+    {
+      "id": "7624528e417ff9445e093677e2aac84bbb6f3540b262f71766e1e538a128880a",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "엔씨 '리니지 페스티벌' 1만장 당일 매진... 18일 추가 판매",
+      "url": "https://n.news.naver.com/article/030/0003486518?type=journalists",
+      "published_at": "2026-11-17T11:07:10+09:00",
+      "sent_at": "2026-11-17T11:26:29.786543+09:00"
     }
   ],
-  "last_run_at": "2026-11-17T02:21:21.195082+00:00"
+  "last_run_at": "2026-11-17T02:26:25.424547+00:00"
 }
