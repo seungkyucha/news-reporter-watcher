@@ -1035,7 +1035,47 @@
       "url": "https://n.news.naver.com/article/030/0003486499?type=journalists",
       "published_at": "2026-11-17T10:47:10+09:00",
       "sent_at": "2026-11-17T11:05:57.117894+09:00"
+    },
+    {
+      "id": "a0b4cb037201af3628a0ecfdbd21079b00108d556eb9748ed338f2ff654d3427",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "라인게임즈, 'CODE EXIT'·'엠버 앤 블레이드' 지스타 2026 출품",
+      "url": "https://n.news.naver.com/article/030/0003486517?type=journalists",
+      "published_at": "2026-11-17T11:05:10+09:00",
+      "sent_at": "2026-11-17T11:16:09.747991+09:00"
+    },
+    {
+      "id": "e6fd13bfa9e1bec8f05e7a010429d2f1cc4275ce6f782a8ac21a61f70fd5b589",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "아이언메이스, '다크 앤 다커' 지스타 2026 참가... 1대1 체험 부스 운영",
+      "url": "https://n.news.naver.com/article/030/0003486516?type=journalists",
+      "published_at": "2026-11-17T11:04:15+09:00",
+      "sent_at": "2026-11-17T11:16:12.583619+09:00"
+    },
+    {
+      "id": "733f8d4f9c51d789d4e11d861b0c43bdf947d1be32b4f3435a241a526741ed40",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "웹젠, 2027년 신작 2종 CBT 참가자 모집... 지스타서 현장 접수",
+      "url": "https://n.news.naver.com/article/030/0003486510?type=journalists",
+      "published_at": "2026-11-17T10:59:10+09:00",
+      "sent_at": "2026-11-17T11:16:15.256206+09:00"
+    },
+    {
+      "id": "c65d331c1e38d9427e7ac04d70fe5e392184bdb156c6aaf93e2069a6c0dc9b5e",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "한국e스포츠산업학회, 20일 부산서 '대한민국 e스포츠 정책포럼' 개최",
+      "url": "https://n.news.naver.com/article/030/0003486507?type=journalists",
+      "published_at": "2026-11-17T10:56:14+09:00",
+      "sent_at": "2026-11-17T11:16:18.139367+09:00"
     }
   ],
-  "last_run_at": "2026-11-17T02:11:00.253024+00:00"
+  "last_run_at": "2026-11-17T02:16:04.473154+00:00"
 }
