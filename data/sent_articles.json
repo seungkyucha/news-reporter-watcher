@@ -983,7 +983,17 @@
       "url": "https://n.news.naver.com/article/030/0003486783?type=journalists",
       "published_at": "2026-11-17T19:56:18+09:00",
       "sent_at": "2026-11-17T20:15:17.182873+09:00"
+    },
+    {
+      "id": "91b857cefe51f2d295b6a2beb65a21599cfcfcd73b4067cff5ea82240c8d8a72",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "더게임어워드 후보작 공개…'붉은사막' 1개 부문 올라",
+      "url": "https://n.news.naver.com/article/001/0016447825?type=journalists",
+      "published_at": "2026-11-18T07:21:52+09:00",
+      "sent_at": "2026-11-18T07:35:31.016809+09:00"
     }
   ],
-  "last_run_at": "2026-11-17T22:30:22.747516+00:00"
+  "last_run_at": "2026-11-17T22:35:26.621173+00:00"
 }
