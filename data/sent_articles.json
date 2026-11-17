@@ -1025,7 +1025,17 @@
       "url": "https://n.news.naver.com/article/030/0003486495?type=journalists",
       "published_at": "2026-11-17T10:39:12+09:00",
       "sent_at": "2026-11-17T10:55:44.478107+09:00"
+    },
+    {
+      "id": "dfbd7850b0bb8d7ff74548a52222479a082841bdf5af4febeac0522ada2f4e7e",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "유니티, 인디 스튜디오 지원 '유니티 펠로우십' 출범... 10개 팀에 5만달러 지원",
+      "url": "https://n.news.naver.com/article/030/0003486499?type=journalists",
+      "published_at": "2026-11-17T10:47:10+09:00",
+      "sent_at": "2026-11-17T11:05:57.117894+09:00"
     }
   ],
-  "last_run_at": "2026-11-17T02:00:47.629977+00:00"
+  "last_run_at": "2026-11-17T02:05:52.126840+00:00"
 }
