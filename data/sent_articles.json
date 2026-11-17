@@ -1015,7 +1015,17 @@
       "url": "https://n.news.naver.com/article/030/0003486645?type=journalists",
       "published_at": "2026-11-17T14:57:12+09:00",
       "sent_at": "2026-11-17T15:15:22.225482+09:00"
+    },
+    {
+      "id": "89955a4cd994da5533a17088a2682b54a3e124e1ef18ad833fd35015a7db2c04",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "네오위즈 자회사 파우게임즈, '킹덤2' 대만·홍콩·마카오 출시",
+      "url": "https://n.news.naver.com/article/030/0003486663?type=journalists",
+      "published_at": "2026-11-17T23:59:59+09:00",
+      "sent_at": "2026-11-17T15:45:59.534077+09:00"
     }
   ],
-  "last_run_at": "2026-11-17T06:40:41.550468+00:00"
+  "last_run_at": "2026-11-17T06:45:45.445457+00:00"
 }
