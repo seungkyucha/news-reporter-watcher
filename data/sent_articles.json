@@ -1005,7 +1005,17 @@
       "url": "https://n.news.naver.com/article/001/0016446604?type=journalists",
       "published_at": "2026-11-17T14:41:21+09:00",
       "sent_at": "2026-11-17T14:55:00.570748+09:00"
+    },
+    {
+      "id": "97edf822208284cc5bd6fc4ee9ac97fd7b0360b6218f9acf229c2af724f92745",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "네오플, 제주대병원 소아환아 치료환경 개선에 1억원 후원",
+      "url": "https://n.news.naver.com/article/030/0003486645?type=journalists",
+      "published_at": "2026-11-17T14:57:12+09:00",
+      "sent_at": "2026-11-17T15:15:22.225482+09:00"
     }
   ],
-  "last_run_at": "2026-11-17T06:10:13.698838+00:00"
+  "last_run_at": "2026-11-17T06:15:17.526399+00:00"
 }
