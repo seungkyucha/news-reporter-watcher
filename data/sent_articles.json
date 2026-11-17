@@ -1005,7 +1005,27 @@
       "url": "https://n.news.naver.com/article/001/0016445687?type=journalists",
       "published_at": "2026-11-17T09:57:38+09:00",
       "sent_at": "2026-11-17T10:15:02.901710+09:00"
+    },
+    {
+      "id": "6ef43c69d3bfcf778c5f11b1f25b1977d15ff07ec0fab162f92d942548c20de5",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "게임문화재단, '게임제너레이션' 문화비평대담회 개최... 영화·문학·게임 서사 논의",
+      "url": "https://n.news.naver.com/article/030/0003486498?type=journalists",
+      "published_at": "2026-11-17T10:43:10+09:00",
+      "sent_at": "2026-11-17T10:55:41.395673+09:00"
+    },
+    {
+      "id": "28f9161005bcd1b5ce629770b42b87a7ab44dd79ee72ea95a1964cfd29dc69aa",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "CD 프로젝트 레드, 지스타 2026 참가... '더 위쳐 3' 신규 확장팩 한국어 더빙 공개",
+      "url": "https://n.news.naver.com/article/030/0003486495?type=journalists",
+      "published_at": "2026-11-17T10:39:12+09:00",
+      "sent_at": "2026-11-17T10:55:44.478107+09:00"
     }
   ],
-  "last_run_at": "2026-11-17T01:50:31.968136+00:00"
+  "last_run_at": "2026-11-17T01:55:36.384937+00:00"
 }
