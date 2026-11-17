@@ -973,7 +973,17 @@
       "url": "https://n.news.naver.com/article/001/0016446953?type=journalists",
       "published_at": "2026-11-17T15:48:48+09:00",
       "sent_at": "2026-11-17T16:06:21.286047+09:00"
+    },
+    {
+      "id": "07d7de58a4a8f5881e43ddadc261a775b96c5296d3f77ee9c542e35f7bdd253a",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "독일 게임 사절단, K게임과 협력 넓힌다... “한국 개발 역량 인상적”",
+      "url": "https://n.news.naver.com/article/030/0003486783?type=journalists",
+      "published_at": "2026-11-17T19:56:18+09:00",
+      "sent_at": "2026-11-17T20:15:17.182873+09:00"
     }
   ],
-  "last_run_at": "2026-11-17T11:10:07.985002+00:00"
+  "last_run_at": "2026-11-17T11:15:12.653677+00:00"
 }
