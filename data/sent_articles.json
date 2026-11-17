@@ -1085,7 +1085,17 @@
       "url": "https://n.news.naver.com/article/030/0003486518?type=journalists",
       "published_at": "2026-11-17T11:07:10+09:00",
       "sent_at": "2026-11-17T11:26:29.786543+09:00"
+    },
+    {
+      "id": "97113b77dfdca119915ed55e95bf09d256a1c44202bf7f0ce5a63816cec81156",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "라이엇게임즈, LoL 2027 시즌1 공개... '도벽' 복귀·랭크 보상 개편",
+      "url": "https://n.news.naver.com/article/030/0003486523?type=journalists",
+      "published_at": "2026-11-17T11:20:16+09:00",
+      "sent_at": "2026-11-17T11:36:42.899782+09:00"
     }
   ],
-  "last_run_at": "2026-11-17T02:31:33.050214+00:00"
+  "last_run_at": "2026-11-17T02:36:37.673203+00:00"
 }
