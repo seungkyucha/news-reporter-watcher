@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "06d4a285eac6a5739fab8f61169ec68726ec43624e7adc39388dda970cadc777",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "extra_channels": [],
-      "title": "3분기 반등한 게임업계, 라이브 흥행작이 실적 갈랐다",
-      "url": "https://n.news.naver.com/article/001/0016436732?type=journalists",
-      "published_at": "2026-11-11T23:59:59+09:00",
-      "sent_at": "2026-11-11T18:00:14.309877+09:00"
-    },
-    {
       "id": "e5c5ce3532ace9cf240673614bbc100065c24fdcb8b41bf50f8aba1908fd6e2b",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -871,7 +861,17 @@
       "url": "https://n.news.naver.com/article/030/0003487257?type=journalists",
       "published_at": "2026-11-18T17:41:12+09:00",
       "sent_at": "2026-11-18T17:56:24.572642+09:00"
+    },
+    {
+      "id": "d4134aedcb5455e32b0e961db962671a77fcdbfeed1ab317b5bb4c42a608d7c5",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "'붉은사막' 대한민국 게임대상 석권…'아이온2'도 수상(종합)",
+      "url": "https://n.news.naver.com/article/001/0016450108?type=journalists",
+      "published_at": "2026-11-18T17:45:58+09:00",
+      "sent_at": "2026-11-18T18:01:32.550458+09:00"
     }
   ],
-  "last_run_at": "2026-11-18T08:55:37.455966+00:00"
+  "last_run_at": "2026-11-18T09:01:27.999746+00:00"
 }
