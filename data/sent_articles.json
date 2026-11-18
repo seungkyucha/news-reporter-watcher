@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "dbd8abab373447d4d383e361edbc3ada6d262adaaccc87b32e732176a94bcee5",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "extra_channels": [],
-      "title": "엔씨, 25일 첫 '리니지' 통합 오프라인 축제... 3개 타이틀 한자리에",
-      "url": "https://n.news.naver.com/article/030/0003484550?type=journalists",
-      "published_at": "2026-11-11T13:18:22+09:00",
-      "sent_at": "2026-11-11T13:33:45.469412+09:00"
-    },
-    {
       "id": "b28b38669349275decac30cbed69d689b648e33bf987d3014e0bd9cd01e834a5",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -893,5 +883,5 @@
       "sent_at": "2026-11-18T11:13:47.891925+09:00"
     }
   ],
-  "last_run_at": "2026-11-18T04:30:47.801724+00:00"
+  "last_run_at": "2026-11-18T04:35:51.972113+00:00"
 }
