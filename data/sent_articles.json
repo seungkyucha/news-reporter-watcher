@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "381359b477d40c5351ef5f7b71822327649b6da7cfd1ce6feae14cb62fe06181",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "extra_channels": [],
-      "title": "엔씨, MMORPG 성과에 3분기 흑자전환…연매출 목표 조기달성(종합2보)",
-      "url": "https://n.news.naver.com/article/001/0016436718?type=journalists",
-      "published_at": "2026-11-11T17:36:58+09:00",
-      "sent_at": "2026-11-11T17:54:57.326026+09:00"
-    },
-    {
       "id": "06d4a285eac6a5739fab8f61169ec68726ec43624e7adc39388dda970cadc777",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -821,7 +811,67 @@
       "url": "https://n.news.naver.com/article/001/0016450063?type=journalists",
       "published_at": "2026-11-18T17:24:36+09:00",
       "sent_at": "2026-11-18T17:35:21.434235+09:00"
+    },
+    {
+      "id": "f2363c285a944ad6f93208e27ea4098a559c3f8a72eb913de960291b9dd4d397",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "[2026 대한민국 게임대상] 우수상 슈퍼캣 '도깨비의세계'",
+      "url": "https://n.news.naver.com/article/030/0003487262?type=journalists",
+      "published_at": "2026-11-18T17:41:22+09:00",
+      "sent_at": "2026-11-18T17:55:41.706875+09:00"
+    },
+    {
+      "id": "9ca7abeb99d22624b28f55e17c958a0a9956d5b46a82b1d273d54a0cbcb38ecb",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "펄어비스 '붉은사막', 2026 대한민국 게임대상 석권…역대 최다 8관왕",
+      "url": "https://n.news.naver.com/article/030/0003487261?type=journalists",
+      "published_at": "2026-11-18T23:59:59+09:00",
+      "sent_at": "2026-11-18T17:55:54.208256+09:00"
+    },
+    {
+      "id": "22a10f22c284fb962ee72bbc6c5d61412699ed20f1f62465ca3708009096aa59",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "[2026 대한민국 게임대상] 우수상 렐루게임즈 '미메시스'",
+      "url": "https://n.news.naver.com/article/030/0003487260?type=journalists",
+      "published_at": "2026-11-18T23:59:59+09:00",
+      "sent_at": "2026-11-18T17:56:06.990638+09:00"
+    },
+    {
+      "id": "5802fab747f9d92240648b112b7179902cb8a55f8d995c1fb6aa51378afa94dd",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "[2026 대한민국 게임대상] 우수상 에이버튼 '제우스: 오만의 신'",
+      "url": "https://n.news.naver.com/article/030/0003487259?type=journalists",
+      "published_at": "2026-11-18T23:59:59+09:00",
+      "sent_at": "2026-11-18T17:56:19.635039+09:00"
+    },
+    {
+      "id": "f0e71819e0c4bcd37ce981b322d69ccf67c7a4a6b10a5de73dcce5fad2b784ab",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "[2026 대한민국 게임대상] 대상 펄어비스 '붉은사막'",
+      "url": "https://n.news.naver.com/article/030/0003487258?type=journalists",
+      "published_at": "2026-11-18T17:41:14+09:00",
+      "sent_at": "2026-11-18T17:56:21.959529+09:00"
+    },
+    {
+      "id": "1a527bdbee5e4b728e3c7ef0d9b16162997530db195657ad6e732d0f7dd891cd",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "[2026 대한민국 게임대상] 최우수상 엔씨 '아이온2'",
+      "url": "https://n.news.naver.com/article/030/0003487257?type=journalists",
+      "published_at": "2026-11-18T17:41:12+09:00",
+      "sent_at": "2026-11-18T17:56:24.572642+09:00"
     }
   ],
-  "last_run_at": "2026-11-18T08:50:32.459561+00:00"
+  "last_run_at": "2026-11-18T08:55:37.455966+00:00"
 }
