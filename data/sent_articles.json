@@ -811,7 +811,17 @@
       "url": "https://n.news.naver.com/article/030/0003487228?type=journalists",
       "published_at": "2026-11-18T23:59:59+09:00",
       "sent_at": "2026-11-18T17:04:50.143845+09:00"
+    },
+    {
+      "id": "c226c453a909a05caea4b7437404dacf8673956633c52307196848d0268fa405",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "펄어비스 '붉은사막', 대한민국 게임대상 8관왕…역대 최다",
+      "url": "https://n.news.naver.com/article/001/0016450063?type=journalists",
+      "published_at": "2026-11-18T17:24:36+09:00",
+      "sent_at": "2026-11-18T17:35:21.434235+09:00"
     }
   ],
-  "last_run_at": "2026-11-18T08:30:12.140071+00:00"
+  "last_run_at": "2026-11-18T08:35:16.425649+00:00"
 }
