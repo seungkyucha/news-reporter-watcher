@@ -801,7 +801,27 @@
       "url": "https://n.news.naver.com/article/030/0003487227?type=journalists",
       "published_at": "2026-11-18T16:40:07+09:00",
       "sent_at": "2026-11-18T16:54:15.326179+09:00"
+    },
+    {
+      "id": "35eccf978bf64aaf6e78dc8fcae23ee16d7b272bb444970ad766a1e2bc506eec",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "[대한민국 게임대상 2026] 조승래 의원 “게임 제작비 세액공제, 국회서 적극 뒷받침”",
+      "url": "https://n.news.naver.com/article/030/0003487229?type=journalists",
+      "published_at": "2026-11-18T23:59:59+09:00",
+      "sent_at": "2026-11-18T17:04:37.659511+09:00"
+    },
+    {
+      "id": "b8261090551992e110ad4a65c50cea816b23bc438a505f884b7f5becf2ffa536",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "[대한민국 게임대상 2026] 이재정 “게임산업 도전 외롭지 않게... 법·제도로 뒷받침”",
+      "url": "https://n.news.naver.com/article/030/0003487228?type=journalists",
+      "published_at": "2026-11-18T23:59:59+09:00",
+      "sent_at": "2026-11-18T17:04:50.143845+09:00"
     }
   ],
-  "last_run_at": "2026-11-18T07:59:18.465886+00:00"
+  "last_run_at": "2026-11-18T08:04:23.559259+00:00"
 }
