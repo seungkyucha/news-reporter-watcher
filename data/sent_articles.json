@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "b14db1fea7f00d913031d446810c4e55a54dc1c08adc8a144e497e8b1732af9b",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "extra_channels": [],
-      "title": "네오위즈, 3분기 영업익 96억원... 'P의 거짓' 스위치2·신작 효과로 전분기 대비 성장",
-      "url": "https://n.news.naver.com/article/030/0003484465?type=journalists",
-      "published_at": "2026-11-11T23:59:59+09:00",
-      "sent_at": "2026-11-11T11:36:06.613795+09:00"
-    },
-    {
       "id": "b99f6bd24f7101d77ace39eb3f548b2f531d9e8afd4afa679b76a691f1f796f2",
       "reporter": "박정은",
       "press": "전자신문",
@@ -953,5 +943,5 @@
       "sent_at": "2026-11-18T11:13:47.891925+09:00"
     }
   ],
-  "last_run_at": "2026-11-18T02:34:05.870836+00:00"
+  "last_run_at": "2026-11-18T02:39:10.031797+00:00"
 }
