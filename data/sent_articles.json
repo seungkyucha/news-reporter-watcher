@@ -881,7 +881,27 @@
       "url": "https://n.news.naver.com/article/001/0016450195?type=journalists",
       "published_at": "2026-11-18T18:44:12+09:00",
       "sent_at": "2026-11-18T18:52:19.532854+09:00"
+    },
+    {
+      "id": "89b88a1caa8d217548ef583cefe3e3b29090ae001127ef520b8afc9a6d3fbe9a",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "화환 받는 펄어비스 허진영 대표",
+      "url": "https://n.news.naver.com/article/001/0016450198?type=journalists",
+      "published_at": "2026-11-18T23:59:59+09:00",
+      "sent_at": "2026-11-18T19:02:41.791486+09:00"
+    },
+    {
+      "id": "700bdb457a30735b0132d0e1c5c4d023282dd27ac63017f544c288356a053161",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "수상 소감 밝히는 허진영 펄어비스 대표",
+      "url": "https://n.news.naver.com/article/001/0016450197?type=journalists",
+      "published_at": "2026-11-18T23:59:59+09:00",
+      "sent_at": "2026-11-18T19:02:54.169437+09:00"
     }
   ],
-  "last_run_at": "2026-11-18T09:57:22.314639+00:00"
+  "last_run_at": "2026-11-18T10:02:27.199413+00:00"
 }
