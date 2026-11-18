@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "b99f6bd24f7101d77ace39eb3f548b2f531d9e8afd4afa679b76a691f1f796f2",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "extra_channels": [],
-      "title": "컴투스, '2026 아시아 프로야구 챔피언십' 국가대표팀 공식 후원",
-      "url": "https://n.news.naver.com/article/030/0003484468?type=journalists",
-      "published_at": "2026-11-11T11:30:12+09:00",
-      "sent_at": "2026-11-11T11:46:32.040120+09:00"
-    },
-    {
       "id": "dcdb6c49d7810a24f85a3db64d5da2ca128334b0fc7a7312ed1663352d9c78ae",
       "reporter": "박정은",
       "press": "전자신문",
@@ -943,5 +933,5 @@
       "sent_at": "2026-11-18T11:13:47.891925+09:00"
     }
   ],
-  "last_run_at": "2026-11-18T02:44:14.579386+00:00"
+  "last_run_at": "2026-11-18T02:49:18.471349+00:00"
 }
