@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "e869734dee4dd37a5510c43775d46a45a99d18cafe967f37a70dbbb520611298",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "extra_channels": [],
-      "title": "엔씨, '탕탕특공대' 개발사 고릴라스튜디오와 맞손... 차기작 글로벌 퍼블리싱",
-      "url": "https://n.news.naver.com/article/030/0003484427?type=journalists",
-      "published_at": "2026-11-11T10:49:12+09:00",
-      "sent_at": "2026-11-11T11:05:25.308071+09:00"
-    },
-    {
       "id": "1bbbd2d4cdaa82d678d3edeb352ba338a44c8cd1f0072cd139049e9acd385772",
       "reporter": "서정근",
       "press": "MTN",
@@ -965,5 +955,5 @@
       "sent_at": "2026-11-18T07:35:31.016809+09:00"
     }
   ],
-  "last_run_at": "2026-11-18T02:03:32.405953+00:00"
+  "last_run_at": "2026-11-18T02:08:36.421019+00:00"
 }
