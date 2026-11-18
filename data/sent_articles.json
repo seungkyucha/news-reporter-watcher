@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "ca5f459412194d0a8595937af3341af80583739748f83bbae4e7e882b4ffb914",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "extra_channels": [],
-      "title": "엔씨 박병무 대표 \"우리 경쟁력은 MMORPG…AI로 대체할 수 없어\"",
-      "url": "https://n.news.naver.com/article/001/0016436644?type=journalists",
-      "published_at": "2026-11-11T23:59:59+09:00",
-      "sent_at": "2026-11-11T17:14:03.255343+09:00"
-    },
-    {
       "id": "381359b477d40c5351ef5f7b71822327649b6da7cfd1ce6feae14cb62fe06181",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -823,5 +813,5 @@
       "sent_at": "2026-11-18T17:04:50.143845+09:00"
     }
   ],
-  "last_run_at": "2026-11-18T08:09:53.466605+00:00"
+  "last_run_at": "2026-11-18T08:14:58.559955+00:00"
 }
