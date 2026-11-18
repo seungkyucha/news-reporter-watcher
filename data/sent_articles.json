@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "a7be59de06cd2409d8ac7b6de44c9df34a4d7072dd9d88b7fdc66f17dd6225ca",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "extra_channels": [],
-      "title": "엔씨, 3분기 영업익 1196억원... 누적 매출 2조원 조기 달성",
-      "url": "https://n.news.naver.com/article/030/0003484671?type=journalists",
-      "published_at": "2026-11-11T23:59:59+09:00",
-      "sent_at": "2026-11-11T16:06:27.697018+09:00"
-    },
-    {
       "id": "fc90c4503a330b2419ea1b27958b3c0f3eeda9eddfc943c4980fbe2dda415558",
       "reporter": "박정은",
       "press": "전자신문",
@@ -873,5 +863,5 @@
       "sent_at": "2026-11-18T16:03:30.321934+09:00"
     }
   ],
-  "last_run_at": "2026-11-18T07:03:15.840636+00:00"
+  "last_run_at": "2026-11-18T07:08:33.161879+00:00"
 }
