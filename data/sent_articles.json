@@ -819,7 +819,57 @@
       "url": "https://n.news.naver.com/article/001/0016451274?type=journalists",
       "published_at": "2026-11-19T10:13:09+09:00",
       "sent_at": "2026-11-19T11:05:20.408333+09:00"
+    },
+    {
+      "id": "7544e704db1a31902706eeab27d180e82fb9f48cb00648ec47e7596c9316464a",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "'붉은사막' 제작진 \"현실보다 중요한 건 게임 속 경험\"",
+      "url": "https://n.news.naver.com/article/001/0016451935?type=journalists",
+      "published_at": "2026-11-19T13:24:43+09:00",
+      "sent_at": "2026-11-19T13:56:50.035307+09:00"
+    },
+    {
+      "id": "0b5975101d9beecfb31bdf206951fb431b04577dbc0f49adb9f0a56a051569c7",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "[만나보니] 크래프톤 기대작 '타래: 언바운드' \"2027년 출시 변동 없다\"",
+      "url": "https://n.news.naver.com/article/001/0016451913?type=journalists",
+      "published_at": "2026-11-19T13:00:01+09:00",
+      "sent_at": "2026-11-19T13:56:52.285675+09:00"
+    },
+    {
+      "id": "7fae2f9044579b01af94a34c57d104d45fa2df08836613dad7c36c62ce40ef6b",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "[만나보니] 지스타 찾은 뤼튼 대표 \"크랙 속 IP, 국경·형식 넘어 확장\"",
+      "url": "https://n.news.naver.com/article/001/0016451910?type=journalists",
+      "published_at": "2026-11-19T12:56:14+09:00",
+      "sent_at": "2026-11-19T13:56:54.548493+09:00"
+    },
+    {
+      "id": "8bba15214fb7cbd8d77b3e4619e6d4c1f3e868634291c6dd784c2b7bfadc3577",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "GTA 6, 21세기 최고 평점 게임 등극…메타크리틱 99점",
+      "url": "https://n.news.naver.com/article/001/0016451844?type=journalists",
+      "published_at": "2026-11-19T12:30:27+09:00",
+      "sent_at": "2026-11-19T13:56:56.770206+09:00"
+    },
+    {
+      "id": "f1c9555483119f4b3bbedb18a241d477186c1c93ec2385b735e936d3e1fa7751",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "지스타 2026 부산서 개막…신작 게임과 AI 함께 만난다(종합)",
+      "url": "https://n.news.naver.com/article/001/0016451615?type=journalists",
+      "published_at": "2026-11-19T11:22:17+09:00",
+      "sent_at": "2026-11-19T13:57:00.324385+09:00"
     }
   ],
-  "last_run_at": "2026-11-19T04:50:15.073909+00:00"
+  "last_run_at": "2026-11-19T04:56:44.601598+00:00"
 }
