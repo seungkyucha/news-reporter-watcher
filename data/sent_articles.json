@@ -879,7 +879,17 @@
       "url": "https://n.news.naver.com/article/030/0003487581?type=journalists",
       "published_at": "2026-11-19T13:58:11+09:00",
       "sent_at": "2026-11-19T14:17:22.190820+09:00"
+    },
+    {
+      "id": "c534e2e9e2825416e9b28d520eae132ff1000d67a0cc4760bcca18dc634a8398",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "장현국 주식회사 원 대표 \"부산으로 본사 이전 결정\"",
+      "url": "https://n.news.naver.com/article/001/0016452070?type=journalists",
+      "published_at": "2026-11-19T23:59:59+09:00",
+      "sent_at": "2026-11-19T14:22:39.905794+09:00"
     }
   ],
-  "last_run_at": "2026-11-19T05:17:15.042482+00:00"
+  "last_run_at": "2026-11-19T05:22:24.976722+00:00"
 }
