@@ -869,7 +869,17 @@
       "url": "https://n.news.naver.com/article/030/0003487676?type=journalists",
       "published_at": "2026-11-19T23:59:59+09:00",
       "sent_at": "2026-11-19T16:04:37.664356+09:00"
+    },
+    {
+      "id": "95a25b048c93133ce10b2b70c0fff8aed5524a68b34d6888ca5ea5648317f2f4",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "웹젠 '디겜폭' 제작진 \"디펜스만 하는 게임 아냐…상반기 론칭\"",
+      "url": "https://n.news.naver.com/article/001/0016453053?type=journalists",
+      "published_at": "2026-11-19T17:53:00+09:00",
+      "sent_at": "2026-11-19T18:01:38.864597+09:00"
     }
   ],
-  "last_run_at": "2026-11-19T08:56:29.286215+00:00"
+  "last_run_at": "2026-11-19T09:01:33.611489+00:00"
 }
