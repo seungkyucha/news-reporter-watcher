@@ -899,7 +899,17 @@
       "url": "https://n.news.naver.com/article/001/0016452549?type=journalists",
       "published_at": "2026-11-19T15:39:21+09:00",
       "sent_at": "2026-11-19T15:54:16.217544+09:00"
+    },
+    {
+      "id": "0a3cfcaa191b07584a67229860eb05cc2baeea079194e0b682f3074fa10ba55c",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "[지스타 2026] AI 시대 게임 창작 승부처는 '내러티브'",
+      "url": "https://n.news.naver.com/article/030/0003487676?type=journalists",
+      "published_at": "2026-11-19T23:59:59+09:00",
+      "sent_at": "2026-11-19T16:04:37.664356+09:00"
     }
   ],
-  "last_run_at": "2026-11-19T06:59:18.479332+00:00"
+  "last_run_at": "2026-11-19T07:04:22.752738+00:00"
 }
