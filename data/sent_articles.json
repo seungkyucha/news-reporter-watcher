@@ -881,7 +881,17 @@
       "url": "https://n.news.naver.com/article/001/0016450478?type=journalists",
       "published_at": "2026-11-19T06:10:02+09:00",
       "sent_at": "2026-11-19T06:24:05.976663+09:00"
+    },
+    {
+      "id": "2ae3bf1815499406984ce280e4b2050a6062e1d481bcabe571dfceb1578b1b09",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "AI까지 품은 지스타 2026 개막…게임 신작 한자리에",
+      "url": "https://n.news.naver.com/article/001/0016451274?type=journalists",
+      "published_at": "2026-11-19T10:13:09+09:00",
+      "sent_at": "2026-11-19T11:05:20.408333+09:00"
     }
   ],
-  "last_run_at": "2026-11-19T01:59:46.553730+00:00"
+  "last_run_at": "2026-11-19T02:05:14.653786+00:00"
 }
