@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "2a18d9bcff9e06ee16f1c61792f8591c8e8eb6d38ff49746981d13f3ebe6651c",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "extra_channels": [],
-      "title": "넥슨, '엠버스 오브 더 언크라운드' 연말 글로벌 테스트",
-      "url": "https://n.news.naver.com/article/001/0016438355?type=journalists",
-      "published_at": "2026-11-12T23:59:59+09:00",
-      "sent_at": "2026-11-12T14:05:25.152139+09:00"
-    },
-    {
       "id": "28bf79a5c85ab89b6edb8a622ca6c081bd03f0d0cbb3930e26bdfd241bb6b74c",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -871,5 +861,5 @@
       "sent_at": "2026-11-19T13:57:00.324385+09:00"
     }
   ],
-  "last_run_at": "2026-11-19T05:02:02.845717+00:00"
+  "last_run_at": "2026-11-19T05:07:07.286295+00:00"
 }
