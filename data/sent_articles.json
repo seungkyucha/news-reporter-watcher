@@ -889,7 +889,17 @@
       "url": "https://n.news.naver.com/article/001/0016452369?type=journalists",
       "published_at": "2026-11-19T23:59:59+09:00",
       "sent_at": "2026-11-19T15:13:38.958919+09:00"
+    },
+    {
+      "id": "8fc9e915c9d210bdfe1c70c5fe0b9af6945c38ca078aab00015f9db0784434ea",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "시프트업 김형태 \"AI 게임 시대, 결국 사람 손맛이 경쟁력\"",
+      "url": "https://n.news.naver.com/article/001/0016452549?type=journalists",
+      "published_at": "2026-11-19T15:39:21+09:00",
+      "sent_at": "2026-11-19T15:54:16.217544+09:00"
     }
   ],
-  "last_run_at": "2026-11-19T06:49:06.988056+00:00"
+  "last_run_at": "2026-11-19T06:54:11.073873+00:00"
 }
