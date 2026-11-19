@@ -859,7 +859,27 @@
       "url": "https://n.news.naver.com/article/001/0016451615?type=journalists",
       "published_at": "2026-11-19T11:22:17+09:00",
       "sent_at": "2026-11-19T13:57:00.324385+09:00"
+    },
+    {
+      "id": "2a5db7a91d3d627351a93a8cabfacd513b1a3a8f1d6cc18ba2a1c176b430f803",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "[지스타 2026] AI 창작부터 가상 레이싱까지... 게임쇼의 판이 넓어졌다",
+      "url": "https://n.news.naver.com/article/030/0003487589?type=journalists",
+      "published_at": "2026-11-19T14:05:11+09:00",
+      "sent_at": "2026-11-19T14:17:19.804972+09:00"
+    },
+    {
+      "id": "2e22f6746381f7c9e7492d17dcbfc36e47daedad14f13b3a01596d2084625ebf",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "[지스타 2026] 뤼튼 '크랙', 게임·웹툰·애니로 IP 확장... “AI 창작자 생태계 키운다”",
+      "url": "https://n.news.naver.com/article/030/0003487581?type=journalists",
+      "published_at": "2026-11-19T13:58:11+09:00",
+      "sent_at": "2026-11-19T14:17:22.190820+09:00"
     }
   ],
-  "last_run_at": "2026-11-19T05:12:11.168864+00:00"
+  "last_run_at": "2026-11-19T05:17:15.042482+00:00"
 }
