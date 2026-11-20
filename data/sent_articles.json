@@ -869,7 +869,27 @@
       "url": "https://n.news.naver.com/article/030/0003487960?type=journalists",
       "published_at": "2026-11-20T13:34:13+09:00",
       "sent_at": "2026-11-20T13:45:56.262149+09:00"
+    },
+    {
+      "id": "02900163b25dba8b4c38e42a317fe6dcaeeecf4dd6e96dbba6633f1946f4713f",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "[지스타 2026]게임문화재단, 국제 게임문화 심포지엄 개최... 6개국 정책·문화 논의",
+      "url": "https://n.news.naver.com/article/030/0003487975?type=journalists",
+      "published_at": "2026-11-20T13:45:08+09:00",
+      "sent_at": "2026-11-20T13:56:07.840274+09:00"
+    },
+    {
+      "id": "8c52c3ddc0358117f9db298fbd6d14d39f5570fcc7680a0ea975d64e9fcf09ea",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "[지스타 2026]콘진원 게임인재원, 7기 교육생 작품 전시... 졸업생 30명 현장 평가",
+      "url": "https://n.news.naver.com/article/030/0003487968?type=journalists",
+      "published_at": "2026-11-20T13:39:12+09:00",
+      "sent_at": "2026-11-20T13:56:10.410215+09:00"
     }
   ],
-  "last_run_at": "2026-11-20T04:50:59.564320+00:00"
+  "last_run_at": "2026-11-20T04:56:03.390444+00:00"
 }
