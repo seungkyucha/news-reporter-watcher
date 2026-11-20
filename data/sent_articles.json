@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "2f6b27f43a2d2812fd9b30797720245ebabb795c9fe5b33f24f7d903c84aab5d",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "extra_channels": [],
-      "title": "카카오게임즈 '도깨비의세계' 출시 한달 추정 매출 400억원",
-      "url": "https://n.news.naver.com/article/001/0016439824?type=journalists",
-      "published_at": "2026-11-13T09:11:40+09:00",
-      "sent_at": "2026-11-13T09:21:09.543888+09:00"
-    },
-    {
       "id": "995c096fdee240b995e6b1cefa2ee34cee76fc7fb8fb71c4a29ca249ad82a0e6",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -851,5 +841,5 @@
       "sent_at": "2026-11-19T18:42:33.556187+09:00"
     }
   ],
-  "last_run_at": "2026-11-20T00:16:07.609301+00:00"
+  "last_run_at": "2026-11-20T00:21:11.919245+00:00"
 }
