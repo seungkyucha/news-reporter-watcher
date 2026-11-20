@@ -879,7 +879,17 @@
       "url": "https://n.news.naver.com/article/030/0003487976?type=journalists",
       "published_at": "2026-11-20T13:48:12+09:00",
       "sent_at": "2026-11-20T14:06:23.654678+09:00"
+    },
+    {
+      "id": "b99814e5e89c18d00de2de07760b03923d307a604eeb578e1ad9927751c09ebc",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "[만나보니] 버추어스 서울지사장 \"한국 IP 기반 게임 자체 개발도 추진\"",
+      "url": "https://n.news.naver.com/article/001/0016454915?type=journalists",
+      "published_at": "2026-11-20T15:44:32+09:00",
+      "sent_at": "2026-11-20T15:52:52.334372+09:00"
     }
   ],
-  "last_run_at": "2026-11-20T06:47:43.430677+00:00"
+  "last_run_at": "2026-11-20T06:52:47.396579+00:00"
 }
