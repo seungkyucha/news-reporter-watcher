@@ -859,7 +859,17 @@
       "url": "https://n.news.naver.com/article/030/0003487952?type=journalists",
       "published_at": "2026-11-20T23:59:59+09:00",
       "sent_at": "2026-11-20T13:35:45.569159+09:00"
+    },
+    {
+      "id": "b6d29386abfaa451c6a3f8d49a41a3d5634a8309d4dc726b9b32f2f58c6a9f19",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "[지스타 2026]게임이용자보호센터 출범 10년... “자율규제 넘어 실효성·이용자 참여 강화해야”",
+      "url": "https://n.news.naver.com/article/030/0003487960?type=journalists",
+      "published_at": "2026-11-20T13:34:13+09:00",
+      "sent_at": "2026-11-20T13:45:56.262149+09:00"
     }
   ],
-  "last_run_at": "2026-11-20T04:40:48.782243+00:00"
+  "last_run_at": "2026-11-20T04:45:52.381609+00:00"
 }
