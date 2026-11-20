@@ -1,26 +1,6 @@
 {
   "sent": [
     {
-      "id": "5758f2eb8b9e27141bd07909c95261eee0cbf2f25e20eb28188f1a3539d8431d",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "extra_channels": [],
-      "title": "한자리 모인 소설·영화·게임 창작자들",
-      "url": "https://n.news.naver.com/article/001/0016441233?type=journalists",
-      "published_at": "2026-11-13T17:46:35+09:00",
-      "sent_at": "2026-11-13T18:05:24.940104+09:00"
-    },
-    {
-      "id": "250b07eaa088e134fd8c5e0c179cd8fa374386a002a36d7c1fce3adf4e8dc8f1",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "extra_channels": [],
-      "title": "대담하는 '퇴마록' 이우혁 작가",
-      "url": "https://n.news.naver.com/article/001/0016441232?type=journalists",
-      "published_at": "2026-11-13T23:59:59+09:00",
-      "sent_at": "2026-11-13T18:05:37.552203+09:00"
-    },
-    {
       "id": "c629c9b06bdef93ea3403c66a2c63796d0d5fd1afe066a9363c4d9f2d3ca047d",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -891,5 +871,5 @@
       "sent_at": "2026-11-20T17:13:59.968334+09:00"
     }
   ],
-  "last_run_at": "2026-11-20T09:04:54.072653+00:00"
+  "last_run_at": "2026-11-20T09:09:58.696159+00:00"
 }
