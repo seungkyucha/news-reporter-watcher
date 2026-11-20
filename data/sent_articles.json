@@ -889,7 +889,27 @@
       "url": "https://n.news.naver.com/article/030/0003487968?type=journalists",
       "published_at": "2026-11-20T13:39:12+09:00",
       "sent_at": "2026-11-20T13:56:10.410215+09:00"
+    },
+    {
+      "id": "ceae2857f1d7bb2584769a7b4d131a7d79dab69048898947387149c85e76e40b",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "[지스타 2026]YHKT, 언리얼 엔진5 기반 판타지 ARPG '브링거' 시연",
+      "url": "https://n.news.naver.com/article/030/0003487982?type=journalists",
+      "published_at": "2026-11-20T13:53:09+09:00",
+      "sent_at": "2026-11-20T14:06:20.836639+09:00"
+    },
+    {
+      "id": "c76a34fe1c90dea0f21b47a7bd1f6c13344e8698370fe78acd3d518254f72b72",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "네오위즈 '안녕서울: 이태원편', 2027년 초 출시... 신규 트레일러 공개",
+      "url": "https://n.news.naver.com/article/030/0003487976?type=journalists",
+      "published_at": "2026-11-20T13:48:12+09:00",
+      "sent_at": "2026-11-20T14:06:23.654678+09:00"
     }
   ],
-  "last_run_at": "2026-11-20T05:01:13.539124+00:00"
+  "last_run_at": "2026-11-20T05:06:16.949302+00:00"
 }
