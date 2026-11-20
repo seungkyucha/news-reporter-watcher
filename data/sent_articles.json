@@ -1,26 +1,6 @@
 {
   "sent": [
     {
-      "id": "1cf1983c2d0ad5477aa2998c5459c4cffd5dfe3abed6cd78cae17aecb2aa9561",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "extra_channels": [],
-      "title": "엠게임, 3분기 영업익 27억원…전분기 대비 10.6% 증가",
-      "url": "https://n.news.naver.com/article/030/0003485461?type=journalists",
-      "published_at": "2026-11-13T15:23:13+09:00",
-      "sent_at": "2026-11-13T15:37:21.951160+09:00"
-    },
-    {
-      "id": "b16ff6d056626cf88f1bfcc7fd993e59d7117bd27b39c7eea6e232c059aa64d3",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "extra_channels": [],
-      "title": "웹젠, 지스타 2026서 신작 시연·OST 공연·코스프레... 100부스 운영",
-      "url": "https://n.news.naver.com/article/030/0003485457?type=journalists",
-      "published_at": "2026-11-13T23:59:59+09:00",
-      "sent_at": "2026-11-13T15:37:34.208205+09:00"
-    },
-    {
       "id": "ae0b752df1a50c2699adc44d225d68ff5cce694f6eb78b415611b42c1a31da8a",
       "reporter": "박정은",
       "press": "전자신문",
@@ -901,5 +881,5 @@
       "sent_at": "2026-11-20T14:06:23.654678+09:00"
     }
   ],
-  "last_run_at": "2026-11-20T06:32:31.174067+00:00"
+  "last_run_at": "2026-11-20T06:37:35.646307+00:00"
 }
