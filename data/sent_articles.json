@@ -889,7 +889,17 @@
       "url": "https://n.news.naver.com/article/001/0016454915?type=journalists",
       "published_at": "2026-11-20T15:44:32+09:00",
       "sent_at": "2026-11-20T15:52:52.334372+09:00"
+    },
+    {
+      "id": "407ae3ba797b1182b01937f6f375b379b71271cc25f8e5d760598cdd4ced54bd",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "[해보니] 눈앞에 펼쳐진 거대한 전쟁…'토탈 워: 워해머 40,000'",
+      "url": "https://n.news.naver.com/article/001/0016455049?type=journalists",
+      "published_at": "2026-11-20T16:13:16+09:00",
+      "sent_at": "2026-11-20T16:23:18.543434+09:00"
     }
   ],
-  "last_run_at": "2026-11-20T07:18:10.902612+00:00"
+  "last_run_at": "2026-11-20T07:23:14.303443+00:00"
 }
