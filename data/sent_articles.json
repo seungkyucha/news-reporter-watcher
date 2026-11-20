@@ -899,7 +899,17 @@
       "url": "https://n.news.naver.com/article/001/0016455049?type=journalists",
       "published_at": "2026-11-20T16:13:16+09:00",
       "sent_at": "2026-11-20T16:23:18.543434+09:00"
+    },
+    {
+      "id": "074e6b281823edd3a34f8480a89ba378f67f57a61ba766ee92cf7fd8f57811da",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "방준혁 넷마블 의장, 지스타 2026 현장 방문... 대학·스타트업 게임에 관심",
+      "url": "https://n.news.naver.com/article/030/0003488043?type=journalists",
+      "published_at": "2026-11-20T17:02:16+09:00",
+      "sent_at": "2026-11-20T17:13:59.968334+09:00"
     }
   ],
-  "last_run_at": "2026-11-20T08:08:52.533989+00:00"
+  "last_run_at": "2026-11-20T08:13:56.513509+00:00"
 }
