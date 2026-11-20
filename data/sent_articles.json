@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "6fc01dbe3d3183e19c828850cb5c690db30b53e4c99458b37de4402743c8db7e",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "extra_channels": [],
-      "title": "뤼튼, 지스타 2026 메인 스폰서 참가... '크랙' 대규모 전시공간 마련",
-      "url": "https://n.news.naver.com/article/030/0003485455?type=journalists",
-      "published_at": "2026-11-13T23:59:59+09:00",
-      "sent_at": "2026-11-13T15:27:09.309687+09:00"
-    },
-    {
       "id": "1cf1983c2d0ad5477aa2998c5459c4cffd5dfe3abed6cd78cae17aecb2aa9561",
       "reporter": "박정은",
       "press": "전자신문",
@@ -911,5 +901,5 @@
       "sent_at": "2026-11-20T14:06:23.654678+09:00"
     }
   ],
-  "last_run_at": "2026-11-20T06:22:23.350570+00:00"
+  "last_run_at": "2026-11-20T06:27:27.428846+00:00"
 }
