@@ -889,7 +889,17 @@
       "url": "https://n.news.naver.com/article/001/0016455669?type=journalists",
       "published_at": "2026-11-21T11:21:09+09:00",
       "sent_at": "2026-11-21T11:35:55.902992+09:00"
+    },
+    {
+      "id": "16f8dddadbb662d1562ed7b3c40f83cfc23487a29bb176ca7543d2f7dae5ef1c",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "오토배틀러의 호요버스식 재해석…'붕괴: 넥서스 아니마'",
+      "url": "https://n.news.naver.com/article/001/0016455695?type=journalists",
+      "published_at": "2026-11-21T12:02:21+09:00",
+      "sent_at": "2026-11-21T12:16:32.954883+09:00"
     }
   ],
-  "last_run_at": "2026-11-21T03:11:24.056801+00:00"
+  "last_run_at": "2026-11-21T03:16:28.236829+00:00"
 }
