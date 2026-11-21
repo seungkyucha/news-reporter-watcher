@@ -869,7 +869,17 @@
       "url": "https://n.news.naver.com/article/030/0003488100?type=journalists",
       "published_at": "2026-11-21T10:52:16+09:00",
       "sent_at": "2026-11-21T11:05:24.768591+09:00"
+    },
+    {
+      "id": "c69ab3b9d3bc46424bbd01eb69b5f293df243cc98bcfe8eb68d4ff309a9e67ab",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "[게임위드인] AI로 외연 확장 노린 지스타…관람객은 게임에 몰렸다",
+      "url": "https://n.news.naver.com/article/001/0016455653?type=journalists",
+      "published_at": "2026-11-21T11:00:01+09:00",
+      "sent_at": "2026-11-21T11:15:36.547728+09:00"
     }
   ],
-  "last_run_at": "2026-11-21T02:10:27.927786+00:00"
+  "last_run_at": "2026-11-21T02:15:31.864460+00:00"
 }
