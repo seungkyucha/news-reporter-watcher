@@ -839,7 +839,17 @@
       "url": "https://n.news.naver.com/article/030/0003488043?type=journalists",
       "published_at": "2026-11-20T17:02:16+09:00",
       "sent_at": "2026-11-20T17:13:59.968334+09:00"
+    },
+    {
+      "id": "ccf531a3f3468b22f78752f1eb2b155c2b8b72f3d7e0082ea9ba836fb025c677",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "[지스타 2026]이재정 문체위원장 “게임산업 미래 논하려면 현장과 가까이 있어야”",
+      "url": "https://n.news.naver.com/article/030/0003488096?type=journalists",
+      "published_at": "2026-11-21T10:09:10+09:00",
+      "sent_at": "2026-11-21T10:24:44.320346+09:00"
     }
   ],
-  "last_run_at": "2026-11-21T01:19:35.529973+00:00"
+  "last_run_at": "2026-11-21T01:24:39.836143+00:00"
 }
