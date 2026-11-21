@@ -849,7 +849,17 @@
       "url": "https://n.news.naver.com/article/030/0003488096?type=journalists",
       "published_at": "2026-11-21T10:09:10+09:00",
       "sent_at": "2026-11-21T10:24:44.320346+09:00"
+    },
+    {
+      "id": "22233f4048bf57fe4aa1017a1f04a92d0653a18540be3aaeded086b28c826cee",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "'프래그마타' 조용희·'무빙' 박인제가 말한 '기억에 남는 캐릭터'... “불쌍해야 마음이 간다”",
+      "url": "https://n.news.naver.com/article/030/0003488099?type=journalists",
+      "published_at": "2026-11-21T10:24:16+09:00",
+      "sent_at": "2026-11-21T10:34:55.663732+09:00"
     }
   ],
-  "last_run_at": "2026-11-21T01:29:47.260169+00:00"
+  "last_run_at": "2026-11-21T01:34:51.266440+00:00"
 }
