@@ -859,7 +859,17 @@
       "url": "https://n.news.naver.com/article/030/0003488099?type=journalists",
       "published_at": "2026-11-21T10:24:16+09:00",
       "sent_at": "2026-11-21T10:34:55.663732+09:00"
+    },
+    {
+      "id": "c7b4852d6a5d72b8f88dcae15449941ecb92adeaa2d209a3659e8ff22ab72a7f",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "'마크로스의 아버지' 카와모리 쇼지 만난 김용하 “성덕 됐다”... AI 시대 창작은 '체험과 질문'",
+      "url": "https://n.news.naver.com/article/030/0003488100?type=journalists",
+      "published_at": "2026-11-21T10:52:16+09:00",
+      "sent_at": "2026-11-21T11:05:24.768591+09:00"
     }
   ],
-  "last_run_at": "2026-11-21T02:00:15.298267+00:00"
+  "last_run_at": "2026-11-21T02:05:19.785150+00:00"
 }
