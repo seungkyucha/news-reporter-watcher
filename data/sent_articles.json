@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "10b6b418ca01d357bd97eb0779fb0f4ce396ac28be593327579c01531c60be3b",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "extra_channels": [],
-      "title": "젠지, 결승전서 역전패…BLG, LoL 월드 챔피언십 우승(종합)",
-      "url": "https://n.news.naver.com/article/001/0016442199?type=journalists",
-      "published_at": "2026-11-15T09:13:06+09:00",
-      "sent_at": "2026-11-15T09:22:19.163994+09:00"
-    },
-    {
       "id": "dc187b3c05d28f3a330a1b4978441688bfcab7c439e0e729e58bacdf97fdf196",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -871,5 +861,5 @@
       "sent_at": "2026-11-21T15:04:14.115003+09:00"
     }
   ],
-  "last_run_at": "2026-11-22T00:19:56.576773+00:00"
+  "last_run_at": "2026-11-22T00:25:00.853483+00:00"
 }
