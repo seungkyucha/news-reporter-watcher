@@ -819,7 +819,17 @@
       "url": "https://n.news.naver.com/article/030/0003488255?type=journalists",
       "published_at": "2026-11-22T23:59:59+09:00",
       "sent_at": "2026-11-22T14:14:36.200032+09:00"
+    },
+    {
+      "id": "71b3e32893b359a4ff534e30de3600bfc46373dc48fed8f53d8fa34d9355853e",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "대형 게임사 빈자리에도 새 얼굴... 지스타, 변화는 현재진행형",
+      "url": "https://n.news.naver.com/article/030/0003488279?type=journalists",
+      "published_at": "2026-11-22T17:01:21+09:00",
+      "sent_at": "2026-11-22T17:12:29.991013+09:00"
     }
   ],
-  "last_run_at": "2026-11-22T08:07:20.933451+00:00"
+  "last_run_at": "2026-11-22T08:12:25.278426+00:00"
 }
