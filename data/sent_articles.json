@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "cf60ec5248c12b4ac9e0bba500cf1d3f148f2439a24c45e2e9363efedfcdde97",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "extra_channels": [],
-      "title": "中 BLG, 젠지 꺾고 롤드컵 첫 우승... LCK 4연패 저지",
-      "url": "https://n.news.naver.com/article/030/0003485730?type=journalists",
-      "published_at": "2026-11-15T15:39:11+09:00",
-      "sent_at": "2026-11-15T15:54:24.634916+09:00"
-    },
-    {
       "id": "acb43069fde5c15dd2a78e00810f31a8718875eebd278fe7b810d5e0d87bd08d",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -831,5 +821,5 @@
       "sent_at": "2026-11-22T14:14:36.200032+09:00"
     }
   ],
-  "last_run_at": "2026-11-22T06:51:13.693296+00:00"
+  "last_run_at": "2026-11-22T06:56:18.011874+00:00"
 }
