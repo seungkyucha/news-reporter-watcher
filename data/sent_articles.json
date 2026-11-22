@@ -819,7 +819,17 @@
       "url": "https://n.news.naver.com/article/001/0016455770?type=journalists",
       "published_at": "2026-11-21T14:47:07+09:00",
       "sent_at": "2026-11-21T15:04:14.115003+09:00"
+    },
+    {
+      "id": "138a4c866b86282e9e2ba2efbb8e67b4a84172cc6526bbc95299931f3d121ac3",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "'GTA6' 하루 만에 5조원대 팔렸다... 게임 넘어 엔터테인먼트 흥행史 새로 써",
+      "url": "https://n.news.naver.com/article/030/0003488255?type=journalists",
+      "published_at": "2026-11-22T23:59:59+09:00",
+      "sent_at": "2026-11-22T14:14:36.200032+09:00"
     }
   ],
-  "last_run_at": "2026-11-22T05:09:16.887926+00:00"
+  "last_run_at": "2026-11-22T05:14:20.732687+00:00"
 }
