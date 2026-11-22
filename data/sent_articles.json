@@ -829,7 +829,17 @@
       "url": "https://n.news.naver.com/article/030/0003488279?type=journalists",
       "published_at": "2026-11-22T17:01:21+09:00",
       "sent_at": "2026-11-22T17:12:29.991013+09:00"
+    },
+    {
+      "id": "1c02b1e1f2f43f568965cec854e1e85225857a354e32e0c51f6f48483fc655c6",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "'게임과 AI·모빌리티 융합' 지스타 폐막…20만1천명 방문",
+      "url": "https://n.news.naver.com/article/001/0016456975?type=journalists",
+      "published_at": "2026-11-22T19:10:38+09:00",
+      "sent_at": "2026-11-22T19:24:27.491386+09:00"
     }
   ],
-  "last_run_at": "2026-11-22T10:19:17.686642+00:00"
+  "last_run_at": "2026-11-22T10:24:21.781786+00:00"
 }
