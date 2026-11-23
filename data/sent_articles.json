@@ -739,7 +739,17 @@
       "url": "https://n.news.naver.com/article/030/0003488641?type=journalists",
       "published_at": "2026-11-23T14:44:10+09:00",
       "sent_at": "2026-11-23T14:57:14.914698+09:00"
+    },
+    {
+      "id": "1171b6364802eac0a43b3021e58d2f72d321dcdedddd385a8e4a8d867f6374fa",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "정연욱 “지스타 부산 지켜야... 대형 게임사 공백·숙박비 문제 풀겠다”",
+      "url": "https://n.news.naver.com/article/030/0003488794?type=journalists",
+      "published_at": "2026-11-23T18:59:13+09:00",
+      "sent_at": "2026-11-23T19:16:07.632255+09:00"
     }
   ],
-  "last_run_at": "2026-11-23T10:10:56.624422+00:00"
+  "last_run_at": "2026-11-23T10:16:00.976294+00:00"
 }
