@@ -1,36 +1,6 @@
 {
   "sent": [
     {
-      "id": "c5242f1cf4011364a607d18795055de5e556503fd5d4e2180322cfd13e6a0085",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "extra_channels": [],
-      "title": "라이엇게임즈, LoL 출시 후 최대 규모 '차세대 업데이트'…2027년 도입 목표",
-      "url": "https://n.news.naver.com/article/030/0003486046?type=journalists",
-      "published_at": "2026-11-16T13:44:15+09:00",
-      "sent_at": "2026-11-16T13:53:08.180687+09:00"
-    },
-    {
-      "id": "6a2d3d3c684c4b3015e5efc8797bd945ce7b01f59cc629173b151ca59f70b5dc",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "extra_channels": [],
-      "title": "펄어비스 '붉은사막', 두 번째 OST 발매... '진도 아리랑' 뱃노래로 재해석",
-      "url": "https://n.news.naver.com/article/030/0003486036?type=journalists",
-      "published_at": "2026-11-16T23:59:59+09:00",
-      "sent_at": "2026-11-16T13:53:20.353006+09:00"
-    },
-    {
-      "id": "6c028bdaacf94bf1ec9eb7615804c3960b5a41e759d5c71adfbf199be328bc38",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "extra_channels": [],
-      "title": "카카오게임즈 '아키에이지 S', PC 전용 MMORPG로 개발... 능력치 판매 지양",
-      "url": "https://n.news.naver.com/article/030/0003486034?type=journalists",
-      "published_at": "2026-11-16T13:37:11+09:00",
-      "sent_at": "2026-11-16T13:53:23.087754+09:00"
-    },
-    {
       "id": "e0b830ad00f97796d694d40526fc03a9549b1423bb1b8ca99cb3f123925eebbe",
       "reporter": "박정은",
       "press": "전자신문",
@@ -781,5 +751,5 @@
       "sent_at": "2026-11-23T11:23:55.091836+09:00"
     }
   ],
-  "last_run_at": "2026-11-23T04:51:12.830137+00:00"
+  "last_run_at": "2026-11-23T04:56:17.066663+00:00"
 }
