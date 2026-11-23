@@ -819,7 +819,17 @@
       "url": "https://n.news.naver.com/article/001/0016456975?type=journalists",
       "published_at": "2026-11-22T19:10:38+09:00",
       "sent_at": "2026-11-22T19:24:27.491386+09:00"
+    },
+    {
+      "id": "d7b16524272b65e97a5bd76f154c7fa3bd39e9d978e3dc083b9cf5a25dba384e",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "엔씨 '아이온2' 1주년 기념 앨범 발매…49곡 수록",
+      "url": "https://n.news.naver.com/article/001/0016457469?type=journalists",
+      "published_at": "2026-11-23T10:00:22+09:00",
+      "sent_at": "2026-11-23T10:12:48.143406+09:00"
     }
   ],
-  "last_run_at": "2026-11-23T01:07:37.862253+00:00"
+  "last_run_at": "2026-11-23T01:12:42.863253+00:00"
 }
