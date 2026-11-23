@@ -1,26 +1,6 @@
 {
   "sent": [
     {
-      "id": "acb43069fde5c15dd2a78e00810f31a8718875eebd278fe7b810d5e0d87bd08d",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "extra_channels": [],
-      "title": "엔씨 '신더시티' 글로벌 알파 테스트…참가자 모집",
-      "url": "https://n.news.naver.com/article/001/0016443278?type=journalists",
-      "published_at": "2026-11-16T23:59:59+09:00",
-      "sent_at": "2026-11-16T10:02:57.735694+09:00"
-    },
-    {
-      "id": "62a3b743e7bfc17470637bc19db4c392fc35104e0df942a90f62fc9c6ed1297d",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "extra_channels": [],
-      "title": "넥써쓰, 사명 '원'으로 변경…장현국 \"추가 M&A 진행중\"",
-      "url": "https://n.news.naver.com/article/001/0016443276?type=journalists",
-      "published_at": "2026-11-16T23:59:59+09:00",
-      "sent_at": "2026-11-16T10:03:09.990549+09:00"
-    },
-    {
       "id": "21e90ef2f3705fde8aefa2922fde7e7f03eaf7f9b53b47dca7bbf22439a7ed93",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -841,5 +821,5 @@
       "sent_at": "2026-11-22T19:24:27.491386+09:00"
     }
   ],
-  "last_run_at": "2026-11-23T01:02:33.466604+00:00"
+  "last_run_at": "2026-11-23T01:07:37.862253+00:00"
 }
