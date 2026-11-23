@@ -829,7 +829,17 @@
       "url": "https://n.news.naver.com/article/001/0016457469?type=journalists",
       "published_at": "2026-11-23T10:00:22+09:00",
       "sent_at": "2026-11-23T10:12:48.143406+09:00"
+    },
+    {
+      "id": "f0592c5ec34964e1e5032fa4cf876d94aa297de6d2ce2ab7284d2b23cbabd9ff",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "국힘 정연욱 \"대형사 지스타 불참 아쉬워…부산 개최 지켜낼 것\"",
+      "url": "https://n.news.naver.com/article/001/0016457825?type=journalists",
+      "published_at": "2026-11-23T11:08:46+09:00",
+      "sent_at": "2026-11-23T11:23:55.091836+09:00"
     }
   ],
-  "last_run_at": "2026-11-23T02:18:45.163078+00:00"
+  "last_run_at": "2026-11-23T02:23:49.738556+00:00"
 }
