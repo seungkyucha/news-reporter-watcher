@@ -739,7 +739,17 @@
       "url": "https://n.news.naver.com/article/001/0016457825?type=journalists",
       "published_at": "2026-11-23T11:08:46+09:00",
       "sent_at": "2026-11-23T11:23:55.091836+09:00"
+    },
+    {
+      "id": "7374dd3514671661e900315e8a9911d40442bd371f0a2e58788f7379c30bc427",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "엔씨 '아스오라', AGF 2026서 PC 빌드 첫 공개",
+      "url": "https://n.news.naver.com/article/030/0003488618?type=journalists",
+      "published_at": "2026-11-23T14:16:18+09:00",
+      "sent_at": "2026-11-23T14:36:54.405720+09:00"
     }
   ],
-  "last_run_at": "2026-11-23T05:31:45.769699+00:00"
+  "last_run_at": "2026-11-23T05:36:49.959481+00:00"
 }
