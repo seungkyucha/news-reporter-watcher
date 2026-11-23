@@ -1,36 +1,6 @@
 {
   "sent": [
     {
-      "id": "0027b69f9e75e4861a487e684dc56545a54f7f5439161c82d6b4569d22180a9f",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "extra_channels": [],
-      "title": "웹젠, 지스타 2026 출품작 코스프레 화보 공개... 19일 현장 무대 운영",
-      "url": "https://n.news.naver.com/article/030/0003486032?type=journalists",
-      "published_at": "2026-11-16T23:59:59+09:00",
-      "sent_at": "2026-11-16T13:47:45.475771+09:00"
-    },
-    {
-      "id": "1cbcea749713b266cb1e825f9f0c074a23cb08bab8b1ee6722dfd1006cc70c3e",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "extra_channels": [],
-      "title": "지스타 2026, 제2전시장에 글로벌·인디 쇼케이스... 150대 시연대 운영",
-      "url": "https://n.news.naver.com/article/030/0003486025?type=journalists",
-      "published_at": "2026-11-16T13:28:14+09:00",
-      "sent_at": "2026-11-16T13:47:47.906709+09:00"
-    },
-    {
-      "id": "4ec5cd63e5b593b047d47c78365ecf959ab135761560f999d5e0c6ba636d54ef",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "extra_channels": [],
-      "title": "엔씨, 글로벌 슈팅게임 공략 속도... '타임 테이커즈' 테스트 마치고 '신더시티' 알파 돌입",
-      "url": "https://n.news.naver.com/article/030/0003486023?type=journalists",
-      "published_at": "2026-11-16T23:59:59+09:00",
-      "sent_at": "2026-11-16T13:48:00.386488+09:00"
-    },
-    {
       "id": "c5242f1cf4011364a607d18795055de5e556503fd5d4e2180322cfd13e6a0085",
       "reporter": "박정은",
       "press": "전자신문",
@@ -811,5 +781,5 @@
       "sent_at": "2026-11-23T11:23:55.091836+09:00"
     }
   ],
-  "last_run_at": "2026-11-23T04:46:08.693318+00:00"
+  "last_run_at": "2026-11-23T04:51:12.830137+00:00"
 }
