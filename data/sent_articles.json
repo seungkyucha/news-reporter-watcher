@@ -749,7 +749,17 @@
       "url": "https://n.news.naver.com/article/030/0003488794?type=journalists",
       "published_at": "2026-11-23T18:59:13+09:00",
       "sent_at": "2026-11-23T19:16:07.632255+09:00"
+    },
+    {
+      "id": "4ed92a49d6c6874f93b221d78d8902cfaa88fbacb3807c8965b2da05e7a7aa1c",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "GTA 돌풍에 기대감↑…前프로듀서 손잡은 스마일게이트 차기작은",
+      "url": "https://n.news.naver.com/article/001/0016459375?type=journalists",
+      "published_at": "2026-11-24T23:59:59+09:00",
+      "sent_at": "2026-11-24T06:16:43.167953+09:00"
     }
   ],
-  "last_run_at": "2026-11-23T21:11:25.045695+00:00"
+  "last_run_at": "2026-11-23T21:16:29.306912+00:00"
 }
