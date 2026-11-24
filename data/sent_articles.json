@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "97edf822208284cc5bd6fc4ee9ac97fd7b0360b6218f9acf229c2af724f92745",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "extra_channels": [],
-      "title": "네오플, 제주대병원 소아환아 치료환경 개선에 1억원 후원",
-      "url": "https://n.news.naver.com/article/030/0003486645?type=journalists",
-      "published_at": "2026-11-17T14:57:12+09:00",
-      "sent_at": "2026-11-17T15:15:22.225482+09:00"
-    },
-    {
       "id": "89955a4cd994da5533a17088a2682b54a3e124e1ef18ad833fd35015a7db2c04",
       "reporter": "박정은",
       "press": "전자신문",
@@ -819,7 +809,17 @@
       "url": "https://n.news.naver.com/article/030/0003489117?type=journalists",
       "published_at": "2026-11-24T13:59:15+09:00",
       "sent_at": "2026-11-24T14:16:07.510016+09:00"
+    },
+    {
+      "id": "e3c7350728ed561e81c00be86d021e681359bbdbfd6955f9868e14426ff34cd9",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "카카오게임즈, 신작 '오딘Q' 내년 1월 26일 출시 확정",
+      "url": "https://n.news.naver.com/article/001/0016460890?type=journalists",
+      "published_at": "2026-11-24T15:04:56+09:00",
+      "sent_at": "2026-11-24T15:17:02.853729+09:00"
     }
   ],
-  "last_run_at": "2026-11-24T06:11:52.789503+00:00"
+  "last_run_at": "2026-11-24T06:16:57.472498+00:00"
 }
