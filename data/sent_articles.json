@@ -799,7 +799,17 @@
       "url": "https://n.news.naver.com/article/030/0003489258?type=journalists",
       "published_at": "2026-11-24T17:12:15+09:00",
       "sent_at": "2026-11-24T17:23:50.874400+09:00"
+    },
+    {
+      "id": "82a1c4556588a27c04bba4c634fd28694c7c04abe53c914500e12925bfcbc30d",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "GTA 6, 해킹으로 비공식 PC판 뚫려…AI로 파일 변조해 이식",
+      "url": "https://n.news.naver.com/article/001/0016461478?type=journalists",
+      "published_at": "2026-11-24T20:43:59+09:00",
+      "sent_at": "2026-11-24T20:57:09.814662+09:00"
     }
   ],
-  "last_run_at": "2026-11-24T11:52:01.289227+00:00"
+  "last_run_at": "2026-11-24T11:57:05.165404+00:00"
 }
