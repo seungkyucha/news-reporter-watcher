@@ -1,26 +1,6 @@
 {
   "sent": [
     {
-      "id": "6ef43c69d3bfcf778c5f11b1f25b1977d15ff07ec0fab162f92d942548c20de5",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "extra_channels": [],
-      "title": "게임문화재단, '게임제너레이션' 문화비평대담회 개최... 영화·문학·게임 서사 논의",
-      "url": "https://n.news.naver.com/article/030/0003486498?type=journalists",
-      "published_at": "2026-11-17T10:43:10+09:00",
-      "sent_at": "2026-11-17T10:55:41.395673+09:00"
-    },
-    {
-      "id": "28f9161005bcd1b5ce629770b42b87a7ab44dd79ee72ea95a1964cfd29dc69aa",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "extra_channels": [],
-      "title": "CD 프로젝트 레드, 지스타 2026 참가... '더 위쳐 3' 신규 확장팩 한국어 더빙 공개",
-      "url": "https://n.news.naver.com/article/030/0003486495?type=journalists",
-      "published_at": "2026-11-17T10:39:12+09:00",
-      "sent_at": "2026-11-17T10:55:44.478107+09:00"
-    },
-    {
       "id": "dfbd7850b0bb8d7ff74548a52222479a082841bdf5af4febeac0522ada2f4e7e",
       "reporter": "박정은",
       "press": "전자신문",
@@ -759,7 +739,17 @@
       "url": "https://n.news.naver.com/article/001/0016459660?type=journalists",
       "published_at": "2026-11-24T23:59:59+09:00",
       "sent_at": "2026-11-24T09:45:10.159083+09:00"
+    },
+    {
+      "id": "262434003b775b3bd0298b4d37a5e31a8df1c11a165b8158b47111729a6feabc",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "T1, 지스타서 '오버워치 챔피언스' 아시아 정상... 광저우 월드 파이널 1번 시드",
+      "url": "https://n.news.naver.com/article/030/0003488971?type=journalists",
+      "published_at": "2026-11-24T10:42:17+09:00",
+      "sent_at": "2026-11-24T10:56:13.482221+09:00"
     }
   ],
-  "last_run_at": "2026-11-24T01:51:04.456205+00:00"
+  "last_run_at": "2026-11-24T01:56:08.688741+00:00"
 }
