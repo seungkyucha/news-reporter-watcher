@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "dfbd7850b0bb8d7ff74548a52222479a082841bdf5af4febeac0522ada2f4e7e",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "extra_channels": [],
-      "title": "유니티, 인디 스튜디오 지원 '유니티 펠로우십' 출범... 10개 팀에 5만달러 지원",
-      "url": "https://n.news.naver.com/article/030/0003486499?type=journalists",
-      "published_at": "2026-11-17T10:47:10+09:00",
-      "sent_at": "2026-11-17T11:05:57.117894+09:00"
-    },
-    {
       "id": "a0b4cb037201af3628a0ecfdbd21079b00108d556eb9748ed338f2ff654d3427",
       "reporter": "박정은",
       "press": "전자신문",
@@ -749,7 +739,27 @@
       "url": "https://n.news.naver.com/article/030/0003488971?type=journalists",
       "published_at": "2026-11-24T10:42:17+09:00",
       "sent_at": "2026-11-24T10:56:13.482221+09:00"
+    },
+    {
+      "id": "73a9b776b516b34639e48a9fb43cda7887ac0f5791be62d77d0a3a1adf10f342",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "넥슨 '메이플스토리 이스케이프', 두 달 만에 누적 체험객 1만명 돌파",
+      "url": "https://n.news.naver.com/article/030/0003488979?type=journalists",
+      "published_at": "2026-11-24T23:59:59+09:00",
+      "sent_at": "2026-11-24T11:06:34.803194+09:00"
+    },
+    {
+      "id": "b4de93724d356f89caa39145d8e016456c54334e26039e3fa3beb3bb07d2d702",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "라인게임즈 '대항해시대 오리진', 원스토어 정식 출시",
+      "url": "https://n.news.naver.com/article/030/0003488978?type=journalists",
+      "published_at": "2026-11-24T23:59:59+09:00",
+      "sent_at": "2026-11-24T11:06:47.346187+09:00"
     }
   ],
-  "last_run_at": "2026-11-24T02:01:16.480112+00:00"
+  "last_run_at": "2026-11-24T02:06:20.977886+00:00"
 }
