@@ -789,7 +789,17 @@
       "url": "https://n.news.naver.com/article/030/0003489023?type=journalists",
       "published_at": "2026-11-24T23:59:59+09:00",
       "sent_at": "2026-11-24T11:43:31.577712+09:00"
+    },
+    {
+      "id": "3a09ea865a5bd704fd47fce6cc467810ad2c6d99d61be7d043df5358e10c01fe",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "엔씨 이성구 \"리니지 클래식, 원작 없던 새로운 이야기로 확장\"",
+      "url": "https://n.news.naver.com/article/001/0016460279?type=journalists",
+      "published_at": "2026-11-24T11:47:44+09:00",
+      "sent_at": "2026-11-24T12:03:52.229269+09:00"
     }
   ],
-  "last_run_at": "2026-11-24T02:58:42.869437+00:00"
+  "last_run_at": "2026-11-24T03:03:46.915003+00:00"
 }
