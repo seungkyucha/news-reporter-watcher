@@ -809,7 +809,17 @@
       "url": "https://n.news.naver.com/article/030/0003489053?type=journalists",
       "published_at": "2026-11-24T12:28:18+09:00",
       "sent_at": "2026-11-24T12:44:30.516731+09:00"
+    },
+    {
+      "id": "6c6fbed5d43db423613e719278803155c787a4dbcc01aa519d43c72b27fe3b41",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "엠게임 '귀혼키우기' 정식 출시... 사전예약 100만명",
+      "url": "https://n.news.naver.com/article/030/0003489074?type=journalists",
+      "published_at": "2026-11-24T13:22:19+09:00",
+      "sent_at": "2026-11-24T13:35:28.511957+09:00"
     }
   ],
-  "last_run_at": "2026-11-24T04:30:19.598462+00:00"
+  "last_run_at": "2026-11-24T04:35:23.824469+00:00"
 }
