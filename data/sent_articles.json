@@ -759,7 +759,17 @@
       "url": "https://n.news.naver.com/article/001/0016459375?type=journalists",
       "published_at": "2026-11-24T23:59:59+09:00",
       "sent_at": "2026-11-24T06:16:43.167953+09:00"
+    },
+    {
+      "id": "d0847475de328f85ba22f6c9243fc81c3866d7058f0c0b846b505de1876698fd",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "원스토어 부산 본사 이전 발표에 노조 \"조합원 99%가 반대\"",
+      "url": "https://n.news.naver.com/article/001/0016459660?type=journalists",
+      "published_at": "2026-11-24T23:59:59+09:00",
+      "sent_at": "2026-11-24T09:45:10.159083+09:00"
     }
   ],
-  "last_run_at": "2026-11-24T00:39:41.323432+00:00"
+  "last_run_at": "2026-11-24T00:44:55.344278+00:00"
 }
