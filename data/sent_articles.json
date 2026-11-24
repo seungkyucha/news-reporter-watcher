@@ -759,7 +759,27 @@
       "url": "https://n.news.naver.com/article/030/0003488999?type=journalists",
       "published_at": "2026-11-24T23:59:59+09:00",
       "sent_at": "2026-11-24T11:27:47.533097+09:00"
+    },
+    {
+      "id": "6a9d8065a85b6b02bf091076f6e94a4362c176db3ef7efebd69688187dca1e60",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "학산문화사, AGF 2026서 '윈터 페스타'... 인기 IP·원화 전시 선봬",
+      "url": "https://n.news.naver.com/article/030/0003489015?type=journalists",
+      "published_at": "2026-11-24T11:23:15+09:00",
+      "sent_at": "2026-11-24T11:32:55.039822+09:00"
+    },
+    {
+      "id": "5bc1df23f1c7a8427d4d636a9b420dabafc9be39d810ba2c4c081f66fc4077f6",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "게임 '국가전략콘텐츠자산' 지정 추진... 국회서 정책토론회",
+      "url": "https://n.news.naver.com/article/030/0003489008?type=journalists",
+      "published_at": "2026-11-24T23:59:59+09:00",
+      "sent_at": "2026-11-24T11:33:07.181494+09:00"
     }
   ],
-  "last_run_at": "2026-11-24T02:27:33.196381+00:00"
+  "last_run_at": "2026-11-24T02:32:50.377430+00:00"
 }
