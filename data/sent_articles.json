@@ -1,46 +1,6 @@
 {
   "sent": [
     {
-      "id": "a0b4cb037201af3628a0ecfdbd21079b00108d556eb9748ed338f2ff654d3427",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "extra_channels": [],
-      "title": "라인게임즈, 'CODE EXIT'·'엠버 앤 블레이드' 지스타 2026 출품",
-      "url": "https://n.news.naver.com/article/030/0003486517?type=journalists",
-      "published_at": "2026-11-17T11:05:10+09:00",
-      "sent_at": "2026-11-17T11:16:09.747991+09:00"
-    },
-    {
-      "id": "e6fd13bfa9e1bec8f05e7a010429d2f1cc4275ce6f782a8ac21a61f70fd5b589",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "extra_channels": [],
-      "title": "아이언메이스, '다크 앤 다커' 지스타 2026 참가... 1대1 체험 부스 운영",
-      "url": "https://n.news.naver.com/article/030/0003486516?type=journalists",
-      "published_at": "2026-11-17T11:04:15+09:00",
-      "sent_at": "2026-11-17T11:16:12.583619+09:00"
-    },
-    {
-      "id": "733f8d4f9c51d789d4e11d861b0c43bdf947d1be32b4f3435a241a526741ed40",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "extra_channels": [],
-      "title": "웹젠, 2027년 신작 2종 CBT 참가자 모집... 지스타서 현장 접수",
-      "url": "https://n.news.naver.com/article/030/0003486510?type=journalists",
-      "published_at": "2026-11-17T10:59:10+09:00",
-      "sent_at": "2026-11-17T11:16:15.256206+09:00"
-    },
-    {
-      "id": "c65d331c1e38d9427e7ac04d70fe5e392184bdb156c6aaf93e2069a6c0dc9b5e",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "extra_channels": [],
-      "title": "한국e스포츠산업학회, 20일 부산서 '대한민국 e스포츠 정책포럼' 개최",
-      "url": "https://n.news.naver.com/article/030/0003486507?type=journalists",
-      "published_at": "2026-11-17T10:56:14+09:00",
-      "sent_at": "2026-11-17T11:16:18.139367+09:00"
-    },
-    {
       "id": "7624528e417ff9445e093677e2aac84bbb6f3540b262f71766e1e538a128880a",
       "reporter": "박정은",
       "press": "전자신문",
@@ -759,7 +719,47 @@
       "url": "https://n.news.naver.com/article/030/0003488978?type=journalists",
       "published_at": "2026-11-24T23:59:59+09:00",
       "sent_at": "2026-11-24T11:06:47.346187+09:00"
+    },
+    {
+      "id": "548b192e3b0009f4fda3325747bccb15b0cc7978b2044e7e478fbb5a7098b87c",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "스마일게이트 퓨처랩, 비버롹스 첫 공식 팬 크리에이터 '비버 프렌즈' 선정",
+      "url": "https://n.news.naver.com/article/030/0003488993?type=journalists",
+      "published_at": "2026-11-24T11:03:14+09:00",
+      "sent_at": "2026-11-24T11:16:58.894451+09:00"
+    },
+    {
+      "id": "f434d034bfd153491517b9056071ebf89912870f45949335bb1f4d024cf9327d",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "“문화재 보호에 진심”... 라이엇 게임즈, 고려불화 '아미타팔대보살도' 보존처리 지원",
+      "url": "https://n.news.naver.com/article/030/0003488986?type=journalists",
+      "published_at": "2026-11-24T23:59:59+09:00",
+      "sent_at": "2026-11-24T11:17:10.981071+09:00"
+    },
+    {
+      "id": "56094bfc644854def5a2804b8f42c2d743ed5214c7553b4d4df57f9d608822fb",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "위메이드플레이 플레이링스, 서브컬처 신작 '소울시프트 리:본' 한·일·대만 출시",
+      "url": "https://n.news.naver.com/article/030/0003488984?type=journalists",
+      "published_at": "2026-11-24T23:59:59+09:00",
+      "sent_at": "2026-11-24T11:17:23.310581+09:00"
+    },
+    {
+      "id": "99cf652ef22024c8562813195f03b006a42cf3a5f68d0905dd0a3f291b44d643",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "아이언메이스 '다크 앤 다커', 지스타 2026서 1000명 체험",
+      "url": "https://n.news.naver.com/article/030/0003488983?type=journalists",
+      "published_at": "2026-11-24T10:56:17+09:00",
+      "sent_at": "2026-11-24T11:17:26.068046+09:00"
     }
   ],
-  "last_run_at": "2026-11-24T02:11:50.038671+00:00"
+  "last_run_at": "2026-11-24T02:16:54.238020+00:00"
 }
