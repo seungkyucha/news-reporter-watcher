@@ -799,7 +799,17 @@
       "url": "https://n.news.naver.com/article/001/0016460279?type=journalists",
       "published_at": "2026-11-24T11:47:44+09:00",
       "sent_at": "2026-11-24T12:03:52.229269+09:00"
+    },
+    {
+      "id": "a593f8761588af097796a787a45c915a5d1e82d5ba6855a1ba73653337e902e7",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "펄어비스 '붉은사막 인핸스드', TIGA 어워드 '최고 액션 어드벤처' 수상",
+      "url": "https://n.news.naver.com/article/030/0003489053?type=journalists",
+      "published_at": "2026-11-24T12:28:18+09:00",
+      "sent_at": "2026-11-24T12:44:30.516731+09:00"
     }
   ],
-  "last_run_at": "2026-11-24T03:39:20.556021+00:00"
+  "last_run_at": "2026-11-24T03:44:25.514507+00:00"
 }
