@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "7624528e417ff9445e093677e2aac84bbb6f3540b262f71766e1e538a128880a",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "extra_channels": [],
-      "title": "엔씨 '리니지 페스티벌' 1만장 당일 매진... 18일 추가 판매",
-      "url": "https://n.news.naver.com/article/030/0003486518?type=journalists",
-      "published_at": "2026-11-17T11:07:10+09:00",
-      "sent_at": "2026-11-17T11:26:29.786543+09:00"
-    },
-    {
       "id": "97113b77dfdca119915ed55e95bf09d256a1c44202bf7f0ce5a63816cec81156",
       "reporter": "박정은",
       "press": "전자신문",
@@ -759,7 +749,17 @@
       "url": "https://n.news.naver.com/article/030/0003488983?type=journalists",
       "published_at": "2026-11-24T10:56:17+09:00",
       "sent_at": "2026-11-24T11:17:26.068046+09:00"
+    },
+    {
+      "id": "70993c575feb172527a577c6daaf4d6cf0289e89e2aaf90bf5d4127b9929e322",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "국립중앙도서관-저작권위, 생성형 AI 시대 도서관 저작권 교육 정례화",
+      "url": "https://n.news.naver.com/article/030/0003488999?type=journalists",
+      "published_at": "2026-11-24T23:59:59+09:00",
+      "sent_at": "2026-11-24T11:27:47.533097+09:00"
     }
   ],
-  "last_run_at": "2026-11-24T02:22:29.056060+00:00"
+  "last_run_at": "2026-11-24T02:27:33.196381+00:00"
 }
