@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "dbb5a192ecd1ac1cc8f5fecc5b4b7f8216930c8ba3f0da79433e4b199dcd4875",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "extra_channels": [],
-      "title": "지스타 찾는 독일 게임업계 \"한국, 게임에 친화적…협업 모색\"",
-      "url": "https://n.news.naver.com/article/001/0016446953?type=journalists",
-      "published_at": "2026-11-17T15:48:48+09:00",
-      "sent_at": "2026-11-17T16:06:21.286047+09:00"
-    },
-    {
       "id": "07d7de58a4a8f5881e43ddadc261a775b96c5296d3f77ee9c542e35f7bdd253a",
       "reporter": "박정은",
       "press": "전자신문",
@@ -811,5 +801,5 @@
       "sent_at": "2026-11-24T15:17:02.853729+09:00"
     }
   ],
-  "last_run_at": "2026-11-24T07:02:38.983781+00:00"
+  "last_run_at": "2026-11-24T07:07:43.300043+00:00"
 }
