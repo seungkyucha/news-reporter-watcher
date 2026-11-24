@@ -819,7 +819,17 @@
       "url": "https://n.news.naver.com/article/030/0003489074?type=journalists",
       "published_at": "2026-11-24T13:22:19+09:00",
       "sent_at": "2026-11-24T13:35:28.511957+09:00"
+    },
+    {
+      "id": "5565ad871e97caa8d8d8c13887e47aba412a51030424a2322a071e39af66a95f",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "엔씨 실적 개선 이끈 '리니지 클래식'... 시즌2 '트리아'로 장기 흥행 발판",
+      "url": "https://n.news.naver.com/article/030/0003489117?type=journalists",
+      "published_at": "2026-11-24T13:59:15+09:00",
+      "sent_at": "2026-11-24T14:16:07.510016+09:00"
     }
   ],
-  "last_run_at": "2026-11-24T05:10:57.809002+00:00"
+  "last_run_at": "2026-11-24T05:16:02.505393+00:00"
 }
