@@ -799,7 +799,17 @@
       "url": "https://n.news.naver.com/article/001/0016461478?type=journalists",
       "published_at": "2026-11-24T20:43:59+09:00",
       "sent_at": "2026-11-24T20:57:09.814662+09:00"
+    },
+    {
+      "id": "a64ccc54d1ecce39df8d4a663ffe0af3498aaf16e14cdcd0bfc837cf9832e618",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "네오위즈, 스웨덴 윈터킵의 신작 전략게임 글로벌 배급 맡는다",
+      "url": "https://n.news.naver.com/article/001/0016461720?type=journalists",
+      "published_at": "2026-11-25T08:38:58+09:00",
+      "sent_at": "2026-11-25T08:53:13.908829+09:00"
     }
   ],
-  "last_run_at": "2026-11-24T23:48:03.428625+00:00"
+  "last_run_at": "2026-11-24T23:53:07.491476+00:00"
 }
