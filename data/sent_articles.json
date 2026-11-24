@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "91b857cefe51f2d295b6a2beb65a21599cfcfcd73b4067cff5ea82240c8d8a72",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "extra_channels": [],
-      "title": "더게임어워드 후보작 공개…'붉은사막' 1개 부문 올라",
-      "url": "https://n.news.naver.com/article/001/0016447825?type=journalists",
-      "published_at": "2026-11-18T07:21:52+09:00",
-      "sent_at": "2026-11-18T07:35:31.016809+09:00"
-    },
-    {
       "id": "c5e4921fa5d8add3b45392adf85c25f4d533803168eac20a1f57df004186565b",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -811,5 +801,5 @@
       "sent_at": "2026-11-24T20:57:09.814662+09:00"
     }
   ],
-  "last_run_at": "2026-11-24T22:32:00.260487+00:00"
+  "last_run_at": "2026-11-24T22:37:04.826233+00:00"
 }
