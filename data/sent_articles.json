@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "d4134aedcb5455e32b0e961db962671a77fcdbfeed1ab317b5bb4c42a608d7c5",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "extra_channels": [],
-      "title": "'붉은사막' 대한민국 게임대상 석권…'아이온2'도 수상(종합)",
-      "url": "https://n.news.naver.com/article/001/0016450108?type=journalists",
-      "published_at": "2026-11-18T17:45:58+09:00",
-      "sent_at": "2026-11-18T18:01:32.550458+09:00"
-    },
-    {
       "id": "129202f986b71c454f443de751eacc30260f0ea08f228744c9f9aabb2c425a85",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -841,5 +831,5 @@
       "sent_at": "2026-11-25T17:02:06.925457+09:00"
     }
   ],
-  "last_run_at": "2026-11-25T08:57:53.339705+00:00"
+  "last_run_at": "2026-11-25T09:02:57.682447+00:00"
 }
