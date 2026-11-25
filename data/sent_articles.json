@@ -829,7 +829,17 @@
       "url": "https://n.news.naver.com/article/001/0016462047?type=journalists",
       "published_at": "2026-11-25T10:22:14+09:00",
       "sent_at": "2026-11-25T10:35:10.396741+09:00"
+    },
+    {
+      "id": "a0da32b77158f9cbac4ab1f81d2ca9a1328a34e520305afdb24560c50515ccde",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "배틀그라운드 첫 시즌형 음악 프로젝트에 아이브 참여",
+      "url": "https://n.news.naver.com/article/001/0016462125?type=journalists",
+      "published_at": "2026-11-25T10:35:32+09:00",
+      "sent_at": "2026-11-25T10:55:31.632939+09:00"
     }
   ],
-  "last_run_at": "2026-11-25T01:50:21.262079+00:00"
+  "last_run_at": "2026-11-25T01:55:25.297103+00:00"
 }
