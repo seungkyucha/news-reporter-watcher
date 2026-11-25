@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "129202f986b71c454f443de751eacc30260f0ea08f228744c9f9aabb2c425a85",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "extra_channels": [],
-      "title": "밝은 표정의 엔씨 백승욱 부사장",
-      "url": "https://n.news.naver.com/article/001/0016450195?type=journalists",
-      "published_at": "2026-11-18T18:44:12+09:00",
-      "sent_at": "2026-11-18T18:52:19.532854+09:00"
-    },
-    {
       "id": "89b88a1caa8d217548ef583cefe3e3b29090ae001127ef520b8afc9a6d3fbe9a",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -831,5 +821,5 @@
       "sent_at": "2026-11-25T17:02:06.925457+09:00"
     }
   ],
-  "last_run_at": "2026-11-25T09:48:38.201857+00:00"
+  "last_run_at": "2026-11-25T09:53:42.382937+00:00"
 }
