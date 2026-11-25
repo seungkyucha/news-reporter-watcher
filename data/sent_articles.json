@@ -919,7 +919,17 @@
       "url": "https://n.news.naver.com/article/001/0016462926?type=journalists",
       "published_at": "2026-11-25T23:59:59+09:00",
       "sent_at": "2026-11-25T15:05:15.982194+09:00"
+    },
+    {
+      "id": "45c7e7b6a88c8f2d913942f678e12f982d1a769b2cc6d7ca06b976af2f1cdbb7",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "콘진원, 지스타서 K-콘솔게임 10종 지원... 소니 '플스' 협력으로 플랫폼 연계 강화",
+      "url": "https://n.news.naver.com/article/030/0003489746?type=journalists",
+      "published_at": "2026-11-25T15:09:12+09:00",
+      "sent_at": "2026-11-25T15:25:36.310349+09:00"
     }
   ],
-  "last_run_at": "2026-11-25T06:20:27.422102+00:00"
+  "last_run_at": "2026-11-25T06:25:31.890028+00:00"
 }
