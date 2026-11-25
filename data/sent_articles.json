@@ -809,7 +809,57 @@
       "url": "https://n.news.naver.com/article/001/0016463771?type=journalists",
       "published_at": "2026-11-25T20:22:42+09:00",
       "sent_at": "2026-11-25T20:35:32.706239+09:00"
+    },
+    {
+      "id": "87e3c2d7f526c4f0e7224d79d8f79649e5d3e4af38b50bd05d5ff4dcea0057ec",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "부임 소감 밝히는 T1 김강희 감독",
+      "url": "https://n.news.naver.com/article/001/0016463833?type=journalists",
+      "published_at": "2026-11-25T20:51:04+09:00",
+      "sent_at": "2026-11-25T21:06:03.181217+09:00"
+    },
+    {
+      "id": "fee42412fec35160739ffcfc2a0cfb5c9ff0bc20aee673ac9895c00ccc4756b5",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "유니폼 든 제우스",
+      "url": "https://n.news.naver.com/article/001/0016463827?type=journalists",
+      "published_at": "2026-11-25T20:50:36+09:00",
+      "sent_at": "2026-11-25T21:06:05.906860+09:00"
+    },
+    {
+      "id": "3acc14d0e16a1b3a6cc7dc099b4d69cceb016c85ea53d9c7be7b00487ef60c3a",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "포즈 취하는 '제우스' 최우제",
+      "url": "https://n.news.naver.com/article/001/0016463826?type=journalists",
+      "published_at": "2026-11-25T20:50:12+09:00",
+      "sent_at": "2026-11-25T21:06:08.772715+09:00"
+    },
+    {
+      "id": "2a7ee40c6d27951d1961c394b1b12a129ffd59c6f678f845e68f91c27ac5284f",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "트로피의 무게",
+      "url": "https://n.news.naver.com/article/001/0016463825?type=journalists",
+      "published_at": "2026-11-25T20:49:42+09:00",
+      "sent_at": "2026-11-25T21:06:11.715924+09:00"
+    },
+    {
+      "id": "9e765adf7cc7726d6d2bb52d675002ec49ca0d3075b889eae05082d1c032a4f1",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "\"T1 돌아왔습니다\"",
+      "url": "https://n.news.naver.com/article/001/0016463821?type=journalists",
+      "published_at": "2026-11-25T20:49:10+09:00",
+      "sent_at": "2026-11-25T21:06:14.378750+09:00"
     }
   ],
-  "last_run_at": "2026-11-25T12:00:52.664882+00:00"
+  "last_run_at": "2026-11-25T12:05:57.043430+00:00"
 }
