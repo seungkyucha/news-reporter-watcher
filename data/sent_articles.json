@@ -909,7 +909,17 @@
       "url": "https://n.news.naver.com/article/030/0003489717?type=journalists",
       "published_at": "2026-11-25T23:59:59+09:00",
       "sent_at": "2026-11-25T14:44:45.690302+09:00"
+    },
+    {
+      "id": "04ce0e17c1125e7ecd6662c624855300d4cb2cb865ff31c5d760f1409ba76828",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "엔씨, '아스트라에 오라티오' AGF 2026 특설 페이지 개설",
+      "url": "https://n.news.naver.com/article/001/0016462926?type=journalists",
+      "published_at": "2026-11-25T23:59:59+09:00",
+      "sent_at": "2026-11-25T15:05:15.982194+09:00"
     }
   ],
-  "last_run_at": "2026-11-25T05:59:57.293904+00:00"
+  "last_run_at": "2026-11-25T06:05:01.343909+00:00"
 }
