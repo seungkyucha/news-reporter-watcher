@@ -799,7 +799,17 @@
       "url": "https://n.news.naver.com/article/001/0016463411?type=journalists",
       "published_at": "2026-11-25T16:52:06+09:00",
       "sent_at": "2026-11-25T17:02:06.925457+09:00"
+    },
+    {
+      "id": "6e7a63d0d6c895516adc24fc6d20a6dd177424e0cc3184eae819c93bd2b65762",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "'친정' 돌아온 제우스 \"T1, 좋은 가치·비전 제시했다\"",
+      "url": "https://n.news.naver.com/article/001/0016463771?type=journalists",
+      "published_at": "2026-11-25T20:22:42+09:00",
+      "sent_at": "2026-11-25T20:35:32.706239+09:00"
     }
   ],
-  "last_run_at": "2026-11-25T11:30:22.601867+00:00"
+  "last_run_at": "2026-11-25T11:35:26.880795+00:00"
 }
