@@ -819,7 +819,17 @@
       "url": "https://n.news.naver.com/article/030/0003489416?type=journalists",
       "published_at": "2026-11-25T08:51:13+09:00",
       "sent_at": "2026-11-25T09:03:25.497212+09:00"
+    },
+    {
+      "id": "5d78ea652f5e1957390f9cd6f44cf73e41bec09fe7aac8b10919f14aa0b3a875",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "사우디 자본, 오락실 전설 '메탈슬러그' 실사영화 만든다",
+      "url": "https://n.news.naver.com/article/001/0016462047?type=journalists",
+      "published_at": "2026-11-25T10:22:14+09:00",
+      "sent_at": "2026-11-25T10:35:10.396741+09:00"
     }
   ],
-  "last_run_at": "2026-11-25T01:29:58.902009+00:00"
+  "last_run_at": "2026-11-25T01:35:04.004706+00:00"
 }
