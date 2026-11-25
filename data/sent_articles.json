@@ -869,7 +869,17 @@
       "url": "https://n.news.naver.com/article/030/0003489585?type=journalists",
       "published_at": "2026-11-25T11:46:19+09:00",
       "sent_at": "2026-11-25T12:06:45.700865+09:00"
+    },
+    {
+      "id": "1a5507cc24ff17fccb28235dd8cee6f198a0260ffbb9c1bbbc7d049e3be588ac",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "게임 '국가전략콘텐츠자산 1호' 추진... 김성회, 게임산업 특별법 2건 발의",
+      "url": "https://n.news.naver.com/article/030/0003489592?type=journalists",
+      "published_at": "2026-11-25T11:58:16+09:00",
+      "sent_at": "2026-11-25T12:16:58.465163+09:00"
     }
   ],
-  "last_run_at": "2026-11-25T03:11:48.436592+00:00"
+  "last_run_at": "2026-11-25T03:16:53.563970+00:00"
 }
