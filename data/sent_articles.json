@@ -879,7 +879,27 @@
       "url": "https://n.news.naver.com/article/030/0003489592?type=journalists",
       "published_at": "2026-11-25T11:58:16+09:00",
       "sent_at": "2026-11-25T12:16:58.465163+09:00"
+    },
+    {
+      "id": "29a854d0b73566d7fe861db1de1903e7ef38afc3652d68e14d99fa0822e3d9c5",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "펄어비스, '검은사막' 모험가와 인도네시아 재난 피해 학교 복구 지원",
+      "url": "https://n.news.naver.com/article/030/0003489603?type=journalists",
+      "published_at": "2026-11-25T23:59:59+09:00",
+      "sent_at": "2026-11-25T12:27:20.576748+09:00"
+    },
+    {
+      "id": "755e6af6a41a2dab420104be7154e8a56098866065bcc000eea4ed77d87aa290",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "크래프톤, 배틀그라운드 시즌형 음악 프로젝트 'THE SQUAD' 공개... 첫 주자는 아이브",
+      "url": "https://n.news.naver.com/article/030/0003489600?type=journalists",
+      "published_at": "2026-11-25T12:06:15+09:00",
+      "sent_at": "2026-11-25T12:27:23.338516+09:00"
     }
   ],
-  "last_run_at": "2026-11-25T03:22:01.523117+00:00"
+  "last_run_at": "2026-11-25T03:27:06.258760+00:00"
 }
