@@ -829,7 +829,37 @@
       "url": "https://n.news.naver.com/article/001/0016462125?type=journalists",
       "published_at": "2026-11-25T10:35:32+09:00",
       "sent_at": "2026-11-25T10:55:31.632939+09:00"
+    },
+    {
+      "id": "599d36b614044265827d1785ec4b25fb5f5afbd11a5106d3190e9724f83a8740",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "시프트업 자체 AI 번역 'COZY', 국제 기계번역 대회 최상위 그룹 선정",
+      "url": "https://n.news.naver.com/article/030/0003489582?type=journalists",
+      "published_at": "2026-11-25T11:44:17+09:00",
+      "sent_at": "2026-11-25T11:56:26.378339+09:00"
+    },
+    {
+      "id": "fc0c36d09956c49140570b75d03950e503531fa7023da8548a0ec30f2a0681b0",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "게임이용자협회, 강유정 문체부 장관 후보자 지명 환영... “이용자 목소리 반영 기대”",
+      "url": "https://n.news.naver.com/article/030/0003489575?type=journalists",
+      "published_at": "2026-11-25T11:36:11+09:00",
+      "sent_at": "2026-11-25T11:56:29.084041+09:00"
+    },
+    {
+      "id": "e83623c9fbabc1879518ee63cb4e0d6efa82eb4800fb184d1cc57f9969c107ba",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "시프트업 자체 AI 번역 기술, 국제 학술대회서 최상위 그룹 선정",
+      "url": "https://n.news.naver.com/article/001/0016462467?type=journalists",
+      "published_at": "2026-11-25T11:43:58+09:00",
+      "sent_at": "2026-11-25T11:56:32.426743+09:00"
     }
   ],
-  "last_run_at": "2026-11-25T02:51:16.539303+00:00"
+  "last_run_at": "2026-11-25T02:56:20.830960+00:00"
 }
