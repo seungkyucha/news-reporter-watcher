@@ -859,7 +859,17 @@
       "url": "https://n.news.naver.com/article/001/0016462467?type=journalists",
       "published_at": "2026-11-25T11:43:58+09:00",
       "sent_at": "2026-11-25T11:56:32.426743+09:00"
+    },
+    {
+      "id": "99ac892d06491c166df9f089e4108405d05dd672cc13ad374868855e589f5453",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "6개국 게임산업 관계자 부산에 모였다... IP·인재 육성 국제협력 논의",
+      "url": "https://n.news.naver.com/article/030/0003489585?type=journalists",
+      "published_at": "2026-11-25T11:46:19+09:00",
+      "sent_at": "2026-11-25T12:06:45.700865+09:00"
     }
   ],
-  "last_run_at": "2026-11-25T03:01:34.736183+00:00"
+  "last_run_at": "2026-11-25T03:06:40.006224+00:00"
 }
