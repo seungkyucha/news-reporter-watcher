@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "4b24bbbd7c7ac9478cbd1fe79e6e680629f0f836884b920d48cd0824544260e4",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "extra_channels": [],
-      "title": "게임과 AI 융합 한눈에…국내 최대 게임쇼 지스타 오늘 개막",
-      "url": "https://n.news.naver.com/article/001/0016450478?type=journalists",
-      "published_at": "2026-11-19T06:10:02+09:00",
-      "sent_at": "2026-11-19T06:24:05.976663+09:00"
-    },
-    {
       "id": "2ae3bf1815499406984ce280e4b2050a6062e1d481bcabe571dfceb1578b1b09",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -861,5 +851,5 @@
       "sent_at": "2026-11-25T21:06:14.378750+09:00"
     }
   ],
-  "last_run_at": "2026-11-25T21:20:28.455545+00:00"
+  "last_run_at": "2026-11-25T21:25:32.715632+00:00"
 }
