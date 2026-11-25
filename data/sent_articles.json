@@ -809,7 +809,17 @@
       "url": "https://n.news.naver.com/article/001/0016461720?type=journalists",
       "published_at": "2026-11-25T08:38:58+09:00",
       "sent_at": "2026-11-25T08:53:13.908829+09:00"
+    },
+    {
+      "id": "58110b694b9f4c014256390cf5b3e9521c30b034586bb6929387f4ffad501e4d",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "네오위즈, 패러독스 출신 개발진과 맞손..  판타지 4X 전략게임 글로벌 퍼블리싱",
+      "url": "https://n.news.naver.com/article/030/0003489416?type=journalists",
+      "published_at": "2026-11-25T08:51:13+09:00",
+      "sent_at": "2026-11-25T09:03:25.497212+09:00"
     }
   ],
-  "last_run_at": "2026-11-24T23:58:16.621156+00:00"
+  "last_run_at": "2026-11-25T00:03:20.588071+00:00"
 }
