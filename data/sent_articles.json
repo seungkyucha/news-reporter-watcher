@@ -899,7 +899,17 @@
       "url": "https://n.news.naver.com/article/030/0003489600?type=journalists",
       "published_at": "2026-11-25T12:06:15+09:00",
       "sent_at": "2026-11-25T12:27:23.338516+09:00"
+    },
+    {
+      "id": "289cf3f5867e8b60350d415030cd53ed90a13f99cf229bd87ca25731bc567772",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "“아빠가 하던 리니지, 이젠 가족과 함께”... 첫 통합 축제에 1만명 몰려",
+      "url": "https://n.news.naver.com/article/030/0003489717?type=journalists",
+      "published_at": "2026-11-25T23:59:59+09:00",
+      "sent_at": "2026-11-25T14:44:45.690302+09:00"
     }
   ],
-  "last_run_at": "2026-11-25T05:39:27.554534+00:00"
+  "last_run_at": "2026-11-25T05:44:31.693062+00:00"
 }
