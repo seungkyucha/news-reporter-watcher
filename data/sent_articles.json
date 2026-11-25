@@ -929,7 +929,17 @@
       "url": "https://n.news.naver.com/article/030/0003489746?type=journalists",
       "published_at": "2026-11-25T15:09:12+09:00",
       "sent_at": "2026-11-25T15:25:36.310349+09:00"
+    },
+    {
+      "id": "3f846125e3f10e188a6f4ce7cf4b5134d71517ebee42b1f8793d57e97775785e",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "게임 수출은 이차전지급, 지원은 '사각지대'... “국가전략자산으로 키워야”",
+      "url": "https://n.news.naver.com/article/030/0003489772?type=journalists",
+      "published_at": "2026-11-25T15:36:18+09:00",
+      "sent_at": "2026-11-25T15:56:06.445634+09:00"
     }
   ],
-  "last_run_at": "2026-11-25T06:50:58.239212+00:00"
+  "last_run_at": "2026-11-25T06:56:02.470606+00:00"
 }
