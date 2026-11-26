@@ -779,7 +779,19 @@
       "url": "https://n.news.naver.com/article/001/0016466176?type=journalists",
       "published_at": "2026-11-26T23:59:59+09:00",
       "sent_at": "2026-11-26T16:05:50.642615+09:00"
+    },
+    {
+      "id": "0515ad9e24148062607f69eefa439238061b39624aa3b876cdef58f6f23adfde",
+      "reporter": "서정근",
+      "press": "MTN",
+      "extra_channels": [
+        "seo"
+      ],
+      "title": "[단독]엑스엘게임즈 대규모 구조조정 앞둬...\"폐업 가능성도 염두에\"",
+      "url": "https://news.mtn.co.kr/article/2026112700011359623",
+      "published_at": "Fri, 27 Nov 2026 00:22:00 +0900",
+      "sent_at": "2026-11-27T00:23:20.383614+09:00"
     }
   ],
-  "last_run_at": "2026-11-26T15:18:11.784862+00:00"
+  "last_run_at": "2026-11-26T15:23:16.099163+00:00"
 }
