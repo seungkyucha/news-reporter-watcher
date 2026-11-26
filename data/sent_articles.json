@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "8fc9e915c9d210bdfe1c70c5fe0b9af6945c38ca078aab00015f9db0784434ea",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "extra_channels": [],
-      "title": "시프트업 김형태 \"AI 게임 시대, 결국 사람 손맛이 경쟁력\"",
-      "url": "https://n.news.naver.com/article/001/0016452549?type=journalists",
-      "published_at": "2026-11-19T15:39:21+09:00",
-      "sent_at": "2026-11-19T15:54:16.217544+09:00"
-    },
-    {
       "id": "0a3cfcaa191b07584a67229860eb05cc2baeea079194e0b682f3074fa10ba55c",
       "reporter": "박정은",
       "press": "전자신문",
@@ -809,7 +799,17 @@
       "url": "https://n.news.naver.com/article/001/0016465963?type=journalists",
       "published_at": "2026-11-26T23:59:59+09:00",
       "sent_at": "2026-11-26T15:34:57.717873+09:00"
+    },
+    {
+      "id": "03bd3b7c3b3037ae16bcc0959cd492787f23d1add743c79be5a4fae5d6810907",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "강유정 문체부 장관 후보자 “한중 문화교류 해빙기…민관 합동 대응”",
+      "url": "https://n.news.naver.com/article/030/0003490380?type=journalists",
+      "published_at": "2026-11-26T23:59:59+09:00",
+      "sent_at": "2026-11-26T15:55:28.135971+09:00"
     }
   ],
-  "last_run_at": "2026-11-26T06:50:08.624942+00:00"
+  "last_run_at": "2026-11-26T06:55:12.772009+00:00"
 }
