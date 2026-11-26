@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "0a3cfcaa191b07584a67229860eb05cc2baeea079194e0b682f3074fa10ba55c",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "extra_channels": [],
-      "title": "[지스타 2026] AI 시대 게임 창작 승부처는 '내러티브'",
-      "url": "https://n.news.naver.com/article/030/0003487676?type=journalists",
-      "published_at": "2026-11-19T23:59:59+09:00",
-      "sent_at": "2026-11-19T16:04:37.664356+09:00"
-    },
-    {
       "id": "95a25b048c93133ce10b2b70c0fff8aed5524a68b34d6888ca5ea5648317f2f4",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -809,7 +799,17 @@
       "url": "https://n.news.naver.com/article/030/0003490380?type=journalists",
       "published_at": "2026-11-26T23:59:59+09:00",
       "sent_at": "2026-11-26T15:55:28.135971+09:00"
+    },
+    {
+      "id": "1250d76eaca821bd2e3ba75287072beaa301dd84eda613882f42e5480966d8ae",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "넥슨재단, '개원 10주년' 넥슨어린이재활병원에 운영기금 전달",
+      "url": "https://n.news.naver.com/article/001/0016466176?type=journalists",
+      "published_at": "2026-11-26T23:59:59+09:00",
+      "sent_at": "2026-11-26T16:05:50.642615+09:00"
     }
   ],
-  "last_run_at": "2026-11-26T07:00:30.868148+00:00"
+  "last_run_at": "2026-11-26T07:05:35.020779+00:00"
 }
