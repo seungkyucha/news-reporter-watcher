@@ -789,7 +789,17 @@
       "url": "https://n.news.naver.com/article/030/0003490301?type=journalists",
       "published_at": "2026-11-26T14:13:09+09:00",
       "sent_at": "2026-11-26T14:23:13.599357+09:00"
+    },
+    {
+      "id": "2b87f8da6090fc1d132b72927079b530d38d4323cf2d78057a7c8119ac492b47",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "[ET톡] 지스타, 이럴 거면 차라리 없애자",
+      "url": "https://n.news.naver.com/article/030/0003490346?type=journalists",
+      "published_at": "2026-11-26T23:59:59+09:00",
+      "sent_at": "2026-11-26T15:24:18.156602+09:00"
     }
   ],
-  "last_run_at": "2026-11-26T06:18:59.679664+00:00"
+  "last_run_at": "2026-11-26T06:24:04.308683+00:00"
 }
