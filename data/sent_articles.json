@@ -799,7 +799,17 @@
       "url": "https://n.news.naver.com/article/030/0003490346?type=journalists",
       "published_at": "2026-11-26T23:59:59+09:00",
       "sent_at": "2026-11-26T15:24:18.156602+09:00"
+    },
+    {
+      "id": "c7115bee40f7b8f419197992458af29b1f97ec2a4bdd41d22ccbb28ca33e2c17",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "배틀그라운드 모바일, 튀르키예서 최상위 국제대회 개막",
+      "url": "https://n.news.naver.com/article/001/0016465963?type=journalists",
+      "published_at": "2026-11-26T23:59:59+09:00",
+      "sent_at": "2026-11-26T15:34:57.717873+09:00"
     }
   ],
-  "last_run_at": "2026-11-26T06:29:37.553947+00:00"
+  "last_run_at": "2026-11-26T06:34:42.525553+00:00"
 }
