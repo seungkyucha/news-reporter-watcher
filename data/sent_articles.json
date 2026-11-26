@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "c534e2e9e2825416e9b28d520eae132ff1000d67a0cc4760bcca18dc634a8398",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "extra_channels": [],
-      "title": "장현국 주식회사 원 대표 \"부산으로 본사 이전 결정\"",
-      "url": "https://n.news.naver.com/article/001/0016452070?type=journalists",
-      "published_at": "2026-11-19T23:59:59+09:00",
-      "sent_at": "2026-11-19T14:22:39.905794+09:00"
-    },
-    {
       "id": "3bfa6b09f631fbabe31649cb8ead907d1a76bcd964b19eed5f93d2ea1de4b65b",
       "reporter": "박정은",
       "press": "전자신문",
@@ -799,7 +789,27 @@
       "url": "https://n.news.naver.com/article/001/0016464993?type=journalists",
       "published_at": "2026-11-26T11:46:33+09:00",
       "sent_at": "2026-11-26T12:05:59.873900+09:00"
+    },
+    {
+      "id": "8d0772d718e1a4c2d81a62f0b4c197ab5b611681fcbb8eccdb4fddaf22549148",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "엠게임 '귀혼키우기', 출시 이틀 만에 양대 마켓 인기 1위",
+      "url": "https://n.news.naver.com/article/030/0003490302?type=journalists",
+      "published_at": "2026-11-26T23:59:59+09:00",
+      "sent_at": "2026-11-26T14:23:11.158939+09:00"
+    },
+    {
+      "id": "569b221026b684767d77d2e627e7ff930f20c673df309caec94d3e2c8613bbdd",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "아이언메이스, '다크 앤 다커' e스포츠 실험 확대... 경기게임대전 10만명 시청",
+      "url": "https://n.news.naver.com/article/030/0003490301?type=journalists",
+      "published_at": "2026-11-26T14:13:09+09:00",
+      "sent_at": "2026-11-26T14:23:13.599357+09:00"
     }
   ],
-  "last_run_at": "2026-11-26T05:17:52.262452+00:00"
+  "last_run_at": "2026-11-26T05:22:56.853383+00:00"
 }
