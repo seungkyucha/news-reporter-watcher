@@ -781,7 +781,17 @@
       "url": "https://n.news.naver.com/article/030/0003490752?type=journalists",
       "published_at": "2026-11-27T14:37:12+09:00",
       "sent_at": "2026-11-27T14:57:30.123206+09:00"
+    },
+    {
+      "id": "3bc0176dc63c2efbecf20c2e5c79e247b983905e59bbe06581afbefe60ada7b2",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "한편의 느와르 보는 듯…세가 '스트레인저 댄 헤븐' 해보니",
+      "url": "https://n.news.naver.com/article/001/0016467948?type=journalists",
+      "published_at": "2026-11-27T15:08:02+09:00",
+      "sent_at": "2026-11-27T15:22:56.393049+09:00"
     }
   ],
-  "last_run_at": "2026-11-27T06:17:46.600142+00:00"
+  "last_run_at": "2026-11-27T06:22:50.719623+00:00"
 }
