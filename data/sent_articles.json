@@ -751,7 +751,37 @@
       "url": "https://n.news.naver.com/article/001/0016467479?type=journalists",
       "published_at": "2026-11-27T23:59:59+09:00",
       "sent_at": "2026-11-27T11:49:33.349184+09:00"
+    },
+    {
+      "id": "bf4931c5e1f907eb6645e2a1261493f506c6cc9ae55631f67e21f9ced2ac8f99",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "라이엇게임즈, 12월 1~25일 '2026 LCK 사진전' 개최",
+      "url": "https://n.news.naver.com/article/030/0003490754?type=journalists",
+      "published_at": "2026-11-27T23:59:59+09:00",
+      "sent_at": "2026-11-27T14:57:24.254576+09:00"
+    },
+    {
+      "id": "a52237c771c7641769568e9cb21caa13841338ce13c1a8997b77645a4813e0e6",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "넵튠, BGMI 광고 운영으로 인도 애드테크 확장... 게임 트래픽 수익화 본격화",
+      "url": "https://n.news.naver.com/article/030/0003490753?type=journalists",
+      "published_at": "2026-11-27T14:38:19+09:00",
+      "sent_at": "2026-11-27T14:57:27.210872+09:00"
+    },
+    {
+      "id": "682961ee9d88f1459806e23f8da31fa43a192e1bcc538dbffea32b94786445e8",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "스마일게이트 퓨처랩, 비버롹스서 어린이 게임창작 체험 운영",
+      "url": "https://n.news.naver.com/article/030/0003490752?type=journalists",
+      "published_at": "2026-11-27T14:37:12+09:00",
+      "sent_at": "2026-11-27T14:57:30.123206+09:00"
     }
   ],
-  "last_run_at": "2026-11-27T05:52:05.284547+00:00"
+  "last_run_at": "2026-11-27T05:57:09.220856+00:00"
 }
