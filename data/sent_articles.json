@@ -791,7 +791,27 @@
       "url": "https://news.mtn.co.kr/article/2026112700011359623",
       "published_at": "Fri, 27 Nov 2026 00:22:00 +0900",
       "sent_at": "2026-11-27T00:23:20.383614+09:00"
+    },
+    {
+      "id": "a046eff6832fb522182622565b0669a250c3150e1c1a619ca540b00f493fc31a",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "아이템매니아, '템빨: 오버기어드' 출시 기념 거래 수수료 무료 이벤트",
+      "url": "https://n.news.naver.com/article/030/0003490620?type=journalists",
+      "published_at": "2026-11-27T23:59:59+09:00",
+      "sent_at": "2026-11-27T10:17:28.969182+09:00"
+    },
+    {
+      "id": "fa517accd8be5418fc31c27c9c3e754df5d0dd434cb1c30ec09da1403d7ff1f5",
+      "reporter": "박정은",
+      "press": "전자신문",
+      "extra_channels": [],
+      "title": "5민랩, 신작 '세계허구관리연맹: WPCA' 첫 알파 테스트 참가자 모집",
+      "url": "https://n.news.naver.com/article/030/0003490619?type=journalists",
+      "published_at": "2026-11-27T23:59:59+09:00",
+      "sent_at": "2026-11-27T10:17:41.899962+09:00"
     }
   ],
-  "last_run_at": "2026-11-27T01:12:09.934333+00:00"
+  "last_run_at": "2026-11-27T01:17:14.300563+00:00"
 }
