@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "b01728e38471e732860f57d20fd2c1415d17e1c5fb82acd7ea25e96a453a37be",
-      "reporter": "박정은",
-      "press": "전자신문",
-      "extra_channels": [],
-      "title": "게임업계 4개 협회 “한중 FTA 후속협상 타결 환영... 판호 예측가능성 높여야”",
-      "url": "https://n.news.naver.com/article/030/0003487952?type=journalists",
-      "published_at": "2026-11-20T23:59:59+09:00",
-      "sent_at": "2026-11-20T13:35:45.569159+09:00"
-    },
-    {
       "id": "b6d29386abfaa451c6a3f8d49a41a3d5634a8309d4dc726b9b32f2f58c6a9f19",
       "reporter": "박정은",
       "press": "전자신문",
@@ -813,5 +803,5 @@
       "sent_at": "2026-11-27T11:49:33.349184+09:00"
     }
   ],
-  "last_run_at": "2026-11-27T04:30:57.017034+00:00"
+  "last_run_at": "2026-11-27T04:36:01.136627+00:00"
 }
