@@ -821,7 +821,17 @@
       "url": "https://n.news.naver.com/article/001/0016467161?type=journalists",
       "published_at": "2026-11-27T10:05:56+09:00",
       "sent_at": "2026-11-27T10:22:51.059810+09:00"
+    },
+    {
+      "id": "3e8ae6212cfdb3af03464503f4c5b320e2136227f81a4f2728ac782fd367d0a1",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "스마일게이트, '데드 어카운트' 게임 동남아서 사전 출시",
+      "url": "https://n.news.naver.com/article/001/0016467479?type=journalists",
+      "published_at": "2026-11-27T23:59:59+09:00",
+      "sent_at": "2026-11-27T11:49:33.349184+09:00"
     }
   ],
-  "last_run_at": "2026-11-27T02:44:12.232938+00:00"
+  "last_run_at": "2026-11-27T02:49:17.671522+00:00"
 }
