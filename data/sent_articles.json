@@ -811,7 +811,17 @@
       "url": "https://n.news.naver.com/article/030/0003490619?type=journalists",
       "published_at": "2026-11-27T23:59:59+09:00",
       "sent_at": "2026-11-27T10:17:41.899962+09:00"
+    },
+    {
+      "id": "f810864fe2f0fcb2f1d43f8ea4f0946bb88017df4a45309b290e097ff5a733a2",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "[게임스냅] 게임업계, 연말 앞두고 블랙 프라이데이 기념 세일",
+      "url": "https://n.news.naver.com/article/001/0016467161?type=journalists",
+      "published_at": "2026-11-27T10:05:56+09:00",
+      "sent_at": "2026-11-27T10:22:51.059810+09:00"
     }
   ],
-  "last_run_at": "2026-11-27T01:17:14.300563+00:00"
+  "last_run_at": "2026-11-27T01:22:45.368044+00:00"
 }
