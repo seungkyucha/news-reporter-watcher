@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "c69ab3b9d3bc46424bbd01eb69b5f293df243cc98bcfe8eb68d4ff309a9e67ab",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "extra_channels": [],
-      "title": "[게임위드인] AI로 외연 확장 노린 지스타…관람객은 게임에 몰렸다",
-      "url": "https://n.news.naver.com/article/001/0016455653?type=journalists",
-      "published_at": "2026-11-21T11:00:01+09:00",
-      "sent_at": "2026-11-21T11:15:36.547728+09:00"
-    },
-    {
       "id": "89a442928caf826ec2026ff623aa56ad7932cb2d6a6d26bd48b714c99af619b4",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -731,7 +721,17 @@
       "url": "https://n.news.naver.com/article/001/0016467948?type=journalists",
       "published_at": "2026-11-27T15:08:02+09:00",
       "sent_at": "2026-11-27T15:22:56.393049+09:00"
+    },
+    {
+      "id": "a86297908d938ba263293a20554be94830ee422cb5bdd9e48b8c52c5e0669552",
+      "reporter": "김주환",
+      "press": "연합뉴스",
+      "extra_channels": [],
+      "title": "[게임위드인] 'GTA 6'가 몰입의 경험을 만들어낸 비법은",
+      "url": "https://n.news.naver.com/article/001/0016468719?type=journalists",
+      "published_at": "2026-11-28T11:00:00+09:00",
+      "sent_at": "2026-11-28T11:15:58.622645+09:00"
     }
   ],
-  "last_run_at": "2026-11-28T02:10:49.045019+00:00"
+  "last_run_at": "2026-11-28T02:15:52.900513+00:00"
 }
