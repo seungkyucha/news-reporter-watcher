@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "2e6c93a4160ef2f6e27592f814d2c6b9221c74bf3da16053219efbea71ee8fa9",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "extra_channels": [],
-      "title": "GTA 6, 출시 첫날 매출 5조원…3천250만장 팔려",
-      "url": "https://n.news.naver.com/article/001/0016455770?type=journalists",
-      "published_at": "2026-11-21T14:47:07+09:00",
-      "sent_at": "2026-11-21T15:04:14.115003+09:00"
-    },
-    {
       "id": "138a4c866b86282e9e2ba2efbb8e67b4a84172cc6526bbc95299931f3d121ac3",
       "reporter": "박정은",
       "press": "전자신문",
@@ -713,5 +703,5 @@
       "sent_at": "2026-11-28T11:15:58.622645+09:00"
     }
   ],
-  "last_run_at": "2026-11-28T05:59:21.136705+00:00"
+  "last_run_at": "2026-11-28T06:04:25.293802+00:00"
 }
