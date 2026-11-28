@@ -1,16 +1,6 @@
 {
   "sent": [
     {
-      "id": "89a442928caf826ec2026ff623aa56ad7932cb2d6a6d26bd48b714c99af619b4",
-      "reporter": "김주환",
-      "press": "연합뉴스",
-      "extra_channels": [],
-      "title": "초겨울 추위에도 밤샘 대기…게임 열기 뜨거운 지스타 2026",
-      "url": "https://n.news.naver.com/article/001/0016455669?type=journalists",
-      "published_at": "2026-11-21T11:21:09+09:00",
-      "sent_at": "2026-11-21T11:35:55.902992+09:00"
-    },
-    {
       "id": "16f8dddadbb662d1562ed7b3c40f83cfc23487a29bb176ca7543d2f7dae5ef1c",
       "reporter": "김주환",
       "press": "연합뉴스",
@@ -733,5 +723,5 @@
       "sent_at": "2026-11-28T11:15:58.622645+09:00"
     }
   ],
-  "last_run_at": "2026-11-28T02:31:09.326270+00:00"
+  "last_run_at": "2026-11-28T02:36:13.649937+00:00"
 }
